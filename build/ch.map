@@ -1,0 +1,2451 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o (memcpy)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/vectors.o
+ .bss           0x00000000        0x0 build/obj/vectors.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtrace.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chfactory.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_adc.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial_usb.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_usb.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_isr.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_adc_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_usb_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/ch_test.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_root.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_001.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_002.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_003.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_004.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_005.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_006.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_007.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_008.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_009.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/rt_test_sequence_010.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/oslib_test_root.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/oslib_test_sequence_001.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/oslib_test_sequence_002.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/oslib_test_sequence_003.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/oslib_test_sequence_004.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/usbcfg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/adc_multi.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x08000000         0x00200000
+flash1           0x00200000         0x00200000
+flash2           0x00000000         0x00000000
+flash3           0x00000000         0x00000000
+flash4           0x00000000         0x00000000
+flash5           0x00000000         0x00000000
+flash6           0x00000000         0x00000000
+flash7           0x00000000         0x00000000
+ram0             0x20020000         0x00060000
+ram1             0x20020000         0x0005c000
+ram2             0x2007c000         0x00004000
+ram3             0x20000000         0x00020000
+ram4             0x00000000         0x00004000
+ram5             0x40024000         0x00001000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/vectors.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+LOAD C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+LOAD C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+LOAD C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+LOAD C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chtrace.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chfactory.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/hal_st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/hal_adc.o
+LOAD build/obj/hal_pal.o
+LOAD build/obj/hal_serial_usb.o
+LOAD build/obj/hal_usb.o
+LOAD build/obj/nvic.o
+LOAD build/obj/stm32_isr.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/hal_adc_lld.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_pal_lld.o
+LOAD build/obj/hal_usb_lld.o
+LOAD build/obj/hal_st_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/ch_test.o
+LOAD build/obj/rt_test_root.o
+LOAD build/obj/rt_test_sequence_001.o
+LOAD build/obj/rt_test_sequence_002.o
+LOAD build/obj/rt_test_sequence_003.o
+LOAD build/obj/rt_test_sequence_004.o
+LOAD build/obj/rt_test_sequence_005.o
+LOAD build/obj/rt_test_sequence_006.o
+LOAD build/obj/rt_test_sequence_007.o
+LOAD build/obj/rt_test_sequence_008.o
+LOAD build/obj/rt_test_sequence_009.o
+LOAD build/obj/rt_test_sequence_010.o
+LOAD build/obj/oslib_test_root.o
+LOAD build/obj/oslib_test_sequence_001.o
+LOAD build/obj/oslib_test_sequence_002.o
+LOAD build/obj/oslib_test_sequence_003.o
+LOAD build/obj/oslib_test_sequence_004.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/usbcfg.o
+LOAD build/obj/adc_multi.o
+LOAD build/obj/main.o
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.nocache        0x20000800        0x0
+                0x20000800                __nocache_base__ = .
+ *(.nocache)
+ *(.nocache.*)
+ *(.bss.__nocache_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __nocache_end__ = .
+
+.eth            0x20000800        0x0
+                0x20000800                __eth_base__ = .
+ *(.eth)
+ *(.eth.*)
+ *(.bss.__eth_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __eth_end__ = .
+
+.vectors        0x00200000      0x200 load address 0x08000000
+ *(.vectors)
+ .vectors       0x00200000      0x200 build/obj/vectors.o
+                0x00200000                _vectors
+
+.xtors          0x00200200        0x0 load address 0x08000200
+                0x00200200                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00200200                __init_array_end = .
+                0x00200200                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00200200                __fini_array_end = .
+
+.text           0x00200200     0x39ae load address 0x08000200
+ *(.text)
+ .text          0x00200200       0xd8 build/obj/crt0_v7m.o
+                0x00200200                _crt0_entry
+ .text          0x002002d8        0x8 build/obj/vectors.o
+                0x002002d8                Reset_Handler
+                0x002002da                VectorAC
+                0x002002da                DebugMon_Handler
+                0x002002da                Vector1A0
+                0x002002da                Vector11C
+                0x002002da                HardFault_Handler
+                0x002002da                Vector1B8
+                0x002002da                Vector1F0
+                0x002002da                Vector19C
+                0x002002da                Vector1EC
+                0x002002da                Vector8C
+                0x002002da                SysTick_Handler
+                0x002002da                VectorDC
+                0x002002da                PendSV_Handler
+                0x002002da                Vector168
+                0x002002da                NMI_Handler
+                0x002002da                Vector110
+                0x002002da                Vector1D8
+                0x002002da                Vector1F4
+                0x002002da                VectorC8
+                0x002002da                Vector94
+                0x002002da                VectorA8
+                0x002002da                VectorB4
+                0x002002da                Vector1FC
+                0x002002da                Vector160
+                0x002002da                Vector1B0
+                0x002002da                UsageFault_Handler
+                0x002002da                VectorEC
+                0x002002da                Vector40
+                0x002002da                VectorF8
+                0x002002da                Vector108
+                0x002002da                VectorBC
+                0x002002da                Vector190
+                0x002002da                Vector1E0
+                0x002002da                Vector1F8
+                0x002002da                Vector1C4
+                0x002002da                Vector1CC
+                0x002002da                Vector1E4
+                0x002002da                Vector148
+                0x002002da                Vector188
+                0x002002da                Vector198
+                0x002002da                Vector118
+                0x002002da                VectorE8
+                0x002002da                VectorCC
+                0x002002da                Vector54
+                0x002002da                Vector98
+                0x002002da                VectorD8
+                0x002002da                Vector138
+                0x002002da                Vector24
+                0x002002da                Vector1AC
+                0x002002da                Vector178
+                0x002002da                Vector1A4
+                0x002002da                VectorD0
+                0x002002da                Vector1B4
+                0x002002da                Vector140
+                0x002002da                VectorE4
+                0x002002da                VectorC0
+                0x002002da                Vector1C0
+                0x002002da                Vector134
+                0x002002da                Vector1D0
+                0x002002da                VectorF0
+                0x002002da                Vector13C
+                0x002002da                Vector100
+                0x002002da                VectorF4
+                0x002002da                MemManage_Handler
+                0x002002da                VectorA0
+                0x002002da                VectorC4
+                0x002002da                Vector180
+                0x002002da                Vector90
+                0x002002da                Vector114
+                0x002002da                Vector164
+                0x002002da                Vector1C
+                0x002002da                Vector1BC
+                0x002002da                Vector1D4
+                0x002002da                Vector17C
+                0x002002da                Vector48
+                0x002002da                Vector1A8
+                0x002002da                Vector16C
+                0x002002da                VectorD4
+                0x002002da                Vector4C
+                0x002002da                Vector144
+                0x002002da                Vector15C
+                0x002002da                Vector1E8
+                0x002002da                Vector18C
+                0x002002da                Vector170
+                0x002002da                Vector104
+                0x002002da                Vector184
+                0x002002da                Vector10C
+                0x002002da                BusFault_Handler
+                0x002002da                Vector50
+                0x002002da                Vector1C8
+                0x002002da                Vector194
+                0x002002da                Vector1DC
+                0x002002da                Vector44
+                0x002002da                Vector28
+                0x002002da                VectorB8
+                0x002002da                Vector34
+                0x002002da                VectorA4
+                0x002002da                Vector20
+                0x002002da                Vector174
+                0x002002dc                _unhandled_exception
+ .text          0x002002e0       0x28 build/obj/chcoreasm_v7m.o
+                0x002002e0                _port_switch
+                0x002002f0                _port_thread_start
+                0x00200300                _port_switch_from_isr
+                0x00200304                _port_exit_from_isr
+ *(.text.*)
+ *fill*         0x00200308        0x8 
+ .text.sduInterruptTransmitted
+                0x00200310        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200310                sduInterruptTransmitted
+ *fill*         0x00200314        0xc 
+ .text.sduRequestsHook
+                0x00200320       0x4c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200320                sduRequestsHook
+ *fill*         0x0020036c        0x4 
+ .text._ctl.lto_priv.58
+                0x00200370        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200370                _ctl.lto_priv.58
+ *fill*         0x00200374        0xc 
+ .text.chCoreAllocAlignedI.lto_priv.44
+                0x00200380       0x30 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200380                chCoreAllocAlignedI.lto_priv.44
+ .text.chCoreAllocAlignedWithOffset
+                0x002003b0       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002003b0                chCoreAllocAlignedWithOffset
+ *fill*         0x002003f4        0xc 
+ .text.wakeup   0x00200400       0x70 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text.chSchReadyI
+                0x00200470       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x0020049c        0x4 
+ .text._idle_thread.lto_priv.59
+                0x002004a0        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002004a0                _idle_thread.lto_priv.59
+ *fill*         0x002004a4        0xc 
+ .text._usb_ep0in
+                0x002004b0       0xd8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002004b0                _usb_ep0in
+ *fill*         0x00200588        0x8 
+ .text._usb_ep0setup
+                0x00200590      0x404 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200590                _usb_ep0setup
+ *fill*         0x00200994        0xc 
+ .text.chSchGoSleepS
+                0x002009a0       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x002009c8        0x8 
+ .text.chSchGoSleepTimeoutS
+                0x002009d0      0x11c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x00200aec        0x4 
+ .text.ibqGetFullBufferTimeoutS
+                0x00200af0       0x50 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text.ibqReadTimeout
+                0x00200b40      0x110 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text._readt.lto_priv.57
+                0x00200c50        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200c50                _readt.lto_priv.57
+ *fill*         0x00200c58        0x8 
+ .text._read.lto_priv.51
+                0x00200c60        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200c60                _read.lto_priv.51
+ *fill*         0x00200c6c        0x4 
+ .text.ibqGetTimeout
+                0x00200c70       0x60 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text._gett.lto_priv.55
+                0x00200cd0        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200cd0                _gett.lto_priv.55
+ *fill*         0x00200cd8        0x8 
+ .text._get.lto_priv.53
+                0x00200ce0        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200ce0                _get.lto_priv.53
+ *fill*         0x00200cec        0x4 
+ .text.obqGetEmptyBufferTimeoutS
+                0x00200cf0       0x50 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .text.obqWriteTimeout
+                0x00200d40      0x11c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x00200e5c        0x4 
+ .text._writet.lto_priv.56
+                0x00200e60        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200e60                _writet.lto_priv.56
+ *fill*         0x00200e68        0x8 
+ .text._write.lto_priv.50
+                0x00200e70        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200e70                _write.lto_priv.50
+ *fill*         0x00200e7c        0x4 
+ .text.obqPutTimeout
+                0x00200e80       0x64 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x00200ee4        0xc 
+ .text._putt.lto_priv.54
+                0x00200ef0        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200ef0                _putt.lto_priv.54
+ *fill*         0x00200ef8        0x8 
+ .text._put.lto_priv.52
+                0x00200f00        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200f00                _put.lto_priv.52
+ *fill*         0x00200f0c        0x4 
+ .text.usbStartTransmitI
+                0x00200f10       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200f10                usbStartTransmitI
+ *fill*         0x00200f3c        0x4 
+ .text.sdu_start_receive.lto_priv.61
+                0x00200f40       0x64 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200f40                sdu_start_receive.lto_priv.61
+ *fill*         0x00200fa4        0xc 
+ .text.ibnotify.lto_priv.42
+                0x00200fb0        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200fb0                ibnotify.lto_priv.42
+ *fill*         0x00200fb8        0x8 
+ .text.obqGetFullBufferI
+                0x00200fc0       0x1c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200fc0                obqGetFullBufferI
+ *fill*         0x00200fdc        0x4 
+ .text.obnotify.lto_priv.43
+                0x00200fe0       0x4c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00200fe0                obnotify.lto_priv.43
+ *fill*         0x0020102c        0x4 
+ .text._port_irq_epilogue
+                0x00201030       0x54 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201030                _port_irq_epilogue
+ *fill*         0x00201084        0xc 
+ .text.SVC_Handler
+                0x00201090       0x14 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201090                SVC_Handler
+ *fill*         0x002010a4        0xc 
+ .text.chEvtBroadcastFlagsI
+                0x002010b0       0x60 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002010b0                chEvtBroadcastFlagsI
+ .text.sduDataReceived
+                0x00201110       0x70 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201110                sduDataReceived
+ .text.sduDataTransmitted
+                0x00201180       0xb4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201180                sduDataTransmitted
+ *fill*         0x00201234        0xc 
+ .text.chTMStopMeasurementX
+                0x00201240       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201240                chTMStopMeasurementX
+ *fill*         0x00201284        0xc 
+ .text.chThdDequeueAllI
+                0x00201290       0x24 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201290                chThdDequeueAllI
+ *fill*         0x002012b4        0xc 
+ .text.chThdResumeI
+                0x002012c0       0x18 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002012c0                chThdResumeI
+ *fill*         0x002012d8        0x8 
+ .text.chThdSleep
+                0x002012e0       0x18 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002012e0                chThdSleep
+ *fill*         0x002012f8        0x8 
+ .text.chThdExit
+                0x00201300       0x50 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201300                chThdExit
+ .text.chSchDoReschedule
+                0x00201350       0x40 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201350                chSchDoReschedule
+ .text.chSysPolledDelayX
+                0x00201390       0x14 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201390                chSysPolledDelayX
+ *fill*         0x002013a4        0xc 
+ .text.usbInitEndpointI
+                0x002013b0      0x17c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002013b0                usbInitEndpointI
+ *fill*         0x0020152c        0x4 
+ .text.__init_ram_areas
+                0x00201530       0x60 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201530                __init_ram_areas
+ .text.__default_exit
+                0x00201590        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x00201590                __default_exit
+ *fill*         0x00201594        0xc 
+ .text.__late_init
+                0x002015a0        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002015a0                __late_init
+ *fill*         0x002015a4        0xc 
+ .text.__core_init
+                0x002015b0       0x84 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                0x002015b0                __core_init
+ *fill*         0x00201634        0xc 
+ .text._usb_ep0out
+                0x00201640       0x94 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ *fill*         0x002016d4        0xc 
+ .text.Vector14C
+                0x002016e0      0x410 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x002016e0                Vector14C
+ .text.Vector158
+                0x00201af0       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201af0                Vector158
+ *fill*         0x00201b1c        0x4 
+ .text.Vector154
+                0x00201b20       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201b20                Vector154
+ *fill*         0x00201b4c        0x4 
+ .text.Vector150
+                0x00201b50       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201b50                Vector150
+ *fill*         0x00201b7c        0x4 
+ .text.Vector130
+                0x00201b80       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201b80                Vector130
+ *fill*         0x00201ba8        0x8 
+ .text.Vector12C
+                0x00201bb0       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201bb0                Vector12C
+ *fill*         0x00201bdc        0x4 
+ .text.Vector128
+                0x00201be0       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201be0                Vector128
+ *fill*         0x00201c0c        0x4 
+ .text.Vector124
+                0x00201c10       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201c10                Vector124
+ *fill*         0x00201c3c        0x4 
+ .text.Vector120
+                0x00201c40       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201c40                Vector120
+ *fill*         0x00201c68        0x8 
+ .text.VectorFC
+                0x00201c70       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201c70                VectorFC
+ *fill*         0x00201c9c        0x4 
+ .text.Vector84
+                0x00201ca0       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201ca0                Vector84
+ *fill*         0x00201ccc        0x4 
+ .text.Vector80
+                0x00201cd0       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201cd0                Vector80
+ *fill*         0x00201cfc        0x4 
+ .text.Vector7C
+                0x00201d00       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201d00                Vector7C
+ *fill*         0x00201d28        0x8 
+ .text.Vector78
+                0x00201d30       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201d30                Vector78
+ *fill*         0x00201d5c        0x4 
+ .text.Vector74
+                0x00201d60       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201d60                Vector74
+ *fill*         0x00201d8c        0x4 
+ .text.Vector70
+                0x00201d90       0x2c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201d90                Vector70
+ *fill*         0x00201dbc        0x4 
+ .text.Vector6C
+                0x00201dc0       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201dc0                Vector6C
+ *fill*         0x00201de8        0x8 
+ .text.adc_lld_stop_conversion
+                0x00201df0       0x34 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201df0                adc_lld_stop_conversion
+ *fill*         0x00201e24        0xc 
+ .text.Vector88
+                0x00201e30      0x158 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201e30                Vector88
+ *fill*         0x00201f88        0x8 
+ .text.VectorE0
+                0x00201f90      0x11c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00201f90                VectorE0
+ *fill*         0x002020ac        0x4 
+ .text.Vector9C
+                0x002020b0       0xe8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x002020b0                Vector9C
+ *fill*         0x00202198        0x8 
+ .text.Vector68
+                0x002021a0       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x002021a0                Vector68
+ *fill*         0x002021e4        0xc 
+ .text.Vector64
+                0x002021f0       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x002021f0                Vector64
+ *fill*         0x00202234        0xc 
+ .text.Vector60
+                0x00202240       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00202240                Vector60
+ *fill*         0x00202284        0xc 
+ .text.Vector5C
+                0x00202290       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x00202290                Vector5C
+ *fill*         0x002022d4        0xc 
+ .text.Vector58
+                0x002022e0       0x40 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                0x002022e0                Vector58
+ .text.Thread1  0x00202320       0x60 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .text.startup.main
+                0x00202380      0x9c8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x00202380                main
+ *fill*         0x00202d48        0x8 
+ .text.adcerrorcallback
+                0x00202d50        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202d50                adcerrorcallback.lto_priv.49
+ *fill*         0x00202d54        0xc 
+ .text.adccallback.lto_priv.48
+                0x00202d60       0x6c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202d60                adccallback.lto_priv.48
+ *fill*         0x00202dcc        0x4 
+ .text.get_descriptor.lto_priv.46
+                0x00202dd0       0x34 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202dd0                get_descriptor.lto_priv.46
+ *fill*         0x00202e04        0xc 
+ .text.adc_lld_serve_rx_interrupt.lto_priv.41
+                0x00202e10       0xe0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202e10                adc_lld_serve_rx_interrupt.lto_priv.41
+ .text.sof_handler.lto_priv.47
+                0x00202ef0       0x90 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202ef0                sof_handler.lto_priv.47
+ .text.usb_event.lto_priv.45
+                0x00202f80       0xe0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00202f80                usb_event.lto_priv.45
+ .text.chprintf
+                0x00203060      0x3b0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00203060                chprintf
+ .text.__early_init
+                0x00203410      0x2b4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00203410                __early_init
+ *fill*         0x002036c4        0xc 
+ .text.VectorB0
+                0x002036d0       0xa0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x002036d0                VectorB0
+ .text.usb_lld_start_in
+                0x00203770       0xac C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00203770                usb_lld_start_in
+ *fill*         0x0020381c        0x4 
+ .text.usb_lld_start_out
+                0x00203820       0x84 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x00203820                usb_lld_start_out
+ *fill*         0x002038a4        0xc 
+ .text.chSchWakeupS.constprop.40
+                0x002038b0       0x5c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x002038b0                chSchWakeupS.constprop.40
+ *fill*         0x0020390c        0x4 
+ .text.chTMStartMeasurementX.constprop.35
+                0x00203910        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x00203910                chTMStartMeasurementX.constprop.35
+ *fill*         0x0020391c        0x4 
+ .text._pal_lld_setgroupmode.constprop.9
+                0x00203920       0x9c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x00203920                _pal_lld_setgroupmode.constprop.9
+ *fill*         0x002039bc        0x4 
+ .text.otg_txfifo_handler.constprop.7
+                0x002039c0       0xa4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x002039c0                otg_txfifo_handler.constprop.7
+ *fill*         0x00203a64        0xc 
+ .text.otg_epout_handler.constprop.4
+                0x00203a70       0xa0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x00203a70                otg_epout_handler.constprop.4
+ .text.otg_epin_handler.constprop.3
+                0x00203b10       0x88 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x00203b10                otg_epin_handler.constprop.3
+ .text.memcpy   0x00203b98       0x16 c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+                0x00203b98                memcpy
+ *(.glue_7t)
+ .glue_7t       0x00203bae        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00203bae        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x00203bb0        0x0 load address 0x08003bae
+ .vfp11_veneer  0x00203bb0        0x0 linker stubs
+
+.v4_bx          0x00203bb0        0x0 load address 0x08003bae
+ .v4_bx         0x00203bb0        0x0 linker stubs
+
+.iplt           0x00203bb0        0x0 load address 0x08003bae
+ .iplt          0x00203bb0        0x0 build/obj/crt0_v7m.o
+
+.rodata         0x08003bb0      0x3bc
+                0x08003bb0                . = ALIGN (0x4)
+                0x08003bb0                __rodata_base__ = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.active_status
+                0x08003bb0        0x2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x08003bb2        0x2 
+ .rodata.halted_status
+                0x08003bb4        0x2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x08003bb6        0x2 
+ .rodata.ram_areas
+                0x08003bb8       0x80 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .rodata.zero_status
+                0x08003c38        0x2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *fill*         0x08003c3a        0x2 
+ .rodata.ep0config
+                0x08003c3c       0x24 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .rodata.Thread1.str1.4
+                0x08003c60        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata._stm32_dma_streams
+                0x08003c68       0xc0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.adcgrpcfg1
+                0x08003d28       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.adcgrpcfg2
+                0x08003d50       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.adcgrpcfg3
+                0x08003d78       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.ch_debug
+                0x08003da0       0x16 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ *fill*         0x08003db6        0x2 
+ .rodata.fsparams
+                0x08003db8        0xc C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.main.str1.4
+                0x08003dc4       0x25 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ *fill*         0x08003de9        0x3 
+ .rodata.serusbcfg
+                0x08003dec        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.usbcfg
+                0x08003df4       0x10 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.vmt    0x08003e04       0x24 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .rodata.chprintf.str1.4
+                0x08003e28        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                  0x7 (size before relaxing)
+ .rodata.ep1config
+                0x08003e30       0x24 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.ep2config
+                0x08003e54       0x24 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_configuration_descriptor
+                0x08003e78        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_configuration_descriptor_data
+                0x08003e80       0x43 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ *fill*         0x08003ec3        0x1 
+ .rodata.vcom_device_descriptor
+                0x08003ec4        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_device_descriptor_data
+                0x08003ecc       0x12 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ *fill*         0x08003ede        0x2 
+ .rodata.vcom_string0
+                0x08003ee0        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_string1
+                0x08003ee4       0x26 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ *fill*         0x08003f0a        0x2 
+ .rodata.vcom_string2
+                0x08003f0c       0x38 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_string3
+                0x08003f44        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .rodata.vcom_strings
+                0x08003f4c       0x20 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                0x08003f6c                . = ALIGN (0x4)
+                0x08003f6c                __rodata_end__ = .
+
+.rel.dyn        0x08003f6c        0x0
+ .rel.iplt      0x08003f6c        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00203bae        0x0 load address 0x08003f6c
+                0x00203bae                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00203bae                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+                0x20020000                __ram0_start__ = ORIGIN (ram0)
+                0x00060000                __ram0_size__ = LENGTH (ram0)
+                0x20080000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x20020000                __ram1_start__ = ORIGIN (ram1)
+                0x0005c000                __ram1_size__ = LENGTH (ram1)
+                0x2007c000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x2007c000                __ram2_start__ = ORIGIN (ram2)
+                0x00004000                __ram2_size__ = LENGTH (ram2)
+                0x20080000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x20000000                __ram3_start__ = ORIGIN (ram3)
+                0x00020000                __ram3_size__ = LENGTH (ram3)
+                0x20020000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x00000000                __ram4_start__ = ORIGIN (ram4)
+                0x00004000                __ram4_size__ = LENGTH (ram4)
+                0x00004000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x40024000                __ram5_start__ = ORIGIN (ram5)
+                0x00001000                __ram5_size__ = LENGTH (ram5)
+                0x40025000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = LENGTH (ram6)
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = LENGTH (ram7)
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+
+.data           0x20020000        0x8 load address 0x08003f6c
+                0x20020000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (_textdata, LOADADDR (.data))
+                [!provide]                PROVIDE (_data, .)
+                0x08003f6c                _textdata_start = LOADADDR (.data)
+                0x20020000                _data_start = .
+ *(.data)
+ *(.data.*)
+ .data.linecoding
+                0x20020000        0x7 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ *(.ramtext)
+                0x20020008                . = ALIGN (0x4)
+ *fill*         0x20020007        0x1 
+                [!provide]                PROVIDE (_edata, .)
+                0x20020008                _data_end = .
+
+.igot.plt       0x20020008        0x0 load address 0x08003f74
+ .igot.plt      0x20020008        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000800      0xb18
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.ep0_state
+                0x20000800       0x10 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .bss.ep0setup_buffer
+                0x20000810        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .bss.ADCD1     0x20000818       0x34 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000818                ADCD1
+ .bss.ADCD2     0x2000084c       0x34 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x2000084c                ADCD2
+ .bss.ADCD3     0x20000880       0x34 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000880                ADCD3
+ .bss.SDU1      0x200008b4      0x490 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x200008b4                SDU1
+ .bss._pal_events
+                0x20000d44      0x100 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000d44                _pal_events
+ .bss.avg_PC1   0x20000e44        0x2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000e44                avg_PC1
+ *fill*         0x20000e46        0x2 
+ .bss.ch_factory
+                0x20000e48       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ *fill*         0x20000e8c        0x4 
+ .bss.ch_idle_thread_wa
+                0x20000e90       0xd8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .bss.ch_memcore
+                0x20000f68        0x8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000f68                ch_memcore
+ .bss.default_heap
+                0x20000f70       0x1c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .bss.dma_isr_redir.lto_priv.62
+                0x20000f8c       0x80 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20000f8c                dma_isr_redir.lto_priv.62
+ .bss.dma_streams_mask
+                0x2000100c        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .bss.nx        0x20001010        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20001010                nx
+ .bss.samples.lto_priv.60
+                0x20001014       0x90 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                0x20001014                samples.lto_priv.60
+ *fill*         0x200010a4        0x4 
+ .bss.waThread1
+                0x200010a8      0x148 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .bss.ep1instate
+                0x200011f0       0x10 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss.ep1outstate
+                0x20001200       0x10 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss.ep2instate
+                0x20001210       0x10 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss.ny        0x20001220        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss.nz        0x20001224        0x4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .bss.USBD1     0x20001228       0x78 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x20001228                USBD1
+ .bss.ch        0x200012a0       0x78 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                0x200012a0                ch
+ *(COMMON)
+                0x20001318                . = ALIGN (0x4)
+                0x20001318                _bss_end = .
+                [!provide]                PROVIDE (end, .)
+
+.ram0_init      0x20020008        0x0 load address 0x08003f74
+                0x20020008                . = ALIGN (0x4)
+                0x08003f74                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x20020008                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x20020008                . = ALIGN (0x4)
+
+.ram0           0x20020008        0x0 load address 0x08003f74
+                0x20020008                . = ALIGN (0x4)
+                0x20020008                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x20020008                . = ALIGN (0x4)
+                0x20020008                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x20020008                . = ALIGN (0x4)
+                0x20020008                __ram0_free__ = .
+
+.ram1_init      0x20020000        0x0 load address 0x08003f74
+                0x20020000                . = ALIGN (0x4)
+                0x08003f74                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x20020000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x20020000                . = ALIGN (0x4)
+
+.ram1           0x20020000        0x0 load address 0x08003f74
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_free__ = .
+
+.ram2_init      0x2007c000        0x0 load address 0x08003f74
+                0x2007c000                . = ALIGN (0x4)
+                0x08003f74                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x2007c000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x2007c000                . = ALIGN (0x4)
+
+.ram2           0x2007c000        0x0 load address 0x08003f74
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_free__ = .
+
+.ram3_init      0x20001318        0x0 load address 0x08003f74
+                0x20001318                . = ALIGN (0x4)
+                0x08003f74                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x20001318                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x20001318                . = ALIGN (0x4)
+
+.ram3           0x20001318        0x0 load address 0x08003f74
+                0x20001318                . = ALIGN (0x4)
+                0x20001318                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x20001318                . = ALIGN (0x4)
+                0x20001318                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x20001318                . = ALIGN (0x4)
+                0x20001318                __ram3_free__ = .
+
+.ram4_init      0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x08003f74                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x00000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram4           0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_free__ = .
+
+.ram5_init      0x40024000        0x0 load address 0x08003f74
+                0x40024000                . = ALIGN (0x4)
+                0x08003f74                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x40024000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x40024000                . = ALIGN (0x4)
+
+.ram5           0x40024000        0x0 load address 0x08003f74
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x08003f74                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x08003f74                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x08003f74
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x20020008    0x5fff8
+                0x20020008                . = ALIGN (0x8)
+                0x20020008                __heap_base__ = .
+                0x20080000                . = (ORIGIN (HEAP_RAM) + LENGTH (HEAP_RAM))
+ *fill*         0x20020008    0x5fff8 
+                0x20080000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7e-m\libgcc.a
+LOAD c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/vectors.o
+ .ARM.attributes
+                0x00000042       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000063       0x31 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000094       0x31 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000c5       0x31 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000f6       0x31 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000127       0x31 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000158       0x2e c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+
+.comment        0x00000000       0x7c
+ .comment       0x00000000       0x7c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                 0x7d (size before relaxing)
+ .comment       0x0000007c       0x7d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .comment       0x0000007c       0x7d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .comment       0x0000007c       0x7d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .comment       0x0000007c       0x7d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_line     0x00000000     0x3e0f
+ .debug_line    0x00000000       0xc5 build/obj/crt0_v7m.o
+ .debug_line    0x000000c5       0x6f build/obj/vectors.o
+ .debug_line    0x00000134       0x80 build/obj/chcoreasm_v7m.o
+ .debug_line    0x000001b4     0x138e C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_line    0x00001542      0xaae C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_line    0x00001ff0      0xed5 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_line    0x00002ec5      0xa3e C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_line    0x00003903      0x50c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_info     0x00000000    0x10c04
+ .debug_info    0x00000000       0x94 build/obj/crt0_v7m.o
+ .debug_info    0x00000094       0x93 build/obj/vectors.o
+ .debug_info    0x00000127       0x97 build/obj/chcoreasm_v7m.o
+ .debug_info    0x000001be     0x57e5 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_info    0x000059a3     0x34ab C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_info    0x00008e4e     0x369e C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_info    0x0000c4ec     0x2f07 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_info    0x0000f3f3     0x1811 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_abbrev   0x00000000     0x1933
+ .debug_abbrev  0x00000000       0x14 build/obj/crt0_v7m.o
+ .debug_abbrev  0x00000014       0x14 build/obj/vectors.o
+ .debug_abbrev  0x00000028       0x14 build/obj/chcoreasm_v7m.o
+ .debug_abbrev  0x0000003c      0x708 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_abbrev  0x00000744      0x3f7 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_abbrev  0x00000b3b      0x48f C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_abbrev  0x00000fca      0x5d2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_abbrev  0x0000159c      0x397 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_aranges  0x00000000      0x3c0
+ .debug_aranges
+                0x00000000       0x20 build/obj/crt0_v7m.o
+ .debug_aranges
+                0x00000020       0x20 build/obj/vectors.o
+ .debug_aranges
+                0x00000040       0x20 build/obj/chcoreasm_v7m.o
+ .debug_aranges
+                0x00000060      0x198 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_aranges
+                0x000001f8       0xf0 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_aranges
+                0x000002e8       0x28 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000310       0x68 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_aranges
+                0x00000378       0x48 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_loc      0x00000000     0x5934
+ .debug_loc     0x00000000     0x27c9 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_loc     0x000027c9      0xdf2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_loc     0x000035bb      0x93e C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_loc     0x00003ef9     0x15ce C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_loc     0x000054c7      0x46d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_ranges   0x00000000     0x1ff8
+ .debug_ranges  0x00000000      0xa20 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_ranges  0x00000a20      0x238 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_ranges  0x00000c58      0xd98 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_ranges  0x000019f0      0x4e8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_ranges  0x00001ed8      0x120 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+
+.debug_str      0x00000000     0x293d
+ .debug_str     0x00000000     0x1766 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                               0x1890 (size before relaxing)
+ .debug_str     0x00001766      0x404 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                0xf49 (size before relaxing)
+ .debug_str     0x00001b6a      0x74d C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                               0x1652 (size before relaxing)
+ .debug_str     0x000022b7      0x3e4 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                               0x13ca (size before relaxing)
+ .debug_str     0x0000269b      0x2a2 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                0xe26 (size before relaxing)
+
+.debug_frame    0x00000000      0xb9c
+ .debug_frame   0x00000000      0x51c C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+ .debug_frame   0x0000051c      0x364 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+ .debug_frame   0x00000880       0x44 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ .debug_frame   0x000008c4      0x1c8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ .debug_frame   0x00000a8c       0xe8 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+ .debug_frame   0x00000b74       0x28 c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADCD1                                             C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/adc_multi.o (symbol from plugin)
+ADCD2                                             C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/adc_multi.o (symbol from plugin)
+ADCD3                                             C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/adc_multi.o (symbol from plugin)
+BusFault_Handler                                  build/obj/vectors.o
+DebugMon_Handler                                  build/obj/vectors.o
+HardFault_Handler                                 build/obj/vectors.o
+MemManage_Handler                                 build/obj/vectors.o
+NMI_Handler                                       build/obj/vectors.o
+PC1_mV                                            build/obj/main.o (symbol from plugin)
+PC2_mV                                            build/obj/main.o (symbol from plugin)
+PC3_mV                                            build/obj/main.o (symbol from plugin)
+PC4_mV                                            build/obj/main.o (symbol from plugin)
+PendSV_Handler                                    build/obj/vectors.o
+Reset_Handler                                     build/obj/vectors.o
+SDU1                                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SVC_Handler                                       C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o
+SysTick_Handler                                   build/obj/vectors.o
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+USBD1                                             C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+UsageFault_Handler                                build/obj/vectors.o
+Vector100                                         build/obj/vectors.o
+Vector104                                         build/obj/vectors.o
+Vector108                                         build/obj/vectors.o
+Vector10C                                         build/obj/vectors.o
+Vector110                                         build/obj/vectors.o
+Vector114                                         build/obj/vectors.o
+Vector118                                         build/obj/vectors.o
+Vector11C                                         build/obj/vectors.o
+Vector120                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector124                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector128                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector12C                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector130                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector134                                         build/obj/vectors.o
+Vector138                                         build/obj/vectors.o
+Vector13C                                         build/obj/vectors.o
+Vector140                                         build/obj/vectors.o
+Vector144                                         build/obj/vectors.o
+Vector148                                         build/obj/vectors.o
+Vector14C                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector150                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector154                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector158                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector15C                                         build/obj/vectors.o
+Vector160                                         build/obj/vectors.o
+Vector164                                         build/obj/vectors.o
+Vector168                                         build/obj/vectors.o
+Vector16C                                         build/obj/vectors.o
+Vector170                                         build/obj/vectors.o
+Vector174                                         build/obj/vectors.o
+Vector178                                         build/obj/vectors.o
+Vector17C                                         build/obj/vectors.o
+Vector180                                         build/obj/vectors.o
+Vector184                                         build/obj/vectors.o
+Vector188                                         build/obj/vectors.o
+Vector18C                                         build/obj/vectors.o
+Vector190                                         build/obj/vectors.o
+Vector194                                         build/obj/vectors.o
+Vector198                                         build/obj/vectors.o
+Vector19C                                         build/obj/vectors.o
+Vector1A0                                         build/obj/vectors.o
+Vector1A4                                         build/obj/vectors.o
+Vector1A8                                         build/obj/vectors.o
+Vector1AC                                         build/obj/vectors.o
+Vector1B0                                         build/obj/vectors.o
+Vector1B4                                         build/obj/vectors.o
+Vector1B8                                         build/obj/vectors.o
+Vector1BC                                         build/obj/vectors.o
+Vector1C                                          build/obj/vectors.o
+Vector1C0                                         build/obj/vectors.o
+Vector1C4                                         build/obj/vectors.o
+Vector1C8                                         build/obj/vectors.o
+Vector1CC                                         build/obj/vectors.o
+Vector1D0                                         build/obj/vectors.o
+Vector1D4                                         build/obj/vectors.o
+Vector1D8                                         build/obj/vectors.o
+Vector1DC                                         build/obj/vectors.o
+Vector1E0                                         build/obj/vectors.o
+Vector1E4                                         build/obj/vectors.o
+Vector1E8                                         build/obj/vectors.o
+Vector1EC                                         build/obj/vectors.o
+Vector1F0                                         build/obj/vectors.o
+Vector1F4                                         build/obj/vectors.o
+Vector1F8                                         build/obj/vectors.o
+Vector1FC                                         build/obj/vectors.o
+Vector20                                          build/obj/vectors.o
+Vector24                                          build/obj/vectors.o
+Vector28                                          build/obj/vectors.o
+Vector34                                          build/obj/vectors.o
+Vector40                                          build/obj/vectors.o
+Vector44                                          build/obj/vectors.o
+Vector48                                          build/obj/vectors.o
+Vector4C                                          build/obj/vectors.o
+Vector50                                          build/obj/vectors.o
+Vector54                                          build/obj/vectors.o
+Vector58                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector5C                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector60                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector64                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector68                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector6C                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector70                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector74                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector78                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector7C                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector80                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector84                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector88                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o
+Vector8C                                          build/obj/vectors.o
+Vector90                                          build/obj/vectors.o
+Vector94                                          build/obj/vectors.o
+Vector98                                          build/obj/vectors.o
+Vector9C                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+VectorA0                                          build/obj/vectors.o
+VectorA4                                          build/obj/vectors.o
+VectorA8                                          build/obj/vectors.o
+VectorAC                                          build/obj/vectors.o
+VectorB0                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o
+VectorB4                                          build/obj/vectors.o
+VectorB8                                          build/obj/vectors.o
+VectorBC                                          build/obj/vectors.o
+VectorC0                                          build/obj/vectors.o
+VectorC4                                          build/obj/vectors.o
+VectorC8                                          build/obj/vectors.o
+VectorCC                                          build/obj/vectors.o
+VectorD0                                          build/obj/vectors.o
+VectorD4                                          build/obj/vectors.o
+VectorD8                                          build/obj/vectors.o
+VectorDC                                          build/obj/vectors.o
+VectorE0                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o
+VectorE4                                          build/obj/vectors.o
+VectorE8                                          build/obj/vectors.o
+VectorEC                                          build/obj/vectors.o
+VectorF0                                          build/obj/vectors.o
+VectorF4                                          build/obj/vectors.o
+VectorF8                                          build/obj/vectors.o
+VectorFC                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o
+__core_init                                       C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__early_init                                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__heap_base__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__late_init                                       C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                build/obj/vectors.o
+                                                  build/obj/crt0_v7m.o
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_clear__                                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init__                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init_text__                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_noinit__                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_crt0_entry                                       build/obj/crt0_v7m.o
+                                                  build/obj/vectors.o
+_ctl.lto_priv.58                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_factory_init                                     build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_get.lto_priv.53                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_gett.lto_priv.55                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.lto_priv.59                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_pal_events                                       C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+_pal_lld_disablepadevent                          build/obj/hal_pal_lld.o (symbol from plugin)
+_pal_lld_enablepadevent                           build/obj/hal_pal_lld.o (symbol from plugin)
+_pal_lld_init                                     build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+_pal_lld_setgroupmode.constprop.9                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_put.lto_priv.52                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_putt.lto_priv.54                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_read.lto_priv.51                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_readt.lto_priv.57                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_stm32_dma_streams                                build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+_test_assert                                      build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+_test_assert_sequence                             build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+_test_assert_time_window                          build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+_test_fail                                        build/obj/ch_test.o (symbol from plugin)
+_textdata_start                                   build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              build/obj/vectors.o
+_usb_ep0in                                        C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_usb_ep0out                                       build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_usb_ep0setup                                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_usb_reset                                        build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_usb_suspend                                      build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_usb_wakeup                                       build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+_vectors                                          build/obj/vectors.o
+                                                  build/obj/crt0_v7m.o
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_write.lto_priv.50                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+_writet.lto_priv.56                               C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+adcAcquireBus                                     build/obj/hal_adc.o (symbol from plugin)
+adcConvert                                        build/obj/hal_adc.o (symbol from plugin)
+adcInit                                           build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+adcMultiStart                                     build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+adcMultiStartConversion                           build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+adcMultiStartConversionI                          build/obj/adc_multi.o (symbol from plugin)
+adcObjectInit                                     build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+adcReleaseBus                                     build/obj/hal_adc.o (symbol from plugin)
+adcSTM32DisableTSVREFE                            build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32DisableVBATE                              build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32EnableTSVREFE                             build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32EnableVBATE                               build/obj/hal_adc_lld.o (symbol from plugin)
+adcStart                                          build/obj/hal_adc.o (symbol from plugin)
+adcStartConversion                                build/obj/hal_adc.o (symbol from plugin)
+adcStartConversionI                               build/obj/hal_adc.o (symbol from plugin)
+adcStop                                           build/obj/hal_adc.o (symbol from plugin)
+adcStopConversion                                 build/obj/hal_adc.o (symbol from plugin)
+adcStopConversionI                                build/obj/hal_adc.o (symbol from plugin)
+adc_lld_init                                      build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_serve_rx_interrupt.lto_priv.41            C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+adc_lld_start                                     build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_start_conversion                          build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_stop                                      build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_stop_conversion                           C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_multi_lld_start                               build/obj/adc_multi.o (symbol from plugin)
+adc_multi_lld_start_conversion                    build/obj/adc_multi.o (symbol from plugin)
+adc_multi_lld_stop                                build/obj/adc_multi.o (symbol from plugin)
+adccallback.lto_priv.48                           C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+adcerrorcallback.lto_priv.49                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+avg_PC1                                           C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+avg_PC2                                           build/obj/main.o (symbol from plugin)
+avg_PC3                                           build/obj/main.o (symbol from plugin)
+avg_PC4                                           build/obj/main.o (symbol from plugin)
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAllocAlignedI.lto_priv.44                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+chCoreAllocAlignedWithOffset                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocAlignedWithOffsetI                     build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtBroadcastFlagsI                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtGetAndClearEventsI                           build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtSignalI                                      build/obj/chevents.o (symbol from plugin)
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+chFactoryCreateBuffer                             build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryCreateMailbox                            build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryCreateObjectsFIFO                        build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryCreateSemaphore                          build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryFindBuffer                               build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryFindMailbox                              build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryFindObject                               build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryFindObjectByPointer                      build/obj/chfactory.o (symbol from plugin)
+chFactoryFindObjectsFIFO                          build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryFindSemaphore                            build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryRegisterObject                           build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryReleaseBuffer                            build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryReleaseMailbox                           build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryReleaseObject                            build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryReleaseObjectsFIFO                       build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chFactoryReleaseSemaphore                         build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+chGuardedPoolAllocTimeout                         build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+chGuardedPoolAllocTimeoutS                        build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFree                                 build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+chGuardedPoolFreeI                                build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolLoadArray                            build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+chGuardedPoolObjectInitAligned                    build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+chHeapAllocAligned                                build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBFetchTimeout                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBFetchTimeoutS                                 build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBPostAheadTimeout                              build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBPostAheadTimeoutS                             build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBPostTimeout                                   build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBPostTimeoutS                                  build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+chMtxLock                                         build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+chMtxUnlockAllS                                   build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+chPoolObjectInitAligned                           build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+chRegFindThreadByName                             build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByPointer                          build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByWorkingArea                      build/obj/chregistry.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+chSchDoReschedule                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyAheadI                                  build/obj/chschd.o (symbol from plugin)
+chSchReadyI                                       build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchWakeupS.constprop.40                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/chfactory.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chsys.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.35                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+chTMStopMeasurementX                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+chThdAddRef                                       build/obj/chthreads.o (symbol from plugin)
+chThdCreate                                       build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+chThdCreateSuspended                              build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspendedI                             build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdDequeueAllI                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdExit                                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        build/obj/chthreads.o (symbol from plugin)
+chThdRelease                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+chThdSleep                                        C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+ch_factory                                        build/obj/chfactory.o (symbol from plugin)
+ch_idle_thread_wa                                 build/obj/chsys.o (symbol from plugin)
+ch_memcore                                        C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+chp                                               build/obj/usbcfg.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chprintf                                          C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/chprintf.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         build/obj/chprintf.o (symbol from plugin)
+dmaInit                                           build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_lld.o (symbol from plugin)
+dmaStreamAllocate                                 build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+dmaStreamRelease                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/adc_multi.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+dma_isr_redir.lto_priv.62                         C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+get_descriptor.lto_priv.46                        C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ibnotify.lto_priv.42                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+ibqGetEmptyBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+ibqGetFullBufferTimeout                           build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeoutS                          build/obj/hal_buffers.o (symbol from plugin)
+ibqGetTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+ibqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+ibqPostFullBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+ibqReadTimeout                                    build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+ibqReleaseEmptyBuffer                             build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBufferS                            build/obj/hal_buffers.o (symbol from plugin)
+ibqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+iqGetI                                            build/obj/hal_queues.o (symbol from plugin)
+iqGetTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+iqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+iqPutI                                            build/obj/hal_queues.o (symbol from plugin)
+iqReadI                                           build/obj/hal_queues.o (symbol from plugin)
+iqReadTimeout                                     build/obj/hal_queues.o (symbol from plugin)
+iqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+irqDeinit                                         build/obj/stm32_isr.o (symbol from plugin)
+irqInit                                           build/obj/stm32_isr.o (symbol from plugin)
+                                                  build/obj/hal_lld.o (symbol from plugin)
+main                                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+memcpy                                            c:/atollic/truestudio_for_stm32_9.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7e-m\libc.a(lib_a-memcpy-stub.o)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+msObjectInit                                      build/obj/chprintf.o (symbol from plugin)
+mysample                                          build/obj/main.o (symbol from plugin)
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/stm32_isr.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+nx                                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+ny                                                build/obj/main.o (symbol from plugin)
+nz                                                build/obj/main.o (symbol from plugin)
+obnotify.lto_priv.43                              C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+obqFlush                                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeout                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeoutS                         build/obj/hal_buffers.o (symbol from plugin)
+obqGetFullBufferI                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqPostFullBuffer                                 build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBufferS                                build/obj/hal_buffers.o (symbol from plugin)
+obqPutTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqReleaseEmptyBufferI                            build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqTryFlushI                                      build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+obqWriteTimeout                                   build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+oqGetI                                            build/obj/hal_queues.o (symbol from plugin)
+oqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+oqPutI                                            build/obj/hal_queues.o (symbol from plugin)
+oqPutTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+oqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+oqWriteI                                          build/obj/hal_queues.o (symbol from plugin)
+oqWriteTimeout                                    build/obj/hal_queues.o (symbol from plugin)
+oslib_test_sequence_001                           build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/oslib_test_root.o (symbol from plugin)
+oslib_test_sequence_001_array                     build/obj/oslib_test_sequence_001.o (symbol from plugin)
+oslib_test_sequence_002                           build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/oslib_test_root.o (symbol from plugin)
+oslib_test_sequence_002_array                     build/obj/oslib_test_sequence_002.o (symbol from plugin)
+oslib_test_sequence_003                           build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/oslib_test_root.o (symbol from plugin)
+oslib_test_sequence_003_array                     build/obj/oslib_test_sequence_003.o (symbol from plugin)
+oslib_test_sequence_004                           build/obj/oslib_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/oslib_test_root.o (symbol from plugin)
+oslib_test_sequence_004_array                     build/obj/oslib_test_sequence_004.o (symbol from plugin)
+oslib_test_suite                                  build/obj/oslib_test_root.o (symbol from plugin)
+oslib_test_suite_array                            build/obj/oslib_test_root.o (symbol from plugin)
+otg_epin_handler.constprop.3                      C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+otg_epout_handler.constprop.4                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+otg_txfifo_handler.constprop.7                    C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+palReadBus                                        build/obj/hal_pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/hal_pal.o (symbol from plugin)
+palSetLineCallbackI                               build/obj/hal_pal.o (symbol from plugin)
+palSetPadCallbackI                                build/obj/hal_pal.o (symbol from plugin)
+palWaitLineTimeoutS                               build/obj/hal_pal.o (symbol from plugin)
+palWaitPadTimeoutS                                build/obj/hal_pal.o (symbol from plugin)
+palWriteBus                                       build/obj/hal_pal.o (symbol from plugin)
+rt_test_sequence_001                              build/obj/rt_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_001_array                        build/obj/rt_test_sequence_001.o (symbol from plugin)
+rt_test_sequence_002                              build/obj/rt_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_002_array                        build/obj/rt_test_sequence_002.o (symbol from plugin)
+rt_test_sequence_003                              build/obj/rt_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_003_array                        build/obj/rt_test_sequence_003.o (symbol from plugin)
+rt_test_sequence_004                              build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_004_array                        build/obj/rt_test_sequence_004.o (symbol from plugin)
+rt_test_sequence_005                              build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_005_array                        build/obj/rt_test_sequence_005.o (symbol from plugin)
+rt_test_sequence_006                              build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_006_array                        build/obj/rt_test_sequence_006.o (symbol from plugin)
+rt_test_sequence_007                              build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_007_array                        build/obj/rt_test_sequence_007.o (symbol from plugin)
+rt_test_sequence_008                              build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_008_array                        build/obj/rt_test_sequence_008.o (symbol from plugin)
+rt_test_sequence_009                              build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_009_array                        build/obj/rt_test_sequence_009.o (symbol from plugin)
+rt_test_sequence_010                              build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_root.o (symbol from plugin)
+rt_test_sequence_010_array                        build/obj/rt_test_sequence_010.o (symbol from plugin)
+rt_test_suite                                     build/obj/rt_test_root.o (symbol from plugin)
+rt_test_suite_array                               build/obj/rt_test_root.o (symbol from plugin)
+samples.lto_priv.60                               C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+sduConfigureHookI                                 build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduControl                                        build/obj/hal_serial_usb.o (symbol from plugin)
+sduDataReceived                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduDataTransmitted                                C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduInit                                           build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sduInterruptTransmitted                           C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduObjectInit                                     build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sduRequestsHook                                   C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduSOFHookI                                       build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduStart                                          build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sduStop                                           build/obj/hal_serial_usb.o (symbol from plugin)
+sduSuspendHookI                                   build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduWakeupHookI                                    build/obj/hal_serial_usb.o (symbol from plugin)
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sdu_start_receive.lto_priv.61                     C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+serusbcfg                                         build/obj/usbcfg.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sof_handler.lto_priv.47                           C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+stGetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stInit                                            build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+stStartAlarm                                      build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+stStopAlarm                                       build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+st_lld_init                                       build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_st.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
+test_buffer                                       build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+test_emit_token                                   build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+test_emit_token_i                                 build/obj/ch_test.o (symbol from plugin)
+test_execute                                      build/obj/ch_test.o (symbol from plugin)
+test_global_fail                                  build/obj/ch_test.o (symbol from plugin)
+test_print                                        build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_001.o (symbol from plugin)
+test_println                                      build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_001.o (symbol from plugin)
+test_printn                                       build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_001.o (symbol from plugin)
+test_step                                         build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/oslib_test_sequence_001.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_002.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_001.o (symbol from plugin)
+test_terminate_threads                            build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+test_wait_threads                                 build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+test_wait_tick                                    build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+threads                                           build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
+usbDisableEndpointsI                              build/obj/hal_usb.o (symbol from plugin)
+usbInit                                           build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+usbInitEndpointI                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+usbObjectInit                                     build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+usbStallReceiveI                                  build/obj/hal_usb.o (symbol from plugin)
+usbStallTransmitI                                 build/obj/hal_usb.o (symbol from plugin)
+usbStart                                          build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+usbStartReceiveI                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+usbStartTransmitI                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_serial_usb.o (symbol from plugin)
+usbStop                                           build/obj/hal_usb.o (symbol from plugin)
+usbWakeupHost                                     build/obj/hal_usb.o (symbol from plugin)
+usb_event.lto_priv.45                             C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans2.ltrans.o
+usb_lld_clear_in                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_clear_out                                 build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_disable_endpoints                         build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_get_status_in                             build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_get_status_out                            build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_init                                      build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_init_endpoint                             build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_read_setup                                build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_reset                                     build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_set_address                               build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_stall_in                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_stall_out                                 build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_start                                     build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_start_in                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans1.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_start_out                                 C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans3.ltrans.o
+                                                  build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans4.ltrans.o
+                                                  C:\Users\kiekensk\AppData\Local\Temp\cc3nT9AL.ltrans0.ltrans.o
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usb_lld_stop                                      build/obj/hal_usb_lld.o (symbol from plugin)
+                                                  build/obj/hal_usb.o (symbol from plugin)
+usbcfg                                            build/obj/usbcfg.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+wa                                                build/obj/rt_test_root.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_010.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_009.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_008.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_007.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_006.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_005.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_004.o (symbol from plugin)
+                                                  build/obj/rt_test_sequence_003.o (symbol from plugin)
