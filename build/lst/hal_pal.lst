@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 1
 
 
    1              		.cpu cortex-m7
@@ -14,14 +14,14 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   11              		.file	"hal_pal.c"
   12              		.text
   13              	.Ltext0:
-  14              		.section	.gnu.lto_.profile.abe4355,"",%progbits
+  14              		.section	.gnu.lto_.profile.2e80f7d6,"",%progbits
   15 0000 789C6365 		.ascii	"x\234ce`b`a```d\010\320\003\000\001N\000\213"
   15      60626061 
   15      60606064 
   15      08D00300 
   15      014E008B 
   16              		.text
-  17              		.section	.gnu.lto_.icf.abe4355,"",%progbits
+  17              		.section	.gnu.lto_.icf.2e80f7d6,"",%progbits
   18 0000 789C6365 		.ascii	"x\234ce`b\320a@\000v\206\343\227n\235fc\334\276\377"
   18      6062D061 
   18      40007686 
@@ -39,7 +39,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   21 003a 000C7316 		.ascii	"\000\014s\026|"
   21      7C
   22              		.text
-  23              		.section	.gnu.lto_.jmpfuncs.abe4355,"",%progbits
+  23              		.section	.gnu.lto_.jmpfuncs.2e80f7d6,"",%progbits
   24 0000 789C458C 		.ascii	"x\234E\214;\016\3000\010CmC\310\326\003\366&\235|\365"
   24      3B0EC030 
   24      08436D43 
@@ -58,11 +58,11 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   27 003a 764E35BF 		.ascii	"vN5\277\036^\234\345\010B"
   27      1E5E9CE5 
   27      0842
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 2
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 2
 
 
   28              		.text
-  29              		.section	.gnu.lto_.inline.abe4355,"",%progbits
+  29              		.section	.gnu.lto_.inline.2e80f7d6,"",%progbits
   30 0000 789C8D8F 		.ascii	"x\234\215\217\315\015\3020\014\205\237\235\337\252*"
   30      CD0DC230 
   30      0C859F9D 
@@ -113,19 +113,19 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   40      00A0AE2B 
   40      20
   41              		.text
-  42              		.section	.gnu.lto_.pureconst.abe4355,"",%progbits
+  42              		.section	.gnu.lto_.pureconst.2e80f7d6,"",%progbits
   43 0000 789C6365 		.ascii	"x\234ce`b\340g```g\220b\224b\222d\226b\225b\223`\227"
   43      6062E067 
   43      60606067 
   43      90629462 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 3
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 3
 
 
   43      92649662 
   44 0019 0000079F 		.ascii	"\000\000\007\237\000\347"
   44      00E7
   45              		.text
-  46              		.section	.gnu.lto_palReadBus.abe4355,"",%progbits
+  46              		.section	.gnu.lto_palReadBus.2e80f7d6,"",%progbits
   47 0000 789C9591 		.ascii	"x\234\225\221MO\024A\020\206\353\355\232\235\231\225"
   47      4D4F1441 
   47      1086EBED 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   57      CDB63B61 
   57      C6
   58 00c1 1B706BA3 		.ascii	"\033pk\243\034\021\336\242G\353\277o\234?\357\360\275"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 4
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 4
 
 
   58      1C11DEA2 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   69      EF2003DD 
   69      CAE7A3F4 
   69      BB5B8C86 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 5
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 5
 
 
   69      FA
@@ -249,7 +249,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   71 01b1 E23F7577 		.ascii	"\342?uw\307\364"
   71      C7F4
   72              		.text
-  73              		.section	.gnu.lto_palWriteBus.abe4355,"",%progbits
+  73              		.section	.gnu.lto_palWriteBus.2e80f7d6,"",%progbits
   74 0000 789C9553 		.ascii	"x\234\225SKk\023Q\024\276\337\234\311<\222\211\272\024"
   74      4B6B1351 
   74      14BEDF9C 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   83 00a9 2A4407A0 		.ascii	"*D\007\240\370\374\356\375\207\272\223\231\014\202R"
   83      F8FCEEFD 
   83      87BA9399 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 6
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 6
 
 
   83      0C8252
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
   95      D9117A12 
   95      0F34BA21 
   95      E80F63F4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 7
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 7
 
 
   96 0194 6A17DD8D 		.ascii	"j\027\335\215\321V\326\227\302\224\260bc\017\0361\014"
@@ -403,7 +403,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  104      5DD80432 
  104      440832
  105              		.text
- 106              		.section	.gnu.lto_palSetBusMode.abe4355,"",%progbits
+ 106              		.section	.gnu.lto_palSetBusMode.2e80f7d6,"",%progbits
  107 0000 789C9592 		.ascii	"x\234\225\222\315KTa\024\306\317\363\236;s\357\244\266"
  107      CD4B5461 
  107      14C6CFF3 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  109      35631868 
  109      203A290D 
  109      3790C1B4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 8
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 8
 
 
  109      FCCA0A
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  120      9827433C 
  121 010c 1FD7950F 		.ascii	"\037\327\225\017\307\242!\221\2533\017\330\350\314\373"
  121      C7A22191 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 9
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 9
 
 
  121      AB330FD8 
@@ -531,14 +531,14 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  131      3F7CF3C5 
  131      A4
  132              		.text
- 133              		.section	.gnu.lto_palSetPadCallbackI.abe4355,"",%progbits
+ 133              		.section	.gnu.lto_palSetPadCallbackI.2e80f7d6,"",%progbits
  134 0000 789C8D92 		.ascii	"x\234\215\222\335KTA\030\306\3479\357\356\331uI\003"
  134      DD4B5441 
  134      18C6E739 
  134      EFEED975 
  134      4903
  135 0012 AF82C40C 		.ascii	"\257\202\304\0142S\320e\241?\242?\240\373\330,\352B"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 10
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 10
 
 
  135      3253D065 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  146      C2EDDD4E 
  146      97C09076 
  146      669E
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 11
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 11
 
 
  147 00ee 5C8EEDA5 		.ascii	"\\\216\355\245\012m\035\236h\333\334\343X\327\022\305"
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  158      A452AF28 
  158      30A2C2F3 
  158      A19536F9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 12
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 12
 
 
  158      300916
@@ -710,7 +710,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  169 0276 0126AB3D 		.ascii	"\001&\253=\262"
  169      B2
  170              		.text
- 171              		.section	.gnu.lto_palSetLineCallbackI.abe4355,"",%progbits
+ 171              		.section	.gnu.lto_palSetLineCallbackI.2e80f7d6,"",%progbits
  172 0000 789C8D92 		.ascii	"x\234\215\222\337KTA\024\307\347;s\367\356UJ_\205D\014"
  172      DF4B5441 
  172      14C7E73B 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  172      4A5F8544 
  173 0015 3251D0CD 		.ascii	"2Q\320\315\377\245\3670\221\012\244D\337\335i\325\265"
  173      FFA5F730 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 13
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 13
 
 
  173      910AA444 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  185      B1AE3E1B 
  185      3A99762E 
  185      E674EB84 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 14
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 14
 
 
  185      E52A0F
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  196      EF9B0D95 
  196      B8
  197 01c7 2A137741 		.ascii	"*\023wAB\002N9;\033V:$EcA\035gk\006e\214&\020\203\237"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 15
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 15
 
 
  197      42024E39 
@@ -885,7 +885,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  206      3F0144DB 
  206      38A4
  207              		.text
- 208              		.section	.gnu.lto_palWaitPadTimeoutS.abe4355,"",%progbits
+ 208              		.section	.gnu.lto_palWaitPadTimeoutS.2e80f7d6,"",%progbits
  209 0000 789C8D52 		.ascii	"x\234\215R\355KSa\024\177\316=wo\332F\370)J\324 \023"
  209      ED4B5361 
  209      147FCE3D 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  210      BADBDC
  211 0029 5C1A58E1 		.ascii	"\\\032X\341l.\225+Ji/n\232e\256r\316\027\"('\005R`\331"
  211      6C2E952B 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 16
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 16
 
 
  211      4A692F6E 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  222      0091AD64 
  222      83802814 
  222      31E3FCF5 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 17
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 17
 
 
  223 0113 E1560B1E 		.ascii	"\341V\013\036\224\354\371\225\321)Ka\267d\317E\362."
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  234 01e9 92A9CEF8 		.ascii	"\222\251\316\370\177\352\036\220\272\330\277\325=\334"
  234      7FEA1E90 
  234      BAD8BFD5 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 18
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 18
 
 
  234      3DDC
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  246      3C4BE70A 
  246      17BACFB8 
  246      F2B7F2
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 19
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 19
 
 
  247 02c9 9C35F4A9 		.ascii	"\2345\364\251v\313\335^)\376\000#?l#"
@@ -1086,7 +1086,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  247      29FE0023 
  247      3F6C23
  248              		.text
- 249              		.section	.gnu.lto_palWaitLineTimeoutS.abe4355,"",%progbits
+ 249              		.section	.gnu.lto_palWaitLineTimeoutS.2e80f7d6,"",%progbits
  250 0000 789C8D52 		.ascii	"x\234\215RKO\023Q\024\276g\316t\332\"\214\211\356\224"
  250      4B4F1351 
  250      14BE67CE 
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  260      137EC0C3 
  260      20E8EC8E 
  260      C5E3D985 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 20
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 20
 
 
  261 00bf 7735CDAD 		.ascii	"w5\315\255E\027ZP;\242#\302\003\300L\"\375\022\360\020"
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  272      33F3AD46 
  272      AA
  273 0191 91C8F739 		.ascii	"\221\310\3679\263kS#\240\265\013S\371,O\277}\231\245"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 21
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 21
 
 
  273      B36B5323 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  284      765EA3D9 
  284      CD03
  285 0264 2A43388C 		.ascii	"*C8\2141}A\204\214\311\0240A=\0200\311eV\266\3275'\210"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 22
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 22
 
 
  285      317D4184 
@@ -1289,7 +1289,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  290      2AC41FC3 
  290      216629
  291              		.text
- 292              		.section	.gnu.lto_.symbol_nodes.abe4355,"",%progbits
+ 292              		.section	.gnu.lto_.symbol_nodes.2e80f7d6,"",%progbits
  293 0000 789C55CC 		.ascii	"x\234U\314\311\015\203@\020D\321\232\032\017K\026\204"
  293      C90D8340 
  293      1044D19A 
@@ -1318,13 +1318,13 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  298      222BF49F 
  298      3DC4A2C6 
  298      78B4ACF1 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 23
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 23
 
 
  299 0069 B5E207FC 		.ascii	"\265\342\007\374\0372M"
  299      1F324D
  300              		.text
- 301              		.section	.gnu.lto_.refs.abe4355,"",%progbits
+ 301              		.section	.gnu.lto_.refs.2e80f7d6,"",%progbits
  302 0000 789C0DC7 		.ascii	"x\234\015\307\201\011\0000\020\302\300h\375\376\020"
  302      81090030 
  302      10C2C068 
@@ -1336,1989 +1336,1996 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 1
  304 001e BABF4EF8 		.ascii	"\272\277N\370\010\263\000u"
  304      08B30075 
  305              		.text
- 306              		.section	.gnu.lto_.decls.abe4355,"",%progbits
- 307 0000 789CB55A 		.ascii	"x\234\265Z{T\024W\232\357[\267\232n\232\006\03559\356"
- 307      7B541457 
- 307      9AEF5BB7 
- 307      9A6E9A06 
- 307      1D3539EE 
- 308 0014 C4C9665D 		.ascii	"\304\311f]\2220\223\023_y\214\263g\316\236\314$\231"
- 308      92309313 
- 308      5F798CB3 
- 308      67CE9ECC 
- 308      2499
- 309 0026 2467CC98 		.ascii	"$g\314\2305\311\314\3569\316\366!\320*3\274\266\273"
- 309      35C9CCEE 
- 309      39CEF621 
- 309      D02A33BC 
- 309      B6BB
- 310 0038 4DCC5F53 		.ascii	"M\314_S<\024|\"\370B\020E\024\005yFAEP\221\227(\210"
- 310      3C147C22 
- 310      F8421045 
- 310      14057946 
- 310      41455091 
- 311 004f E2030491 		.ascii	"\342\003\004\221\267(\212\202`\020Pa\277\373\350\256"
- 311      B7288A82 
- 311      60105061 
- 311      BFFBE8AE 
- 312 005f EAB65A9D 		.ascii	"\352\266Z\235=\263\034\276\256\372n\375\356\367\276"
- 312      3DB31CBE 
- 312      AEFA6EFD 
- 312      EEF7BE
- 313 006e B76EDD2A 		.ascii	"\267n\335*\255F\320\324\314\323h>\320i4s\260F3\001\177"
- 313      AD46D0D4 
- 313      CCD3683E 
- 313      D0693473 
- 313      B0463301 
- 314 0083 7A8D4693 		.ascii	"z\215F\223\243\221\377<\201\364H\243\361\006z\011\350"
- 314      A391FF3C 
- 314      81F448A3 
- 314      F1067A09 
- 314      E8
- 315 0094 75A05940 		.ascii	"u\240Y@\277\005\372\004\350s \203\240\321\300A3C\320"
- 315      BF05FA04 
- 315      E8732083 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 24
+ 306              		.section	.gnu.lto_.decls.2e80f7d6,"",%progbits
+ 307 0000 789CB55A 		.ascii	"x\234\265ZyTTW\232\257\373\356+\252(\012L\253\311q:"
+ 307      79545457 
+ 307      9AAFFBEE 
+ 307      2BAA280A 
+ 307      4CABC971 
+ 308 0015 7626E390 		.ascii	"v&\343\220\204\356\234\250Y\333\236\323gN\272\223t\222"
+ 308      84EE9CA8 
+ 308      59DB9ED3 
+ 308      674EBA93 
+ 308      7492
+ 309 0027 D3499B31 		.ascii	"\323I\2331I\367\3149\366\324!P*\335lSU&\346\257~,\012"
+ 309      49F7CC39 
+ 309      F6D42150 
+ 309      2ADD6C53 
+ 309      5526E6AF 
+ 310 003e AE2C6E08 		.ascii	"\256,n\010\242\210\033\310\032\005\025AE6Q\020\305\005"
+ 310      A2881BC8 
+ 310      1A051541 
+ 310      45365110 
+ 310      C505
+ 311 0050 64915D10 		.ascii	"d\221]\020EA0\010\2500\337]\252\336\253\362\225\332"
+ 311      45413008 
+ 311      A830DF5D 
+ 311      AADEABF2 
+ 311      95DA
+ 312 0062 737A387C 		.ascii	"sz8|\365\336w\337\357~\373\275\357\276\373\236V#hj\336"
+ 312      F5DE77DF 
+ 312      EF7EFBBD 
+ 312      EFBEFB9E 
+ 312      5623686A 
+ 313 0077 D268DED7 		.ascii	"\322h\336\327i4\363\261F3\005\177z\215F\223\243\221"
+ 313      6934F3B1 
+ 313      4633057F 
+ 313      7A8D4693 
+ 313      A391
+ 314 0089 FF3C81F4 		.ascii	"\377<\201\364H\243\361\006z\036\350\025\240\271@\277"
+ 314      48A3F106 
+ 314      7A1EE815 
+ 314      A0B940BF 
+ 315 0099 05FA18E8 		.ascii	"\005\372\030\350s \203\240\321\300A3[\3208\375\375\004"
+ 315      732083A0 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 24
 
 
- 315      A0D1C041 
- 315      3343D0
- 316 00a7 38FDFD04 		.ascii	"8\375\375\004x#\034\247\000M\003*\002\322\002\360>\034"
- 316      78231CA7 
- 316      004D032A 
+ 315      D1C04133 
+ 315      5BD038FD 
+ 315      FD04
+ 316 00ab 78231CA7 		.ascii	"x#\034\247\003\315\004*\002\322\002\360.\034_\003Z\010"
+ 316      03CD042A 
  316      02D202F0 
- 316      3E1C
- 317 00b9 DF045A08 		.ascii	"\337\004Z\010\204\201\037\202\343\000\320q\240G@\"\320"
- 317      84811F82 
- 317      E300D071 
- 317      A0474022 
+ 316      2E1C5F03 
+ 316      5A08
+ 317 00bd 84811F81 		.ascii	"\204\201\037\201\343\020\320q\240\007@\"\320$P/\320"
+ 317      E310D071 
+ 317      A0074022 
+ 317      D024502F 
  317      D0
- 318 00ca 38500FD0 		.ascii	"8P\017\320\023\240\011\015\223O\354 \307\327]\364\274"
- 318      13A0090D 
+ 318 00ce 23A0290D 		.ascii	"#\240)\015\223O\354 \307W\\\364\274\010\274\017\034"
  318      934FEC20 
- 318      C7D75DF4 
- 318      BC
- 319 00db 02BC0F1C 		.ascii	"\002\274\017\034\377\250\320E\364\020}j\272\036q}\215"
- 319      FFA8D045 
+ 318      C7575CF4 
+ 318      BC08BC0F 
+ 318      1C
+ 319 00df FFA8D045 		.ascii	"\377\250\320E\364\020}j\272\036p}\215\\\247\226\353"
  319      F4107D6A 
- 319      BA1E717D 
- 319      8D
- 320 00ec 5CA796EB 		.ascii	"\\\247\226\353\233\340\372z\201\032\270No\256\363\027"
- 320      9BE0FA7A 
+ 319      BA1E707D 
+ 319      8D5CA796 
+ 319      EB
+ 320 00f0 9BE2FAFA 		.ascii	"\233\342\372\372\201\032\270No\256\363\027.:_w\243\363"
  320      811AB84E 
  320      6FAEF317 
- 321 00fc 2E3ADF72 		.ascii	".:\337r\243s\262\033\377\212\270^\322o\001\264a\027"
- 321      A373B21B 
- 321      FF8AB85E 
- 321      D26F01B4 
- 321      6117
- 322 010e 9D44FC4B 		.ascii	"\235D\374K<\236D\337;.\372~\017\274\227\213>\"\367_"
- 322      3C9E44DF 
- 322      3B2EFA7E 
- 322      0FBC978B 
- 322      3E22F75F 
- 323 0122 00FC33A0 		.ascii	"\000\3743\240\257\341\374]\300\274'\260x\374T`2\247"
- 323      AFE1FC5D 
- 323      C0BC27B0 
- 323      78FC5460 
- 323      32A7
- 324 0134 C2CF4B3C 		.ascii	"\302\317K<?\257#\365<\375YE\366[.r\211?\317\222=\313"
- 324      3FAF23F5 
- 324      3CFD5945 
- 324      F65B2E72 
- 324      893FCF92 
- 325 014a 8DEC95C0 		.ascii	"\215\354\225\300OR\310\375\000\311v\317CL\266\016\310"
- 325      4F52C8FD 
- 325      00C976CF 
- 325      434CB60E 
- 325      C8
- 326 015b C3457E33 		.ascii	"\303E~3\\{\037\216\236\\\3764\201\305\214\324\335|\301"
- 326      5C7B1F8E 
- 326      9E5CFE34 
- 326      81C58CD4 
- 326      DD7CC1
- 327 016e 7DCDC5A9 		.ascii	"}\315\305\251\350{K\241\213\370\361\367\350\373\344"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 25
+ 320      2E3A5F77 
+ 320      A3F3
+ 321 0102 3937FE15 		.ascii	"97\376\025q\275\244\337g\320\206]t\022\361\317\363x"
+ 321      71BDA4DF 
+ 321      67D0865D 
+ 321      7412F1CF 
+ 321      F378
+ 322 0114 127D6FBB 		.ascii	"\022}o\273\350\373=\360^.\372\210\334\177\001\360\317"
+ 322      E8FB3DF0 
+ 322      5E2EFA88 
+ 322      DC7F01F0 
+ 322      CF
+ 323 0125 80BE86F3 		.ascii	"\200\276\206\363w\000\363\256\300\342\361S\201\311\234"
+ 323      7700F3AE 
+ 323      C0E2F153 
+ 323      81C99C
+ 324 0134 013FCFF3 		.ascii	"\001?\317\363\374\274\202\324\363\364g\025\331\257\273"
+ 324      FCBC82D4 
+ 324      F3F46715 
+ 324      D9AFBB
+ 325 0143 C825FE3C 		.ascii	"\310%\376<I\366\\7\262W\002?M!\367}$\333\375\026b\262"
+ 325      49F65C37 
+ 325      B257023F 
+ 325      4D21F77D 
+ 325      24DBFD16 
+ 326 0159 75401E2E 		.ascii	"u@\036.\362\233\341\332{p\364\344\362g\012,f\244\356"
+ 326      F29BE1DA 
+ 326      7B70F4E4 
+ 326      F2670A2C 
+ 326      66A4EE
+ 327 016c 1608EE6B 		.ascii	"\026\010\356k.NE\337\353\012]\304\217\277G\337\307O"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 25
 
 
- 327      E87B4BA1 
- 327      8BF8F1F7 
- 327      E8FBE4
- 328 017d 39FAB661 		.ascii	"9\372\266atx}\305q\241\025\265 \002\231L[\021b\277\210"
- 328      74787DC5 
- 328      71A115B5 
- 328      2002994C 
- 328      5B1162BF 
- 329 0192 126527EC 		.ascii	"\022e'\354\177\010\321vh\0254<h\366&d\357\301y\201\263"
- 329      7F08D176 
- 329      6815343C 
- 329      68F62664 
- 329      EFC17981 
- 330 01a7 021749FF 		.ascii	"\002\027I\377yg\244\220\310.3M\366?\015\2033K4T:\353"
- 330      7967A490 
- 330      C82E334D 
- 330      F63F0D83 
- 330      334B3454 
- 331 01bd 8D045901 		.ascii	"\215\004Y\001B\312\016\012\201\314l~\335a\237Fv\016"
- 331      42CA0E0A 
- 331      81CC6C7E 
- 331      DD619F46 
- 331      760E
- 332 01cf D9BDBFBF 		.ascii	"\331\275\277\277\275\266\307\320\206\256\223\326T\022"
- 332      BDB6C7D0 
- 332      86AE93D6 
- 332      5412
- 333 01dd 6D68EBB8 		.ascii	"mh\353\270X\362D\217\005D\316\333F3~7+[b\177\372\237"
- 333      58F2448F 
- 333      0544CEDB 
- 333      46337E37 
- 333      2B5B627F 
- 334 01f3 C961AB8F 		.ascii	"\311a\253\217\316\337\2017`4\305\200D\"\347\\R\227\017"
- 334      CEDF8137 
- 334      6034C580 
- 334      4422E75C 
- 334      52970F
- 335 0206 B0D30CE8 		.ascii	"\260\323\014\3505`\223\212\037\234\325\262\253z`'\366"
- 335      3560938A 
- 335      1F9CD5B2 
- 335      AB7A6027 
- 335      F6
- 336 0217 E5AFD6E3 		.ascii	"\345\257\326\343\227\251\304\353\325\231Y\244\343\233"
- 336      97A9C4EB 
- 336      D59959A4 
- 336      E39B
- 337 0225 06448C9D 		.ascii	"\006D\214\235\004My}E\243\336\254\211 .\306\015\356"
- 337      044D797D 
- 337      45A3DEAC 
- 337      89202EC6 
- 337      0DEE
- 338 0237 D5E157C8 		.ascii	"\325\341W\310\271\260\375lc\231\210\374\014\373\210"
- 338      B9B0FD6C 
- 338      639988FC 
- 338      0CFB88
- 339 0246 FED2870F 		.ascii	"\376\322\207\017\336\214\217\221$\001\035B\006\364\003"
- 339      DE8C8F91 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 26
+ 327      2E4E45DF 
+ 327      EB0A5DC4 
+ 327      8FBF47DF 
+ 327      C74F
+ 328 017e D1B715A3 		.ascii	"\321\267\025\243\303\353+\216\013m\250\025\021\310s"
+ 328      C3EB2B8E 
+ 328      0B6DA815 
+ 328      11C873
+ 329 018d B41521F6 		.ascii	"\264\025!\366\213(Qv\312\376\207\020m\207VA\303\203"
+ 329      8B285176 
+ 329      CAFE8710 
+ 329      6D875641 
+ 329      C383
+ 330 019f 666F42F6 		.ascii	"foB\366\036\234\0278+p\221\364\237wF\012\211\3542\323"
+ 330      1E9C1738 
+ 330      2B7091F4 
+ 330      9F77460A 
+ 330      89EC32D3 
+ 331 01b3 64FFD330 		.ascii	"d\377\32308\263DC\245\263\336H\220\025 \244\354\240"
+ 331      38B34443 
+ 331      A5B3DE48 
+ 331      901520A4 
+ 331      ECA0
+ 332 01c5 10C8CCE6 		.ascii	"\020\310\314\346\327\035\366id\347\220\335\373\273\333"
+ 332      D71DF669 
+ 332      64E790DD 
+ 332      FBBBDB
+ 333 01d4 6A7B0DED 		.ascii	"j{\015\355\350\032iM#\321\206\266\316\213%\217\364X"
+ 333      E81A694D 
+ 333      23D186B6 
+ 333      CE8B258F 
+ 333      F458
+ 334 01e6 40E4BC7D 		.ascii	"@\344\274}<\343ws\263%\366\247\377\231\034\266\372\350"
+ 334      3CE37773 
+ 334      B325F6A7 
+ 334      FF991CB6 
+ 334      FAE8
+ 335 01f8 FCED7803 		.ascii	"\374\355x\003F\323\015H$r\316%w\373\000;\323\200^\006"
+ 335      46D30D48 
+ 335      2472CE25 
+ 335      77FB003B 
+ 335      D3805E06 
+ 336 020c 36B9F8DE 		.ascii	"6\271\370\336Y-\273\252\007vj_\376j=~\201J\274V\235"
+ 336      592DBBAA 
+ 336      07766A5F 
+ 336      FE6A3D7E 
+ 336      814ABC56 
+ 337 0221 99453ABE 		.ascii	"\231E:\276f@\304\330i\320\2247P4\356\315\232\010\342"
+ 337      6640C4D8 
+ 337      69D09437 
+ 337      5034EECD 
+ 337      9A08E2
+ 338 0234 62DCF01E 		.ascii	"b\334\360\036\035~\221\234\013\333\3166\226\211\310"
+ 338      1D7E919C 
+ 338      0BDBCE36 
+ 338      9689C8
+ 339 0243 CFB08FE8 		.ascii	"\317\260\217\350/\275\177\357\265\204\030I\022\320!"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 26
 
 
- 339      24011D42 
- 339      06F403
- 340 0255 C2E8009A 		.ascii	"\302\350\000\232E\274y\323\000\277\261\222\024)m\214"
- 340      45BC79D3 
- 340      00BFB192 
- 340      14296D8C 
- 341 0265 923C3FD5 		.ascii	"\222<?\325\240l4\003e\241\031\032t\020\371\021\261\004"
- 341      A06C3403 
- 341      65A1191A 
- 341      7410F911 
- 341      B104
- 342 0277 87F2A131 		.ascii	"\207\362\2411\017\032AE\346\336\3704\017\034\213\250"
- 342      0F1A4145 
- 342      E6DEF834 
- 342      0F1C8BA8 
- 343 0287 8EAA13D7 		.ascii	"\216\252\023\327\256\212\310\340\247*\340\260\212\000"
- 343      AE8AC8E0 
- 343      A72AE0B0 
- 343      8A00
- 344 0295 66CCF903 		.ascii	"f\314\371\0033\253V\022c\012\301\230\002\331\030\260"
- 344      33AB5612 
- 344      630AC198 
- 344      02D918B0 
- 345 02a5 8D8528BA 		.ascii	"\215\205(\272b8\336\033\337bJ6T\236\036\325:\034\351"
- 345      6238DE1B 
- 345      DF624A36 
- 345      549E1ED5 
- 345      3A1CE9
- 346 02b8 3FE177F4 		.ascii	"?\341w\364\262$\275\206\212\240\357\021\271o!r\353\311"
- 346      B224BD86 
- 346      8AA0EF11 
- 346      B96F2172 
- 346      EBC9
- 347 02ca 51754FAE 		.ascii	"QuO\256\334\037\334\352\203\263X\266\354Y\230\302\262"
- 347      DC1FDCEA 
- 347      83B358B6 
- 347      EC5998C2 
- 347      B2
- 348 02db 903FB1B9 		.ascii	"\220?\261\271\335\033\037d\327b\2637\224c\003\210\216"
- 348      DD1B1F64 
- 348      D762B337 
- 348      94630388 
- 348      8E
- 349 02ec 7A211FA1 		.ascii	"z!\037\241\307\275\350\033\355^L\332t`;#\013\252\275"
- 349      C7BDE81B 
- 349      ED5E4CDA 
- 349      74603B23 
- 349      0BAABD
- 350 02ff F111266D 		.ascii	"\361\021&m\375\346\2622\021\037g\314\236\355\3611Z\\"
- 350      FDE6B232 
- 350      111F67CC 
- 350      9EEDF131 
- 350      5A5C
- 351 0311 C698CC84 		.ascii	"\306\230\314\204\215\371\006\\\301\230\213\003\265)"
- 351      8DF9065C 
- 351      C1988B03 
- 351      B529
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 27
+ 339      2FBD7FEF 
+ 339      B5841849 
+ 339      12D021
+ 340 0252 64403F20 		.ascii	"d@? \214\016\240\271\304\233\327\014\360\033+I\221R"
+ 340      8C0EA0B9 
+ 340      C49BD70C 
+ 340      F01B2B49 
+ 340      9152
+ 341 0264 7C94E4F9 		.ascii	"|\224\344\371\211\006e\243\331(\013\315\326\240\203"
+ 341      890665A3 
+ 341      D9280BCD 
+ 341      D6A083
+ 342 0273 C88F8825 		.ascii	"\310\217\210%8\224\017\215y\320\010*2\367$\244{\340"
+ 342      38940F8D 
+ 342      79D0082A 
+ 342      32F724A4 
+ 342      7BE0
+ 343 0285 58447554 		.ascii	"XDuT\235h\271*\"\203\237\252\200\303*\002\2301\347\017"
+ 343      9D68B92A 
+ 343      22839FAA 
+ 343      80C32A02 
+ 343      9831E70F 
+ 344 0299 CCA95A49 		.ascii	"\314\251ZI\214)\004c\012dc\3006\026\242\350\212\321"
+ 344      8C290463 
+ 344      0A6463C0 
+ 344      3616A2E8 
+ 344      8AD1
+ 345 02ab 046F7C83 		.ascii	"\004o|\203)\331Pyz\\\353pd\360\204\337\321\313\222\364"
+ 345      29D95079 
+ 345      7A5CEB70 
+ 345      64F084DF 
+ 345      D1CB92F4 
+ 346 02bf 322A82BE 		.ascii	"2*\202\276G\344\276\205\310\255'G\325=\271rwx\213\017"
+ 346      47E4BE85 
+ 346      C8AD2747 
+ 346      D53DB972 
+ 346      77788B0F 
+ 347 02d3 CE62D9B2 		.ascii	"\316b\331\262ga:\313B\376\324\246\016o|\220]\213\315"
+ 347      67613ACB 
+ 347      42FED4A6 
+ 347      0E6F7C90 
+ 347      5D8BCD
+ 348 02e6 DE508E0D 		.ascii	"\336P\216\015 :\352\231|\204\036w\242\257wx1i\263\200"
+ 348      203AEA99 
+ 348      7C841E77 
+ 348      A2AF7778 
+ 348      3169B380 
+ 349 02fa ED8A2CA8 		.ascii	"\355\212,\250\366\306G\230\264\365\233\312\312D|\234"
+ 349      F6C64798 
+ 349      B4F59BCA 
+ 349      CA447C9C 
+ 350 030a 31BBB725 		.ascii	"1\273\267%\304hq\031c2\023\343\363\015\270\2021\027"
+ 350      C4687119 
+ 350      633213E3 
+ 350      F30DB882 
+ 350      3117
+ 351 031c 876A53BD 		.ascii	"\207jS\275XY<\007l\345\324\375\322iL\242\000l\322\201"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 27
 
 
- 352 031f 5EAC2C26 		.ascii	"^\254,&\003[9\361\260t\022\223(\000\233x\240q\314\023"
- 352      035B39F1 
- 352      B0741293 
- 352      28009B78 
- 352      A071CC13 
- 353 0333 573168FA 		.ascii	"W1h\372\330\243\001R\027o\220\272\300\212\252x\203U"
- 353      D8A30152 
- 353      176F90BA 
- 353      C08AAA78 
- 353      8355
- 354 0345 C5C99A33 		.ascii	"\305\311\2323\373\214\270\226\202\205\215\273\263\326"
- 354      FB8CB896 
- 354      82858DBB 
- 354      B3D6
- 355 0353 7ADA5306 		.ascii	"z\332S\006\036i\3754\250\034,\257 \356\234\005w\336"
- 355      1E69FD34 
- 355      A81C2CAF 
- 355      20EE9C05 
- 355      77DE
- 356 0365 E0EE9C86 		.ascii	"\340\356\234\206\306*G\312\036\026\274Z$I\223\321\031"
- 356      C62A47CA 
- 356      1E16BC5A 
- 356      244993D1 
- 356      19
- 357 0376 887AB51C 		.ascii	"\210z\265\034\3657x\302N\304_\3531\340F\246\342q\324"
- 357      F53778C2 
- 357      4EC45FEB 
- 357      31E046A6 
- 357      E271D4
- 358 0389 D67EB9F2 		.ascii	"\326~\271\362\316\037\230WA\223}\016\272\326\310]\317"
- 358      CE1F9857 
- 358      41937D0E 
- 358      BAD6C85D 
- 358      CF
- 359 039a C8097335 		.ascii	"\310\011s5\243V\305\014P\0229\222V\242\307\355T\211"
- 359      A356C50C 
- 359      50123992 
- 359      56A2C7ED 
- 359      5489
- 360 03ac 3834BCAE 		.ascii	"84\274\256\331\200\246\372\372\372\305\0235\033%\351"
- 360      D980A6FA 
- 360      FAFAC513 
- 360      351B25E9 
- 361 03bc 03414E8C 		.ascii	"\003AN\214\006\235GS\211\000t\021d\325#_t\001\371\322"
- 361      069D4753 
- 361      89007411 
- 361      64D5235F 
- 361      7401F9D2 
- 362 03d0 01984614 		.ascii	"\001\230F\024\226\336ly7y\260]\222\326\030\251Y\225"
- 362      96DE6C79 
- 362      3779B05D 
- 362      92D618A9 
- 362      5995
- 363 03e2 6016E9E0 		.ascii	"`\026\351\340\260`6\021QN\004\361\016\235\257$J\245"
- 363      B0603611 
- 363      514E04F1 
- 363      0E9DAF24 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 28
+ 351      58593C07 
+ 351      6CE5D4FD 
+ 351      D2694CA2 
+ 351      006CD281 
+ 352 0330 C6094F5C 		.ascii	"\306\011O\\\305\240{'\036\014\221\272x\225\324\005V"
+ 352      C5A07B27 
+ 352      1E0C91BA 
+ 352      7895D405 
+ 352      56
+ 353 0341 54C5ABAC 		.ascii	"T\305\253\254*N\326\234\331g\304\265\024,\304\357\312"
+ 353      2A4ED69C 
+ 353      D967C4B5 
+ 353      142CC4EF 
+ 353      CA
+ 354 0352 5AEB694F 		.ascii	"Z\353iO\031x\244\365\323\240r\260\274\202\270s\026\334"
+ 354      1978A4F5 
+ 354      D3A072B0 
+ 354      BC82B873 
+ 354      16DC
+ 355 0364 7995BB73 		.ascii	"y\225\273s\032\032\253\034)\273_\360R\221$=\207\316"
+ 355      1A1AAB1C 
+ 355      29BB5FF0 
+ 355      5291243D 
+ 355      87CE
+ 356 0376 40D4ABE5 		.ascii	"@\324\253\345\250\277\312\023v\"\241\245\327\200\033"
+ 356      A8BFCA13 
+ 356      7622A1A5 
+ 356      D7801B
+ 357 0385 998A8751 		.ascii	"\231\212\207Q[\006\345\312;\177\340\255\012\232\354"
+ 357      5B06E5CA 
+ 357      3B7FE0AD 
+ 357      0A9AEC
+ 358 0394 73D0B546 		.ascii	"s\320\265F\356zFN\230\253\031\265*f\200\222\310\261"
+ 358      EE7A464E 
+ 358      98AB19B5 
+ 358      2A668092 
+ 358      C8B1
+ 359 03a6 F4123DEE 		.ascii	"\364\022=\356\240J\304\221\321u\315\0064\303\327\327"
+ 359      A04AC491 
+ 359      D175CD06 
+ 359      34C3D7D7 
+ 360 03b6 2F81A889 		.ascii	"/\201\250\211\227\244\367\00591\032t\036\315 \002\320"
+ 360      97A4F705 
+ 360      39311A74 
+ 360      1ECD2002 
+ 360      D0
+ 361 03c7 4590558F 		.ascii	"E\220U\217|\321\005\344K\007`:QX\332\327\372N\312p\207"
+ 361      7CD105E4 
+ 361      4B07603A 
+ 361      5158DAD7 
+ 361      FA4ECA70 
+ 362 03dc 24AD3152 		.ascii	"$\2551R\263*\301,\322\301a\301<\"\242\234\010\342\035"
+ 362      B32AC12C 
+ 362      D2C161C1 
+ 362      3C22A29C 
+ 362      08E21D
+ 363 03ef BA5E4C92 		.ascii	"\272^L\222J#1E\327\251\242\337$`\346r[\212\001\206<"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 28
 
 
- 363      4AA5
- 364 03f4 9198A2EB 		.ascii	"\221\230\242\353T\321s\011\230\271\334\232l\200!O0\032"
- 364      54D17309 
- 364      98B9DC9A 
- 364      6C80214F 
- 364      301A
- 365 0406 EE2D1BFA 		.ascii	"\356-\033\372\342\345\326{\011\010\371N\363\363M\243"
- 365      E2E5D67B 
- 365      0908F94E 
- 365      F3F34DA3 
- 366 0416 C0E1649F 		.ascii	"\300\341d\237\010*\226\210+\003\261\227\3214\271\270"
- 366      082A9688 
- 366      2B03B197 
- 366      D134B9B8 
- 367 0426 64B109D4 		.ascii	"d\261\011\324\305(\351\003Q\351\"\001\023\027\257\200"
- 367      C528E903 
- 367      51E92201 
- 367      1317AF80 
- 368 0436 8B0DE0E2 		.ascii	"\213\015\340\342%\356\"3\242.yz\204$!\202RZ\301\334"
- 368      25EE2233 
- 368      A22E797A 
- 368      84242182 
- 368      525AC1DC 
- 369 044a 69489EB2 		.ascii	"iH\236\262)J\252\236CG\340)\367\212!\352\203%5\265\302"
- 369      294AAA9E 
- 369      4347E029 
- 369      F78A21EA 
- 369      832535B5 
- 370 045f 34B020C2 		.ascii	"4\260 \302\255\005\032'\365\212\342\235\302\2127\272"
- 370      AD051A27 
- 370      F58AE29D 
- 370      C28A37BA 
- 371 046f FC4AA111 		.ascii	"\374J\241\021o\307\264\032o\324\344E\352q\012cv\236"
- 371      6FC7B41A 
- 371      6FD4E445 
- 371      EA710A63 
- 371      769E
- 372 0481 CBADD1E2 		.ascii	"\313\255\321\342\335\214)\316\312\275(\340\375\214\311"
- 372      DD8C29CE 
- 372      CABD28E0 
- 372      FD8CC9
- 373 0490 2E1A588B 		.ascii	".\032X\213p\036c\356\307\344\331\360av\236<t\275\327"
- 373      701E63EE 
- 373      C7E4D9F0 
- 373      61769E3C 
- 373      74BDD7
- 374 04a3 93C9F603 		.ascii	"\223\311\366\0036\356\302\256kz6NJ\311\310\030\331\335"
- 374      36EEC2AE 
- 374      6B7A364E 
- 374      4AC9C818 
- 374      D9DD
- 375 04b5 9D20E012 		.ascii	"\235 \340\022\2125\216g\327\370\"_\373\337T\022\366"
- 375      8A358E67 
- 375      D7F8225F 
- 375      FBDF5412 
- 375      F6
- 376 04c6 E82848E6 		.ascii	"\350(H\346O\267K\245\321\030\035\007\347\257\203\363"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 29
+ 363      4A233145 
+ 363      D7A9A2DF 
+ 363      2460E672 
+ 363      5B8A0186 
+ 364 0404 C168B8B7 		.ascii	"\301h\270\267l\350\213\227\333\356$\"\344;\323\3177"
+ 364      6CE88B97 
+ 364      DBEE2422 
+ 364      E43BD3CF 
+ 364      37
+ 365 0415 9D024753 		.ascii	"\235\002GS|\"\250X\"\256\014\304^F3\345\342\222\305"
+ 365      7C22A858 
+ 365      22AE0CC4 
+ 365      5E4633E5 
+ 365      E292C5
+ 366 0428 265217A3 		.ascii	"&R\027\243\244\367E\245\213\004L\\\274\002.6\200\213"
+ 366      A4F745A5 
+ 366      8B044C5C 
+ 366      BC022E36 
+ 366      808B
+ 367 043a 97B88BCC 		.ascii	"\227\270\213\314\210\272\224Y\021\222\204\010Ji\005"
+ 367      88BA9459 
+ 367      11928408 
+ 367      4A6905
+ 368 0449 73A72165 		.ascii	"s\247!e\372\306(\251z>\035\201\247\334+\206\250\017"
+ 368      FAC628A9 
+ 368      7A3E1D81 
+ 368      A7DC2B86 
+ 368      A80F
+ 369 045b 97D4D40A 		.ascii	"\227\324\324\0123\301\202\010\267\026h\234\324+\212"
+ 369      33C18208 
+ 369      B716689C 
+ 369      D42B8A
+ 370 046a 773A2BDE 		.ascii	"w:+\336\350\362+\205F\274\015\323j\274^\223\027\251"
+ 370      E8F22B85 
+ 370      46BC0DD3 
+ 370      6ABC5E93 
+ 370      17A9
+ 371 047c C7A98CD9 		.ascii	"\307\251\214\331q.\267F\213w1\2468+\367\242\200\367"
+ 371      712EB746 
+ 371      8B7731A6 
+ 371      382BF7A2 
+ 371      80F7
+ 372 048e 3326BB68 		.ascii	"3&\273hh-\302y\214\271\033\223g\303\207\331y\312\310"
+ 372      682DC279 
+ 372      8CB91B93 
+ 372      67C387D9 
+ 372      79CAC8
+ 373 04a1 B57E4F26 		.ascii	"\265~O&\333\017\330\270\013;[\364l\234\224\222\2211"
+ 373      DB0FD8B8 
+ 373      0B3B5BF4 
+ 373      6C9C9492 
+ 373      9131
+ 374 04b3 B6AB2751 		.ascii	"\266\253'Q\300%\024k\234\314\256\361E\276\366\277\031"
+ 374      C025146B 
+ 374      9CCCAEF1 
+ 374      45BEF6BF 
+ 374      19
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 29
 
 
- 376      4FB74BA5 
- 376      D1181D07 
- 376      E7AF83F3 
- 377 04d6 7720FACE 		.ascii	"w \372\316\316g\363\324\023\364\331\0312\272\304\025"
- 377      CE67F3D4 
- 377      13F4D919 
- 377      32BAC415 
- 378 04e6 5D8C1CB1 		.ascii	"]\214\034\261b\350\213\012t\207:Z)\374\266\302\224\026"
- 378      62E88B0A 
- 378      74873A5A 
- 378      29FCB6C2 
- 378      9416
- 379 04f8 57788EAB 		.ascii	"Wx\216\253\3601\005\272\331\025}\325\025\335\254@\267"
- 379      F03105BA 
- 379      D9157DD5 
- 379      15DDAC40 
- 379      B7
- 380 0509 AABAA900 		.ascii	"\252\272\251\000\017*\300\327\324\015q\330\0155;\236"
- 380      0F2AC0D7 
- 380      D40D71D8 
- 380      0D353B9E 
- 381 0519 6C60F846 		.ascii	"l`\370F(\201RW\374\011WS\252\354\365F\3047\251[\316"
- 381      28815257 
- 381      FC095753 
- 381      AAECF546 
- 381      C437A95B 
- 382 052e C43B4633 		.ascii	"\304;F3\024Z;\000\332\350\265;|4\367A\251\337\204Z\353"
- 382      145A3B00 
- 382      DAE8B53B 
- 382      7C34F741 
- 382      A9DF845A 
- 383 0543 04BA0174 		.ascii	"\004\272\001t\013\250\007\3506P/\320]\240.\240n\347"
- 383      0BA807E8 
- 383      36502FD0 
- 383      5DA02EA0 
- 383      6EE7
- 384 0555 A1903485 		.ascii	"\241\2204\205\016\205;\316\003\222\233\266Ca\332IuO"
- 384      0E853BCE 
- 384      03929BB6 
- 384      4361DA49 
- 384      754F
- 385 0567 9869505D 		.ascii	"\230iP]\245\347F\012\264\370\024\255.a\254\272\240\032"
- 385      A5E7460A 
- 385      B4F814AD 
- 385      2E61ACBA 
- 385      A01A
- 386 0579 6E4C53F9 		.ascii	"nLS\371\240\337\341A\006\375\000\364\276'\317rD\245"
- 386      A0DFE141 
- 386      06FD00F4 
- 386      BE27CF72 
- 386      44A5
- 387 058b BA53A81F 		.ascii	"\272S\250\037|\371\277\372\005\246<\250o\313\3642\256"
- 387      7CF9BFFA 
- 387      05A63CA8 
- 387      6FCBF432 
- 387      AE
- 388 059c 71DCF0A8 		.ascii	"q\334\360\250fyh\336GFn\003`\217\254N\274\351\215\353"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 30
+ 375 04c4 24ECD151 		.ascii	"$\354\321Q\220\314\237n\223J\2431:\016\316_\003\347"
+ 375      90CC9F6E 
+ 375      934AA331 
+ 375      3A0ECE5F 
+ 375      03E7
+ 376 04d6 6F41F49D 		.ascii	"oA\364\235\235\317\346\251'\350\263\263et\211+\272\030"
+ 376      9DCFE6A9 
+ 376      27E8B3B3 
+ 376      6574892B 
+ 376      BA18
+ 377 04e8 3962C5D0 		.ascii	"9b\305\320\027\025\350Nu\264R\370M\205)\255\256\360"
+ 377      1715E84E 
+ 377      75B452F8 
+ 377      4D8529AD 
+ 377      AEF0
+ 378 04fa 1C57E113 		.ascii	"\034W\341\023\012t\263+\372\252+\272Y\201nSuS\001\036"
+ 378      0A74B32B 
+ 378      FAAA2BBA 
+ 378      59816E53 
+ 378      7553011E 
+ 379 050e 56805BD4 		.ascii	"V\200[\324\015q\330\0155;\231b`\370F(\201RW\374\011"
+ 379      0D71D80D 
+ 379      353B9962 
+ 379      60F84628 
+ 379      815257FC 
+ 380 0523 5753AAEC 		.ascii	"WS\252\354\365F\3047\251[\316\304;F3\024Z\007\000\332"
+ 380      F546C437 
+ 380      A95BCEC4 
+ 380      3B463314 
+ 380      5A0700DA 
+ 381 0537 E9B55B7C 		.ascii	"\351\265[|4\017@\251\367A\255u\001]\007\272\001\324"
+ 381      340F40A9 
+ 381      F741AD75 
+ 381      015D07BA 
+ 381      01D4
+ 382 0549 0B7413A8 		.ascii	"\013t\023\250\037\3506P7P\217\363PH\236N\207\302-\347"
+ 382      1FE83650 
+ 382      37508FF3 
+ 382      50489E4E 
+ 382      87C22DE7 
+ 383 055d 01C94DDB 		.ascii	"\001\311M\333\2560\355\244\272'\3144\250\256\322sc\005"
+ 383      AE30EDA4 
+ 383      BA27CC34 
+ 383      A8AED273 
+ 383      6305
+ 384 056f 5A7C8A56 		.ascii	"Z|\212V\2270Q]P\0157\246\031|\320o\367 \203~\010z\337"
+ 384      9730515D 
+ 384      500D37A6 
+ 384      197CD06F 
+ 384      F720837E 
+ 385 0586 916739A2 		.ascii	"\221g9\242R\335)4\010\276\374_\375\002S\356\325\267"
+ 385      52DD2934 
+ 385      08BEFC5F 
+ 385      FD0253EE 
+ 385      D5B7
+ 386 0598 677A19D7 		.ascii	"gz\031\3278nxT\263<4\357\"#\267\001\260GV'\365y\343"
+ 386      386E7854 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 30
 
 
- 388      667968DE 
- 388      47466E03 
- 388      608FAC4E 
- 388      BCE98DEB 
- 389 05b0 98D903FB 		.ascii	"\230\331\003\3733\017{!\243\237\233\256\350\001\330"
- 389      330F7B21 
- 389      A39F9BAE 
- 389      E801D8
- 390 05bf 22F7B6DF 		.ascii	"\"\367\266\337u}\213\007\310]w\010.\014\312\356\001"
- 390      757D8B07 
- 390      C85D7708 
- 390      2E0CCAEE 
- 390      01
- 391 05d0 8E697874 		.ascii	"\216ixtks\023b\243\322H\246\352\342\246\370IlT\266S"
- 391      6B731362 
- 391      A3D248A6 
- 391      EAE2A6F8 
- 391      496C54B6 
- 392 05e5 633735B7 		.ascii	"c75\267\371\340&\354\264\216Y\370\364:f!\273c\365]8"
- 392      F9E026EC 
- 392      B48E59F8 
- 392      F43A6621 
- 392      BB63F55D 
- 393 05fa 7F09E176 		.ascii	"\177\011\341vfo\305\316\256\203\036\356\026\031\217"
- 393      666FC5CE 
- 393      AE831EEE 
- 393      16198F
- 394 0609 C1D885FC 		.ascii	"\301\330\205\374V1\012\215#\216;V\377\223y\303t\305"
- 394      56310A8D 
- 394      238E3B56 
- 394      FF9379C3 
- 394      74C5
- 395 061b F308F23A 		.ascii	"\363\010\362:&\233\274\220\335\262\264g[\037\357\367"
- 395      269BBC90 
- 395      DDB2B467 
- 395      5B1FEFF7 
- 396 062b 44745A60 		.ascii	"DtZ`s\342D\034^\273\277n\235\224Z\206h\237\207\320G"
- 396      73E2441C 
- 396      5EBBBF6E 
- 396      9D945A86 
- 396      689F87D0 
- 397 0640 12DC0D47 		.ascii	"\022\334\015G\322\343\354l6\006HP\216\271\242g\273\200"
- 397      D2E3EC6C 
- 397      36064850 
- 397      8EB9A267 
- 397      BB80
- 398 0652 C73898AC 		.ascii	"\3078\230\254[rU\301O\017\200a\270\376#\325J\320\244"
- 398      5B7255C1 
- 398      4F0F8061 
- 398      B8FE23D5 
- 398      4AD0A4
- 399 0665 5022043F 		.ascii	"P\"\004?4\016\2050\001\364\304\251\310\357\345\262\""
- 399      340E8530 
- 399      01F4C4A9 
- 399      C8EFE5B2 
- 399      22
- 400 0676 07A4F35D 		.ascii	"\007\244\363]\007\215f\016=\300\270S\244\321\034o\216"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 31
+ 386      B33C34EF 
+ 386      2223B701 
+ 386      B0475627 
+ 387 05af 3A66F6D0 		.ascii	":f\366\320\376\314\303^\310\350\347\246+\272\007\266"
+ 387      FECCC35E 
+ 387      C8E8E7A6 
+ 387      2BBA07B6 
+ 388 05bf C8BDED77 		.ascii	"\310\275\355w]\337\342!r\327\035\201\013\303\262{\200"
+ 388      5DDFE221 
+ 388      72D71D81 
+ 388      0BC3B27B 
+ 388      80
+ 389 05d0 631A1EDC 		.ascii	"c\032\036\334\330\324\204\330\2504\222\251\272\270)"
+ 389      D8D484D8 
+ 389      A83492A9 
+ 389      BAB829
+ 390 05df 611A1B95 		.ascii	"a\032\033\225\035\324\330\215\315\355>\270\011;\255"
+ 390      1DD4D88D 
+ 390      CDED3EB8 
+ 390      093BAD
+ 391 05ee 63163EBE 		.ascii	"c\026>\276\216Y\310\356X\003\027\316_B\270\203\331["
+ 391      8E59C8EE 
+ 391      580317CE 
+ 391      5F42B883 
+ 391      D95B
+ 392 0600 B1A3FBA0 		.ascii	"\261\243\373\240\207\273E\306C0v!\277U\214C\343\230"
+ 392      87BB45C6 
+ 392      43307621 
+ 392      BF558C43 
+ 392      E398
+ 393 0612 E38E35F8 		.ascii	"\343\2165\370\350\255Q\272\342y\000y\235\220M^\310n"
+ 393      E8AD51BA 
+ 393      E2790079 
+ 393      9D904D5E 
+ 393      C86E
+ 394 0624 59DAB36D 		.ascii	"Y\332\263m\017\367{\":-\2609q*\016\257\335_\267NJ+C"
+ 394      0FF77B22 
+ 394      3A2DB039 
+ 394      712A0EAF 
+ 394      DD5FB74E 
+ 395 063b B4CF7DE8 		.ascii	"\264\317}\350#\011\356\206#\351qv\036\033\003$(\307"
+ 395      2309EE86 
+ 395      23E97176 
+ 395      1E1B0324 
+ 395      28C7
+ 396 064d 5CD1F35C 		.ascii	"\\\321\363\\\300\023\034L\326-\271\252\340\307\007\300"
+ 396      C0131C4C 
+ 396      D62DB9AA 
+ 396      E0C707C0 
+ 397 065d 285CFF91 		.ascii	"(\\\377\221j%hR(\021\202\037\232\204B\230\002z\344T"
+ 397      6A256852 
+ 397      2811821F 
+ 397      9A844298 
+ 397      027AE454 
+ 398 0671 E4777259 		.ascii	"\344wrY\221\003\322\371\256\203\3063G\356a\334%\322"
+ 398      9103D2F9 
+ 398      AE83C633 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 31
 
 
- 400      078D660E 
- 400      3DC0B853 
- 400      A4D11C6F 
- 400      8E
- 401 0687 AB30A2A9 		.ascii	"\2530\242\251~jjP4H\177\276\246\236\243\264\322\243"
- 401      7E6A6A50 
- 401      34487FBE 
- 401      A69EA3B4 
- 401      D2A3
- 402 0699 00182938 		.ascii	"\000\030)8\342J\364\262E\360\245\253\261XY\230Q\202"
- 402      E24AF4B2 
- 402      45F0A5AB 
- 402      B1585998 
- 402      5182
- 403 06ab B230570A 		.ascii	"\2620W\012FnWK\314\301.\235(\2606\364\215H\332\362\332"
- 403      466E574B 
- 403      CCC12E9D 
- 403      28B036F4 
- 403      8D48DAF2 
- 404 06c0 7BCF6AA7 		.ascii	"{\317j\247o\245\213\346(i\262@\303e\277\321jP\2140\035"
- 404      6FA58BE6 
- 404      2869B240 
- 404      C365BFD1 
- 404      6A508C30 
- 405 06d5 7E570922 		.ascii	"~W\011\"\223\2609\2762\303gf\252\224\332.\225\236N\301"
- 405      93B039BE 
- 405      32C36766 
- 405      AA94DA2E 
- 405      959E4EC1 
- 406 06e9 ABCB4F43 		.ascii	"\253\313OC\372\320\007\004\2062\345\224\303)\374f\300"
- 406      FAD00704 
- 406      8632E594 
- 406      C329FC66 
- 406      C0
- 407 06fa B043FB61 		.ascii	"\260C\373a&\324\240Xa&\364\336\237\030U\343\205c\264"
- 407      26D4A058 
- 407      6126F4DE 
- 407      9F1855E3 
- 407      8563B4
- 408 070d B4E492AE 		.ascii	"\264\344\222\256\267t\033\2501D#3\246\374j\317\250l"
- 408      B7741BA8 
- 408      31442333 
- 408      A6FC6ACF 
- 408      A86C
- 409 071f E01A8136 		.ascii	"\340\032\2016\356\256\352\2778Ii\341\037_V\030\270\216"
- 409      EEAEEABF 
- 409      384969E1 
- 409      1F5F5618 
- 409      B88E
- 410 0731 1AB8D66E 		.ascii	"\032\270\326n`L\371\206^-7\260!\331\010\025\000\253"
- 410      604CF986 
- 410      5E2D37B0 
- 410      21D90815 
- 410      00AB
- 411 0743 1DA84980 		.ascii	"\035\250I\200\241\325r\354\340\324\331\300\365\324\300"
- 411      A1D572EC 
- 411      E0D4D9C0 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 32
+ 398      47EE61DC 
+ 398      25D2
+ 399 0683 684E36C7 		.ascii	"hN6\307U\030\321\014?55(\032\244?]S\357QZ\351Q\000\214"
+ 399      5518D10C 
+ 399      3F353528 
+ 399      1AA43F5D 
+ 399      53EF515A 
+ 400 069b 141C7125 		.ascii	"\024\034q%z\331\"\370\322\325X\254,\314(AY\230+\005"
+ 400      7AD922F8 
+ 400      D2D558AC 
+ 400      2CCC2841 
+ 400      59982B05 
+ 401 06af 23B7AB35 		.ascii	"#\267\2535\346`\267N\024X\033\372F$my\035\375g\265\263"
+ 401      E660B74E 
+ 401      14581BFA 
+ 401      46246D79 
+ 401      1DFD67B5 
+ 402 06c4 B6D04573 		.ascii	"\266\320Es\224\364\234@\303e\277\321jP\2140\013~W\011"
+ 402      94F49C40 
+ 402      C365BFD1 
+ 402      6A508C30 
+ 402      0B7E5709 
+ 403 06d8 2293B029 		.ascii	"\"\223\260)\2412\303gN\232\224\326!\225\236N\305\253"
+ 403      A132C367 
+ 403      4E9A94D6 
+ 403      21959E4E 
+ 403      C5AB
+ 404 06ea CB4F43FA 		.ascii	"\313OC\372\320\373\004\2062\345\224\303)\374f\300\260"
+ 404      D0FB0486 
+ 404      32E594C3 
+ 404      29FC66C0 
+ 404      B0
+ 405 06fb 43FB6126 		.ascii	"C\373a&\324\240Xa\016\364\336\237\024U\343\205c\264"
+ 405      D4A05861 
+ 405      0EF4DE9F 
+ 405      1455E385 
+ 405      63B4
+ 406 070d B4E492AF 		.ascii	"\264\344\222\257\265\366\030\2501D#3\246\374j\357\270"
+ 406      B5F618A8 
+ 406      31442333 
+ 406      A6FC6AEF 
+ 406      B8
+ 407 071e 6CE01A81 		.ascii	"l\340\032\2016\356\252\032\2748Mi\341\037_P\030\270"
+ 407      36EEAA1A 
+ 407      BC384D69 
+ 407      E11F5F50 
+ 407      18B8
+ 408 0730 8E1AB8D6 		.ascii	"\216\032\270\326n`L\371\206~-7\260!\305\010\025\000"
+ 408      6E604CF9 
+ 408      867E2D37 
+ 408      B021C508 
+ 408      1500
+ 409 0742 AB1DA849 		.ascii	"\253\035\250I\200\241\325r\354\340\324\331\300\365\324"
+ 409      80A1D572 
+ 409      ECE0D4D9 
+ 409      C0F5D4
+ 410 0751 C0476DDD 		.ascii	"\300Gm\335\303\002\336\310\014<p.\363\241\210wQFX_\266"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 32
 
 
- 411      F5D4C0
- 412 0752 27AD5D83 		.ascii	"'\255]\203\002\336\304\014<p.\363\261\210wSFX_\266\243"
- 412      02DEC40C 
- 412      3C702EF3 
- 412      B1887753 
- 412      46585FB6 
- 413 0767 CFE86E4C 		.ascii	"\317\350nL\304\013\356\026\336\375'~\315\026\317\033"
- 413      C40BEE16 
- 413      DEFD277E 
- 413      CD16CF1B 
- 414 0777 05038A13 		.ascii	"\005\003\212\023\\\026\317\240\344X\\\372\010\246\036"
- 414      5C16CFA0 
- 414      E4585CFA 
- 414      08A61E
- 415 0786 13048B42 		.ascii	"\023\004\213B]\357p\216\326\021\205\004\026\205\003"
- 415      5DEF708E 
- 415      D6118504 
- 415      168503
- 416 0795 E9FBCA75 		.ascii	"\351\373\312un\243\260\231Fa\223=\012;\267f\326k\345"
- 416      6EA3B099 
- 416      4661933D 
- 416      0A3BB766 
- 416      D66BE5
- 417 07a8 34F596DF 		.ascii	"4\365\226\337\220$\203HPh\203l\304\006\327 l\241A8\265"
- 417      90248348 
- 417      5068836C 
- 417      C406D720 
- 417      6CA14138 
- 418 07bd 37EF157C 		.ascii	"7\357\025|\200\305 7\373Q>K\322\327\366\202Qi\352"
- 418      80C52037 
- 418      FB513E4B 
- 418      D2D7F682 
- 418      5169EA
- 419 07d0 3B549B8E 		.ascii	";T\233\216\335\332\266\235\332\226h\267\255 \2576\305"
- 419      DDDAB69D 
- 419      DA9668B7 
- 419      AD20AF36 
- 419      C5
- 420 07e1 A0AC56B8 		.ascii	"\240\254V\270\256\250\326$A1\215\376\220\234\222\341"
- 420      AEA8D624 
- 420      41318DFE 
- 420      909C92E1 
- 421 07f1 8D8FB314 		.ascii	"\215\217\263\024\034\275\322jE~F\026X\230;\262W\202"
- 421      1CBDD26A 
- 421      457E4616 
- 421      58983BB2 
- 421      5782
- 422 0803 1011A540 		.ascii	"\020\021\245@\207d\331\251$Z\355n\304\243\035\220)'"
- 422      8764D9A9 
- 422      245AED6E 
- 422      C4A31D90 
- 422      2927
- 423 0815 0D97AAAF 		.ascii	"\015\227\252\257\326{Po\210\234m,\326\327\3532\376\200"
- 423      D67B506F 
- 423      889C6D2C 
- 423      D6D7EB32 
- 423      FE80
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 33
+ 410      C302DEC8 
+ 410      0C3C702E 
+ 410      F3A18877 
+ 410      5146585F 
+ 411 0766 7DC0E86E 		.ascii	"}\300\350nL$\010\356\026\336\203'~\315\026\317\361\202"
+ 411      4C2408EE 
+ 411      16DE8327 
+ 411      7ECD16CF 
+ 411      F182
+ 412 0778 01C5092E 		.ascii	"\001\305\011.\213gPr,n\357\030\246\036\023\004\213B"
+ 412      8B675072 
+ 412      2C6EEF18 
+ 412      A61E1304 
+ 412      8B42
+ 413 078a 5DFF688E 		.ascii	"]\377h\216\326\021\205D\026\205\003{\367\225\353\334"
+ 413      D6118544 
+ 413      1685037B 
+ 413      F795EBDC 
+ 414 079a 4661138D 		.ascii	"Fa\023\215\302F{\024vl\311\254\327\312i\352/\277.I\006"
+ 414      C2467B14 
+ 414      766CC9AC 
+ 414      D7CA69EA 
+ 414      2FBF2E49 
+ 415 07af 91A0D006 		.ascii	"\221\240\320\006\331\210\015\256A\330L\203pjO\336\213"
+ 415      D9880DAE 
+ 415      41D84C83 
+ 415      706A4FDE 
+ 415      8B
+ 416 07c0 F8008B41 		.ascii	"\370\000\213An\366\203|\226\244\257\355\005\243\322"
+ 416      6EF6837C 
+ 416      96A4AFED 
+ 416      05A3D2
+ 417 07cf 34       		.ascii	"4"
+ 418 07d0 70A8762F 		.ascii	"p\250v/vk\3336j[\222\335\266\202\274\332T\203\262Z\341"
+ 418      766BDB36 
+ 418      6A5B92DD 
+ 418      B682BCDA 
+ 418      5483B25A 
+ 419 07e5 BAA25A93 		.ascii	"\272\242Z\223\005\3054\372CJj\2067>\316Rp\364J\233\025"
+ 419      05C534FA 
+ 419      434A6A86 
+ 419      373ECE52 
+ 419      70F44A9B 
+ 420 07fa F9195960 		.ascii	"\371\031Y`a\356\310^\011BD\224\012\035Rd\247\222i\265"
+ 420      61EEC85E 
+ 420      09424494 
+ 420      0A1D5264 
+ 420      A79269B5 
+ 421 080e BB118FB6 		.ascii	"\273\021\217\266C\246\2344\\\252\276Z\357A\275!r\266"
+ 421      43A69C34 
+ 421      5CAABE5A 
+ 421      EF41BD21 
+ 421      72B6
+ 422 0820 B2585FAB 		.ascii	"\262X_\253\313\370\003\256aZ\363\257\035\251\362T<\014"
+ 422      CBF803AE 
+ 422      615AF3AF 
+ 422      1DA9F254 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 33
 
 
- 424 0827 6B98D6FC 		.ascii	"k\230\326\374\353G\252<\025\017C\363\213i>wC\266v\271"
- 424      EB47AA3C 
- 424      150F43F3 
- 424      8B693E77 
- 424      43B676B9 
- 425 083b E653B538 		.ascii	"\346S\2658RU\212\203<C$\217d\263R'\242v2\305\331y\303"
- 425      52558A83 
- 425      3C43248F 
- 425      64B35227 
- 425      A27632C5 
- 426 0852 373D6923 		.ascii	"7=i#\231\341\322Xc}Ca\246\247\333\350\356\245\321\335"
- 426      99E1D258 
- 426      637D4361 
- 426      A6A7DBE8 
- 426      EEA5D1DD 
- 427 0866 638F6EF6 		.ascii	"c\217n\366\366\330|\203\234\371\265\225,\363\200B[e"
- 427      F6D87C83 
- 427      9CF9B595 
- 427      2CF38042 
- 427      5B65
- 428 0878 73B7BA66 		.ascii	"s\267\272f>\235f~M\237tH\207\257\270M\275s\260\3663"
- 428      3E9D667E 
- 428      4D9F7448 
- 428      87AFB84D 
- 428      BD73B0F6 
- 429 088d F3B6563E 		.ascii	"\363\266V>)\323\343^\026\255\264\374c\203\006E\264\346"
- 429      29D3E35E 
- 429      16ADB4FC 
- 429      63830645 
- 429      B4E6
- 430 089f 14D16865 		.ascii	"\024\321he\201\213\231/\024\255\003\352\321\312\337"
- 430      818B992F 
- 430      14AD03EA 
- 430      D1CADF
- 431 08ae 98FC2655 		.ascii	"\230\374&UL$e0\305\0251\271\321\006\267q\311\241q\311"
- 431      4C246530 
- 431      C51531B9 
- 431      D106B771 
- 431      C9A171C9 
- 432 08c2 B6C7A57B 		.ascii	"\266\307\245{Uw\255 \307%\233\307\005Ph\237l\330>\327"
- 432      5577AD20 
- 432      C7259BC7 
- 432      0550689F 
- 432      6CD83ED7 
- 433 08d6 B8E4D2B8 		.ascii	"\270\344\322\270l\330,\325\031\361 \213\313\360\231"
- 433      6CD82CD5 
- 433      19F1208B 
- 433      CBF099
- 434 08e5 6D59DE78 		.ascii	"mY\336x\245\007\365\367\334\370\261A\271:\332\316\342"
- 434      A507F5F7 
- 434      DCF8B141 
- 434      B93ADACE 
- 434      E2
- 435 08f6 A395B428 		.ascii	"\243\225\264(\017\202\231\371/\344\360\017\352\016\247"
- 435      0F8299F9 
- 435      2FE4F00F 
- 435      EA0EA7
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 34
+ 422      3C0C
+ 423 0832 2D28A6F9 		.ascii	"-(\246\371\334\005\331\332\351\232O\325\342HS)\016\362"
+ 423      DC05D9DA 
+ 423      E99A4FD5 
+ 423      E2485329 
+ 423      0EF2
+ 424 0844 0C913296 		.ascii	"\014\2212\226\315J\235\210\332\301\024g\347\215\366"
+ 424      CD4A9D88 
+ 424      DAC11467 
+ 424      E78DF6
+ 425 0853 79D24632 		.ascii	"y\322F2\303\245\263\306\372\206\302LO\267\321\335C\243"
+ 425      C3A5B3C6 
+ 425      FA86C24C 
+ 425      4FB7D1DD 
+ 425      43A3
+ 426 0865 BBDB1EDD 		.ascii	"\273\333\036\335\354m\261\371\0069\363k+Y\346\001\205"
+ 426      EC6DB1F9 
+ 426      0639F36B 
+ 426      2B59E601 
+ 426      85
+ 427 0876 B6C8E66E 		.ascii	"\266\310\346nq\315\374^\232\3715\003\322!\035\276\342"
+ 427      71CDFC5E 
+ 427      9AF93503 
+ 427      D2211DBE 
+ 427      E2
+ 428 0887 36F5CEC1 		.ascii	"6\365\316\301\332\317\314\333R\371\250L\217\373Y\264"
+ 428      DACFCCDB 
+ 428      52F9A84C 
+ 428      8FFB59B4 
+ 429 0897 D2F38F0D 		.ascii	"\322\363\217\015\033\024\321\232_D\243\225\005.f>S\264"
+ 429      1B14D19A 
+ 429      5F44A395 
+ 429      052E663E 
+ 429      53B4
+ 430 08a9 0EA8472B 		.ascii	"\016\250G+?>\3455\252\230H\312`\212+br\243\015n\343"
+ 430      3F3EE535 
+ 430      AA9848CA 
+ 430      608A2B62 
+ 430      72A30D6E 
+ 431 08be 9243E392 		.ascii	"\222C\343\222m\217K\317\252\236ZA\216K6\217\013\240"
+ 431      6D8F4BCF 
+ 431      AA9E5A41 
+ 431      8E4B368F 
+ 431      0BA0
+ 432 08d0 D03ED9B0 		.ascii	"\320>\331\260}\256q\311\245q\331\260I\2523\342a\026"
+ 432      7DAE71C9 
+ 432      A571D9B0 
+ 432      49AA33E2 
+ 432      6116
+ 433 08e2 97D1335B 		.ascii	"\227\3213[\263\274\361J\017\352\357\271\311c\303ru\264"
+ 433      B3BCF14A 
+ 433      0FEAEFB9 
+ 433      C963C372 
+ 433      75B4
+ 434 08f4 9FC5472B 		.ascii	"\237\305G+iQ\036\0043\363\237\311\341\037\324\035N\213"
+ 434      69511E04 
+ 434      33F39FC9 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 34
 
 
- 436 0905 C6941F64 		.ascii	"\306\224\037d\225p\3201/\254yX\324ap\224\314!\026\205"
- 436      9570D031 
- 436      2FAC7958 
- 436      D4617094 
- 436      CC211685 
- 437 0919 C4F54D85 		.ascii	"\304\365M\205\036\216\222)`\215+\327\347l3\300\335\335"
- 437      1E8E9229 
- 437      608D2BD7 
- 437      E76C33C0 
- 437      DDDD
- 438 092b 83DDF075 		.ascii	"\203\335\360u$\000\003c\207E\326Dl]\001M)\333[~\360"
- 438      24000363 
- 438      8745D644 
- 438      6C5D014D 
- 438      29DB5B7E 
- 439 0940 C105CC93 		.ascii	"\301\005\314\223\276\216\325k\364\362\356E\301\233\021"
- 439      BE8ED56B 
- 439      F4F2EE45 
- 439      C19B11
- 440 094f F45E7E0C 		.ascii	"\364^~\0144\035\225\035\361\340~HO\371Q\004~xp?\216"
- 440      341D951D 
- 440      F1E07E48 
- 440      4FF95104 
- 440      7E78703F 
- 441 0964 0833D061 		.ascii	"\0103\320a\201\37218:P \342\023L\307\232\216\301'\223"
- 441      81FA3138 
- 441      3A5020E2 
- 441      134CC79A 
- 441      8EC12793 
- 442 0978 D824FAB4 		.ascii	"\330$\372\264\200\343*\002\034\017\264\205\364\201\266"
- 442      80E32A02 
- 442      1C0FB485 
- 442      F481B6
- 443 0987 048C2996 		.ascii	"\004\214)\226\215\001\333Xr\033\327]\272\346\201\253"
- 443      8D01DB58 
- 443      721BD75D 
- 443      BAE681AB 
- 444 0997 9892D1DB 		.ascii	"\230\222\321\333\3259^\016Gn6\341\325{\342HJJ\241\363"
- 444      D5395E0E 
- 444      476E36E1 
- 444      D57BE248 
- 444      4A4AA1F3 
- 445 09ab 09B97389 		.ascii	"\011\271s\211\340\326\225\223\352\256d\367\225\0178"
- 445      E0D69593 
- 445      EAAE64F7 
- 445      950F38
- 446 09ba D51B9128 		.ascii	"\325\033\221(\027\334)Zp\205\366\202\3335Rs\327(\027"
- 446      17DC295A 
- 446      7085F682 
- 446      DB355273 
- 446      D72817
- 447 09cd 5CDB0D56 		.ascii	"\\\333\015Vp\200By\262\025y\256\005WF\013\256nu\354"
- 447      70804279 
- 447      B21579AE 
- 447      0557460B 
- 447      AE6E75EC 
- 448 09e1 B0175EA9 		.ascii	"\260\027^\251C\356J\341\350\241\214\023\242c@T\260\254"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 35
+ 434      E11FD41D 
+ 434      4E8B
+ 435 0906 293FC82A 		.ascii	")?\310*\341\240c^Xs\277\250\323\340(\231C,\012I\353"
+ 435      E1A0635E 
+ 435      5873BFA8 
+ 435      D3E02899 
+ 435      432C0A49 
+ 436 091b 9B0A3D1C 		.ascii	"\233\012=\034%S\300\032W\256\317\331j\200\273\273\007"
+ 436      2553C01A 
+ 436      57AECFD9 
+ 436      6A80BBBB 
+ 436      07
+ 437 092c BBE1EB48 		.ascii	"\273\341\353H\000\206&\016\213\254\211\330\272\002\232"
+ 437      0086260E 
+ 437      8BAC89D8 
+ 437      BA029A
+ 438 093b 52B7B5FE 		.ascii	"R\267\265\376\340\203\013\230'\003\235\253\327\350\345"
+ 438      E0830B98 
+ 438      27039DAB 
+ 438      D7E8E5
+ 439 094a DD8B82D7 		.ascii	"\335\213\202\327\"\350\275\374\030h:*;\342\301\375\220"
+ 439      22E8BDFC 
+ 439      18683A2A 
+ 439      3BE2C1FD 
+ 439      90
+ 440 095b 1EF3A308 		.ascii	"\036\363\243\010\374\360\340~\034\021f\243\303\002\365"
+ 440      FCF0E07E 
+ 440      1C1166A3 
+ 440      C302F5
+ 441 096a 63787CA8 		.ascii	"cx|\250@\304'\230\2165\235\303\217\246\261I\364q\001"
+ 441      40C42798 
+ 441      8E359DC3 
+ 441      8FA6B149 
+ 441      F47101
+ 442 097d C7550438 		.ascii	"\307U\0048\036h\013\351\003m\011\030S,\033\003\266\261"
+ 442      1E680BE9 
+ 442      036D0918 
+ 442      532C1B03 
+ 442      B6B1
+ 443 098f E436AEBB 		.ascii	"\3446\256\273\324\342\201\253\230\222\361\233\3259^"
+ 443      D4E281AB 
+ 443      9892F19B 
+ 443      D5395E
+ 444 099e 0E47FA9A 		.ascii	"\016G\372\232\360\352\335q$%\245\320\371\204\334\271"
+ 444      F0EADD71 
+ 444      2425A5D0 
+ 444      F984DCB9 
+ 445 09ae 4470EBCA 		.ascii	"Dp\353\312IuW\262\007\312\207\234\352\215H\224\013\356"
+ 445      497557B2 
+ 445      07CA879C 
+ 445      EA8D4894 
+ 445      0BEE
+ 446 09c0 142DB842 		.ascii	"\024-\270B{\301\355\034\253\271m\224\013\256\375:+8"
+ 446      7BC1ED1C 
+ 446      ABB96D94 
+ 446      0BAEFD3A 
+ 446      2B38
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 35
 
 
- 448      43EE4AE1 
- 448      E8A18C13 
- 448      A2634054 
- 448      B0AC
- 449 09f3 37B5EFD8 		.ascii	"7\265\357\330\356\351\336\300*j`\245\343V>\226x\332"
- 449      EEE9DEC0 
- 449      2A6A60A5 
- 449      E3563E96 
- 449      78DA
- 450 0a05 931BD839 		.ascii	"\223\033\3309\337q\243\004\024*\227\015,w5\36045\360"
- 450      DF71A304 
- 450      142A970D 
- 450      2C7735F0 
- 450      3435F0
- 451 0a18 6E7AD4A6 		.ascii	"nz\324\246Ix;3P\355\036\366c\314\215:\344\270\273\237"
- 451      49783B33 
- 451      50ED1EF6 
- 451      63CC8D3A 
- 451      E4B8BB9F 
- 452 0a2c 61065E78 		.ascii	"a\006^x\264\357\264\326Q\253gYcgGS\211\373\233G-5\272"
- 452      B4EFB4D6 
- 452      51AB6759 
- 452      63674753 
- 452      89FB9B47 
- 453 0a43 C66EF495 		.ascii	"\306n\364\225\244=\345\304\350v\266D~\234\337-\305\032"
- 453      A43DE5C4 
- 453      E876B644 
- 453      7E9CDF2D 
- 453      C51A
- 454 0a55 280A55CB 		.ascii	"(\012U\313FW\023\243\311\3119jlr\344\306\223^8\317}"
+ 447 09d2 40A13CD9 		.ascii	"@\241<\331\212<\327\202+\243\005W\267:v\324\013\257"
+ 447      8A3CD782 
+ 447      2BA30557 
+ 447      B73A76D4 
+ 447      0BAF
+ 448 09e4 D42177A5 		.ascii	"\324!w\245p\364P\306\011\3211 *X\326\233:\266o\363t"
+ 448      70F450C6 
+ 448      09D13120 
+ 448      2A58D69B 
+ 448      3AB66FF3 
+ 449 09f9 6F601535 		.ascii	"o`\0255\260\322q+\237H:\355\311\015\354Z\340\270Q\002"
+ 449      B0D2712B 
+ 449      9F483AED 
+ 449      C90DEC5A 
+ 449      E0B85102 
+ 450 0a0d 0A95CB06 		.ascii	"\012\225\313\006\226\273\032x\232\032x{o\324\306ix\033"
+ 450      96BB1A78 
+ 450      9A1A787B 
+ 450      6FD4C669 
+ 450      781B
+ 451 0a1f 3350ED1E 		.ascii	"3P\355\036\366c\314\365:\344\270\273\237a\006^x\260"
+ 451      F663CCF5 
+ 451      3AE4B8BB 
+ 451      9F61065E 
+ 451      78B0
+ 452 0a31 EFB4D651 		.ascii	"\357\264\326Q\253gYcWgS\211\373\233G-5\272\306n\364"
+ 452      AB675963 
+ 452      57675389 
+ 452      FB9B472D 
+ 452      35BAC66E 
+ 453 0a46 95E4DDE5 		.ascii	"\225\344\335\345\304\350\016\266D~\230\337#\305\032"
+ 453      C4E80EB6 
+ 453      447E98DF 
+ 453      23C51A
+ 454 0a55 280A55CB 		.ascii	"(\012U\313FW\023\243\311\3119jlJd\374I/\234\347>\232"
  454      465713A3 
  454      C9C9396A 
- 454      6C72E4C6 
- 454      935E38CF 
- 455 0a6a 3437B68C 		.ascii	"47\266\214\226x\341\012\0068r/\353\2107[X\227\022>\243"
- 455      9678E10A 
- 455      0638722F 
- 455      EB88375B 
- 455      5897123E 
- 456 0a7f 67C70623 		.ascii	"g\307\006#\343\347\003{\371Bk:\306g\030V\332\374h\227"
- 456      E3E7037B 
- 456      F9426B3A 
- 456      C6671856 
- 456      DAFC6897 
- 457 0a93 37BE4819 		.ascii	"7\276H\031A\272QyCp\267Dhp\273D\200\012\215e\025z\005"
- 457      41BA5179 
- 457      4370B744 
- 457      6870BB44 
- 457      800A8D65 
- 458 0aaa 0CBAACB2 		.ascii	"\014\272\254\262Fh9\264\276\\\217\233\231\312\254\207"
- 458      466839B4 
- 458      BE5C8F9B 
- 458      99CAAC87 
- 459 0aba D1859370 		.ascii	"\321\205\223p\247\263\255\323\270\255c\233\212\012\275"
- 459      A7B3ADD3 
- 459      B8AD639B 
- 459      8A0ABD
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 36
+ 454      6C4A64FC 
+ 454      492F9CE7 
+ 455 0a6b F1ADE325 		.ascii	"\361\255\343%^\270\202\001\216\334\311:\342\315\026"
+ 455      5EB88201 
+ 455      8EDCC93A 
+ 455      E2CD16
+ 456 0a7a D6A584CF 		.ascii	"\326\245\204\317\350\335\276\301\310\370\005\300^\276"
+ 456      E8DDBEC1 
+ 456      C8F805C0 
+ 456      5EBE
+ 457 0a88 D0B617E3 		.ascii	"\320\266\027\3433\014+mz\260\323\033_\244\214 ]\257"
+ 457      330C2B6D 
+ 457      7AB0D31B 
+ 457      5FA48C20 
+ 457      5DAF
+ 458 0a9a BC2EB85B 		.ascii	"\274.\270[\"4\270]\"@\205\306\262\012\275\002\006]V"
+ 458      2234B85D 
+ 458      224085C6 
+ 458      B20ABD02 
+ 458      065D56
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 36
 
 
- 460 0ac9 F02D76F1 		.ascii	"\360-v\361\324\223\246\035\006|\2171\207{\316T\031\030"
- 460      D493A61D 
- 460      067C8F31 
- 460      877BCE54 
- 460      1918
- 461 0adb 5242C03F 		.ascii	"RB\300?N?\177U\217\207\331\305\342#%U|\013t\016\260"
- 461      4E3F7F55 
- 461      8F87D9C5 
- 461      E2232555 
- 461      7C0B740E 
- 462 0af0 51DD291D 		.ascii	"Q\335)\035>x\202]\253\212\213^g\300\261z\352b\326\372"
- 462      3E78825D 
- 462      AB8A8B5E 
- 462      67C0B17A 
- 462      EA62D6FA 
- 463 0b04 D83EB7DB 		.ascii	"\330>\267\333\217\235n]l\236N\226\257\035\340^\273\212"
- 463      8F9D6E5D 
- 463      6C9E4E96 
- 463      AF1DE05E 
- 463      BB8A
- 464 0b16 7B99C786 		.ascii	"{\231\307\206\322=\360f\252\001uN\214\377\005\247\260"
- 464      D23DF066 
- 464      AA01754E 
- 464      8CFF05A7 
- 464      B0
- 465 0b27 F3D5D9AB 		.ascii	"\363\325\331\253\253|p:c\322N\026\367\351p!c2n\267="
- 465      AB7C703A 
- 465      63D24E16 
- 465      F7E97021 
- 465      63326EB7 
- 466 0b3c C6B88231 		.ascii	"\306\270\2021\035-\247\363}p\025c\212\037&\027O\302"
- 466      1D2DA7F3 
- 466      7D701563 
- 466      8A1F2617 
- 466      4FC2
- 467 0b4e E71873AE 		.ascii	"\347\030s\256kb\320\200/3\346H\322x\251\210\257\361"
- 467      6B62D080 
- 467      2F33E648 
- 467      D278A988 
- 467      AFF1
- 468 0b60 3ED2A3ED 		.ascii	">\322\243\355F\334\306\274*\316\331\023+\337\264nSc"
- 468      46DCC6BC 
- 468      2ACED913 
- 468      2BDFB46E 
- 468      5363
- 469 0b72 EF81B17D 		.ascii	"\357\201\261}/4[\334U\237-\326n\271\273\317\007\337"
- 469      2F345BDC 
- 469      559F2DD6 
- 469      6EB9BBCF 
- 469      07DF
- 470 0b84 60EA2E8E 		.ascii	"`\352.\216\305\216\213x\2201U\347S\207\364x\2141E\361"
- 470      C58E8B78 
- 470      903155E7 
- 470      5387F478 
- 470      8C3145F1 
- 471 0b98 0977F558 		.ascii	"\011w\365X\362\244Lk\342\332b/\274\2111'\342\006\217"
- 471      F2A44C6B 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 37
+ 459 0aad 5923B41E 		.ascii	"Y#\264\036Z_\256\307\315Le\326\375\350\302i\270\313"
+ 459      5A5FAEC7 
+ 459      CD4C65D6 
+ 459      FDE8C269 
+ 459      B8CB
+ 460 0abf D9D699DC 		.ascii	"\331\326\231\334\326\211\215E\205^\370\006\273x\352"
+ 460      D6898D45 
+ 460      855EF806 
+ 460      BB78EA
+ 461 0ace 51D37603 		.ascii	"Q\323v\003\276\303\230\303\275g\252\014\014)!\340\037"
+ 461      BEC398C3 
+ 461      BD67AA0C 
+ 461      0C2921E0 
+ 461      1F
+ 462 0adf EE3D7F55 		.ascii	"\356=\177U\217G\331\305\342#%U|\013t>\260Q=\251\235"
+ 462      8F47D9C5 
+ 462      E2232555 
+ 462      7C0B743E 
+ 462      B0513DA9 
+ 463 0af4 3E788A5D 		.ascii	">x\212]\253\212\213^g\300\261z\352b\326\372\330\001"
+ 463      AB8A8B5E 
+ 463      67C0B17A 
+ 463      EA62D6FA 
+ 463      D801
+ 464 0b06 B7DB8F5D 		.ascii	"\267\333\217]n]l\236E\226\257\235\340^\207\212{\231"
+ 464      6E5D6C9E 
+ 464      4596AF9D 
+ 464      E05E878A 
+ 464      7B99
+ 465 0b18 C746F67A 		.ascii	"\307F\366z\340MT\003\352\232\232\374\013Ne\347\253\263"
+ 465      E04D5403 
+ 465      EA9A9AFC 
+ 465      0B4E65E7 
+ 465      ABB3
+ 466 0b2a 5757F9E0 		.ascii	"WW\371\340\275\214I?Y<\240\303\205\214\311\270\331\376"
+ 466      BD8C493F 
+ 466      593CA0C3 
+ 466      858CC9B8 
+ 466      D9FE
+ 467 0b3c 10E30AC6 		.ascii	"\020\343\012\306t\266\236\316\367\301U\214)\276\237"
+ 467      74B69ECE 
+ 467      F7C1558C 
+ 467      29BE9F
+ 468 0b4b 523C0D9F 		.ascii	"R<\015\237c\314\271\356\251a\003\276\314\230#\311\223"
+ 468      63CCB9EE 
+ 468      A96103BE 
+ 468      CC9823C9 
+ 468      93
+ 469 0b5c A5226EE1 		.ascii	"\245\"n\341}\244\007\333\214\270\235yU\234\263;V\276"
+ 469      7DA407DB 
+ 469      8CB89D79 
+ 469      559CB33B 
+ 469      56BE
+ 470 0b6e 69DDA4C6 		.ascii	"i\335\244\306\336\001c\007\236i\266\270\255>[\254\335"
+ 470      DE016307 
+ 470      9E69B6B8 
+ 470      AD3E5BAC 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 37
 
 
- 471      E2DA622F 
- 471      BC893127 
- 471      E2068F
- 472 0bab 7AE224C6 		.ascii	"z\342$\306\304\214t\346O\302{\030s;\252\264C\304\007"
- 472      C48C74E6 
- 472      4FC27B18 
- 472      733BAAB4 
- 472      43C407
- 473 0bbe 1893B7B2 		.ascii	"\030\223\267\262;\223l\307\314\200\251\036)\036\354"
- 473      3B936CC7 
- 473      CC80A91E 
- 473      291EEC
- 474 0bcd 66B007BB 		.ascii	"f\260\007\273\202\322\241\034\021\347Q\254p\270\240"
- 474      82D2A11C 
- 474      11E751AC 
- 474      70B8A0
- 475 0bdc 3BC9A0D8 		.ascii	";\311\240\330\241~\371(\331a|\004\256\216\312\256\316"
- 475      A17EF928 
- 475      D9617C04 
- 475      AE8ECAAE 
- 475      CE
- 476 0bed 70DCAA06 		.ascii	"p\334\252\006\322$<]\203\336\231\201\346\200\237c\340"
- 476      D2243C5D 
- 476      83DE9981 
- 476      E6809F63 
- 476      E0
- 477 0bfe E70CEEE7 		.ascii	"\347\014\356\347\010\370\371\220\371\231\271+\243\302"
- 477      08F8F990 
- 477      F999B92B 
- 477      A3C2
- 478 0c0c 1B173105 		.ascii	"\033\0271\005\333\267\234*\360QlD\316<D\347\355q\320"
- 478      DBB79C2A 
- 478      F0516C44 
- 478      CE3C44E7 
- 478      ED71D0
- 479 0c1f F058D6F0 		.ascii	"\360X\326\360Hp\243\342\211\272\212\310M\227\262=\361"
- 479      4870A3E2 
- 479      89BA8AC8 
- 479      4D97B23D 
- 479      F1
- 480 0c30 29A6A2A3 		.ascii	")\246\242\243\264<\001+\247\367\3611\262\302\210\300"
- 480      B43C012B 
- 480      A7F7F131 
- 480      B2C288C0 
- 481 0c40 E0BFAC62 		.ascii	"\340\277\254b\334\235\012\011\253\252\330\222\3243\035"
- 481      DC9D0A09 
- 481      ABAAD892 
- 481      D4331D
- 482 0c4f 9F61115D 		.ascii	"\237a\021]\273n<\017\343\363L]\312\211\2618\331\243"
- 482      BB6E3C0F 
- 482      E3F34C5D 
- 482      CA89B138 
- 482      D9A3
- 483 0c61 4EDD0768 		.ascii	"N\335\007h%h\212\302\317\327\024\255\256\351zJ\377\220"
- 483      25688AC2 
- 483      CFD714AD 
- 483      AEE97A4A 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 38
+ 470      DD
+ 471 0b7f 7C7B9F0F 		.ascii	"|{\237\017\276\316\324]\234\210\235\024\3610c\252\316"
+ 471      BECED45D 
+ 471      9C889D14 
+ 471      F13063AA 
+ 471      CE
+ 472 0b90 A78DE8F1 		.ascii	"\247\215\350\361\004c\212\022\022o\353\261\344I\231"
+ 472      04638A12 
+ 472      126FEBB1 
+ 472      E44999
+ 473 0b9f B6A4B5C5 		.ascii	"\266\244\265\305^x#cN\304\015\037\365\304\311\214\211"
+ 473      5E782363 
+ 473      4EC40D1F 
+ 473      F5C4C98C 
+ 473      89
+ 474 0bb0 19EBCA9F 		.ascii	"\031\353\312\237\206w3\346fTi\247\210\0170&oeO&\331"
+ 474      867733E6 
+ 474      665469A7 
+ 474      880F3026 
+ 474      6F654F26 
+ 475 0bc5 8E990D53 		.ascii	"\216\231\015S=R<\330\315f\017v\005\245#9\"\316\243X"
+ 475      3D523CD8 
+ 475      CD660F76 
+ 475      05A52339 
+ 475      22CEA358 
+ 476 0bd9 E170414F 		.ascii	"\341pAO\262A\261C\375\302Q\262\303\370\000\\\035\227"
+ 476      B241B143 
+ 476      FDC251B2 
+ 476      C3F8005C 
+ 476      1D97
+ 477 0beb 5D9DEDB8 		.ascii	"]\235\355\270U\015\245Kx\226\006\275=\033\315\007?'"
+ 477      550DA54B 
+ 477      789606BD 
+ 477      3D1BCD07 
+ 477      3F27
+ 478 0bfd C0CFD9DC 		.ascii	"\300\317\331\334\3171\360\363>\3633sgF\2057.b\012\266"
+ 478      CF31F0F3 
+ 478      3EF33373 
+ 478      67468537 
+ 478      2E620AB6 
+ 479 0c11 6D3E55E0 		.ascii	"m>U\340\243\330\210\234s\210\316\333\223\240\341\241"
+ 479      A3D8889C 
+ 479      7388CEDB 
+ 479      93A0E1A1 
+ 480 0c21 ACE181E0 		.ascii	"\254\341\201\340F\305#u\025\221\033/e{\342SLEgiy\"V"
+ 480      46C52375 
+ 480      15911B2F 
+ 480      657BE253 
+ 480      4C456769 
+ 481 0c38 4EEF9313 		.ascii	"N\357\223\023d\205\021\201\301\177Y\305\244;\025\022"
+ 481      64851181 
+ 481      C17F59C5 
+ 481      A43B1512 
+ 482 0c48 5655B139 		.ascii	"VU\2619\271w\026>\303\"\272v\335d\036\306\347\231\272"
+ 482      B977163E 
+ 482      C322BA76 
+ 482      DD641EC6 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 38
 
 
- 483      FF90
- 484 0c73 881B99AA 		.ascii	"\210\033\231\252\275\345y\365:|\235\251\352\352=8\342"
- 484      BDE579F5 
- 484      3A7C9DA9 
- 484      EAEA3D38 
- 484      E2
- 485 0c84 2D9721A8 		.ascii	"-\227!\250Z\015\252b^@U\254\272\252\261\315\211\357"
- 485      5A0DAA62 
- 485      5E4055AC 
- 485      BAAAB1CD 
- 485      89EF
- 486 0c96 E01EA6E9 		.ascii	"\340\036\246\351nz\335A\262\211\347g@\177ST\211\037"
- 486      6E7ADD41 
- 486      B289E767 
- 486      407F5354 
- 486      891F
- 487 0ca8 AB921DF1 		.ascii	"\253\222\035\361\235\333<\361]f\307\316\276\253Q\336"
- 487      9DDB3CF1 
- 487      5D66C7CE 
- 487      BEAB51DE 
- 488 0cb8 8A95C0FB 		.ascii	"\212\225\300\373\354=F\034\030\263^6\306\317aKj\224"
- 488      EC3D461C 
- 488      18B35E36 
- 488      C6CF614B 
- 488      6A94
- 489 0cca F49388B9 		.ascii	"\364\223\210\271\032\324\004\232\311\023;\332\000\346"
- 489      1AD4049A 
- 489      C9133BDA 
- 489      00E6
- 490 0cd8 F87173D6 		.ascii	"\370qs\326\341\031h-\246\346\304Dg\304y\341\021\246"
- 490      E119682D 
- 490      A6E6C444 
- 490      67C479E1 
- 490      11A6
- 491 0cea A4F2DAAA 		.ascii	"\244\362\332\252o\225;\326\247i\241$\200\216\215\262"
- 491      6F953BD6 
- 491      A769A124 
- 491      808E8DB2 
- 492 0cfa 0E50E956 		.ascii	"\016P\351VI\274\272\222\326\274k\025\"\216\240n\011"
- 492      49BCBA92 
- 492      D6BC6B15 
- 492      228EA06E 
- 492      09
- 493 0d0b 17B7ADEA 		.ascii	"\027\267\255\352\227_d\334<\243\275^NWg[@\315&YM\302"
- 493      975F64DC 
- 493      3CA3BD5E 
- 493      4E57675B 
- 493      40CD2659 
- 494 0d21 33D46C56 		.ascii	"3\324lVW\223\321\337{\306G\371\020CD\312\0171[\261\375"
- 494      5793D1DF 
- 494      7BC647F9 
- 494      104344CA 
- 494      0F315BB1 
- 495 0d36 913BB2F3 		.ascii	"\221;\262\363p\003\302\207Y\230\257\214\034\0373\342"
- 495      7003C287 
- 495      5998AF8C 
- 495      1C1F33E2 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 39
+ 482      E799BA
+ 483 0c5b D4131371 		.ascii	"\324\023\023q\262G]\272\367\321J\320\024\205\237\256"
+ 483      B2475DBA 
+ 483      F7D14AD0 
+ 483      14859FAE 
+ 484 0c6b 295A5DD3 		.ascii	")Z]\323\265\324\301\021\02172U{\312\363\352u\370\032"
+ 484      B5D4C111 
+ 484      11373255 
+ 484      7BCAF3EA 
+ 484      75F81A
+ 485 0c7e 53D5DD7F 		.ascii	"S\325\335\177p\314[.CP\265\032T\305<\203\252XuU\023"
+ 485      70CC5B2E 
+ 485      4350B51A 
+ 485      54C53C83 
+ 485      AA587555 
+ 486 0c93 9B92DEC6 		.ascii	"\233\222\336\306\275L\323\355\275u\007\311&\236\237"
+ 486      BD4CD3ED 
+ 486      BD7507C9 
+ 486      269E9F
+ 487 0ca2 01FD4D51 		.ascii	"\001\375MQ%~\254J\266'tm\365\304\267\231\035;\006\256"
+ 487      257EAC4A 
+ 487      B627746D 
+ 487      F5C4B799 
+ 487      1D3B06AE 
+ 488 0cb6 46792B56 		.ascii	"Fy+V\002\357\261\367\030q`\314z\331\030?\207-iQ\322"
+ 488      02EFB1F7 
+ 488      187160CC 
+ 488      7AD9183F 
+ 488      872D6951 
+ 489 0ccb 4F22DED4 		.ascii	"O\"\336\324\240&\320L\236\330\321\0060\307\217\233\263"
+ 489      A026D04C 
+ 489      9ED8D106 
+ 489      30C78F9B 
+ 489      B3
+ 490 0cdc 0ECF466B 		.ascii	"\016\317Fk15'&:#\316\013\2171%\225-\253\276U\356X\237"
+ 490      31352726 
+ 490      3A23CE0B 
+ 490      8F312595 
+ 490      2DABBE55 
+ 491 0cf3 A6859208 		.ascii	"\246\205\222\010:\342e\035\240\322\255\222\004u%my-"
+ 491      3AE2651D 
+ 491      A0D2AD92 
+ 491      0475256D 
+ 491      792D
+ 492 0d05 15228EA0 		.ascii	"\025\"\216\240n\011\027\267\256\032\224_d\364\235\321"
+ 492      6E0917B7 
+ 492      AE1A945F 
+ 492      64F49DD1 
+ 493 0d15 5E2BA7AB 		.ascii	"^+\247\253\263\315\240f\243\254&\361\011j6\251\253\311"
+ 493      B3CDA066 
+ 493      A3AC26F1 
+ 493      096A36A9 
+ 493      ABC9
+ 494 0d27 18EC3FE3 		.ascii	"\030\354?\343\243|\210!\"\345\207\230-\330\376\310\035"
+ 494      A37C8821 
+ 494      22E58798 
+ 494      2DD8FEC8 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 39
 
 
- 496 0d46 62CA88ED 		.ascii	"b\312\210\355{\006\357x \277\031\010\031\200\366\331"
- 496      7B06EF78 
- 496      20BF1908 
- 496      1980F6D9 
- 497 0d56 DF5B6950 		.ascii	"\337[iP2\210J\304\230o'h\222$\260l\340o\244Y-\367\333"
- 497      32884AC4 
- 497      986F2768 
- 497      9224B06C 
- 497      E06FA459 
- 498 0d6d C1407209 		.ascii	"\301@r\011\236m\300\274$0/\011\246/\322Bnl\347v'{\032"
- 498      9E6DC0BC 
- 498      24302F09 
- 498      A62FD242 
- 498      6E6CE776 
- 499 0d84 78AFD867 		.ascii	"x\257\330g\366\002\364\300P\313eA\351T\212\223S;\035"
- 499      F602F4C0 
- 499      50CB6541 
- 499      E9548A93 
- 499      533B1D
- 500 0d97 4E9D3A17 		.ascii	"N\235:\027\225\351\205K\231S\235Ovw\353p\025cF\022\317"
- 500      95E9854B 
- 500      99539D4F 
- 500      7677EB70 
- 500      15634612 
- 501 0dac ECF5C6B5 		.ascii	"\354\365\306\265\214I\310\276\320\350\201/0\2465w\274"
- 501      8C49C8BE 
- 501      D0E8812F 
- 501      30A63577 
- 501      BC
- 502 0dbd C4035F62 		.ascii	"\304\003_b\314\256\226\3739:\334\300\262t\352\312\356"
- 502      CCAE96FB 
- 502      393ADCC0 
- 502      B274EACA 
- 502      EE
- 503 0dce 4C6FE7ED 		.ascii	"Lo\347\3551X\0028\346\327}`\352\327\316\233c\367v\274"
- 503      31580238 
- 503      E6D77D60 
- 503      EAD7CE9B 
- 503      63F776BC 
- 504 0de2 4A775ED2 		.ascii	"Jw^\322\261\021\355\225\363\3705\337\032k\217\254\272"
- 504      B111ED95 
- 504      F3F835DF 
- 504      1A6B8FAC 
- 504      BA
- 505 0df3 A4C76D4C 		.ascii	"\244\307mL\325\375{\227\037{\343.\306H\243'\232=\360"
- 505      D5FD7B97 
- 505      1F7BE32E 
- 505      C648A327 
- 505      9A3DF0
- 506 0e06 4DC65CDB 		.ascii	"M\306\\\3332\322\356\211o3\246\372\312\332\223\"\276"
- 506      32D2EE89 
- 506      6F33A6FA 
- 506      CADA9322 
- 506      BE
- 507 0e17 CB98FD35 		.ascii	"\313\230\3755\355\222\026\0170\246dM\315c=\036bL\322"
- 507      ED92160F 
- 507      30A6644D 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 40
+ 494      1D
+ 495 0d38 D975B801 		.ascii	"\331u\270\001\341\303,\314W\306\216O\030q1e\304\216"
+ 495      E1C32CCC 
+ 495      57C68E4F 
+ 495      18713165 
+ 495      C48E
+ 496 0d4a DDC3B73C 		.ascii	"\335\303\267<\220\337l\204\014@\373\354\357\2554(\005"
+ 496      90DF6C84 
+ 496      0C40FBEC 
+ 496      EFAD3428 
+ 496      05
+ 497 0d5b 442561CC 		.ascii	"D%a\314\267\0234\311\022X6\3647\322\254\226\373m` \271"
+ 497      B71334C9 
+ 497      125836F4 
+ 497      37D2AC96 
+ 497      FB6D6020 
+ 498 0d70 04CF3660 		.ascii	"\004\3176`^2\230\227\014\323\027i!7\266s\273R<\015\274"
+ 498      5E329897 
+ 498      0CD31769 
+ 498      2137B673 
+ 498      BB523C0D 
+ 499 0d85 57EC137B 		.ascii	"W\354\023{\001zh\244\365\262\240t*\325\311\251\035\016"
+ 499      017A68A4 
+ 499      F5B2A074 
+ 499      2AD5C9A9 
+ 499      1D0E
+ 500 0d97 A74E9D8B 		.ascii	"\247N\235\213\312\364\302\245\314\251\256G\273zt\270"
+ 500      CAF4C2A5 
+ 500      CCA9AE47 
+ 500      BB7A74B8 
+ 501 0da7 8A316349 		.ascii	"\2121cIg\366x\343Z\306$f_h\364\300\027\030\323\226;"
+ 501      67F678E3 
+ 501      5AC62466 
+ 501      5F68F4C0 
+ 501      1718D396 
+ 502 0dbc 59E2812F 		.ascii	"Y\342\201/1fg\353\335\034\035n`Y:ueW\246\267\363\366"
+ 502      316667EB 
+ 502      DD1C1D6E 
+ 502      60593A75 
+ 502      6557A6B7 
+ 503 0dd2 182C011C 		.ascii	"\030,\001\034\363\353>0\365k\347\315\261;\333_\242;"
+ 503      F3EB3E30 
+ 503      F56BE7CD 
+ 503      B13BDB5F 
+ 503      A23B
+ 504 0de4 2F7BB111 		.ascii	"/{\261\021\355\221\363\3705\337\032\353\210\254\272"
+ 504      ED91F3F8 
+ 504      35DF1AEB 
+ 504      88ACBA
+ 505 0df3 A4C7ED4C 		.ascii	"\244\307\355L\325\335;\227\037z\343n\306H\343'\232="
+ 505      D5DD3B97 
+ 505      1F7AE36E 
+ 505      C648E327 
+ 505      9A3D
+ 506 0e05 701F635A 		.ascii	"p\037cZ6\217ux\342\233\214\251\276\262\366\244\210o"
+ 506      368F7578 
+ 506      E29B8CA9 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 40
 
 
- 507      CD633D1E 
- 507      624CD2
- 508 0e2a B1984803 		.ascii	"\261\230H\003\036fL\326\304P\234\021\217r\317K\352\323"
- 508      1E664CD6 
- 508      C4509C11 
- 508      8F72CF4B 
- 508      EAD3
- 509 0e3c 04760FF5 		.ascii	"\004v\017\365%\217\353\245k\2531\273\337\246\012\333"
- 509      258FEBA5 
- 509      6BAB31BB 
- 509      DFA60ADB 
- 510 0e4c B0D796B4 		.ascii	"\260\327\226\264\302\012\037\373\316\370T_\372>\"\022"
- 510      C20A1FFB 
- 510      CEF8545F 
- 510      FA3E2212 
- 511 0e5c D630B7B4 		.ascii	"\3260\267\264\275Yg\331\026\030\361&\023\274)\302nv"
- 511      BD5967D9 
- 511      1618F126 
- 511      13BC29C2 
- 511      6E76
- 512 0e6e 6A59978B 		.ascii	"jY\227\213\377\315\266\265\010<\303\025\356\264\017"
- 512      FFCDB6B5 
- 512      083CC315 
- 512      EEB40F
- 513 0e7d 4CD0650A 		.ascii	"L\320e\012\364\001u\341\012t\247\002\275\307\025]\374"
- 513      F40175E1 
- 513      0A74A702 
- 513      BDC7155D 
- 513      FC
- 514 0e8e 14FACF32 		.ascii	"\024\372\3172:\327\025\355\272\033w[\001\316Q\005+\235"
- 514      3AD715ED 
- 514      BA1B775B 
- 514      01CE5105 
- 514      2B9D
- 515 0ea0 1C53A0B3 		.ascii	"\034S\240\263\\\321\312\315q\345\256\332\017P\312\371"
- 515      5CD1CACD 
- 515      71E5AEDA 
- 515      0F50CAF9 
- 516 0eb0 50CA288F 		.ascii	"P\312(\217\367 \273j\305P>\207\261/:\002t\014\350(P"
- 516      F720BB6A 
- 516      C5503E87 
- 516      B12F3A02 
- 516      740CE828 
- 517 0ec5 01D041A0 		.ascii	"\001\320A\240C@%@\205X\371\252jP\241;[]\267\342\325"
- 517      43402540 
- 517      8558F9AA 
- 517      6A50A13B 
- 517      5B5DB7E2 
- 518 0eda 53DDB5C9 		.ascii	"S\335\265\311\264\026\001\365\364[\237\326\326)\011"
- 518      B41601F5 
- 518      F45B9FD6 
- 518      D62909
- 519 0ee9 74AB9BC8 		.ascii	"t\253\233\310\332\257\236,\307V\367\246\263\2336\210"
- 519      DAAF9E2C 
- 519      C756F7A6 
- 519      B39B3688 
- 520 0ef9 CAE1A704 		.ascii	"\312\341\247\004\303\363\221c\370\265\226\244=\364\306"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 41
+ 506      BEB2F6A4 
+ 506      886F
+ 507 0e17 33667F4D 		.ascii	"3f\177M\207\244\305C\214)YS\363P\217G\030\223|,&\322"
+ 507      87A4C543 
+ 507      8C295953 
+ 507      F3508F47 
+ 507      18937C2C 
+ 508 0e2d 80471993 		.ascii	"\200G\031\22355\022g\304\343\334\363\222\372t\201\335"
+ 508      35351267 
+ 508      C4E3DCF3 
+ 508      92FA7481 
+ 508      DD
+ 509 0e3e 437DC9E3 		.ascii	"C}\311\343z\351\332j\314\356\267i\302V\354\2659\275"
+ 509      7AE9DA6A 
+ 509      CCEEB769 
+ 509      C256ECB5 
+ 509      39BD
+ 510 0e50 B0C2C7BE 		.ascii	"\260\302\307\2763>\303\227\276\217\210\2045\314\015"
+ 510      333EC397 
+ 510      BE8F8884 
+ 510      35CC0D
+ 511 0e5f 6D7FD659 		.ascii	"m\177\326Y\266\005F\274\311\004o\212\260\233\235Z\326"
+ 511      B60546BC 
+ 511      C9046F8A 
+ 511      B09B9D5A 
+ 511      D6
+ 512 0e70 E5E27FB3 		.ascii	"\345\342\177\263m-\002\317p\205;\355\003\023t\231\002"
+ 512      6D2D02CF 
+ 512      70853BED 
+ 512      03137499 
+ 512      02
+ 513 0e81 7D405DB8 		.ascii	"}@]\270\002\335\245@\357vE\027?\206\376\263\214\316"
+ 513      02DDA540 
+ 513      EF764517 
+ 513      3F86FEB3 
+ 513      8CCE
+ 514 0e93 7545BBEE 		.ascii	"uE\273\356\306\335T\200sT\301J''\024\350,W\264rs\\\271"
+ 514      C6DD5480 
+ 514      7354C14A 
+ 514      272714E8 
+ 514      2C57B472 
+ 515 0eaa ABF60394 		.ascii	"\253\366\003\224r>\2242\312\343=\310\256Z1\224\317a"
+ 515      723E9432 
+ 515      CAE33DC8 
+ 515      AE5A3194 
+ 515      CF61
+ 516 0ebc EC8B8E00 		.ascii	"\354\213\216\000\035\003:\012T\000t\020\350\020P\011"
+ 516      1D033A0A 
+ 516      54007410 
+ 516      E8105009 
+ 517 0ecc 502156BE 		.ascii	"P!V\276\252\032V\350\316V\327\255x\365T\327\362\034"
+ 517      AA1A56E8 
+ 517      CE56D7AD 
+ 517      78F554D7 
+ 517      F21C
+ 518 0ede AD45403D 		.ascii	"\255E@=\376\326\247\255mz\"\335\352&\262\366\253'\313"
+ 518      FED6A7AD 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 41
 
 
- 520      C3F39163 
- 520      F8B596A4 
- 520      3DF4C6
- 521 0f08 87BC48DD 		.ascii	"\207\274H\335\341\363\375;J\214\310\261\247\012\223"
- 521      E1F3FD3B 
- 521      4A8CC8B1 
- 521      A70A93
- 522 0f17 5CD28D1A 		.ascii	"\\\322\215\032VP\320\003\245\201\322R\365\274\304\253"
- 522      5650D003 
- 522      A581D252 
- 522      F5BCC4AB 
- 523 0f27 BCE34227 		.ascii	"\274\343B'8\236\204\356\024\204\356$v\332\327\317d\316"
- 523      389E84EE 
- 523      1484EE24 
- 523      76DAD7CF 
- 523      64CE
- 524 0f39 9662D72D 		.ascii	"\226b\327-\317\254\310\233w1.\2456\241;=Y\015\002\256"
- 524      CFACC89B 
- 524      77312EA5 
- 524      36A13B3D 
- 524      590D02AE 
- 525 0f4d 64CC8EB6 		.ascii	"d\314\216\266\262V\376\372\250\202\256D\3336\2576\362"
- 525      B256FEFA 
- 525      A882AE44 
- 525      DB36AF36 
- 525      F2
- 526 0f5e 91415EC7 		.ascii	"\221A^\307\337\034\036n\360\300\347\031\370\320D\346"
- 526      DF1C1E6E 
- 526      F0C0E719 
- 526      F8D044E6 
- 527 0f6e 2A8CAF30 		.ascii	"*\214\2570\246\242\353R\265\026\2672&\265\254\343m\334"
- 527      A6A2EB52 
- 527      B516B732 
- 527      26B5ACE3 
- 527      6DDC
- 528 0f80 CFCE8F6D 		.ascii	"\317\316\217m)\201E\323\003\312\374\272c\315\376$\017"
- 528      298145D3 
- 528      03CAFCBA 
- 528      63CDFE24 
- 528      0F
- 529 0f91 08008C2B 		.ascii	"\010\000\214+\343T\376\017\034\2141?r\200\337"
- 529      E354FE0F 
- 529      1C8C313F 
- 529      7280DF
- 530 0fa0 69EC120C 		.ascii	"i\354\022\014:_\243\021~\310\011\377\203\253~\366\310"
- 530      3A5FA311 
- 530      7EC809FF 
- 530      83AB7EF6 
- 530      C8
- 531 0fb1 C5EA6A2B 		.ascii	"\305\352j+\371n4\314\337h\015D\242\326]\272\224eW\011"
- 531      F96E34CC 
- 531      DF680D44 
- 531      A2D65DBA 
- 531      94655709 
- 532 0fc5 655741CA 		.ascii	"eWA\312\256\234\367 \261\213\024\375P\204\350\213$\240"
- 532      AE9CF720 
- 532      B18B14FD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 42
+ 518      6D7A22DD 
+ 518      EA26B2F6 
+ 518      AB27CB
+ 519 0ef1 B1D5BDF1 		.ascii	"\261\325\275\361\354\306\015\242r\370)\301\360|\344"
+ 519      ECC60DA2 
+ 519      72F829C1 
+ 519      F07CE4
+ 520 0f00 187E6D25 		.ascii	"\030~m%\351\367\275\361!/Rw\370\374\340\366\022#r\354"
+ 520      E9F7BDF1 
+ 520      212F5277 
+ 520      F8FCE0F6 
+ 520      122372EC 
+ 521 0f14 A9C22497 		.ascii	"\251\302$\227|\275\206\025\024\364@\351\240\264T=/\011"
+ 521      7CBD8615 
+ 521      14F440E9 
+ 521      A0B4543D 
+ 521      2F09
+ 522 0f26 2AEFB8D0 		.ascii	"*\357\270\320\011\216'\241;\005\241;\211\235\366\365"
+ 522      098E27A1 
+ 522      3B05A13B 
+ 522      899DF6F5 
+ 523 0f36 3399B3A5 		.ascii	"3\231\263\245\330u\3133+\262\3576\306\245\324&t\253"
+ 523      D875CB33 
+ 523      2BB2EF36 
+ 523      C6A5D426 
+ 523      74AB
+ 524 0f48 37AB41C0 		.ascii	"7\253A\300\225\214\331\336^\326\306_\037U\320\225h\373"
+ 524      958CD9DE 
+ 524      5ED6C65F 
+ 524      1F55D095 
+ 524      68FB
+ 525 0f5a A6D5463E 		.ascii	"\246\325F>2\310\353\370\276\321\321\006\017|\236\201"
+ 525      32C8EBF8 
+ 525      BED1D106 
+ 525      0F7C9E81 
+ 526 0f6a 0F4D65AE 		.ascii	"\017Me\256\302\370\012c*\272/Ukq\033c\322\312:\337\300"
+ 526      C2F80A63 
+ 526      2ABA2F55 
+ 526      6B711B63 
+ 526      D2CA3ADF 
+ 527 0f7f 83ECFCD8 		.ascii	"\203\354\374\330\346\022X4\335\243\314\257;\327\354"
+ 527      E6125834 
+ 527      DDA3CCAF 
+ 527      3BD7EC
+ 528 0f8e 4FF68000 		.ascii	"O\366\200\000\300\2702\316\340\377\300\301\030\363#"
+ 528      C0B832CE 
+ 528      E0FFC0C1 
+ 528      18F323
+ 529 0f9d 07F89D   		.ascii	"\007\370\235"
+ 530 0fa0 C92EC1A0 		.ascii	"\311.\301\240\3635\032\341\207\234\360?\270\352g\217"
+ 530      F3351AE1 
+ 530      879CF03F 
+ 530      B8EA678F 
+ 531 0fb0 5CACAEB6 		.ascii	"\\\254\256\266\222\357F\303\374\215\326@$j\335\245K"
+ 531      92EF46C3 
+ 531      FC8DD640 
+ 531      246ADDA5 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 42
 
 
- 532      5084E88B 
- 532      24A0
- 533 0fd7 0928B171 		.ascii	"\011(\261q\240'@\217\201j\200\036\001\215\001\215\002"
- 533      A027408F 
- 533      816A801E 
- 533      018D018D 
- 533      02
- 534 0fe8 F500B503 		.ascii	"\365\000\265\0035\001]\005:\017T\007t\316\271,\027\260"
- 534      35015D05 
- 534      3A0F5407 
- 534      74CEB92C 
- 534      17B0
- 535 0ffa B284B9B0 		.ascii	"\262\204\271\260\312\325"
- 535      CAD5
- 536 1000 B47AC165 		.ascii	"\264z\301e\264\215\327\360w,\344\231\342\222\340\002"
- 536      B48DD7F0 
- 536      772CE499 
- 536      E292E002 
- 537 1010 BF28B88E 		.ascii	"\277(\270\216\267\326\232i\014\177\001<oT\307S\361\212"
- 537      B7D69A69 
- 537      0C7F013C 
- 537      6F54C753 
- 537      F18A
- 538 1022 F2AC772A 		.ascii	"\362\254w*\317\013\254<\225\201i\201\233(\231b\320u"
- 538      CF0BAC3C 
- 538      95816981 
- 538      9B289962 
- 538      D075
- 539 1034 1058CF03 		.ascii	"\020X\317\003\263\022\002\023\015A\271\002\016^tr\360"
- 539      B3120213 
- 539      0D41B902 
- 539      0E5E7472 
- 539      F0
- 540 1045 CE3ADDF8 		.ascii	"\316:\335\370AIZ\355\201.\201\021\027x\037\325Q\257"
- 540      41495AED 
- 540      812E8111 
- 540      17781FD5 
- 540      51AF
- 541 1057 B0E2B293 		.ascii	"\260\342\262\223\025\227\236a\305*\320\374|+:\267ai"
- 541      15979E61 
- 541      C52AD0FC 
- 541      7C2B3AB7 
- 541      6169
- 542 1069 EF74D400 		.ascii	"\357t\324\000&\\U7\3015\016\215N\026\220\216ld\250\326"
- 542      265C5537 
- 542      C1350E8D 
- 542      4E16908E 
- 542      6C64A8D6 
- 543 107d 481428FE 		.ascii	"H\024(\376\377\253\021\250\341\354L^\303\344q\253\315"
- 543      FFAB11A8 
- 543      E1EC4C5E 
- 543      C3E471AB 
- 543      CD
- 544 108e 3593ADCE 		.ascii	"5\223\255\316\231\207!=\370Y\004-\253f\200uq\270c\365"
- 544      9987213D 
- 544      F859042D 
- 544      AB668075 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 43
+ 531      4B
+ 532 0fc1 59769550 		.ascii	"Yv\225Pv\025\244\354\312y\017\022\273H\321\017E\210"
+ 532      7615A4EC 
+ 532      CA790F12 
+ 532      BB48D10F 
+ 532      4588
+ 533 0fd3 BE48029A 		.ascii	"\276H\002\232\202\022\233\004z\004\364\020\250\006\350"
+ 533      82129B04 
+ 533      7A04F410 
+ 533      A806E8
+ 534 0fe2 01D004D0 		.ascii	"\001\320\004\3208P/P\007P\023\320U\240\363@u@\347\234"
+ 534      38502F50 
+ 534      075013D0 
+ 534      55A0F340 
+ 534      7540E79C 
+ 535 0ff6 CBF23356 		.ascii	"\313\3623V\2260\027V\271\232"
+ 535      96301756 
+ 535      B99A
+ 536 1000 562FB88C 		.ascii	"V/\270\214\266\311\032\376\216\205<S\\\022\\\340\027"
+ 536      B6C91AFE 
+ 536      8E853C53 
+ 536      5C125CE0 
+ 536      17
+ 537 1011 05D7F1D6 		.ascii	"\005\327\361\326V3\223\341/\200\347\215\352x*^Q\236"
+ 537      563393E1 
+ 537      2F80E78D 
+ 537      EA782A5E 
+ 537      519E
+ 538 1023 F54EE579 		.ascii	"\365N\345y\201\225\24720\255p\023%S\014\272\006\002"
+ 538      8195A732 
+ 538      30AD7013 
+ 538      25530CBA 
+ 538      0602
+ 539 1035 EB796056 		.ascii	"\353y`VB`\242!(W\300\301\213N\016\336Z\247\233<(I\253"
+ 539      4260A221 
+ 539      2857C0C1 
+ 539      8B4E0EDE 
+ 539      5AA79B3C 
+ 540 104c 3DD02530 		.ascii	"=\320%0\342\002\357\243:\352\025V\\v\262\342\322\023"
+ 540      E202EFA3 
+ 540      3AEA1556 
+ 540      5C76B2E2 
+ 540      D213
+ 541 105e AC58059A 		.ascii	"\254X\005\232\237nE\327V,\355\231\205\032\300\204\253"
+ 541      9F6E45D7 
+ 541      562CED99 
+ 541      851AC084 
+ 541      AB
+ 542 106f EA26B8C6 		.ascii	"\352&\270\306\241\321\311\002\322\221\215\014\325\032"
+ 542      A1D1C902 
+ 542      D2918D0C 
+ 542      D51A
+ 543 107d 8902C5FF 		.ascii	"\211\002\305\377\1775\0025\234\235\311k\230<n\265\273"
+ 543      7F350235 
+ 543      9C9DC96B 
+ 543      983C6EB5 
+ 543      BB
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 43
 
 
- 544      71B863F5 
- 545 10a2 D3E6A6E4 		.ascii	"\323\346\246\344e\000L\021-\334\235V8\277\016&]s2\351"
- 545      65004C11 
- 545      2DDC9D56 
- 545      38BF0E26 
- 545      5D7332E9 
- 546 10b6 5E06AF2C 		.ascii	"^\006\257,\022\2303P\270-n&~U\371\325\274\203{\371\235"
- 546      12983350 
- 546      B82D6E26 
- 546      7E55F9D5 
- 546      BC837BF9 
- 547 10cb 7E6C5834 		.ascii	"~lX4\360\232yZ\274\362;\201\0146\177\2658\317_|\267"
- 547      F09A795A 
- 547      BCF23B81 
- 547      0C367FB5 
- 547      38CF5F7C 
- 548 10e0 3251B77E 		.ascii	"2Q\267~O\002Y\037\222X\234\225\327\025\004m\017\027"
- 548      4F02591F 
- 548      92589C95 
- 548      D715046D 
- 548      0F17
- 549 10f2 4438D111 		.ascii	"D8\321\021a\200u\273F\270\015={\202\275\001^tq\217\272"
- 549      618075BB 
- 549      46B80D3D 
- 549      7B82BD01 
- 549      5E74718F 
- 550 1107 E1BCD339 		.ascii	"\341\274\3239Z\273\024\321\"\356t\375\035s\367\015\216"
- 550      5ABB14D1 
- 550      22EE74FD 
- 550      1D73F70D 
- 550      8E
- 551 1118 7715CD5F 		.ascii	"w\025\315_\"\355b\276w\271\361}|c\004<G\021\237z\344"
- 551      22ED62BE 
- 551      77B9F17D 
- 551      7C63043C 
- 551      47119F7A 
- 552 112d E7A82E67 		.ascii	"\347\250.g\327\327\332]\277\211\247\241\233\256\256"
- 552      D7D7DA5D 
- 552      BF89A7A1 
- 552      9BAEAE
- 553 113c 2B5FB6AB 		.ascii	"+_\266\253\177@A\272\021\353F\300\272\207\220\312a\240"
- 553      7F4041BA 
- 553      11EB46C0 
- 553      BA8790CA 
- 553      61A0
- 554 114e 1F81EE03 		.ascii	"\037\201\356\003\015\000\335\006\352\005\272\345\024"
- 554      0D00DD06 
- 554      EA05BAE5 
- 554      14
- 555 115b 94B39FB2 		.ascii	"\224\263\237\262\024\223\212\276\005J\211\024\267\353"
- 555      14938ABE 
- 555      054A8914 
- 555      B7EB
- 556 1169 8CBA938A 		.ascii	"\214\272\223\212\231\254\367y\350\262\177g\242\357\000"
- 556      99ACF779 
- 556      E8B27F67 
- 556      A2EF00
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 44
+ 544 108e 66B2CD39 		.ascii	"f\262\3159\3630\244\207?\215\240e\325\014\260n\016w"
+ 544      F330A487 
+ 544      3F8DA065 
+ 544      D50CB06E 
+ 544      0E77
+ 545 10a0 AC7EDADD 		.ascii	"\254~\332\335\224\274\014\200)\242\225\273\323\006\347"
+ 545      94BC0C80 
+ 545      29A295BB 
+ 545      D306E7
+ 546 10af D7C0A416 		.ascii	"\327\300\244\026'\223\356d\360\312\"\2019\003\205\333"
+ 546      2793EE64 
+ 546      F0CA2281 
+ 546      390385DB 
+ 547 10bf EA66E257 		.ascii	"\352f\342W\225_\315;\270\227\337\345\307\206E\003\257"
+ 547      955FCD3B 
+ 547      B897DFE5 
+ 547      C7864503 
+ 547      AF
+ 548 10d0 99C7C52B 		.ascii	"\231\307\305+\277\023\310`\363W\253\363\374\305w+\223"
+ 548      BF13C860 
+ 548      F357ABF3 
+ 548      FCC5772B 
+ 548      93
+ 549 10e1 74EB7727 		.ascii	"t\353w'\222\365!\211\305Yy]A\320\366pA\204\223\034\021"
+ 549      92F52189 
+ 549      C559795D 
+ 549      41D0F670 
+ 549      4184931C 
+ 550 10f6 06588F6B 		.ascii	"\006X\217k\204\333\321\223'\330\353\340E7\367\250\007"
+ 550      84DBD193 
+ 550      27D8EBE0 
+ 550      4537F7A8 
+ 550      07
+ 551 1107 CEBB9CA3 		.ascii	"\316\273\234\243\265S\021-\342N\367\3371w_\347xW\321"
+ 551      B553112D 
+ 551      E24EF7DF 
+ 551      31775FE7 
+ 551      7857D1
+ 552 111a FC25D24E 		.ascii	"\374%\322N\346{\267\033\337'\343#\3409\212\370\324+"
+ 552      E67BB71B 
+ 552      DF27E323 
+ 552      E0398AF8 
+ 552      D42B
+ 553 112c 3F47753B 		.ascii	"?Gu;\273\276\326\356z\037\236\211\372\\]W\276lW\377"
+ 553      BBBED6EE 
+ 553      7A1F9E89 
+ 553      FA5C5D57 
+ 553      BE6C57FF 
+ 554 1140 80827423 		.ascii	"\200\202t#\326\215\201u\367!\225\243@?\002\335\005\032"
+ 554      D68D8175 
+ 554      F72195A3 
+ 554      403F02DD 
+ 554      051A
+ 555 1152 02BA09D4 		.ascii	"\002\272\011\324\017t\303)(g?a)&\025}\003\224\022)n"
+ 555      0F74C329 
+ 555      28673F61 
+ 555      2926157D 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 44
 
 
- 557 1178 F8B67BB0 		.ascii	"\370\266{\260b\264\3679\215\366;O\3177\216w{\375 \257"
- 557      62B4F739 
- 557      8DF63B4F 
- 557      CF378E77 
- 557      7BFD20AF 
- 558 118c 8FA7A31F 		.ascii	"\217\247\243\037\034\276\007\216\335\225\035\203\210"
- 558      1CBE078E 
- 558      DD951D83 
- 558      88
- 559 1199 36A6E8FA 		.ascii	"6\246\350\372\007\273%)\301H\367\033\356\360\016n\336"
- 559      07BB2529 
- 559      C148F71B 
- 559      EEF00E6E 
- 559      DE
- 560 11aa 7F9287C2 		.ascii	"\177\222\207\302\227\311\334D\312\263\231c\035#\305"
- 560      97C9DC44 
- 560      CAB39963 
- 560      1D23C5
- 561 11b9 B5D47B56 		.ascii	"\265\324{Vi\311>F\337S\313\022\226\311\363\366\027\257"
- 561      69C93E46 
- 561      DF53CB12 
- 561      96C9F3F6 
- 561      17AF
- 562 11cb 648F70E0 		.ascii	"d\217p\340yaj(\341A\035\2048\335\177\2418\015\221\325"
- 562      79616A28 
- 562      E1411D84 
- 562      38DD7FA1 
- 562      380D91D5 
- 563 11df 93234E83 		.ascii	"\223#N\203,NnfM\364\000\302#O\234\216\222\034\275J\337"
- 563      2C4E6E66 
- 563      4DF400C2 
- 563      234F9C8E 
- 563      921CBD4A 
- 564 11f4 80C38541 		.ascii	"\200\303\205A\271$\033\250(\307|W|\232;\002\367\305"
- 564      B9241BA8 
- 564      28C77C57 
- 564      7C9A3B02 
- 564      F7C5
- 565 1206 A167FA41 		.ascii	"\241g\372A\202r\214\337\026\211\327\017\236\207\276"
- 565      82728CDF 
- 565      1689D70F 
- 565      9E87BE
- 566 1215 FD2B561C 		.ascii	"\375+V\034\004\374\243{03w\230\275\243\005\214\312\307"
- 566      04FCA37B 
- 566      30337798 
- 566      BDA3058C 
- 566      CAC7
- 567 1227 3FB95386 		.ascii	"?\271S\206\"\245\3049t\227b\230\017\033\376$\306\006"
- 567      22A5C439 
- 567      74976298 
- 567      0F1BFE24 
- 567      C606
- 568 1239 8DF2CBA7 		.ascii	"\215\362\313\247\333oo\223J#0\335h\210\304*\340w\024"
- 568      DB6F6F93 
- 568      4A2330DD 
- 568      6888C42A 
- 568      E07714
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 45
+ 555      03941229 
+ 556 1167 D7197527 		.ascii	"\327\031u'\0253Y\377\323\320e\377\316D\337\002\360M"
+ 556      153359FF 
+ 556      D3D065FF 
+ 556      CE44DF02 
+ 556      F04D
+ 557 1179 F760C568 		.ascii	"\367`\305h\037p\032\355\267\036\237o\034\357\366\006"
+ 557      1F701AED 
+ 557      B71E9F6F 
+ 557      1CEFF606 
+ 558 1189 41DE004F 		.ascii	"A\336\000O\307 8|\007\034\273-;\006\021mL\325\015\016"
+ 558      C720387C 
+ 558      071CBB2D 
+ 558      3B06116D 
+ 558      4CD50D0E 
+ 559 119d F74852A2 		.ascii	"\367HR\242\221\3567\334\342\035\334\274\377$\017\205"
+ 559      91EE37DC 
+ 559      E21DDCBC 
+ 559      FF240F85 
+ 560 11ad 2F90B989 		.ascii	"/\220\271\211\224g3\307:F\212k\251\367\256\322\222}"
+ 560      946733C7 
+ 560      3A468A6B 
+ 560      A9F7AED2 
+ 560      927D
+ 561 11bf 8C81C796 		.ascii	"\214\201\307\226%,\223\347\355/^\311\036\341\320\323"
+ 561      252C93E7 
+ 561      ED2F5EC9 
+ 561      1EE1D0D3 
+ 562 11cf C2D450C2 		.ascii	"\302\324P\302\203:\014q\272\373Lq\032!\253'G\234\206"
+ 562      833A0C71 
+ 562      BAFB4C71 
+ 562      1A21AB27 
+ 562      479C86
+ 563 11e2 599CDCCC 		.ascii	"Y\234\334\314\232\350\036\204G\2368\035%9~\225\276\001"
+ 563      9AE81E84 
+ 563      479E381D 
+ 563      25397E95 
+ 563      BE01
+ 564 11f4 870BC372 		.ascii	"\207\013\303rI6PQ\216\371\256\3704w\004\356\213#O\364"
+ 564      49365051 
+ 564      8EF9AEF8 
+ 564      347704EE 
+ 564      8B234FF4 
+ 565 1208 8304E518 		.ascii	"\203\004\345\030\277-\022\257\357=\015}\363W\2548\010"
+ 565      BF2D12AF 
+ 565      EF3D0D7D 
+ 565      F357AC38 
+ 565      08
+ 566 1219 F847F760 		.ascii	"\370G\367`f\356({G\013\030\225\217\177r\247\217DJI\363"
+ 566      66EE287B 
+ 566      470B1895 
+ 566      8F7F72A7 
+ 566      8F444A49 
+ 567 122e E92EC528 		.ascii	"\351.\305(\0376\374I\214\015\032\345\227O7\337\330*"
+ 567      1F36FC49 
+ 567      8C0D1AE5 
+ 567      974F37DF 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 45
 
 
- 569 124c 2FC43996 		.ascii	"/\3049\226\354\024\254R\303*\222\330\232\305\223\010"
- 569      EC14AC52 
- 569      C32A92D8 
- 569      9AC59308 
- 570 125c 0F72689B 		.ascii	"\017rh\233\372\352F\271\272\377\205<\261\356rE?\375"
- 570      FAEA46B9 
- 570      BAFF853C 
- 570      B1EE7245 
- 570      3FFD
- 571 126e 58D2AC80 		.ascii	"X\322\254\200\247\252\303\025\241\255;`O\004\300v\273"
- 571      A7AAC315 
- 571      A1AD3B60 
- 571      4F04C076 
- 571      BB
- 572 127f C2739E92 		.ascii	"\302s\236\222^\306\245\223\345L\231:\\!}\354\347\362"
- 572      5EC6A593 
- 572      E54C993A 
- 572      5C217DEC 
- 572      E7F2
- 573 1291 3DADD9F5 		.ascii	"=\255\331\365\236\366T\342\370\232\266\326\315\274\330"
- 573      9EF654E2 
- 573      F89AB6D6 
- 573      CDBCD8
- 574 12a0 F7801421 		.ascii	"\367\200\024!)\327\323\362-\241V1/\366\257\323\215\015"
- 574      29D7D3F2 
- 574      2DA15631 
- 574      2FF6AFD3 
- 574      8D0D
- 575 12b2 46D3516C 		.ascii	"F\323QlWX\377,\205u1\230TJ\275\232\276\236\255:r\215"
- 575      5758FF2C 
- 575      85753198 
- 575      544ABD9A 
- 575      BE9EAD3A 
- 576 12c8 2C6AAEC9 		.ascii	",j\256\311%_\217\371\233\376\246\221\211\305\312'\204"
- 576      255F8FF9 
- 576      9BFEA691 
- 576      89C5CA27 
- 576      84
- 577 12d9 66A7C928 		.ascii	"f\247\311(F\264?!T\017l\334\304v\344\241\015\235g\033"
- 577      46B43F21 
- 577      540F6CDC 
- 577      C476E4A1 
- 577      0D9D671B 
- 578 12ed EDB58503 		.ascii	"\355\265\205\003\305Z\367\257\007V\213d\247=V\344;\355"
- 578      C55AF7AF 
- 578      07568B64 
- 578      A73D56E4 
- 578      3BED
- 579 12ff 6B723A6E 		.ascii	"kr:n\352\370N{c\246nl\177\325:i7\2420T'\233Vg\337j_"
- 579      EAF84E7B 
- 579      63A66E6C 
- 579      7FD53A69 
- 579      37A23054 
- 580 131a 2392ADF6 		.ascii	"#\222\255\366\324+\327\273\2158\327\233\275A\274ur\207"
- 580      D42BD7BB 
- 580      8D38D79B 
- 580      BD41BC75 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 46
+ 567      D82A
+ 568 1240 954660BA 		.ascii	"\225F`\272\321\020\211U\300o+^\210s,\331)X\245\206U"
+ 568      D1108955 
+ 568      C06F2B5E 
+ 568      88732CD9 
+ 568      2958A586 
+ 569 1255 24B12D8B 		.ascii	"$\261-\213'\021\036\344\320V\365\325\215ru\377\013y"
+ 569      27111EE4 
+ 569      D056F5D5 
+ 569      8D7275FF 
+ 569      0B79
+ 570 1267 62DDE98A 		.ascii	"b\335\351\212~\374\261\244Y\001OS\207+B[w\300\236\010"
+ 570      7EFCB1A4 
+ 570      59014F53 
+ 570      872B425B 
+ 570      77C09E08 
+ 571 127b 80ED7285 		.ascii	"\200\355r\205\347<&\275\214K'\313\2312u\270B\372\304"
+ 571      E73C26BD 
+ 571      8C4B27CB 
+ 571      993275B8 
+ 571      42FAC4
+ 572 128e CFE57B5A 		.ascii	"\317\345{Z\263\353=\355\261\304\3615m\255\233yq\340"
+ 572      B3EB3DED 
+ 572      B1C4F135 
+ 572      6DAD9B79 
+ 572      71E0
+ 573 12a0 1E294252 		.ascii	"\036)BR\256\247\345[B\255b^\034\\\247\233\030\216\246"
+ 573      AEA7E55B 
+ 573      42AD625E 
+ 573      1C5CA79B 
+ 573      188EA6
+ 574 12b3 A3D8AEB0 		.ascii	"\243\330\256\260\376I\012\353b0\251\224z5}\275[t\344"
+ 574      FE490AEB 
+ 574      6230A994 
+ 574      7A357DBD 
+ 574      5B74E4
+ 575 12c6 1A59D4B4 		.ascii	"\032Y\324\264\310%_\217\371\233\376\246\261\251\305"
+ 575      C8255F8F 
+ 575      F99BFEA6 
+ 575      B1A9C5
+ 576 12d5 CA278466 		.ascii	"\312'\204f\247\311(F\264?!T\017\305od;\362\320\206\316"
+ 576      A7C92846 
+ 576      B43F2154 
+ 576      0FC56F64 
+ 576      3BF2D086 
+ 577 12ea B38DF6DA 		.ascii	"\263\215\366\332\302\241b\255\373\327\003\253E\262\323"
+ 577      C2A162AD 
+ 577      FBD703AB 
+ 577      45B2D3
+ 578 12f9 1E2BF29D 		.ascii	"\036+\362\235\36659\235}:\276\323\336\230\251\233\330"
+ 578      F635399D 
+ 578      7D3ABED3 
+ 578      DE98A99B 
+ 578      D8
+ 579 130a 5FB54EDA 		.ascii	"_\265N\332\205(\014\325\311\246\325\331\267\332\327"
+ 579      85280CD5 
+ 579      C9A6D5D9 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 46
 
 
- 580      7287
- 581 132c 81ADFC25 		.ascii	"\201\255\374%\362\245\330\335\332\033i\"\337\203&_\251"
- 581      F2A5D8DD 
- 581      DA1B6922 
- 581      DF83265F 
- 581      A9
- 582 133d E50E3EC8 		.ascii	"\345\016>\310\365`\327\311')\243C\245\371z\203\274\307"
- 582      F560D7C9 
- 582      2729A343 
- 582      A5F97A83 
- 582      BCC7
- 583 134f 4ADA65E7 		.ascii	"J\332e\347\342D\262[1{\006\332 \322\315\212\262\013"
- 583      E244B25B 
- 583      317B06DA 
- 583      20D2CD8A 
- 583      B20B
- 584 1361 ABB74EC2 		.ascii	"\253\267N\302\307\230\246\264\233E\335\006|\2341w\244"
- 584      C798A6B4 
- 584      9B45DD06 
- 584      7C9C3177 
- 584      A4
- 585 1372 B5C711AE 		.ascii	"\265\307\021\256\244\214v\2402>^O\236\273\375\246:>"
- 585      A48C76A0 
- 585      323E5E4F 
- 585      9EBBFDA6 
- 585      3A3E
- 586 1384 3AA94DE7 		.ascii	":\251M\347S\006y\213\271Q\304h\233\370\254j\032|K\256"
- 586      5306798B 
- 586      B951C468 
- 586      9BF8AC6A 
- 586      1A7C4BAE 
- 587 1398 A6788E56 		.ascii	"\246x\216VI.\023_\225\303\007\031LG\011\352\242Y]\363"
- 587      492E135F 
- 587      95C30719 
- 587      4C4709EA 
- 587      A2595DF3 
- 588 13ac 5AC862DF 		.ascii	"Z\310b\337\220\000LY\014j\353W\015\225En&[a\335\270"
- 588      90004C59 
- 588      0C6AEB57 
- 588      0D95456E 
- 588      265B61DD 
- 589 13c1 19D68C9B 		.ascii	"\031\326\214\233\200\266\210\216\357\223J6w\306x\341"
- 589      80B6888E 
- 589      EF934A36 
- 589      77C678E1 
- 590 13d1 33D46FE1 		.ascii	"3\324o\341R\307\261\"\017\307\247R\0159trJ\002\001\211"
- 590      52C7B122 
- 590      0FC7A752 
- 590      0D397472 
- 590      4A020189 
- 591 13e5 A2237744 		.ascii	"\242#wD\251\233\265\362vP\361\034u'\333s\326\343)\033"
- 591      A99BB5F2 
- 591      7650F11C 
- 591      7527DB73 
- 591      D6E3291B 
- 592 13f9 79EFD744 		.ascii	"y\357\327D*}\2758\003\255\023\211\261\311\342\024{\326"
- 592      2A7DBD38 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 47
+ 579      B7DAD7
+ 580 1319 8864AB3D 		.ascii	"\210d\253=\355\312\265\036#\316\365fo\020o\234\334n"
+ 580      EDCAB51E 
+ 580      23CEF566 
+ 580      6F106F9C 
+ 580      DC6E
+ 581 132b 602B7F89 		.ascii	"`+\177\211|)v\273\366z\272\310\367\240\311Wj\271\303"
+ 581      7C2976BB 
+ 581      F67ABAC8 
+ 581      F7A0C957 
+ 581      6AB9C3
+ 582 133e F7723DD8 		.ascii	"\367r=\330u\362I\312\370Hi\276\336 \357\261\222v\331"
+ 582      75F249CA 
+ 582      F84869BE 
+ 582      DE20EFB1 
+ 582      9276D9
+ 583 1351 B93891EC 		.ascii	"\2718\221\354V\314\233\2156\210t\263\242\354\302\352"
+ 583      56CC9B8D 
+ 583      368874B3 
+ 583      A2ECC2EA 
+ 584 1361 2DD3F031 		.ascii	"-\323\3601\246)\275\257\250\307\200\2173\346\226\264"
+ 584      A629BDAF 
+ 584      A8C7808F 
+ 584      33E696B4 
+ 585 1371 F638C295 		.ascii	"\3668\302\225\224\321\016U&$\350\311s\267\337\014\307"
+ 585      94D10E55 
+ 585      2624E8C9 
+ 585      73B7DF0C 
+ 585      C7
+ 586 1382 4727B57B 		.ascii	"G'\265{\371\224A\336b\306\213\030m\025\237TM\303\257"
+ 586      F99441DE 
+ 586      62C68B18 
+ 586      6D159F54 
+ 586      4DC3AF
+ 587 1395 CBD594C0 		.ascii	"\313\325\224\300\321*\311e\342\253r\370 \203\351(Q]"
+ 587      D12AC965 
+ 587      E2AB72F8 
+ 587      2083E928 
+ 587      515D
+ 588 13a7 34AB6B5E 		.ascii	"4\253k^\013Y\354\033\022\200)\213Am\375\252\241\262"
+ 588      0B59EC1B 
+ 588      1280298B 
+ 588      416DFDAA 
+ 588      A1B2
+ 589 13b9 C8CD640B 		.ascii	"\310\315d\013\254\0337\301\232q#\320f\321\361}R\311"
+ 589      AC1B37C1 
+ 589      9A7123D0 
+ 589      66D1F17D 
+ 589      52C9
+ 590 13cb A6AE182F 		.ascii	"\246\256\030/|\206\372-\\\352<V\344\341\370T\252!\207"
+ 590      7C86FA2D 
+ 590      5CEA3C56 
+ 590      E4E1F854 
+ 590      AA2187
+ 591 13de 4E4EC920 		.ascii	"NN\311  It\344\216(u\263V\336\006*\236\242\356dG\316"
+ 591      204974E4 
+ 591      8E2875B3 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 47
 
 
- 592      03AD1389 
- 592      B1C9E214 
- 592      7BD6
- 593 140b E8235B42 		.ascii	"\350#[B\304\016\237\327\367\360\0277~\217\032\242\245"
- 593      C40E9FD7 
- 593      F7F01737 
- 593      7E8F1AA2 
- 593      A5
- 594 141c D8290484 		.ascii	"\330)\004\204\3262\203\024]\241\205lL\211\257C\277\241"
- 594      D6328314 
- 594      5DA1856C 
- 594      4C89AF43 
- 594      BFA1
- 595 142e D8F3755A 		.ascii	"\330\363uZ|\231e\266\261)\272\210\177\363\344Ev\364"
- 595      7C9965B6 
- 595      B129BA88 
- 595      7FF3E445 
- 595      76F4
- 596 1440 3BB69CF4 		.ascii	";\266\234\364d\365t\225\\\336}nh\253\001w2\354\223\201"
- 596      64F57495 
- 596      5CDE7D6E 
- 596      68AB0177 
- 596      32EC9381 
- 597 1454 0B4FF86B 		.ascii	"\013O\370k\033\003\321\037\231\337\246u[\\i\366\342"
- 597      1B03D11F 
- 597      99DFA675 
- 597      5B5C69F6 
- 597      E2
- 598 1465 DACD8AAB 		.ascii	"\332\315\212\253i\303p\213(\373\206\350\236\334.0p'"
- 598      69C3708B 
- 598      28FB86E8 
- 598      9EDC2E30 
- 598      7027
- 599 1477 35700FF5 		.ascii	"5p\017\365-\315\356[y\323\203\022o%:\345Y\350\223;/"
- 599      2DCDEE5B 
- 599      79D38312 
- 599      6F253AE5 
- 599      59E8933B 
- 600 148c 6E451089 		.ascii	"nE\020\211\013\245\354\015}W\264\024\261\012J`/\304"
- 600      0BA5EC0D 
- 600      7D57B414 
- 600      B10A4A60 
- 600      2FC4
- 601 149e 22156211 		.ascii	"\"\025b\021+\314TtN\201\226\257\004\015J\247\321(;1"
- 601      2BCC5474 
- 601      4E8196AF 
- 601      040D4AA7 
- 601      D1283B31 
- 602 14b2 0AF9BBC3 		.ascii	"\012\371\273\303<\334X\323\366\237n=\332o\367h'\363"
- 602      3CDC58D3 
- 602      F69F6E3D 
- 602      DA6FF768 
- 602      27F3
- 603 14c4 286268CF 		.ascii	"(bh\317\035oW\217\344\257\2352\250\215\373\35566\246"
- 603      1D6F578F 
- 603      E4AF9D32 
- 603      A88DFBED 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 48
+ 591      56DE062A 
+ 591      9EA2EE64 
+ 592 13f4 7A3C3D9E 		.ascii	"z<=\236\367~Y\244\322\327\213\263\321:\221\030\233\""
+ 592      F77E59A4 
+ 592      D2D78BB3 
+ 592      D13A9118 
+ 592      9B22
+ 593 1406 4EB7678D 		.ascii	"N\267g\215>\262%Fl\367ye7\177q\343\367\240!Z\212\235"
+ 593      3EB22546 
+ 593      6CF77965 
+ 593      377F71E3 
+ 593      F7A0215A 
+ 594 141c 4E40682D 		.ascii	"N@h-3H\321\025Z\310\306\224\370\012\351W_\273A\213/"
+ 594      3348D115 
+ 594      5AC8C694 
+ 594      F80AE957 
+ 594      5FBB418B 
+ 595 1431 B3CC3636 		.ascii	"\263\31466E\027\361o\236\274\310\216~\347\346\223\236"
+ 595      4517F16F 
+ 595      9EBCC88E 
+ 595      7EE7E693 
+ 595      9E
+ 596 1442 AC9EAE92 		.ascii	"\254\236\256\222\313\273\316\215l1\340.\206}4t\341\021"
+ 596      CBBBCE8D 
+ 596      6C31E02E 
+ 596      867D3474 
+ 596      E111
+ 597 1454 7F6D6320 		.ascii	"\177mc r\"\363\333\265n\213+\335^\\\273Xq5m\030m\025"
+ 597      7222F3DB 
+ 597      B56E8B2B 
+ 597      DD5E5CBB 
+ 597      5871356D 
+ 598 146b 65DF10DD 		.ascii	"e\337\020\335\223\333\011\006\356\240\006\356\246\276"
+ 598      93DB0906 
+ 598      EEA006EE 
+ 598      A6BE
+ 599 1479 A5DB7D2B 		.ascii	"\245\333}+o\272W\342\255D\247>\011\335\337\177\242O"
+ 599      6FBA57E2 
+ 599      AD44A73E 
+ 599      09DDDF7F 
+ 599      A24F
+ 600 148b 80485C28 		.ascii	"\200H\\(eo\350\273\243\245\210UP\002{ \026i\020\213"
+ 600      656FE8BB 
+ 600      A3A58855 
+ 600      50027B20 
+ 600      1669108B 
+ 601 149f 58618EA2 		.ascii	"Xa\216\242s*\264|%h\320^\032\215-C\361\221\002\276\305"
+ 601      732AB47C 
+ 601      2568D05E 
+ 601      1A8D2D43 
+ 601      F19102BE 
+ 602 14b4 3C8CAF69 		.ascii	"<\214\257i\377O\267\036\355\267{\264\203y\0241\262\373"
+ 602      FF4FB71E 
+ 602      EDB77BB4 
+ 602      83791431 
+ 602      B2FB
+ 603 14c6 96B7AB47 		.ascii	"\226\267\253G\362\327N\031\324\306\375v\033\033\323"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 48
 
 
- 603      3636A6
- 604 14d7 DEAC30BA 		.ascii	"\336\2540\272z\344\026\275\365\306\310=\273G\235\257"
- 604      7AE416BD 
- 604      F5C6C83D 
- 604      BB479DAF 
- 605 14e7 44A49646 		.ascii	"D\244\226F\274\2062\2717\353\301\033\271\343>\356\315"
- 605      BC8632B9 
- 605      37EBC11B 
- 605      B9E33EEE 
- 605      CD
- 606 14f8 01EA4D76 		.ascii	"\001\352Mvw\335[\312\331\254\326\351C\220,6\233\221"
- 606      77DD5BCA 
- 606      D9ACD6E9 
- 606      43902C36 
- 606      9B91
- 607 150a 2360AF16 		.ascii	"#`\257\026\326\234\020\360(\317mK\3048\337k\363\001"
- 607      D69C10F0 
- 607      28CF6D4B 
- 607      C438DF6B 
- 607      F301
- 608 151c 76A2B769 		.ascii	"v\242\267i\017\257\203\001ry\317\355\242r\376:\313\033"
- 608      0FAF8301 
- 608      7279CFED 
- 608      A272FE3A 
- 608      CB1B
- 609 152e D8F18A81 		.ascii	"\330\361\212\201Fo\267\201\312\267\007*\217\005*\256"
- 609      466FB781 
- 609      CAB7072A 
- 609      8F052AAE 
- 610 153e F17AA4A7 		.ascii	"\361z\244\247k\240r!\03794\037?P\327\363\355\256W\\"
- 610      6BA07221 
- 610      1F39341F 
- 610      3F50D7F3 
- 610      EDAE575C 
- 611 1552 8EBE865D 		.ascii	"\216\276\206]\003\345\026\235\276r\327\226I<P\315\257"
- 611      03E5169D 
- 611      BE72D796 
- 611      493C50CD 
- 611      AF
- 612 1563 B2401DE4 		.ascii	"\262@\035\344\201\332\002\201\222;f\363@\035\242\201"
- 612      81DA0281 
- 612      923B66F3 
- 612      401DA281 
- 613 1573 BA36D65B 		.ascii	"\2726\326[\357\255\214T\222\250\234\367\013x\244\012"
- 613      EFAD8C54 
- 613      92A89CF7 
- 613      0B78A40A 
- 614 1583 58A4D24A 		.ascii	"X\244\322Jw\351\224`2\310dp!\007\027R\360\351\253\333"
- 614      77E99460 
- 614      32C86470 
- 614      21071752 
- 614      F0E9ABDB 
- 615 1597 0E3B7D8C 		.ascii	"\016;}\214C\246w\031|\230\203\017Sp\334\303\203#Z\034"
- 615      43A67719 
- 615      7C98830F 
- 615      5370DCC3 
- 615      83235A1C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 49
+ 603      F2D74E19 
+ 603      D4C6FD76 
+ 603      1B1BD3
+ 604 14d5 FA2A8CAE 		.ascii	"\372*\214\256\036\271E\267\254\252j\321s\217\272^\214"
+ 604      1EB945B7 
+ 604      ACAA6AD1 
+ 604      738FBA5E 
+ 604      8C
+ 605 14e6 482B8D78 		.ascii	"H+\215x\031ero\326\2037r\307}\334\233\003\324\233\354"
+ 605      1965726F 
+ 605      D6833772 
+ 605      C77DDC9B 
+ 605      03D49BEC 
+ 606 14fa 9EBAD795 		.ascii	"\236\272\327\225\263Y\255\323\207 Yl6#G\362\316\243"
+ 606      B359ADD3 
+ 606      8720596C 
+ 606      362347F2 
+ 606      CEA3
+ 607 150c B9669F37 		.ascii	"\271f\2377\036\347\271m\215\230\344{m>\300N\3657\355"
+ 607      1EE7B96D 
+ 607      8D98E47B 
+ 607      6D3EC04E 
+ 607      F537ED
+ 608 151f E6753044 		.ascii	"\346u0D.\357\276YT\316_gy\003;Y1\324\350\3556P\371\366"
+ 608      2EEFBE59 
+ 608      54CE5F67 
+ 608      79033B59 
+ 608      31D4E8ED 
+ 609 1537 40E5B140 		.ascii	"@\345\261@\3055^\213\364t\015T.\344#\207\346\343\007"
+ 609      C5355E8B 
+ 609      F4740D54 
+ 609      2EE42387 
+ 609      E6E307
+ 610 154a EA7ABEDD 		.ascii	"\352z\276\335\365\212\313\321-\3305Pn\321\353\327\264"
+ 610      F58ACBD1 
+ 610      2DD83550 
+ 610      6ED1EBD7 
+ 610      B4
+ 611 155b DC9AC603 		.ascii	"\334\232\306\003\325\374\022\013\324A\036\250\315\020"
+ 611      D5FC120B 
+ 611      D4411EA8 
+ 611      CD10
+ 612 1569 28B96336 		.ascii	"(\271c6\017\324!\032\250\226\211\376zoe\244\222E\345"
+ 612      0FD4211A 
+ 612      A89689FE 
+ 612      7A6F65A4 
+ 612      9245E5
+ 613 157c BC5FC023 		.ascii	"\274_\300#U@#u5\275t\247N\011&\203L\006\027rp!\005\237"
+ 613      55402375 
+ 613      35BD74A7 
+ 613      4E092683 
+ 613      4C061772 
+ 614 1594 BEBAF5B0 		.ascii	"\276\272\365\260\323\3078dz\227\301\2079\3700\005\307"
+ 614      D3C73864 
+ 614      7A97C187 
+ 614      39F83005 
+ 614      C7
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 49
 
 
- 616 15ab E3C35EC1 		.ascii	"\343\303^\301m\311m \037T\224\266K\245\347ku\217\213"
- 616      6DC96D20 
- 616      1F5494B6 
- 616      4BA5E76B 
- 616      758F8B
- 617 15be 0ACE4448 		.ascii	"\012\316DH\323\242=\251\204#\362$sDty\201|T\234\251"
- 617      D3A23DA9 
- 617      8423F224 
- 617      73447479 
- 617      817C549C 
- 618 15d3 3184FB07 		.ascii	"1\204\373\007/2\373\007\376v\271U\377\311\037\276~\355"
- 618      2F32FB07 
- 618      FE76B955 
- 618      FFC91FBE 
- 618      7EED
- 619 15e5 C3B97335 		.ascii	"\303\271s5b\210\277\365\257\006\223iyP\250\355\235y"
- 619      6288BFF5 
- 619      AF069369 
- 619      7950A8ED 
- 619      9D79
- 620 15f7 269B7FC0 		.ascii	"&\233\177\300\277-\366\267\205\005\007\007\005,\266"
- 620      BF2DF6B7 
- 620      85050707 
- 620      052CB6
- 621 1606 59969BAD 		.ascii	"Y\226\233\255\266\345\201Aa\246%a\026\223\325\026\002"
- 621      B6E58141 
- 621      61A62561 
- 621      1693D516 
- 621      02
- 622 1617 885FCD9A 		.ascii	"\210_\315\2323k\316b\177K\210-,,\330JN\336\346\370\267"
- 622      336BCE62 
- 622      7F4B882D 
- 622      2C2CD84A 
- 622      4EDEE6F8 
- 623 162c CDFEDF04 		.ascii	"\315\376\337\004-\016\012\015\010^\036h^\034\342\037"
- 623      2D0E0A0D 
- 623      085E1E68 
- 623      5E1CE21F 
- 624 163c B02C28D4 		.ascii	"\260,(\324\274\330\024h^\342\277<\330f\262}\037n\266"
- 624      BCD81468 
- 624      5EE2BF3C 
- 624      D866B27D 
- 624      1F6EB6
- 625 164f CE5AA6D1 		.ascii	"\316Z\246\321\333U\375\361\037\245\312\372\275u1t\011"
- 625      DB55FDF1 
- 625      1FA5CAFA 
- 625      BD753174 
- 625      09
- 626 1660 04B920DF 		.ascii	"\004\271 \337\030\024\026\036f\261\021\277L\266\367"
- 626      1814161E 
- 626      66B111BF 
- 626      4CB6F7
- 627 166f 66CD9ACD 		.ascii	"f\315\232\315\376\303\254\263\227\371\007\317&\227\254"
- 627      FEC3ACB3 
- 627      97F907CF 
- 627      2697AC
- 628 167e B3BFFCEA 		.ascii	"\263\277\374\352\363w\346\315^\260\340\243\331\237|"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 50
+ 615 15a5 DD3F38A6 		.ascii	"\335?8\246\3051>\354\025\334\346\334\006\362AEi\207"
+ 615      C5313EEC 
+ 615      15DCE6DC 
+ 615      06F24145 
+ 615      6987
+ 616 15b7 547ABE56 		.ascii	"Tz\276V\367\260\250\340L\20443\332\223J8\"O2GD\227\027"
+ 616      F7B0A8E0 
+ 616      4C843433 
+ 616      DA934A38 
+ 616      224F3247 
+ 617 15ce C847C539 		.ascii	"\310G\3059\032C\270\177\360\"\263\177\340o\227[\365"
+ 617      1A43B87F 
+ 617      F022B37F 
+ 617      E06F975B 
+ 617      F5
+ 618 15df 1FFFE1EB 		.ascii	"\037\377\341\353\227?x\363M\215\030\342o\375\253\301"
+ 618      973F78F3 
+ 618      4D8D18E2 
+ 618      6FFDABC1 
+ 619 15ef 645A1E14 		.ascii	"dZ\036\024j{\373-\223\315?\340\337\026\373\333\302\202"
+ 619      6A7BFB2D 
+ 619      93CD3FE0 
+ 619      DF16FBDB 
+ 619      C282
+ 620 1601 83830216 		.ascii	"\203\203\002\026\333,\313\315V\333\362\300\2400\323"
+ 620      DB2CCBCD 
+ 620      56DBF2C0 
+ 620      A030D3
+ 621 1610 92308BC9 		.ascii	"\2220\213\311j\013\001\304\257\346\316\237;\177\261"
+ 621      6A0B01C4 
+ 621      AFE6CE9F 
+ 621      3B7FB1
+ 622 161f BF25C416 		.ascii	"\277%\304\026\026\026l%'op\374\033f\377o\202\026\007"
+ 622      16166C25 
+ 622      276F70FC 
+ 622      1B66FF6F 
+ 622      821607
+ 623 1632 8506042F 		.ascii	"\205\006\004/\0174/\016\361\017X\026\024j^l\0124/\361"
+ 623      0F342F0E 
+ 623      F10F5816 
+ 623      146A5E6C 
+ 623      0A342FF1 
+ 624 1646 5F1E6C33 		.ascii	"_\036l3\331\276\0177[\347.\323\350\355\252\376\370\217"
+ 624      D9BE0F37 
+ 624      5BE72ED3 
+ 624      E8EDAAFE 
+ 624      F88F
+ 625 1658 5265FDDE 		.ascii	"Re\375\336\272\030\272\004\202\\\220o\014\012\013\017"
+ 625      BA18BA04 
+ 625      825C906F 
+ 625      0C0A0B0F 
+ 626 1668 B3D8885F 		.ascii	"\263\330\210_&\333\273s\347\316c\377a\326y\313\374\203"
+ 626      26DBBB73 
+ 626      E7CE63FF 
+ 626      61D679CB 
+ 626      FC83
+ 627 167a E7914BD6 		.ascii	"\347\221K\326y_~\365\371\333o\315\373\354\263\017\347"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 50
 
 
- 628      F377E6CD 
- 628      5EB0E0A3 
- 628      D99F7C
- 629 168d F1D9C26F 		.ascii	"\361\331\302o\347\221K&\210\216)88\020Dx\020TP\240\370"
- 629      E7914B26 
- 629      888E2938 
- 629      38104478 
- 629      105450A0 
- 630 16a2 9BDF2D5A 		.ascii	"\233\337-Z\240]\260\360\303\337/\022\177\373\345\242"
- 630      A05DB0F0 
- 630      C3DF2F12 
- 630      7FFBE5A2 
- 631 16b2 45E84FE8 		.ascii	"E\350O\350Sm@\260\331\337\302\0036\367}\223Mo?\301V"
- 631      536D40B0 
- 631      D9DFC203 
- 631      36F77D93 
- 631      4D6F3FC1 
- 632 16c7 B3EDDD17 		.ascii	"\263\355\335\027T\307\374[\032\036\024\006\332\360\302"
- 632      54C7FC5B 
- 632      1A1E1406 
- 632      DAF0C2
- 633 16d6 8F16E1CF 		.ascii	"\217\026\341\317>Z\244\375\342\353/>Z\244[\370\345\027"
- 633      3E5AA4FD 
- 633      E2EB2F3E 
- 633      5AA45BF8 
- 633      E517
- 634 16e8 1F7FFCD1 		.ascii	"\037\177\374\321\"\217\205_\375\327\027\037/\322~\276"
- 634      228F855F 
- 634      FDD7171F 
- 634      2FD27EBE 
- 635 16f8 F0A38F17 		.ascii	"\360\243\217\027\021K>5\312\275L6\003\3632(\320d\363"
- 635      114B3E35 
- 635      CABD4C36 
- 635      03F33228 
- 635      D064F3
- 636 170b 085BB204 		.ascii	"\010[\262\004t\033\211!\246%\376V\333|\223\355?\376"
- 636      741B8921 
- 636      A625FE56 
- 636      DB7C93ED 
- 636      3FFE
- 637 171d 61B1B587 		.ascii	"a\261\265\207u\246\253k\034a\017\035@\264\237-\204\322"
- 637      75A6AB6B 
- 637      1C610F1D 
- 637      40B49F2D 
- 637      84D2
- 638 172f 7AD51568 		.ascii	"z\325\025h\265\0048@\001\032/8\374\311\022d3\003\324"
- 638      B5043840 
- 638      011A2F38 
- 638      FCC91264 
- 638      3303D4
- 639 1742 1BCEBF34 		.ascii	"\033\316\2774\333\340\354\363\260@\263>(,\004\016&\333"
- 639      DBE0ECF3 
- 639      B040B33E 
- 639      282C040E 
- 639      26DB
- 640 1754 14D6FC85 		.ascii	"\024\326\374\205\177\340\207\376\301\301\337\370\007"
- 640      7FE087FE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 51
+ 627      795F7EF5 
+ 627      F9DB6FCD 
+ 627      FBECB30F 
+ 627      E7
+ 628 168b 7DFCC5A7 		.ascii	"}\374\305\247\013\277}\213\\2AtL\301\301\201 \302\203"
+ 628      0BBF7D8B 
+ 628      5C324174 
+ 628      4CC1C181 
+ 628      20C283
+ 629 169e A08202C5 		.ascii	"\240\202\002\305\337\374n\321g\332\317\026~\360\373"
+ 629      DFFC6ED1 
+ 629      67DACF16 
+ 629      7EF0FB
+ 630 16ad 45E26FBF 		.ascii	"E\342o\277\\\264\010\375\011}\242\015\0106\373[x\300"
+ 630      5CB408FD 
+ 630      097DA20D 
+ 630      0836FB5B 
+ 630      78C0
+ 631 16bf DE7CCF64 		.ascii	"\336|\317d\323\333O\260\325l{\347\031\3251\377\226\206"
+ 631      D3DB4FB0 
+ 631      D56C7BE7 
+ 631      19D531FF 
+ 631      9686
+ 632 16d1 07858136 		.ascii	"\007\205\2016\274\360\303E\370\323\017\027i\277\370"
+ 632      BCF0C345 
+ 632      F8D30F17 
+ 632      69BFF8
+ 633 16e0 FA8B0F17 		.ascii	"\372\213\017\027\351\026~\371\305G\037}\270\310c\341"
+ 633      E9167EF9 
+ 633      C5471F7D 
+ 633      B8C863E1 
+ 634 16f0 57FFF5C5 		.ascii	"W\377\365\305G\213\264\237/\374\360\243E\304\222O\214"
+ 634      478BB49F 
+ 634      2FFCF0A3 
+ 634      45C4924F 
+ 634      8C
+ 635 1701 722F93CD 		.ascii	"r/\223\315\300\274\014\0124\331<\302\226,\001\335Fb"
+ 635      C0BC0C0A 
+ 635      34D93CC2 
+ 635      962C01DD 
+ 635      4662
+ 636 1713 886989BF 		.ascii	"\210i\211\277\325\266\300d\373\217\177Xl\355a\235\343"
+ 636      D5B6C064 
+ 636      FB8F7F58 
+ 636      6CED619D 
+ 636      E3
+ 637 1724 EA1A47D8 		.ascii	"\352\032G\330C\007\020\355\247\013\241\264^r\005Z-\001"
+ 637      430710ED 
+ 637      A70BA1B4 
+ 637      5E72055A 
+ 637      2D01
+ 638 1736 0E5080C6 		.ascii	"\016P\200\306\013\016\177\262\004\331\314\000\365\206"
+ 638      0B0E7FB2 
+ 638      04D9CC00 
+ 638      F586
+ 639 1744 F32FCD36 		.ascii	"\363/\31568\373<,\320\254\017\012\013\201\203\3116\235"
+ 639      38FB3C2C 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 51
 
 
- 640      C1C1DFF8 
- 640      07
- 641 1761 FCF53382 		.ascii	"\374\3653\202\014\340\214\311\346\011\316\373\007\022"
- 641      0CE08CC9 
- 641      E609CEFB 
- 641      0712
- 642 176f DFA732E8 		.ascii	"\337\2472\350\002\2504\007\026\344\004\003\317\344\374"
- 642      02A83407 
- 642      16E40403 
- 642      CFE4FC
- 643 177e C93F8808 		.ascii	"\311?\210\010\372*(\304\034\266\334\366\2457\324\012"
- 643      FA2A28C4 
- 643      1CB6DCF6 
- 643      A537D40A 
- 644 178e F863B67C 		.ascii	"\370c\266|\013\006\331^S\232j\2619\\\012Xf\003<x\344"
- 644      0B06D95E 
- 644      539A6AB1 
- 644      395C0A58 
- 644      66033C78 
- 645 17a3 6932F162 		.ascii	"i2\361b\325\361\2436\304\272\324d\233\257\354\030\020"
- 645      D5F1A336 
- 645      C4BAD464 
- 645      9BAFEC18 
- 645      10
- 646 17b4 16121216 		.ascii	"\026\022\022\026\312S\375\233E\237\177\370\371\012\322"
- 646      CA53FD9B 
- 646      459F7FF8 
- 646      F90AD2
- 647 17c3 161E146C 		.ascii	"\026\036\024l\266Xg\177\362\341\207D\036"
- 647      B658677F 
- 647      F2E18744 
- 647      1E
- 648 17d0 2FFEA9DC 		.ascii	"/\376\251\334$b\260\335\246\227\354\225g\202,.\265\204"
- 648      2462B0DD 
- 648      A697EC95 
- 648      67822C2E 
- 648      B584
- 649 17e2 2D0F2761 		.ascii	"-\017'a\230\026\260\354\253e\201\037\207\376\317r\363"
- 649      9816B0EC 
- 649      AB65811F 
- 649      87FECF72 
- 649      F3
- 650 17f3 7207540C 		.ascii	"r\007T\0145\257\260\351-f\377\340pKP\230\316F~\301\266"
- 650      35AFB0E9 
- 650      2D66FFE0 
- 650      704B5098 
- 650      CE467EC1 
- 651 1808 10DB8AE0 		.ascii	"\020\333\212\340 \253M\033\366]\250\331\242\245=t!\313"
- 651      20AB4D1B 
- 651      F65DA8D9 
- 651      A2A53D74 
- 651      21CB
- 652 181a 6DE61550 		.ascii	"m\346\025P\236\001\313L\364To\0167\207B.\227z\231\277"
- 652      9E01CB4C 
- 652      F4546F0E 
- 652      3787422E 
- 652      977A99BF 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 52
+ 639      D0AC0F0A 
+ 639      0B8183C9 
+ 639      369D
+ 640 1756 357FE11F 		.ascii	"5\177\341\037\370\201\177p\3607\376\001\177\375\224"
+ 640      F8817F70 
+ 640      F037FE01 
+ 640      7FFD94
+ 641 1765 20033863 		.ascii	" \0038c\262y\202\363\376\201\304\367\031\014\372\031"
+ 641      B27982F3 
+ 641      FE81C4F7 
+ 641      190CFA19 
+ 642 1775 549A030B 		.ascii	"T\232\003\013r\202\201gr\376\344\037D\004}\025\024b"
+ 642      72828167 
+ 642      72FEE41F 
+ 642      44047D15 
+ 642      1462
+ 643 1787 0E5B6EFB 		.ascii	"\016[n\373\322\033j\005\3741[\276\005\203l/+M\265\330"
+ 643      D21B6A05 
+ 643      FC315BBE 
+ 643      05836C2F 
+ 643      2B4DB5D8 
+ 644 179b 1C2E052C 		.ascii	"\034.\005,\263\001\036<\3624\231x\261\352\370Q\033b"
+ 644      B3011E3C 
+ 644      F2349978 
+ 644      B1EAF851 
+ 644      1B62
+ 645 17ad 5D6AB22D 		.ascii	"]j\262-Pv\014\010\013\011\011\013\345\251\376\315\242"
+ 645      50760C08 
+ 645      0B09090B 
+ 645      E5A9FECD 
+ 645      A2
+ 646 17be CF3FF87C 		.ascii	"\317?\370|\005i\013\017\0126[\254\363>\376\340\003\""
+ 646      05690B0F 
+ 646      0A365BAC 
+ 646      F33EFEE0 
+ 646      0322
+ 647 17d0 8F17FF0C 		.ascii	"\217\027\377\014n\0221\330n\323\363\366\3123A\026\227"
+ 647      6E1231D8 
+ 647      6ED3F3F6 
+ 647      CA334116 
+ 647      97
+ 648 17e1 5AC29687 		.ascii	"Z\302\226\207\2230\314\014X\366\325\262\300\217B\377"
+ 648      9330CC0C 
+ 648      58F6D5B2 
+ 648      C08F42FF 
+ 649 17f1 67B979B9 		.ascii	"g\271y\271\003*\206\232W\330\364\026\263\177p\270%("
+ 649      032A869A 
+ 649      57D8F416 
+ 649      B37F70B8 
+ 649      2528
+ 650 1803 4C6723BF 		.ascii	"Lg#\277`[\210mEp\220\325\246\015\373.\324l\321\322\036"
+ 650      605B886D 
+ 650      457090D5 
+ 650      A60DFB2E 
+ 650      D46CD1D2 
+ 651 1818 BA90E536 		.ascii	"\272\220\3456\363\012(\317\200e&z\2527\207\233C!\227"
+ 651      F30A28CF 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 52
 
 
- 653 182e 3587F2E1 		.ascii	"5\207\362\341\241\007o\030\374;0\012.N\002\270m\031"
- 653      A1076F18 
- 653      FC3B300A 
- 653      2E4E02B8 
- 653      6D19
- 654 1840 2808B49A 		.ascii	"(\010\264\232\210H\037%c\262\241\345\036\346\357HW\217"
- 654      88481F25 
- 654      63B2A1E5 
- 654      1EE6EF48 
- 654      578F
- 655 1852 EF6CA034 		.ascii	"\357l\2404\034\016VsH8\016\010\265i\201L6#\364\207\026"
- 655      1C0E5673 
- 655      48380E08 
- 655      B569814C 
- 655      3623F487 
- 656 1867 FFF06561 		.ascii	"\377\360ea\026\263\316J\024Y\227j\277\263\331,\341S"
- 656      16B3CE4A 
- 656      1459976A 
- 656      BFB3D92C 
- 656      E153
- 657 1879 982893C5 		.ascii	"\230(\223\305\274\304l1\207\006@\202\240{\3307\177\011"
- 657      BCC46C31 
- 657      87064082 
- 657      A07BD837 
- 657      7F09
- 658 188b D79B5704 		.ascii	"\327\233W\004\331\002\300g\017K\340\367\200\027\001"
- 658      D902C067 
- 658      0F4BE0F7 
- 658      801701
- 659 189a 62F56443 		.ascii	"b\365dC\014jYg?\332H;\244`I\260\377R\253\316\306\212"
- 659      0C6A5967 
- 659      3FDA483B 
- 659      A46049B0 
- 659      FF52ABCE 
- 660 18b0 456BB5F9 		.ascii	"Ek\265\371\333\314z\033=\020\221\376\337\370[\315|\200"
- 660      DBCC7A1B 
- 660      3D1091FE 
- 660      DFF85BCD 
- 660      7C80
- 661 18c2 BEFF2E1F 		.ascii	"\276\377.\037\240\344\304`\265\375\325?8hi\250\311\366"
- 661      A0E4C460 
- 661      B5FDD53F 
- 661      386869A8 
- 661      C9F6
- 662 18d4 F3E7E66F 		.ascii	"\363\347\346oY\0008\000\011\023C\375C\314b\3002\177"
- 662      59003800 
- 662      091343FD 
- 662      43CC62C0 
- 662      327F
- 663 18e6 8B362C38 		.ascii	"\2136,8\020\242\033j\376\316l\301\001\266\025\2025\\"
- 663      10A21B6A 
- 663      FECE6CC1 
- 663      01B61582 
- 663      355C
- 664 18f8 08B64032 		.ascii	"\010\266@2\226\302\340\201\341o\231;\027h\216`\371\225"
- 664      96C2E081 
- 664      E16F993B 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 53
+ 651      8065267A 
+ 651      AA37879B 
+ 651      432197
+ 652 182b 4BBDCCDF 		.ascii	"K\275\314\337\232C\371\360\320\2037\014\376\035\030"
+ 652      9A43F9F0 
+ 652      D083370C 
+ 652      FE1D18
+ 653 183a 0517A701 		.ascii	"\005\027\247\001\334\266\014\024\004ZMD\244\217\222"
+ 653      DCB60C14 
+ 653      045A4D44 
+ 653      A48F92
+ 654 1849 31D9D072 		.ascii	"1\331\320r\017\363w\244\253\307w6P\032\016\007\2539"
+ 654      0FF377A4 
+ 654      ABC77736 
+ 654      501A0E07 
+ 654      AB39
+ 655 185b 241C0784 		.ascii	"$\034\007\204\332\264@&\233\021\372C\213\177\370\262"
+ 655      DAB44026 
+ 655      9B11FA43 
+ 655      8B7FF8B2 
+ 656 186b 308B5967 		.ascii	"0\213Yg%\212\254K\265\337\331l\226\360\351L\224\311"
+ 656      258AAC4B 
+ 656      B5DFD96C 
+ 656      96F0E94C 
+ 656      94C9
+ 657 187d 625E62B6 		.ascii	"b^b\266\230C\003 A\320=\354\233\277\204\353\315+\202"
+ 657      98430320 
+ 657      41D03DEC 
+ 657      9BBF84EB 
+ 657      CD2B82
+ 658 1890 6C01E0B3 		.ascii	"l\001\340\263\207%\360{\300\213\000\261z\262!\006\265"
+ 658      8725F07B 
+ 658      C08B00B1 
+ 658      7AB22106 
+ 658      B5
+ 659 18a1 ACB31F6D 		.ascii	"\254\263\037m\244\035R\260$\330\177\251Ugc\305\242\265"
+ 659      A41D52B0 
+ 659      24D87FA9 
+ 659      556763C5 
+ 659      A2B5
+ 660 18b3 DAFC6D66 		.ascii	"\332\374mf\275\215\036\210H\377o\374\255f>@\337{\207"
+ 660      BD8D1E88 
+ 660      48FF6FFC 
+ 660      AD663E40 
+ 660      DF7B87
+ 661 18c6 0F507262 		.ascii	"\017Prb\260\332\376\352\037\034\2644\324d\373\371S\363"
+ 661      B0DAFEEA 
+ 661      1F1CB434 
+ 661      D464FBF9 
+ 661      53F3
+ 662 18d8 B72C001C 		.ascii	"\267,\000\034\200\204\211\241\376!f1`\231\277E\033\026"
+ 662      808489A1 
+ 662      FE216631 
+ 662      6099BF45 
+ 662      1B16
+ 663 18ea 1C08D10D 		.ascii	"\034\010\321\0155\177g\266\340\000\333\012\301\032."
+ 663      357F67B6 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 53
 
 
- 664      17688E60 
- 664      F995
- 665 190a 60992F58 		.ascii	"`\231/X~)X\336\027,\357\011\226w\275\210dRG\320\351"
- 665      7E2958DE 
- 665      172CEF09 
- 665      9677BD88 
- 665      645247D0 
- 666 191f ED17536C 		.ascii	"\355\027Sl\372\366\227!d*\243=\003\302\240`W\330D\222"
- 666      FAF69721 
- 666      642AA33D 
- 666      03C2A060 
- 666      57D84492 
- 667 1933 6C4F477E 		.ascii	"lOG~\264!\3410r\365<\250\266\311\212\304\321\214\002"
- 667      B421E130 
- 667      72F53CA8 
- 667      B6C98AC4 
- 667      D18C02
- 668 1946 DCFCED24 		.ascii	"\334\374\355$\247\246g\025\2745`\031\231\371\376\331"
- 668      A7A66715 
- 668      BC356019 
- 668      99F9FED9 
- 669 1956 2D00D20D 		.ascii	"-\000\322\015\327}\335\013\370\336j/r\367B\2404\340"
- 669      D77DDD0B 
- 669      F8DE6A2F 
- 669      72F742A0 
- 669      34E0
- 670 1968 FABFBA1F 		.ascii	"\372\277\272\037v\314\\\300x\321AAK\325*\004|\243\343"
- 670      76CC5CC0 
- 670      78D14141 
- 670      4BD52A04 
- 670      7CA3E3
- 671 197b 57B0BF65 		.ascii	"W\260\277e)\271\215\321\013&\233\267\311\264dyh\200"
- 671      29B98DD1 
- 671      0B269BB7 
- 671      C9B46479 
- 671      6880
- 672 198d C9346BFE 		.ascii	"\3114k\376;\277\234\243\267sN\315\357)\271\371s\376"
- 672      3BBF9CA3 
- 672      B7734ECD 
- 672      EF29B9F9 
- 672      73FE
- 673 199f 29CCEA1F 		.ascii	")\314\352\037\374\025\225\3462\270\376\331u\342\"Hb"
- 673      FC1595E6 
- 673      32B8FED9 
- 673      75E22248 
- 673      62
- 674 19b0 1F398249 		.ascii	"\0379\202I\377\013k\012\313}"
- 674      FF0B6B0A 
- 674      CB7D
- 675              		.text
- 676              		.section	.gnu.lto_.symtab.abe4355,"",%progbits
- 677 0000 70616C52 		.ascii	"palReadBus\000"
- 677      65616442 
- 677      757300
- 678 000b 00       		.ascii	"\000"
- 679 000c 00       		.ascii	"\000"
- 680 000d 00       		.ascii	"\000"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 54
+ 663      E000DB0A 
+ 663      C11A2E
+ 664 18f9 045B2019 		.ascii	"\004[ \031Ka\360\300\360\267\274\371&\320|\301\362+"
+ 664      4B61F0C0 
+ 664      F0B7BCF9 
+ 664      26D07CC1 
+ 664      F22B
+ 665 190b C1B240B0 		.ascii	"\301\262@\260\374R\260\274'X\336\025,\357x\021\311\244"
+ 665      FC52B0BC 
+ 665      2758DE15 
+ 665      2CEF7811 
+ 665      C9A4
+ 666 191d 8EA0D31B 		.ascii	"\216\240\323\033\317\246\330\364\355/C\310TF{\006\204"
+ 666      CFA6D8F4 
+ 666      ED2F43C8 
+ 666      54467B06 
+ 666      84
+ 667 192e 41C1AEB0 		.ascii	"A\301\256\260\211$\331\236\216\374hC\302a\344\352yP"
+ 667      8924D99E 
+ 667      8EFC6843 
+ 667      C261E4EA 
+ 667      7950
+ 668 1940 6DCF2912 		.ascii	"m\317)\022G3\012p\363\267\323\234\232\236T\360\326\200"
+ 668      47330A70 
+ 668      F3B7D39C 
+ 668      9A9E54F0 
+ 668      D680
+ 669 1952 6564E6FB 		.ascii	"ed\346\373g\267\000H7\\\367u/\340{\253\275\310\335\013"
+ 669      67B70048 
+ 669      375CF775 
+ 669      2FE07BAB 
+ 669      BDC8DD0B 
+ 670 1966 81D280EB 		.ascii	"\201\322\200\353\377\352~\3301s\001\343E\007\005-U\253"
+ 670      FFEA7ED8 
+ 670      317301E3 
+ 670      4507052D 
+ 670      55AB
+ 671 1978 10F08D8E 		.ascii	"\020\360\215\216_\301\376\226\245\3446F/\230l\336&\323"
+ 671      5FC1FE96 
+ 671      A5E43646 
+ 671      2F986CDE 
+ 671      26D3
+ 672 198a 92E5A101 		.ascii	"\222\345\241\001&\323\334\005\357\276\263@o\347\224"
+ 672      26D3DC05 
+ 672      EFBEB340 
+ 672      6FE794
+ 673 1999 CDEFBEED 		.ascii	"\315\357\276\355\304-\370\2470\253\177\360WT\232\313"
+ 673      C42DF8A7 
+ 673      30AB7FF0 
+ 673      57549ACB 
+ 674 19a9 E0FA67D7 		.ascii	"\340\372g\327\211\213 \211}\344\010&\375/\355\313\313"
+ 674      898B2089 
+ 674      7DE40826 
+ 674      FD2FEDCB 
+ 674      CB
+ 675 19ba DF       		.ascii	"\337"
+ 676              		.text
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 54
 
 
- 681 000e 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 681      00000000 
- 682 0016 08010000 		.ascii	"\010\001\000\000"
- 683 001a 70616C57 		.ascii	"palWriteBus\000"
- 683      72697465 
- 683      42757300 
- 684 0026 00       		.ascii	"\000"
- 685 0027 00       		.ascii	"\000"
- 686 0028 00       		.ascii	"\000"
- 687 0029 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 687      00000000 
- 688 0031 0D010000 		.ascii	"\015\001\000\000"
- 689 0035 70616C53 		.ascii	"palSetBusMode\000"
- 689      65744275 
- 689      734D6F64 
- 689      6500
- 690 0043 00       		.ascii	"\000"
- 691 0044 00       		.ascii	"\000"
- 692 0045 00       		.ascii	"\000"
- 693 0046 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 693      00000000 
- 694 004e 15010000 		.ascii	"\025\001\000\000"
- 695 0052 70616C53 		.ascii	"palSetPadCallbackI\000"
- 695      65745061 
- 695      6443616C 
- 695      6C626163 
- 695      6B4900
- 696 0065 00       		.ascii	"\000"
- 697 0066 00       		.ascii	"\000"
- 698 0067 00       		.ascii	"\000"
- 699 0068 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 699      00000000 
- 700 0070 25010000 		.ascii	"%\001\000\000"
- 701 0074 70616C53 		.ascii	"palSetLineCallbackI\000"
- 701      65744C69 
- 701      6E654361 
- 701      6C6C6261 
- 701      636B4900 
- 702 0088 00       		.ascii	"\000"
- 703 0089 00       		.ascii	"\000"
- 704 008a 00       		.ascii	"\000"
- 705 008b 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 705      00000000 
- 706 0093 2E010000 		.ascii	".\001\000\000"
- 707 0097 70616C57 		.ascii	"palWaitPadTimeoutS\000"
- 707      61697450 
- 707      61645469 
- 707      6D656F75 
- 707      745300
- 708 00aa 00       		.ascii	"\000"
- 709 00ab 00       		.ascii	"\000"
- 710 00ac 00       		.ascii	"\000"
- 711 00ad 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 711      00000000 
- 712 00b5 42010000 		.ascii	"B\001\000\000"
- 713 00b9 70616C57 		.ascii	"palWaitLineTimeoutS\000"
- 713      6169744C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 55
+ 677              		.section	.gnu.lto_.symtab.2e80f7d6,"",%progbits
+ 678 0000 70616C52 		.ascii	"palReadBus\000"
+ 678      65616442 
+ 678      757300
+ 679 000b 00       		.ascii	"\000"
+ 680 000c 00       		.ascii	"\000"
+ 681 000d 00       		.ascii	"\000"
+ 682 000e 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 682      00000000 
+ 683 0016 08010000 		.ascii	"\010\001\000\000"
+ 684 001a 70616C57 		.ascii	"palWriteBus\000"
+ 684      72697465 
+ 684      42757300 
+ 685 0026 00       		.ascii	"\000"
+ 686 0027 00       		.ascii	"\000"
+ 687 0028 00       		.ascii	"\000"
+ 688 0029 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 688      00000000 
+ 689 0031 0D010000 		.ascii	"\015\001\000\000"
+ 690 0035 70616C53 		.ascii	"palSetBusMode\000"
+ 690      65744275 
+ 690      734D6F64 
+ 690      6500
+ 691 0043 00       		.ascii	"\000"
+ 692 0044 00       		.ascii	"\000"
+ 693 0045 00       		.ascii	"\000"
+ 694 0046 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 694      00000000 
+ 695 004e 15010000 		.ascii	"\025\001\000\000"
+ 696 0052 70616C53 		.ascii	"palSetPadCallbackI\000"
+ 696      65745061 
+ 696      6443616C 
+ 696      6C626163 
+ 696      6B4900
+ 697 0065 00       		.ascii	"\000"
+ 698 0066 00       		.ascii	"\000"
+ 699 0067 00       		.ascii	"\000"
+ 700 0068 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 700      00000000 
+ 701 0070 25010000 		.ascii	"%\001\000\000"
+ 702 0074 70616C53 		.ascii	"palSetLineCallbackI\000"
+ 702      65744C69 
+ 702      6E654361 
+ 702      6C6C6261 
+ 702      636B4900 
+ 703 0088 00       		.ascii	"\000"
+ 704 0089 00       		.ascii	"\000"
+ 705 008a 00       		.ascii	"\000"
+ 706 008b 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 706      00000000 
+ 707 0093 2E010000 		.ascii	".\001\000\000"
+ 708 0097 70616C57 		.ascii	"palWaitPadTimeoutS\000"
+ 708      61697450 
+ 708      61645469 
+ 708      6D656F75 
+ 708      745300
+ 709 00aa 00       		.ascii	"\000"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 55
 
 
- 713      696E6554 
- 713      696D656F 
- 713      75745300 
- 714 00cd 00       		.ascii	"\000"
- 715 00ce 00       		.ascii	"\000"
- 716 00cf 00       		.ascii	"\000"
- 717 00d0 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 717      00000000 
- 718 00d8 47010000 		.ascii	"G\001\000\000"
- 719 00dc 5F70616C 		.ascii	"_pal_events\000"
- 719      5F657665 
- 719      6E747300 
- 720 00e8 00       		.ascii	"\000"
- 721 00e9 02       		.ascii	"\002"
- 722 00ea 00       		.ascii	"\000"
- 723 00eb 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 723      00000000 
- 724 00f3 1C020000 		.ascii	"\034\002\000\000"
- 725 00f7 5F70616C 		.ascii	"_pal_lld_setgroupmode\000"
- 725      5F6C6C64 
- 725      5F736574 
- 725      67726F75 
- 725      706D6F64 
- 726 010d 00       		.ascii	"\000"
- 727 010e 02       		.ascii	"\002"
- 728 010f 00       		.ascii	"\000"
- 729 0110 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 729      00000000 
- 730 0118 4D010000 		.ascii	"M\001\000\000"
- 731 011c 63685468 		.ascii	"chThdEnqueueTimeoutS\000"
- 731      64456E71 
- 731      75657565 
- 731      54696D65 
- 731      6F757453 
- 732 0131 00       		.ascii	"\000"
- 733 0132 02       		.ascii	"\002"
- 734 0133 00       		.ascii	"\000"
- 735 0134 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 735      00000000 
- 736 013c 0A020000 		.ascii	"\012\002\000\000"
- 737              		.text
- 738              		.section	.gnu.lto_.opts,"",%progbits
- 739 0000 272D666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-math' '"
- 739      6174682D 
- 739      6572726E 
- 739      6F272027 
- 739      2D667369 
- 740 0033 2D666E6F 		.ascii	"-fno-trapv' '-fno-openmp' '-fno-openacc' '-mcpu=cor"
- 740      2D747261 
- 740      70762720 
- 740      272D666E 
- 740      6F2D6F70 
- 741 0066 7465782D 		.ascii	"tex-m7' '-mno-thumb-interwork' '-mthumb' '-ggdb' '-"
- 741      6D372720 
- 741      272D6D6E 
- 741      6F2D7468 
- 741      756D622D 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 56
+ 710 00ab 00       		.ascii	"\000"
+ 711 00ac 00       		.ascii	"\000"
+ 712 00ad 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 712      00000000 
+ 713 00b5 42010000 		.ascii	"B\001\000\000"
+ 714 00b9 70616C57 		.ascii	"palWaitLineTimeoutS\000"
+ 714      6169744C 
+ 714      696E6554 
+ 714      696D656F 
+ 714      75745300 
+ 715 00cd 00       		.ascii	"\000"
+ 716 00ce 00       		.ascii	"\000"
+ 717 00cf 00       		.ascii	"\000"
+ 718 00d0 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 718      00000000 
+ 719 00d8 47010000 		.ascii	"G\001\000\000"
+ 720 00dc 5F70616C 		.ascii	"_pal_events\000"
+ 720      5F657665 
+ 720      6E747300 
+ 721 00e8 00       		.ascii	"\000"
+ 722 00e9 02       		.ascii	"\002"
+ 723 00ea 00       		.ascii	"\000"
+ 724 00eb 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 724      00000000 
+ 725 00f3 1C020000 		.ascii	"\034\002\000\000"
+ 726 00f7 5F70616C 		.ascii	"_pal_lld_setgroupmode\000"
+ 726      5F6C6C64 
+ 726      5F736574 
+ 726      67726F75 
+ 726      706D6F64 
+ 727 010d 00       		.ascii	"\000"
+ 728 010e 02       		.ascii	"\002"
+ 729 010f 00       		.ascii	"\000"
+ 730 0110 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 730      00000000 
+ 731 0118 4D010000 		.ascii	"M\001\000\000"
+ 732 011c 63685468 		.ascii	"chThdEnqueueTimeoutS\000"
+ 732      64456E71 
+ 732      75657565 
+ 732      54696D65 
+ 732      6F757453 
+ 733 0131 00       		.ascii	"\000"
+ 734 0132 02       		.ascii	"\002"
+ 735 0133 00       		.ascii	"\000"
+ 736 0134 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 736      00000000 
+ 737 013c 0A020000 		.ascii	"\012\002\000\000"
+ 738              		.text
+ 739              		.section	.gnu.lto_.opts,"",%progbits
+ 740 0000 272D666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-math' '"
+ 740      6174682D 
+ 740      6572726E 
+ 740      6F272027 
+ 740      2D667369 
+ 741 0033 2D666E6F 		.ascii	"-fno-trapv' '-fno-openmp' '-fno-openacc' '-mcpu=cor"
+ 741      2D747261 
+ 741      70762720 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 56
 
 
- 742 0099 4F322720 		.ascii	"O2' '-fomit-frame-pointer' '-falign-functions=16' '"
- 742      272D666F 
- 742      6D69742D 
- 742      6672616D 
- 742      652D706F 
- 743 00cc 2D666675 		.ascii	"-ffunction-sections' '-fdata-sections' '-fno-common"
- 743      6E637469 
- 743      6F6E2D73 
- 743      65637469 
- 743      6F6E7327 
- 744 00ff 2720272D 		.ascii	"' '-flto'\000"
- 744      666C746F 
- 744      2700
- 745              		.text
- 746              		.comm	__gnu_lto_v1,1,1
- 747              		.comm	__gnu_lto_slim,1,1
- 748              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccl29DxF.s 			page 57
+ 741      272D666E 
+ 741      6F2D6F70 
+ 742 0066 7465782D 		.ascii	"tex-m7' '-mno-thumb-interwork' '-mthumb' '-ggdb' '-"
+ 742      6D372720 
+ 742      272D6D6E 
+ 742      6F2D7468 
+ 742      756D622D 
+ 743 0099 4F322720 		.ascii	"O2' '-fomit-frame-pointer' '-falign-functions=16' '"
+ 743      272D666F 
+ 743      6D69742D 
+ 743      6672616D 
+ 743      652D706F 
+ 744 00cc 2D666675 		.ascii	"-ffunction-sections' '-fdata-sections' '-fno-common"
+ 744      6E637469 
+ 744      6F6E2D73 
+ 744      65637469 
+ 744      6F6E7327 
+ 745 00ff 2720272D 		.ascii	"' '-flto'\000"
+ 745      666C746F 
+ 745      2700
+ 746              		.text
+ 747              		.comm	__gnu_lto_v1,1,1
+ 748              		.comm	__gnu_lto_slim,1,1
+ 749              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccilYdeL.s 			page 57
 
 
 DEFINED SYMBOLS

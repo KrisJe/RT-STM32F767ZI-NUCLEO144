@@ -66,14 +66,16 @@ build/obj/usbcfg.o: usbcfg.c ../../../os/rt/include/ch.h chconf.h \
  ../../../os/hal/include/hal_adc.h \
  ../../../os/hal/ports/STM32/LLD/ADCv2/hal_adc_lld.h \
  ../../../os/hal/include/hal_can.h ../../../os/hal/include/hal_crypto.h \
- ../../../os/hal/include/hal_dac.h ../../../os/hal/include/hal_ext.h \
- ../../../os/hal/include/hal_gpt.h ../../../os/hal/include/hal_i2c.h \
- ../../../os/hal/include/hal_i2s.h ../../../os/hal/include/hal_icu.h \
- ../../../os/hal/include/hal_mac.h ../../../os/hal/include/hal_pwm.h \
- ../../../os/hal/include/hal_qspi.h ../../../os/hal/include/hal_rtc.h \
- ../../../os/hal/include/hal_serial.h ../../../os/hal/include/hal_sdc.h \
- ../../../os/hal/include/hal_spi.h ../../../os/hal/include/hal_uart.h \
- ../../../os/hal/include/hal_usb.h \
+ ../../../os/hal/include/hal_dac.h \
+ ../../../os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.h \
+ ../../../os/hal/include/hal_ext.h ../../../os/hal/include/hal_gpt.h \
+ ../../../os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.h \
+ ../../../os/hal/include/hal_i2c.h ../../../os/hal/include/hal_i2s.h \
+ ../../../os/hal/include/hal_icu.h ../../../os/hal/include/hal_mac.h \
+ ../../../os/hal/include/hal_pwm.h ../../../os/hal/include/hal_qspi.h \
+ ../../../os/hal/include/hal_rtc.h ../../../os/hal/include/hal_serial.h \
+ ../../../os/hal/include/hal_sdc.h ../../../os/hal/include/hal_spi.h \
+ ../../../os/hal/include/hal_uart.h ../../../os/hal/include/hal_usb.h \
  ../../../os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.h \
  ../../../os/hal/ports/STM32/LLD/OTGv1/stm32_otg.h \
  ../../../os/hal/include/hal_wdg.h ../../../os/hal/include/hal_st.h \
@@ -255,9 +257,13 @@ mcuconf.h:
 
 ../../../os/hal/include/hal_dac.h:
 
+../../../os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.h:
+
 ../../../os/hal/include/hal_ext.h:
 
 ../../../os/hal/include/hal_gpt.h:
+
+../../../os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.h:
 
 ../../../os/hal/include/hal_i2c.h:
 

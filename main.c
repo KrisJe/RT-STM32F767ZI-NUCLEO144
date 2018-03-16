@@ -1,17 +1,5 @@
 /*
-    ChibiOS - Copyright (C) 2006..2018 Giovanni Di Sirio
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
 */
 
 #include "ch.h"
@@ -22,172 +10,138 @@
 #include "chprintf.h"
 #include "usbcfg.h"
 
+
 /* Virtual serial port over USB.*/
 //SerialUSBDriver SDU1;
 //BaseSequentialStream *chp = (BaseSequentialStream *)&SDU1;
 
+//registers for STM32F722ZE
+#define TEMP110_CAL_ADDR ((uint16_t*) ((uint32_t) 0x1FF0F44E)) //110deg
+#define TEMP30_CAL_ADDR ((uint16_t*) ((uint32_t) 0x1FF0F44C)) //30deg
+#define VDD_CALIB ((uint16_t) (330))
+#define VDD_APPLI ((uint16_t) (300))
+
+#if 0
 #include "adc_multi.h"
+#endif
 
-/* Number of ADCs used in multi ADC mode (2 or 3) */
-#define ADC_N_ADCS 3
+/* TRUE means that DMA-accessible buffers are placed in a non-cached RAM
+   area and that no cache management is required.*/
+#define DMA_BUFFERS_COHERENCE TRUE
 
-/* Total number of channels to be sampled by a single ADC operation.*/
-#define ADC_GRP1_NUM_CHANNELS_PER_ADC   2
+/*
+ * GPT4 configuration.
+ */
+static const GPTConfig gpt4cfg1 = {
+  .frequency    = 1000000U,
+  .callback     = NULL,
+  .cr2          = TIM_CR2_MMS_1,    /* MMS = 010 = TRGO on Update Event.    */
+  .dier         = 0U
+};
 
-/* Depth of the conversion buffer, channels are sampled one time each.*/
-#define ADC_GRP1_BUF_DEPTH      (4*ADC_N_ADCS) // must be 1 or even
 
-static adcsample_t samples[ADC_GRP1_NUM_CHANNELS_PER_ADC * ADC_N_ADCS * ADC_GRP1_BUF_DEPTH];
+/*
+ * GPT6 configuration.
+ */
+static const GPTConfig gpt6cfg1 = {
+  .frequency    = 1000000U,
+  .callback     = NULL,
+  .cr2          = TIM_CR2_MMS_1,    /* MMS = 010 = TRGO on Update Event.    */
+  .dier         = 0U
+};
 
 
-adcsample_t avg_PC1, avg_PC2, avg_PC3, avg_PC4;
-adcsample_t PC1_mV, PC2_mV, PC3_mV, PC4_mV;
+/*===========================================================================*/
+/* ADC driver related.                                                       */
+/*===========================================================================*/
+
+#define ADC_GRP1_NUM_CHANNELS   3
+#define ADC_GRP1_BUF_DEPTH      8
+
+#if !DMA_BUFFERS_COHERENCE
+/* Note, the buffer is aligned to a 32 bytes boundary because limitations
+   imposed by the data cache. Note, this is GNU specific, it must be
+   handled differently for other compilers.
+   Only required if the ADC buffer is placed in a cache-able area.*/
+#if defined(__GNUC__)
+__attribute__((aligned (32)))
+#endif
+#endif
+static adcsample_t samples1[ADC_GRP1_NUM_CHANNELS * ADC_GRP1_BUF_DEPTH];
 
 /*
  * ADC streaming callback.
  */
-size_t mysample = 0;
-size_t nx = 0, ny = 0 , nz = 0;
+size_t nx = 0, ny = 0, nz = 0;
 static void adccallback(ADCDriver *adcp, adcsample_t *buffer, size_t n) {
-	/*ADC notification callback type.
-	Parameters:
-    [in]	adcp	pointer to the ADCDriver object triggering the callback
-    [in]	buffer	pointer to the most recent samples data
-    [in]	n	number of buffer rows available starting from buffer
 
-    Giovanni:
-    The callback is called twice for circular conversions! One at half of the buffer and one at the end of the conversion.
-    */
-
-
+#if !DMA_BUFFERS_COHERENCE
+  /* DMA buffer invalidation because data cache, only invalidating the
+     half buffer just filled.
+     Only required if the ADC buffer is placed in a cache-able area.*/
+  dmaBufferInvalidate(buffer,
+                      n * adcp->grpp->num_channels * sizeof (adcsample_t));
+#else
   (void)adcp;
-  //ny = n;
-  //nx = buffer-samples; //6 integer values in buffer
+#endif
 
   nz++;
 
-  if (samples == buffer) { //compare pointers
-    nx += n; //n = ADC_GRP1_BUF_DEPTH / 2
-    //avg_PC1 = (samples[0] + samples[3] + samples[6]  + samples[9]) / 4;
-
-    avg_PC1 = 0;
-    for (n = 0; n < ADC_GRP1_BUF_DEPTH; n++) avg_PC1 += samples[n];
-
-    avg_PC1 /= ADC_GRP1_BUF_DEPTH;
-
-
-    palToggleLine(LINE_LED3);
-
+  /* Updating counters.*/
+  if (samples1 == buffer) {
+    nx += n;
   }
   else {
     ny += n;
   }
 
-/*
-
-	  palClearLine(LINE_LED3);
-
-      // Calculates the average values from the ADC samples
-	  avg_PC1 = (samples[0] + samples[4] + samples[8]  + samples[12]) / 4;      // temp sensor
-	  avg_PC2 = (samples[1] + samples[5] + samples[9]  + samples[13]) / 4;
-	  avg_PC3 = (samples[2] + samples[6] + samples[10] + samples[14]) / 4;
-	  avg_PC4 = (samples[3] + samples[7] + samples[11] + samples[15]) / 4;
-
-	  // Conversion in volt
-	  PC1_mV = (avg_PC1/4095) * 3300;
-	  PC2_mV = (avg_PC2/4095) * 3300;
-	  PC3_mV = (avg_PC3/4095) * 3300;
-	  PC4_mV = (avg_PC4/4095) * 3300;
-*/
+  if ((nz % 10000) == 0) {
+      	  palToggleLine(LINE_LED2);
+        }
 
 }
 
+/*
+ * ADC errors callback, should never happen.
+ */
 static void adcerrorcallback(ADCDriver *adcp, adcerror_t err) {
 
   (void)adcp;
   (void)err;
 }
 
-#define ADC_SAMPLE_DEF ADC_SAMPLE_3
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_15
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_28
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_56
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_84
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_112
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_144
-//#define ADC_SAMPLE_DEF ADC_SAMPLE_480
 /*
- * ADC conversion group for ADC0 as multi ADC mode master.
- * Mode:        Circular buffer, triple ADC mode master, SW triggered.
- * Channels:    PA0, PA3
+ * ADC conversion group.
+ * Mode:        Continuous, 16 samples of 2 channels, HS triggered by
+ *              GPT4-TRGO.
+ * Channels:    Sensor, VRef.
  */
 static const ADCConversionGroup adcgrpcfg1 = {
-  TRUE, // Circular conversion
-  ADC_GRP1_NUM_CHANNELS_PER_ADC,
-  adccallback, /* end of conversion callback */
-  adcerrorcallback, /* error callback */
-  /* HW dependent part.*/
-  0, // CR1
-  ADC_CR2_SWSTART, // CR2
-  0, // SMPR1
-  ADC_SMPR2_SMP_AN0(ADC_SAMPLE_DEF)
-   | ADC_SMPR2_SMP_AN3(ADC_SAMPLE_DEF), // SMPR2
-  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
-  0, // SQR2
-  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN0)
-   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN3) // SQR3
+  true,
+  ADC_GRP1_NUM_CHANNELS,
+  adccallback,
+  adcerrorcallback,
+  0,                                                    /* CR1   */
+  ADC_CR2_EXTEN_RISING | ADC_CR2_EXTSEL_SRC(12),        /* CR2   */
+  ADC_SMPR1_SMP_SENSOR(ADC_SAMPLE_144) |
+  ADC_SMPR1_SMP_VREF(ADC_SAMPLE_144)  |
+  ADC_SMPR1_SMP_VBAT(ADC_SAMPLE_144),                   /* SMPR1 */
+  0,                                                    /* SMPR2 */
+  0,                                                    /* SQR1  */
+  0,  													/* SQR2  */
+  ADC_SQR3_SQ1_N(ADC_CHANNEL_SENSOR) |					 /* SQR3  */
+  ADC_SQR3_SQ2_N(ADC_CHANNEL_VREFINT)|
+  ADC_SQR3_SQ3_N(ADC_CHANNEL_VBAT)
+
 };
 
-/*
- * ADC conversion group for ADC2.
- * Mode:        triple ADC mode slave.
- * Channels:    PA1, PC0
- */
-static const ADCConversionGroup adcgrpcfg2 = {
-  TRUE,
-  0,
-  NULL, /* end of conversion callback */
-  NULL, /* error callback */
-  /* HW dependent part.*/
-  0, // CR1
-  0, // CR2
-  ADC_SMPR1_SMP_AN10(ADC_SAMPLE_DEF), // SMPR1
-  ADC_SMPR2_SMP_AN1(ADC_SAMPLE_DEF), // SMPR2
-  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
-  0, // SQR2
-  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN1)
-   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN10) // SQR3
-};
-
-/*
- * ADC conversion group for ADC3.
- * Mode:        triple ADC mode slave.
- * Channels:    PA2, PC1
- */
-static const ADCConversionGroup adcgrpcfg3 = {
-  TRUE,
-  0,
-  NULL, /* end of conversion callback */
-  NULL, /* error callback */
-  /* HW dependent part.*/
-  0, // CR1
-  0, // CR2
-  ADC_SMPR1_SMP_AN11(ADC_SAMPLE_DEF), // SMPR1
-  ADC_SMPR2_SMP_AN2(ADC_SAMPLE_DEF), // SMPR2
-  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
-  0, // SQR2
-  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN2)
-   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN11) // SQR3
-};
-
-
-
-
-
+/*===========================================================================*/
+/* Application code.                                                         */
+/*===========================================================================*/
 
 /*
  * This is a periodic thread that does absolutely nothing except flashing
- * a LED.
+ * a LED attached to TP1.
  */
 static THD_WORKING_AREA(waThread1, 128);
 static THD_FUNCTION(Thread1, arg) {
@@ -195,26 +149,37 @@ static THD_FUNCTION(Thread1, arg) {
   (void)arg;
   chRegSetThreadName("blinker");
   while (true) {
-	    palSetLine(LINE_LED1);
-	    chThdSleepMilliseconds(50);
-	    palSetLine(LINE_LED2);
-	    chThdSleepMilliseconds(50);
-	    palSetLine(LINE_LED3);
+	  	palToggleLine(LINE_LED1);
 	    chThdSleepMilliseconds(200);
-	    palClearLine(LINE_LED1);
-	    chThdSleepMilliseconds(50);
-	    palClearLine(LINE_LED2);
-	    chThdSleepMilliseconds(50);
-	    //palClearLine(LINE_LED3);
-	    chThdSleepMilliseconds(200);
+
   }
 }
+
+
+
+int32_t Temp_calc (uint32_t raw_data){
+  int32_t temperature;
+  temperature = ((raw_data * VDD_APPLI / VDD_CALIB) - (int32_t) *TEMP30_CAL_ADDR ) ;
+  temperature = temperature * (int32_t)(110 - 30);
+  temperature = temperature / (int32_t)(*TEMP110_CAL_ADDR - *TEMP30_CAL_ADDR);
+  temperature = temperature + 30;
+  return(temperature);
+}
+
+void SWV_puts(const char *s )
+{
+    while (*s) ITM_SendChar(*s++);
+
+}
+
+
+
 
 /*
  * Application entry point.
  */
 int main(void) {
-	int n;
+	int n,ch;
 
 
 
@@ -245,42 +210,34 @@ int main(void) {
     usbConnectBus(serusbcfg.usbp);
 
 
-
-
-      /*
-      * Setting up analog inputs used by the demo.
+    /*
+      * Starting GPT4 driver, it is used for triggering the ADC.
       */
-     //settings from F4 ipv F7!!!!   ->					memory layout
-     palSetPadMode(GPIOA, 0, PAL_MODE_INPUT_ANALOG); //samples[0+i*3]
-     palSetPadMode(GPIOA, 1, PAL_MODE_INPUT_ANALOG); //samples[1+i*3]
-     palSetPadMode(GPIOA, 2, PAL_MODE_INPUT_ANALOG); //samples[2+i*3]
-
-
-     //palSetPadMode(GPIOA, 3, PAL_MODE_INPUT_ANALOG); // samples[1+i*3] !!!!
-
-     //palSetPadMode(GPIOC, 0, PAL_MODE_INPUT_ANALOG); //samples[1+i*3] IN11
-     //palSetPadMode(GPIOC, 1, PAL_MODE_INPUT_ANALOG); //samples[2+i*3] IN12
-
-
-
-
+     gptStart(&GPTD4, &gpt4cfg1);
 
      /*
-      * Creates the blinker thread.
+      * Fixed an errata on the STM32F7xx, the DAC clock is required for ADC
+      * triggering.
+      */
+     rccEnableDAC1(false);
+
+     /*
+      * Activates the ADC1 driver and the temperature sensor.
+      */
+     adcStart(&ADCD1, NULL);
+     adcSTM32EnableTSVREFE();
+
+     /*
+      * Starts an ADC continuous conversion triggered with a period of
+      * 1/10000 second.
+      */
+     adcStartConversion(&ADCD1, &adcgrpcfg1, samples1, ADC_GRP1_BUF_DEPTH);
+     gptStartContinuous(&GPTD4, 100);
+
+     /*
+      * Creates the example thread.
       */
      chThdCreateStatic(waThread1, sizeof(waThread1), NORMALPRIO, Thread1, NULL);
-
-
-  /*
-     * Activates the ADC drivers.
-     */
-    adcMultiStart();
-
-
-    /*
-     * Starts an ADC continuous conversion.
-     */
-    adcMultiStartConversion(&adcgrpcfg1, &adcgrpcfg2, &adcgrpcfg3, samples, ADC_GRP1_BUF_DEPTH);
 
   /*
    * Normal main() thread activity, in this demo it does nothing except
@@ -289,13 +246,32 @@ int main(void) {
 
   //int u=0;
   while (true) {
-	  chThdSleepMilliseconds(10);
+	  chThdSleepMilliseconds(250);
 	    //chprintf(chp, "\r\n(%8u,%8u): [%4u,%4u,%4u,%4u]\r\n", nx, ny, samples[0],samples[3],samples[6],samples[9]);
-	  	chprintf(chp, "\r\n(%8u,%4u): ", nx, avg_PC1);
+	  	chprintf(chp, "\r\n(%8u): ", nx);
 
-	    for (n = 0; n < ADC_GRP1_NUM_CHANNELS_PER_ADC * ADC_N_ADCS * ADC_GRP1_BUF_DEPTH; n++) {
-	       chprintf(chp, "%4u,", samples[n]);
-	    }
+	  	 for (ch = 0; ch < ADC_GRP1_NUM_CHANNELS; ch++)
+	  	 {
+	  		 chprintf(chp, "\r\nchannel %2u: ",ch);
+	  		 for (n = 0; n < ADC_GRP1_BUF_DEPTH; n++) {
+	  			 chprintf(chp, "%4u,", samples1[ch + n * ADC_GRP1_NUM_CHANNELS]);
+	  		 }
+	  	 }
+
+	    chprintf(chp, "\r\n%4u degC", Temp_calc(samples1[0]));
+
+
+	    SWV_puts("hello\n");
+
+	    //if ((ADC1->ISR & ADC_ISR_EOC)){
+	    //Temperature_show(Temerature_calc(ADC1->DR));
+
+	    //chprintf(chp, "\r\nTEMP = %4u" ,Temp_calc(ADC1->DR));
+
+	    //ADC1->ISR |= ADC_ISR_EOC;
+	    //}
+
+
 
 
   }

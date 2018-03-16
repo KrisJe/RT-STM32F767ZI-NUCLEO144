@@ -195,8 +195,12 @@ void adcMultiStart(void) {
               "adcStart(), #1", "invalid state");*/
   adc_multi_lld_start();
   adcp->state = ADC_READY;
+#if STM32_ADC_USE_ADC2 == TRUE
   ADCD2.state = ADC_READY;
+#endif
+#if STM32_ADC_USE_ADC3  == TRUE
   ADCD3.state = ADC_READY;
+#endif
   chSysUnlock();
 }
 
@@ -271,6 +275,7 @@ void adcMultiStartConversion(
   // Triple mode: ADC1, 2 and 3 working together
   // 10110: Regular simultaneous mode only
 
+#if STM32_ADC_USE_ADC2 == TRUE
   ADCD2.grpp = grpp2;
   ADCD2.state    = ADC_ACTIVE;
   /* ADC setup.*/
@@ -283,6 +288,9 @@ void adcMultiStartConversion(
   ADCD2.adc->CR1   = grpp2->cr1 | ADC_CR1_OVRIE | ADC_CR1_SCAN;
   ADCD2.adc->CR2   = grpp2->cr2 | ADC_CR2_CONT  | ADC_CR2_ADON;
 
+#endif
+
+#if STM32_ADC_USE_ADC3 == TRUE
   ADCD3.grpp = grpp3;
   ADCD3.state    = ADC_ACTIVE;
   /* ADC setup.*/
@@ -294,6 +302,7 @@ void adcMultiStartConversion(
   ADCD3.adc->SQR3  = grpp3->sqr3;
   ADCD3.adc->CR1   = grpp3->cr1 | ADC_CR1_OVRIE | ADC_CR1_SCAN;
   ADCD3.adc->CR2   = grpp3->cr2 | ADC_CR2_CONT  | ADC_CR2_ADON;
+#endif
 
   adcMultiStartConversionI(&ADCD1, grpp1, samples, depth);
   chSysUnlock();

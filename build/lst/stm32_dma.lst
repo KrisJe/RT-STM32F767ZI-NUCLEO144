@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 1
 
 
    1              		.cpu cortex-m7
@@ -14,14 +14,14 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   11              		.file	"stm32_dma.c"
   12              		.text
   13              	.Ltext0:
-  14              		.section	.gnu.lto_.profile.abe5b0d,"",%progbits
+  14              		.section	.gnu.lto_.profile.2e80e39d,"",%progbits
   15 0000 789C6365 		.ascii	"x\234ce`b`c```d\270\303z\231\011\000\005\325\001\305"
   15      60626063 
   15      60606064 
   15      B8C37A99 
   15      090005D5 
   16              		.text
-  17              		.section	.gnu.lto_.icf.abe5b0d,"",%progbits
+  17              		.section	.gnu.lto_.icf.2e80e39d,"",%progbits
   18 0000 789C6365 		.ascii	"x\234ce`b\230\310\200\000\022\014\213\266\276}\313\301"
   18      606298C8 
   18      8000120C 
@@ -58,13 +58,13 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   25 007a 2836E567 		.ascii	"(6\345g\333\017v\361/\217N\237`d\000\000\353\212H\267"
   25      DB0F76F1 
   25      2F8F4E9F 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 2
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 2
 
 
   25      60640000 
   25      EB8A48B7 
   26              		.text
-  27              		.section	.gnu.lto_.jmpfuncs.abe5b0d,"",%progbits
+  27              		.section	.gnu.lto_.jmpfuncs.2e80e39d,"",%progbits
   28 0000 789C4DCF 		.ascii	"x\234M\317\311\016\200 \014E\321\26628\203\022\365["
   28      C90E8020 
   28      0C45D1B6 
@@ -93,7 +93,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   33 005c CBA617AB 		.ascii	"\313\246\027\253\022\017h"
   33      120F68
   34              		.text
-  35              		.section	.gnu.lto_.inline.abe5b0d,"",%progbits
+  35              		.section	.gnu.lto_.inline.2e80e39d,"",%progbits
   36 0000 789C8592 		.ascii	"x\234\205\222\241N\304@\020\206\377\231\335n\217k)\275"
   36      A14EC440 
   36      1086FF99 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   40      3328647B 
   40      72A3E8FA 
   40      F4E92DBC 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 3
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 3
 
 
   40      50F70A04 
@@ -174,11 +174,11 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   51      4D53E117 
   51      03946D4C 
   52              		.text
-  53              		.section	.gnu.lto_.pureconst.abe5b0d,"",%progbits
+  53              		.section	.gnu.lto_.pureconst.2e80e39d,"",%progbits
   54 0000 789C05C1 		.ascii	"x\234\005\301\207\011\200@\000\004\260\363\261\367\202"
   54      87098040 
   54      0004B0F3 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 4
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 4
 
 
   54      B1F782
@@ -192,7 +192,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   56      5E3F4734 
   56      0352
   57              		.text
-  58              		.section	.gnu.lto_dmaStreamAllocate.part.0.abe5b0d,"",%progbits
+  58              		.section	.gnu.lto_dmaStreamAllocate.part.0.2e80e39d,"",%progbits
   59 0000 789C9554 		.ascii	"x\234\225T]l\024U\024\276\337\334\371\333\335\351nA"
   59      5D6C1455 
   59      14BEDFDC 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   67      F3B6
   68 00a5 0079236C 		.ascii	"\000y#l\260z[\343\272aZ\250\3278\363\256V\276\207\343"
   68      B07A5BE3 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 5
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 5
 
 
   68      BA615AA8 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   80      3A8E61B9 
   80      AC1515E9 
   80      384C30A6 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 6
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 6
 
 
   80      ED
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
   92 025d 91C6E945 		.ascii	"\221\306\351E1R\212\022\2222\255(\267\374\333\014\217"
   92      31528A12 
   92      9232AD28 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 7
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 7
 
 
   92      B7FCDB0C 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  103      E062AAF4 
  103      256F826E 
  103      8FA76F3D 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 8
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 8
 
 
  104 0344 F5D78A5A 		.ascii	"\365\327\212Z\216\017.+\352\355g\367\217\204=\352\307"
@@ -478,11 +478,11 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  115      75454D45 
  115      E5FF86A3 
  115      205A
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 9
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 9
 
 
  116              		.text
- 117              		.section	.gnu.lto_dmaStreamRelease.part.1.abe5b0d,"",%progbits
+ 117              		.section	.gnu.lto_dmaStreamRelease.part.1.2e80e39d,"",%progbits
  118 0000 789C8D50 		.ascii	"x\234\215POH\324A\024~\337\314\357\267\256`\033E\207"
  118      4F48D441 
  118      147EDFCC 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  128      D8621965 
  128      EB
  129 00c8 055AE311 		.ascii	"\005Z\343\02143\342!Z\261\210V\307\314\320\317\205\372"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 10
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 10
 
 
  129      3433E221 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  140      76946B16 
  141 01a3 2BBDF8A7 		.ascii	"+\275\370\247\364\022\206\351]\201\332\025\370\035\231"
  141      F41286E9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 11
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 11
 
 
  141      5D81DA15 
@@ -622,7 +622,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  145      53C37B3A 
  145      83C25F
  146              		.text
- 147              		.section	.gnu.lto_Vector6C.abe5b0d,"",%progbits
+ 147              		.section	.gnu.lto_Vector6C.2e80e39d,"",%progbits
  148 0000 789C8D92 		.ascii	"x\234\215\222ILSQ\024\206\357\377\356m_)\203\304\205"
  148      494C5351 
  148      1486EFFF 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  154      7CB88A49 
  154      AFD8CC67 
  154      32874338 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 12
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 12
 
 
  155 0083 02500BE9 		.ascii	"\002P\013\351\001\013\030\\ \200n\336\317\221l_\215"
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  166      F7
  167 0155 FDD3ABAF 		.ascii	"\375\323\253\257\\\326\244l\011\312p\0346\317\302\024"
  167      5CD6A46C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 13
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 13
 
 
  167      09CA701C 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  179      EAB23002 
  179      A561522E 
  179      6D9EA7E9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 14
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 14
 
 
  180 023d EEA83534 		.ascii	"\356\25054\207w\273uq\367\244q\337\240\252\000\342\010"
@@ -808,7 +808,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  185 0293 F1FF005D 		.ascii	"\361\377\000]Q,\200"
  185      512C80
  186              		.text
- 187              		.section	.gnu.lto_Vector70.abe5b0d,"",%progbits
+ 187              		.section	.gnu.lto_Vector70.2e80e39d,"",%progbits
  188 0000 789C8D92 		.ascii	"x\234\215\222KLSA\024\206\347\277s[\332R\020]\030\026"
  188      4B4C5341 
  188      1486E7BF 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  193      33C62A69 
  193      C2C6A05D 
  193      7EC698DF 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 15
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 15
 
 
  193      A169
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  205      4CDA6D62 
  205      C04F1929 
  205      36B90337 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 16
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 16
 
 
  205      09794C22 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  217      73D65FC5 
  217      15B9
  218 0230 792D9B1D 		.ascii	"y-\233\035\347\377\240\316\374\005uS\223\250\263\277"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 17
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 17
 
 
  218      E7FFA0CE 
@@ -999,7 +999,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  225      3F014E1D 
  226 02be 0F       		.ascii	"\017"
  227              		.text
- 228              		.section	.gnu.lto_Vector74.abe5b0d,"",%progbits
+ 228              		.section	.gnu.lto_Vector74.2e80e39d,"",%progbits
  229 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236;\343\235qLs\021"
  229      4B485451 
  229      18C7CFFF 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  232      CCF8BA4C 
  232      050A6624 
  232      3D405B65 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 18
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 18
 
 
  232      0E4C5698 
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  244      72B86872 
  244      32D64626 
  244      6490ED5C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 19
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 19
 
 
  245 0123 5F9E4632 		.ascii	"_\236F2\221\236\015\272\245\325~.\303\215\004\223\317"
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  256      BB890106 
  256      CFC103EA 
  256      B2FB
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 20
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 20
 
 
  257 01f8 19F793E6 		.ascii	"\031\367\223\346\310ugYL6Zt\234N\367\341!\001\340\236"
@@ -1198,11 +1198,11 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  268 02c1 D6D59EF3 		.ascii	"\326\325\236\363\375\000\261JBG"
  268      FD00B14A 
  268      4247
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 21
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 21
 
 
  269              		.text
- 270              		.section	.gnu.lto_Vector78.abe5b0d,"",%progbits
+ 270              		.section	.gnu.lto_Vector78.2e80e39d,"",%progbits
  271 0000 789C8D92 		.ascii	"x\234\215\222KLSA\024\206\347\277s[\332R\020]\020\026"
  271      4B4C5341 
  271      1486E7BF 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  281      63FE44F1 
  281      80107E91 
  281      488D
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 22
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 22
 
 
  282 00d4 1674368B 		.ascii	"\026t6\213\005\241\233\234\343&8\331\304\020\012q\003"
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  293      7F91CA05 
  293      85495AF2 
  293      D19760
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 23
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 23
 
 
  294 01a7 F8ED1CAC 		.ascii	"\370\355\034\254g\362e\306X\262\373\341\001y\271\013"
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  305      BD6C1DFE 
  305      C86C4885 
  305      A1
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 24
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 24
 
 
  306 0280 C26B2329 		.ascii	"\302k#)\031\240\234xJK\015\353k\360\032\347j\353\214"
@@ -1400,7 +1400,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  309      01066B3D 
  309      52
  310              		.text
- 311              		.section	.gnu.lto_Vector7C.abe5b0d,"",%progbits
+ 311              		.section	.gnu.lto_Vector7C.2e80e39d,"",%progbits
  312 0000 789C8D92 		.ascii	"x\234\215\222=LSQ\024\307\357\377\335\327\276R\240b"
  312      3D4C5351 
  312      14C7EFFF 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  319      C8E3D0ED 
  319      631D900B 
  320 0086 E1020B6A 		.ascii	"\341\002\013j\\G\020\027y\017G\246e9\241\225\214\011"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 25
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 25
 
 
  320      5C471017 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  331      85C57310 
  331      83855E95 
  331      25C461B2 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 26
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 26
 
 
  331      2C1A
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  342      67
  343 0235 09751511 		.ascii	"\011u\025\021U'F\2444\014J\256\305w)<]\265\330*\032"
  343      552746A4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 27
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 27
 
 
  343      340C4AAE 
@@ -1589,7 +1589,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  348      FFC9C00F 
  348      20D730B6 
  349              		.text
- 350              		.section	.gnu.lto_Vector80.abe5b0d,"",%progbits
+ 350              		.section	.gnu.lto_Vector80.2e80e39d,"",%progbits
  351 0000 789C8D92 		.ascii	"x\234\215\222KL\023A\030\307\347\277\263-\245\224\207"
  351      4B4C1341 
  351      18C7E7BF 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  356      BFEF6163 
  356      1A9BE28C 
  356      1D668C95 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 28
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 28
 
 
  357 006b D1808D41 		.ascii	"\321\200\215A\273\364\2041\237C\323x\1779\023N}3\217"
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  368      099EA168 
  368      9762C39D 
  368      0E6B29E2 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 29
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 29
 
 
  369 0142 17840CAD 		.ascii	"\027\204\014\255c;\225t\231\010\372(#\205&w`\214\220"
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  380      989DDD
  381 0212 A8203C69 		.ascii	"\250 <i\237&{.\2428\320C\205$\276\030\345v\031M\013"
  381      9F267B2E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 30
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 30
 
 
  381      A238D043 
@@ -1787,7 +1787,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  390      69CF0F27 
  390      B34279
  391              		.text
- 392              		.section	.gnu.lto_Vector84.abe5b0d,"",%progbits
+ 392              		.section	.gnu.lto_Vector84.2e80e39d,"",%progbits
  393 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236;\343\274L+\010"
  393      4B485451 
  393      18C7CFFF 
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  394      4DE42270 
  394      A9ABDAB5 
  394      0829AA85 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 31
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 31
 
 
  395 0027 6234D276 		.ascii	"b4\322v\316\370\030I\3112\360\235\336!\027\223\231\371"
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  406 00f1 964BDC86 		.ascii	"\226K\334\206\035\364\221;}\263\210\211\315\255\032"
  406      1DF4913B 
  406      7DB38889 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 32
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 32
 
 
  406      CDAD1A
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  418 01d1 DEA8AAB3 		.ascii	"\336\250\252\263[9\330\316\236Ge/\022\3718\237\344\337"
  418      5B39D8CE 
  418      9E47652F 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 33
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 33
 
 
  418      12F9389F 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  430      AF515858 
  430      6014141D 
  430      BD
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 34
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 34
 
 
  431 02b0 E8357CE5 		.ascii	"\3505|\345\245\271\336\223\247K\213\263O1\333\231\222"
@@ -1989,7 +1989,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  432 02c1 E2B3BE5F 		.ascii	"\342\263\276_\226tB\015"
  432      9674420D 
  433              		.text
- 434              		.section	.gnu.lto_VectorFC.abe5b0d,"",%progbits
+ 434              		.section	.gnu.lto_VectorFC.2e80e39d,"",%progbits
  435 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236;O\307\264\002"
  435      4B485451 
  435      18C7CFFF 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  444      2D3FDDEB 
  444      5ADA2197 
  444      1A7269D9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 35
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 35
 
 
  444      DA15CF
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  455      48141C
  456 018e 783EA7B0 		.ascii	"x>\247\260t\224b\234Do\020\310U\271\2400I%/}\014\366"
  456      7494629C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 36
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 36
 
 
  456      446F10C8 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  468 0268 4C85A7AB 		.ascii	"L\205\247\253\306\\F]\357\272\251z`[\"wv\312\222 \012"
  468      C65C465D 
  468      EFBAA97A 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 37
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 37
 
 
  468      605B2277 
@@ -2183,7 +2183,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  472      3B515579 
  473 02c6 EF4434   		.ascii	"\357D4"
  474              		.text
- 475              		.section	.gnu.lto_Vector120.abe5b0d,"",%progbits
+ 475              		.section	.gnu.lto_Vector120.2e80e39d,"",%progbits
  476 0000 789C8D92 		.ascii	"x\234\215\222;L\024Q\024\206\357?wvg]\026Dc\014\005"
  476      3B4C1451 
  476      1486EF3F 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  482      9632E1D5 
  482      3F6733E1 
  482      E3D09D63 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 38
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 38
 
 
  482      1D90
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  494 014b 0539F660 		.ascii	"\0059\366`\204X\207%+\335\257L.\314\373\314aQ\037\022"
  494      84588725 
  494      2BDDAF4C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 39
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 39
 
 
  494      2ECCFBCC 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  506 0220 BFB07ED4 		.ascii	"\277\260~\324$\353\315?Y\343s\375C\276\015\326\235\324"
  506      24EBCD3F 
  506      59E373FD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 40
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 40
 
 
  506      43BE0DD6 
@@ -2374,7 +2374,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  513 02a0 58E03BEC 		.ascii	"X\340;\354\2230\013"
  513      93300B
  514              		.text
- 515              		.section	.gnu.lto_Vector124.abe5b0d,"",%progbits
+ 515              		.section	.gnu.lto_Vector124.2e80e39d,"",%progbits
  516 0000 789C8D92 		.ascii	"x\234\215\222KL\023A\030\307\347\277\263}R\036\022c"
  516      4B4C1341 
  516      18C7E7BF 
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  520 004a 4D94C483 		.ascii	"M\224\304\203Q\321ov\033\037$F7;\263;3\377\371\276\337"
  520      51D16F76 
  520      1B1F2446 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 41
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 41
 
 
  520      373BB33B 
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  531      C45273AD 
  531      4E697580 
  532 012f 70BB9A16 		.ascii	"p\273\232\026\236\331$\270\315\240]Y\013\350Vs)\026"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 42
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 42
 
 
  532      9ED924B8 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  543      E3B2D182 
  543      5374
  544 0205 9A855902 		.ascii	"\232\205Y\002\300-\263\031H0\032^\235S\211O\012\022"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 43
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 43
 
 
  544      C02DB319 
@@ -2573,12 +2573,12 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  554      39CF0F72 
  554      60417D
  555              		.text
- 556              		.section	.gnu.lto_Vector128.abe5b0d,"",%progbits
+ 556              		.section	.gnu.lto_Vector128.2e80e39d,"",%progbits
  557 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236{\347\345\370\350"
  557      4B485451 
  557      18C7CFFF 
  557      9E7BE7E5 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 44
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 44
 
 
  557      F8E8
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  569      0E4E3631 
  569      883C
  570 00e2 5C439E69 		.ascii	"\\C\236i\233\324\253#\333\355\2316\0257P`\271\304M\330"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 45
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 45
 
 
  570      9BD4AB23 
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  581      74406EEE 
  581      400FEDFF 
  581      17FB
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 46
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 46
 
 
  582 01bb 98C90EC9 		.ascii	"\230\311\016\311>\016\235l\222\261\300d\362}s\226\345"
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  593      2C6CC661 
  593      C6D742A7 
  593      648092E2 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 47
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 47
 
 
  594 0295 2AD2ADB7 		.ascii	"*\322\255\267\326\253\237\251\252\326\317\326\236\253"
@@ -2777,7 +2777,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  596      4E7B7F00 
  597 02c8 0AC842B6 		.ascii	"\012\310B\266"
  598              		.text
- 599              		.section	.gnu.lto_Vector12C.abe5b0d,"",%progbits
+ 599              		.section	.gnu.lto_Vector12C.2e80e39d,"",%progbits
  600 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236;O\307GE\342B\312"
  600      4B485451 
  600      18C7CFFF 
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  607      6E9CE7ED 
  607      1C
  608 0092 89A6C5A8 		.ascii	"\211\246\305\250T\324\253\322\023o_\333\345Q\033\363"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 48
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 48
 
 
  608      54D4ABD2 
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  619      01D5E7
  620 0165 1167360C 		.ascii	"\021g6\014BC\207\236*\014Aa)4|\361\257\233\014w\262"
  620      4243879E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 49
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 49
 
 
  620      2A0C4161 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  631      AB9C
  632 023c EB9104FB 		.ascii	"\353\221\004\373\323\331\262\375\017\353\235\277\260"
  632      D3D9B2FD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 50
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 50
 
 
  632      0FEB9DBF 
@@ -2980,7 +2980,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  640      5DDF0125 
  640      BF41CC
  641              		.text
- 642              		.section	.gnu.lto_Vector130.abe5b0d,"",%progbits
+ 642              		.section	.gnu.lto_Vector130.2e80e39d,"",%progbits
  643 0000 789C8D92 		.ascii	"x\234\215\222KHTQ\030\307\317\377\236;s\247q\034m\221"
  643      4B485451 
  643      18C7CFFF 
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  646 0035 68720785 		.ascii	"hr\007\205\314\307\370(+gJ\035\246\026\022=\320ha\332"
  646      CCC7F828 
  646      2B674A1D 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 51
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 51
 
 
  646      A616123D 
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  658      5A3A0CFA 
  658      38196BA1 
  658      1F6568AD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 52
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 52
 
 
  658      5C93334F 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  670 01f4 F8A4C10A 		.ascii	"\370\244\301\012\031x1\205\342.\252\011\001\306(C\257"
  670      19783185 
  670      E22EAA09 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 53
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 53
 
 
  670      01C62843 
@@ -3166,7 +3166,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  679      FF016D44 
  679      3248
  680              		.text
- 681              		.section	.gnu.lto_Vector150.abe5b0d,"",%progbits
+ 681              		.section	.gnu.lto_Vector150.2e80e39d,"",%progbits
  682 0000 789C8D92 		.ascii	"x\234\215\222KL\023A\030\307\347\333o\333nkyh\"\341"
  682      4B4C1341 
  682      18C7E7DB 
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  683      114E7AE3 
  683      6088463D 
  684 002c EDB4B425 		.ascii	"\355\264\264%\322\0045\206\267d\033\233\210\210<\005"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 54
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 54
 
 
  684      D2043586 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  695      47EC0CBF 
  695      82044FEF 
  696 0101 37F344BA 		.ascii	"7\363D\272\346\355\370\356Q'2\003UUL\024-\011\254\342"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 55
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 55
 
 
  696      E6EDF8EE 
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  707      D1198BE0 
  707      3A0459BF 
  707      67CF
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 56
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 56
 
 
  708 01db 29B3178D 		.ascii	")\263\027\215\276_\266y\366\270F\033\0214+\272=\367"
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  719 02a6 33D5652E 		.ascii	"3\325e.\275\252\252R\257\254>u\325\245\273\033\353\313"
  719      BDAAAA52 
  719      AFAC3E75 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 57
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 57
 
 
  719      D5A5BB1B 
@@ -3370,7 +3370,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  720      67
  721 02c9 1342C9   		.ascii	"\023B\311"
  722              		.text
- 723              		.section	.gnu.lto_Vector154.abe5b0d,"",%progbits
+ 723              		.section	.gnu.lto_Vector154.2e80e39d,"",%progbits
  724 0000 789C8D92 		.ascii	"x\234\215\222ML\023A\024\307\347\277\263-m)\005MT\016"
  724      4D4C1341 
  724      14C7E7BF 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  733      6E3B0DF9 
  733      A007F98C 
  733      64B37583 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 58
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 58
 
 
  734 00ae 577913D7 		.ascii	"Wy\023\3279\240\322\362\303t\307k\227\\*\310\245es\307"
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  745      BA74E140 
  745      1686C80E 
  745      89BE05DA 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 59
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 59
 
 
  746 0189 B929B290 		.ascii	"\271)\262\220\216D\201\336\305I\003KE\011\206I\364\006"
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  756      D6C4
  757 024e C2C3FE8C 		.ascii	"\302\303\376\214\024\353^j=\214KT\243\201)\006\266\206"
  757      14EB5E6A 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 60
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 60
 
 
  757      3D8C4B54 
@@ -3573,7 +3573,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  763      0FF8C545 
  763      10
  764              		.text
- 765              		.section	.gnu.lto_Vector158.abe5b0d,"",%progbits
+ 765              		.section	.gnu.lto_Vector158.2e80e39d,"",%progbits
  766 0000 789C8D92 		.ascii	"x\234\215\222;L\024A\030\307\347\277\263\367\364xhA"
  766      3B4C1441 
  766      18C7E7BF 
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  770      E283C4E8 
  770      66677667 
  770      E63FDFF7 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 61
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 61
 
 
  770      FB1E
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  782 0129 DCD26A27 		.ascii	"\334\322j'\227\341\266\326%f\034\022\334\241h\237/\264"
  782      97E1B6D6 
  782      25661C12 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 62
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 62
 
 
  782      DCA1689F 
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  794      628C0070 
  794      D36A0612 
  794      F485
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 63
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 63
 
 
  795 0210 A62FBB88 		.ascii	"\246/\273\210O\012\026H\220\206(\366\205\250\222\004"
@@ -3769,7 +3769,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  804      7D3F0097 
  804      7E428E
  805              		.text
- 806              		.section	.gnu.lto_dmaInit.abe5b0d,"",%progbits
+ 806              		.section	.gnu.lto_dmaInit.2e80e39d,"",%progbits
  807 0000 789C9554 		.ascii	"x\234\225TKLSA\024\235\363\346\275\366\201mA\027\206"
  807      4B4C5341 
  807      149DF3E6 
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  808 0013 186258C8 		.ascii	"\030bX\310\302\015/bto\342\022t\241{Ct\241A\203\021"
  808      C20D2F62 
  808      746FE212 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 64
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 64
 
 
  808      74A17B43 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  819      28749B73 
  819      3C002754 
  819      DC472AEE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 65
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 65
 
 
  820 00f4 53FAC7D6 		.ascii	"S\372\307\326\225J\257KG\003\322\035R<\204\013\364\222"
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  831 01c3 73654582 		.ascii	"seE\202\325\250\342\263\024O\304\023\354\272\241\214"
  831      D5A8E2B3 
  831      144FC413 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 66
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 66
 
 
  831      ECBAA18C 
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  842      DBB459B5 
  843 02a6 E9536743 		.ascii	"\351SgC\245\351LE\360\202\2207\357\332\352\312\314\232"
  843      A5E94C45 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 67
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 67
 
 
  843      F0829037 
@@ -4010,7 +4010,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  853      013FF7C7 
  853      D4
  854              		.text
- 855              		.section	.gnu.lto__stm32_dma_streams.abe5b0d,"",%progbits
+ 855              		.section	.gnu.lto__stm32_dma_streams.2e80e39d,"",%progbits
  856 0000 789C5D93 		.ascii	"x\234]\223\331RSA\020\20639\023\302\216\336x\225w\260"
  856      D9525341 
  856      10863339 
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  856      789577B0 
  857 0014 D41B5C1E 		.ascii	"\324\033\\\036\302'\360Q,D\226\000\262\213\200\004\001"
  857      C227F051 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 68
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 68
 
 
  857      2C449600 
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  868      9581
  869 00f1 20DDDF23 		.ascii	" \335\337#\377\\\273\347\034\324\241O\000\273q\331\342"
  869      FF5CBBE7 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 69
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 69
 
 
  869      1CD4A14F 
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  880      534BE3F7 
  880      146CB3A3 
  880      DE45D78F 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 70
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 70
 
 
  880      91A9
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  892 0291 33693613 		.ascii	"3i6\023\275\243\\\323\277\232\321\020K\233I\357X\330"
  892      BDA35CD3 
  892      BF9AD110 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 71
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 71
 
 
  892      4B9B49EF 
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  904 0377 3ED02150 		.ascii	">\320!P\017\3507\320>P'h\027h\007h;h\013\350\027\226"
  904      0FE837D0 
  904      3E502768 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 72
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 72
 
 
  904      17680768 
@@ -4267,7 +4267,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  905      EF3FA0FF 
  905      796F
  906              		.text
- 907              		.section	.gnu.lto_dmaStreamAllocate.abe5b0d,"",%progbits
+ 907              		.section	.gnu.lto_dmaStreamAllocate.2e80e39d,"",%progbits
  908 0000 789CA555 		.ascii	"x\234\245UmPTU\030>\357=\367k\027\330\210\200`X\224"
  908      6D505455 
  908      183EEF3D 
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  918      4F0DDFC1 
  918      E1D4DCE0 
  918      FBCE157B 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 73
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 73
 
 
  918      4CB3
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  930      8C428FB9 
  931 018b 70AFCAEC 		.ascii	"p\257\312\354\231\376\014\266\257[\016\210b2\005\025"
  931      99FE0CB6 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 74
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 74
 
 
  931      AF5B0E88 
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  943      15118476 
  943      A4433DFF 
  943      A8B44920 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 75
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 75
 
 
  943      790716
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  955 033f F568CE54 		.ascii	"\365h\316T\233tNM\375\360{\273\022\331\333I0\210\357"
  955      9B744E4D 
  955      FDF07BBB 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 76
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 76
 
 
  955      12D9DB49 
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  966      AC1F7C07 
  966      2BE92498 
  967 0425 C20F9AA0 		.ascii	"\302\017\232\240$?\370\316'\357\244w\036.\201\207\341"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 77
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 77
 
 
  967      243FF8CE 
@@ -4601,7 +4601,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  975 04b2 05C921CB 		.ascii	"\005\311!\313G"
  975      47
  976              		.text
- 977              		.section	.gnu.lto_dmaStreamRelease.abe5b0d,"",%progbits
+ 977              		.section	.gnu.lto_dmaStreamRelease.2e80e39d,"",%progbits
  978 0000 789C9554 		.ascii	"x\234\225TML\023Q\020~\263o\267\273-\245\200\326\304"
  978      4D4C1351 
  978      107EB36F 
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  980      18EB1A89 
  981 0037 0154E447 		.ascii	"\001T\344GT\312\237\025*\210\301?\2021\301\203\006\021"
  981      54CA9F15 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 78
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 78
 
 
  981      2A88C13F 
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  992      B458
  993 010f BC02599A 		.ascii	"\274\002Y\232 4\245\354\301\324\030\"b\260(\241\221"
  993      2034A5EC 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 79
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 79
 
 
  993      C1D41822 
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1004      7B236547 
  1004      ECDBD8BB 
  1004      A80D5583 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 80
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 80
 
 
  1004      CE93
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1015      86FF
  1016 02bc 8A6DDD73 		.ascii	"\212m\335sni\227\304&T\376\005\204\204\254\367\267\006"
  1016      6E6997C4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 81
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 81
 
 
  1016      2654FE05 
@@ -4835,7 +4835,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1023      055F4391 
  1023      DC
  1024              		.text
- 1025              		.section	.gnu.lto_.symbol_nodes.abe5b0d,"",%progbits
+ 1025              		.section	.gnu.lto_.symbol_nodes.2e80e39d,"",%progbits
  1026 0000 789C5DD1 		.ascii	"x\234]\321\313.Ca\024\305\361u\3269\247\367;ZG\232H"
  1026      CB2E4361 
  1026      14C5F175 
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1029      ED
  1030 004a D7C6B4E0 		.ascii	"\327\306\264\340\277\235\322(\303a\272\016\304=\"\355"
  1030      BF9DD228 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 82
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 82
 
 
  1030      C361BA0E 
@@ -4918,11 +4918,11 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1041      7C6C4F13 
  1041      FC00
  1042 0124 BD47D1D7 		.ascii	"\275G\321\327"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 83
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 83
 
 
  1043              		.text
- 1044              		.section	.gnu.lto_.refs.abe5b0d,"",%progbits
+ 1044              		.section	.gnu.lto_.refs.2e80e39d,"",%progbits
  1045 0000 789C2DC9 		.ascii	"x\234-\311I\016\200@\014\003A'\2310\013;\004\370?/\005"
  1045      490E8040 
  1045      0C034127 
@@ -4945,1794 +4945,1797 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 1
  1048      0141BF03 
  1049 0050 CA       		.ascii	"\312"
  1050              		.text
- 1051              		.section	.gnu.lto_.decls.abe5b0d,"",%progbits
+ 1051              		.section	.gnu.lto_.decls.2e80e39d,"",%progbits
  1052 0000 789CCD5A 		.ascii	"x\234\315Z{PUG\232\277}\372\002\367^\236A'qS\354\224"
  1052      7B505547 
  1052      9ABF7DFA 
  1052      02F75E9E 
  1052      41277153 
- 1053 0016 9B35255B 		.ascii	"\2335%[\231\010hL\314\326\354\316\030\214\301YM\\L\262"
- 1053      9908684C 
+ 1053 0016 9B35255B 		.ascii	"\2335%[\231\010hb\314\326\354\316\030\214\301YM\\L\262"
+ 1053      99086862 
  1053      CCD6ECCE 
  1053      188CC159 
  1053      4D5C4CB2 
- 1054 002a B5B5CEB2 		.ascii	"\265\265\316\262\004q\245\026%\013\230r\376\231=<\024"
+ 1054 002a B5B5CEB2 		.ascii	"\265\265\316\262\004q\245\026%\013\230r\376\231=\200"
  1054      0471A516 
  1054      250B9872 
- 1054      FE993D3C 
- 1054      14
- 1055 003b 343E5044 		.ascii	"4>PDEDAPAP\361\005\242 W\224\247 /y\210\274\004\025"
- 1055      45444150 
- 1055      4150F105 
- 1055      A2205794 
- 1055      A7202F79 
- 1056 0053 14541E12 		.ascii	"\024T\036\022\001Q\367\353\307\271\347\334\303\2051"
- 1056      0151F7EB 
- 1056      C7B9E7DC 
- 1056      C38531
- 1057 0062 533BD6DE 		.ascii	"S;\326\336\362\343\234>\375\365\357\373\365\327_\367"
- 1057      F2E39C3E 
- 1057      FDF5EFFB 
- 1057      F5D75FF7 
- 1058 0072 F9BA8F56 		.ascii	"\371\272\217V\032Asc\266F\263\320J\243\351\263\325h"
- 1058      1A417363 
- 1058      B646B3D0 
- 1058      4AA3E9B3 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 84
+ 1054      FE993D80 
+ 1055 003a 0A1A5404 		.ascii	"\012\032T\004\021\025Q\020T\020D\360\205(\350\025y\013"
+ 1055      11155110 
+ 1055      541044F0 
+ 1055      8528E815 
+ 1055      790B
+ 1056 004c CA431E2A 		.ascii	"\312C\036*/A\005\005\225\207F@\224\375\372q\3569\367"
+ 1056      2F410505 
+ 1056      95874640 
+ 1056      94FDFA71 
+ 1056      EE39F7
+ 1057 005f 7061CCD4 		.ascii	"pa\314\324\216\265\267\3748\247O\177\375\373~\375\365"
+ 1057      8EB5B7FC 
+ 1057      38A74F7F 
+ 1057      FDFB7EFD 
+ 1057      F5
+ 1058 0070 D77DBEEE 		.ascii	"\327}\276\356\243\225F\320\\\233\255\321,\264\322h\372"
+ 1058      A39546D0 
+ 1058      5C9BADD1 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 84
 
 
- 1058      D568
- 1059 0084 5EC1EF1D 		.ascii	"^\301\357\035\215Fs\002\004\201\344j\330o\006\310\030"
- 1059      8D467302 
- 1059      0481E46A 
- 1059      D86F06C8 
- 1059      18
- 1060 0095 C80B0DAB 		.ascii	"\310\013\015\253\020@\264 \326 :\020\003\210\035\210"
- 1060      1040B420 
- 1060      D6203A10 
- 1060      03881D88 
- 1061 00a5 03881388 		.ascii	"\003\210\023\2103\310t\220\267Af\200\274\013\342\002"
- 1061      33C87490 
- 1061      B7416680 
- 1061      BC0BE202 
- 1062 00b5 F24B9099 		.ascii	"\362K\220\231 \263A>\000q\007\231\013\3621\010\006\350"
- 1062      20B3413E 
- 1062      00710799 
- 1062      0BF23108 
- 1062      06E8
- 1063 00c7 2FE0BA04 		.ascii	"/\340\272\004\344+\2441\373\015C\371\027p}\006\342\014"
- 1063      E42BA431 
- 1063      FB0D43F9 
- 1063      17707D06 
- 1063      E20C
- 1064 00d9 321D6410 		.ascii	"2\035d\020$\213s\374\006\244\013\004\272\242\251\004"
- 1064      248B73FC 
- 1064      06A40B04 
- 1064      BAA2A904 
- 1065 00e9 7101590E 		.ascii	"q\001Y\016\362\025\310\000\271\207\366w\340Z\001\362"
- 1065      F215C800 
- 1065      B987F677 
- 1065      E05A01F2 
- 1066 00f9 CF70EF0D 		.ascii	"\317p\357\015\262\002\304\215\364\001\236=\000i\007"
- 1066      B202C48D 
- 1066      F4019E3D 
- 1066      006907
- 1067 0108 7908D207 		.ascii	"y\010\322\007\322\004\322\243a\234H\277gs\256\204\326"
- 1067      D204D2A3 
- 1067      619C48BF 
- 1067      6773AE84 
- 1067      D6
- 1068 0119 772A6ECF 		.ascii	"w*n\317\211\017\340\372\255\212\033\341r\011\352r\021"
- 1068      890FE0FA 
- 1068      AD8A1BE1 
- 1068      7209EA72 
- 1068      11
- 1069 012a B34B9A65 		.ascii	"\263K\232e\021\337q?~\300\361\256\250\360\020(\274\245"
- 1069      11DF713F 
- 1069      7EC0F1AE 
- 1069      A8F01028 
- 1069      BCA5
- 1070 013c C2CBE278 		.ascii	"\302\313\342x9\274\257\325\320\246\212\343\326\300u"
- 1070      39BCAFD5 
- 1070      D0A68AE3 
- 1070      D6C075
- 1071 014b 31C822C4 		.ascii	"1\310\"\304|\221\015R\013\367\257\340\252\005)\205\373"
- 1071      7C910D52 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 85
+ 1058      2CB4D268 
+ 1058      FA
+ 1059 0081 6C359A71 		.ascii	"l5\232q\370\275\243\321h\216\203 \220|\015\373\315\000"
+ 1059      F8BDA3D1 
+ 1059      688E8320 
+ 1059      907C0DFB 
+ 1059      CD00
+ 1060 0093 190579A9 		.ascii	"\031\005y\251a\025\002\210\026\304\032D\007b\000\261"
+ 1060      61150288 
+ 1060      16C41A44 
+ 1060      076200B1 
+ 1061 00a3 03710071 		.ascii	"\003q\000q\002q\006\231\016\3626\310\014\220wA\\@~\011"
+ 1061      02710699 
+ 1061      0EF236C8 
+ 1061      0C907741 
+ 1061      5C407E09 
+ 1062 00b7 32136436 		.ascii	"2\023d6\310\007 \356 sA\346\203`\200\376\002\256K@\276"
+ 1062      C80720EE 
+ 1062      207341E6 
+ 1062      836080FE 
+ 1062      02AE4B40 
+ 1063 00cc 421AB3DF 		.ascii	"B\032\263\3373(\377\002\256\317A\234A\246\203\014\202"
+ 1063      3328FF02 
+ 1063      AECF419C 
+ 1063      41A6830C 
+ 1063      82
+ 1064 00dd E4708EDF 		.ascii	"\344p\216\337\200t\201@W4\325 . \313A\276\002\031 \367"
+ 1064      80748140 
+ 1064      5734D520 
+ 1064      2E20CB41 
+ 1064      BE021920 
+ 1065 00f2 D0FE0E5C 		.ascii	"\320\376\016\\\253@\376\031\356\275AV\200\270\221>\300"
+ 1065      AB40FE19 
+ 1065      EEBD4156 
+ 1065      80B8913E 
+ 1065      C0
+ 1066 0103 B30720ED 		.ascii	"\263\007 \355 \017A\372@\232Az4\214\023\351\367l\316"
+ 1066      200F41FA 
+ 1066      409A417A 
+ 1066      348C13E9 
+ 1066      F76CCE
+ 1067 0116 95D0FA4E 		.ascii	"\225\320\372N\305\355\005\361\001\\\277Uq#\\.@]>bvI"
+ 1067      C5ED05F1 
+ 1067      015CBF55 
+ 1067      71235C2E 
+ 1067      405D3E62 
+ 1068 012c B31CE23B 		.ascii	"\263\034\342;\356\307\0178\336e\025\036\002\205\267"
+ 1068      EEC70F38 
+ 1068      DE65151E 
+ 1068      0285B7
+ 1069 013b 5478391C 		.ascii	"Tx9\034/\217\367\265\006\332\\\347\270\265p]\014\262"
+ 1069      2F8FF7B5 
+ 1069      06DA5CE7 
+ 1069      B8B5705D 
+ 1069      0CB2
+ 1070 014d 08315F9C 		.ascii	"\0101_\234\005\251\203\373q\270jA\312\341\276\022\344"
+ 1070      05A983FB 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 85
 
 
- 1071      0BF7AFE0 
- 1071      AA052985 
- 1071      FB
- 1072 015c 7290DF80 		.ascii	"r\220\337\200,\344\3665\334\357\210\373\\\371\263\022"
- 1072      2CE4F635 
- 1072      DCEF88FB 
- 1072      5CF9B312 
- 1073 016c 98DDD7B5 		.ascii	"\230\335\327\265\377\325\237\311A\230\202\203\036\024"
- 1073      FFD59FC9 
- 1073      41988283 
- 1073      1E14
- 1074 017a A6FD4C0E 		.ascii	"\246\375L\016\313\377L\036\332)x\330\277!_XO\301\341"
- 1074      CBFF4C1E 
- 1074      DA2978D8 
- 1074      BF215F58 
- 1074      4FC1E1
- 1075 018d AD9FC9E1 		.ascii	"\255\237\311\341u\374P\002\367e*\016\272)8\374\342/"
- 1075      75FC5002 
- 1075      F7652A0E 
- 1075      BA2938FC 
- 1075      E22F
- 1076 019f 341E9678 		.ascii	"4\036\226x\030\246\340\361Wo\220\207\335\024<\376\372"
- 1076      18A6E0F1 
- 1076      576F9087 
- 1076      DD143CFE 
- 1076      FA
- 1077 01b0 0DF27098 		.ascii	"\015\362p\230\202\307\337\374\005b\303R|:M\301\341\375"
- 1077      82C7DFFC 
- 1077      0562C352 
- 1077      7C3A4DC1 
- 1077      E1FD
- 1078 01c2 3738579D 		.ascii	"78W\235\247\340\361wo\220\307\364)x|\370\006y\274=\005"
- 1078      A7E0F177 
- 1078      6F90C7F4 
- 1078      29787CF8 
- 1078      0679BC3D 
- 1079 01d7 0F8F37B4 		.ascii	"\017\2177\264n\314\230\202\303\37478O\336\235\202\307"
- 1079      6ECC9882 
- 1079      C3FC3738 
- 1079      4FDE9D82 
- 1079      C7
- 1080 01e8 A76F9087 		.ascii	"\247o\220\207\313\024<\376\341\015\362\370\345\024<"
- 1080      CB143CFE 
- 1080      E10DF2F8 
- 1080      E5143C
- 1081 01f7 165AE041 		.ascii	"\026Z\340Al\221\034\252\0161N7\341\372%\232\230?\251"
- 1081      6C911CAA 
- 1081      0E314E37 
- 1081      E1FA259A 
- 1081      983FA9
- 1082 020a B9487C21 		.ascii	"\271H|!\2054\345Q\277\341\261Z\306\355\223\234\217\344"
- 1082      8534E551 
- 1082      BFE1B15A 
- 1082      C6ED939C 
- 1082      8FE4
- 1083 021c 52526EA7 		.ascii	"RRn\247\346sH`y\030\311\333*9\217\001\316\353K\005\266"
- 1083      E6734860 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 86
+ 1070      71B86A41 
+ 1070      CAE1BE12 
+ 1070      E4
+ 1071 015e 37200BB9 		.ascii	"7 \013\271}\015\367;\342>W\376\254\004f\367u\355\177"
+ 1071      7D0DF73B 
+ 1071      E23E57FE 
+ 1071      AC0466F7 
+ 1071      75ED7F
+ 1072 0171 F5677210 		.ascii	"\365gr\020\246\340\240\007\205i?\223\303\362?\223\207"
+ 1072      A6E0A007 
+ 1072      85693F93 
+ 1072      C3F23F93 
+ 1072      87
+ 1073 0182 760A1EF6 		.ascii	"v\012\036\366o\310\027\326Spx\353grx\035?\224\301}\205"
+ 1073      6FC817D6 
+ 1073      537078EB 
+ 1073      6772781D 
+ 1073      3F94C17D 
+ 1074 0197 8A836E0A 		.ascii	"\212\203n\012\016\277\370\013\215\207%\036\206)x\374"
+ 1074      0EBFF80B 
+ 1074      8D87251E 
+ 1074      862978FC 
+ 1075 01a7 D51BE461 		.ascii	"\325\033\344a7\005\217\277~\203<\034\246\340\3617\177"
+ 1075      37058FBF 
+ 1075      7E833C1C 
+ 1075      A6E0F137 
+ 1075      7F
+ 1076 01b8 81D8B014 		.ascii	"\201\330\260\024\237NSpx\377\015\316U\347)x\374\335"
+ 1076      9F4E5370 
+ 1076      78FF0DCE 
+ 1076      55E72978 
+ 1076      FCDD
+ 1077 01ca 1BE4317D 		.ascii	"\033\3441}\012\036\037\276A\036oO\301\303\343\015\255"
+ 1077      0A1E1FBE 
+ 1077      411E6F4F 
+ 1077      C1C3E30D 
+ 1077      AD
+ 1078 01db 1B33A6E0 		.ascii	"\0333\246\340\360\361\033\234'\357N\301\343\3237\310"
+ 1078      F0F11B9C 
+ 1078      27EF4EC1 
+ 1078      E3D337C8 
+ 1079 01eb C3650A1E 		.ascii	"\303e\012\036\377\360\006y\374r\012\036\013-\360 \266"
+ 1079      FFF00679 
+ 1079      FC720A1E 
+ 1079      0B2DF020 
+ 1079      B6
+ 1080 01fc 480E558F 		.ascii	"H\016U\217\030\247\033p\375\022M\314\237\324\\$\276"
+ 1080      18A71B70 
+ 1080      FD124DCC 
+ 1080      9FD45C24 
+ 1080      BE
+ 1081 020d 90429AF2 		.ascii	"\220B\232\362\250\337\360X\255\340\366I\316Gr))\267"
+ 1081      A8DFF058 
+ 1081      ADE0F649 
+ 1081      CE477229 
+ 1081      29B7
+ 1082 021f 53F33928 		.ascii	"S\3639(\260<\214\344m\325\234\307\000\347\365\245\002"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 86
 
 
- 1083      7918C9DB 
- 1083      2A398F01 
- 1083      CEEB4B05 
- 1084 0231 949FF56A 		.ascii	"\224\237\365jX~f\351\367\025`\275\255\231:WT\346\207"
- 1084      587E66E9 
- 1084      F71560BD 
- 1084      AD993A57 
- 1084      54E687
- 1085 0244 B3B92D92 		.ascii	"\263\271-\222\023\222\276+\373\247\314\337\352\341:"
- 1085      1392BE2B 
- 1085      FBA7CCDF 
- 1085      EAE13A
- 1086 0253 AA615C7A 		.ascii	"\252a\\z5\262\257INw\210\373\234\344\211$_$}%y\342\022"
- 1086      35B2AF49 
- 1086      4E7788FB 
- 1086      9CE48924 
- 1086      5F247D25 
- 1087 026a 0B7DFD17 		.ascii	"\013}\375\027\013\276\037\344\234fk\314\363V\302\251"
- 1087      0BBE1FE4 
- 1087      9C666BCC 
- 1087      F356C2A9 
- 1088 027a 01643E92 		.ascii	"\001d>\222\307E\311\251\021\256\343\334^\017\347\225"
- 1088      C745C9A9 
- 1088      11AEE3DC 
- 1088      5E0FE795 
- 1089 028a C57D4DF2 		.ascii	"\305}M\362K\222W\223\\\223p\273\302\371(\177{1j\037"
- 1089      4B925793 
- 1089      5C9370BB 
- 1089      C2F9287F 
- 1089      7B316A1F 
- 1090 029e 4D5B3C27 		.ascii	"M[<'Sd?\235 W\324Df\035\300\3331r6 -\024\007*\367w9"
- 1090      53643F9D 
- 1090      2057D444 
- 1090      661DC0DB 
- 1090      31723620 
- 1091 02b9 4071BA01 		.ascii	"@q\272\001\315\204bkiz\006\251\235m@d\323\340\010\217"
- 1091      CD84626B 
- 1091      697A06A9 
+ 1082      B03C8CE4 
+ 1082      6DD59CC7 
+ 1082      00E7F5A5 
+ 1082      02
+ 1083 0230 5BCACF7A 		.ascii	"[\312\317z5,?\263\364\373\012\260\336\326L\235+*\363"
+ 1083      352C3FB3 
+ 1083      F4FB0AB0 
+ 1083      DED64C9D 
+ 1083      2B2AF3
+ 1084 0243 C3D9DC16 		.ascii	"\303\331\334\026\311\011I\337\225\375S\346o\015p\035"
+ 1084      C90949DF 
+ 1084      95FD53E6 
+ 1084      6F0D701D 
+ 1085 0253 D1302EBD 		.ascii	"\3210.\275\032\331\327$\247;\310}N\362D\222/\222\276"
+ 1085      1AD9D724 
+ 1085      A73BC87D 
+ 1085      4EF24492 
+ 1085      2F92BE
+ 1086 0266 923C7189 		.ascii	"\222<q\211\205\276\376\213\005\337\017rN\2635\346y+"
+ 1086      85BEFE8B 
+ 1086      05DF0F72 
+ 1086      4EB335E6 
+ 1086      792B
+ 1087 0278 E1D408F2 		.ascii	"\341\324\010\3621\222\307E\311\251\011\256c\334^\017"
+ 1087      3192C745 
+ 1087      C9A909AE 
+ 1087      63DC5E0F 
+ 1088 0288 E795C37D 		.ascii	"\347\225\303}M\362K\222W\223\\\223p\273\314\371(\177"
+ 1088      4DF24B92 
+ 1088      57935C93 
+ 1088      70BBCCF9 
+ 1088      287F
+ 1089 029a 0918B58F 		.ascii	"\011\030\265\217\244/\236\223%\262\237N\220+j7\346\354"
+ 1089      A42F9E93 
+ 1089      25B29F4E 
+ 1089      902B6A37 
+ 1089      E6EC
+ 1090 02ac C7DB3172 		.ascii	"\307\3331r6 -\024\007\252\367u9@q\272\001\315\204bk"
+ 1090      36202D14 
+ 1090      07AAF775 
+ 1090      394071BA 
+ 1090      01CD8462 
+ 1091 02c1 794626A9 		.ascii	"yF&\251\235m@d\323\340\010\217N\364\345\217\330\263"
  1091      9D6D4064 
  1091      D3E0088F 
- 1092 02cd 4EF5E58E 		.ascii	"N\365\345\216\332\263G\244}\355\216\301T\033lK\356\205"
- 1092      DAB347A4 
- 1092      7DED8EC1 
- 1092      541B6C4B 
- 1092      EE85
- 1093 02df F8F2C642 		.ascii	"\370\362\306B-r5\034%F\214\317\006g\357\214\022E\001"
- 1093      2D72351C 
- 1093      25468CCF 
- 1093      0667EF8C 
- 1093      124501
- 1094 02f2 9D440694 		.ascii	"\235D\006\224\2110:\206\346\200Mh\010\177\243E1\\\214"
- 1094      89303A86 
- 1094      E6804D68 
- 1094      087FA345 
- 1094      315C8C
- 1095 0305 8910F55E 		.ascii	"\211\020\365^\032\224\216\\P\032r\321\240\023\310\225"
- 1095      1A948E5C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 87
+ 1091      4EF4E58F 
+ 1091      D8B3
+ 1092 02d3 47A47DDD 		.ascii	"G\244}\335\216\3014\033lK\356\205\275\225MEZ\344j8B"
+ 1092      8EC1341B 
+ 1092      6C4BEE85 
+ 1092      BD954D45 
+ 1092      5AE46A38 
+ 1093 02e8 8C189F0F 		.ascii	"\214\030\237\017\316\336\031)\212\002\312F\006\224\205"
+ 1093      CEDE1929 
+ 1093      8A02CA46 
+ 1093      069485
+ 1094 02f7 303A8AE6 		.ascii	"0:\212\346\200Mh\010\177\243D1\\\214\211\020\365^\032"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 87
 
 
- 1095      501A72D1 
- 1095      A013C895 
- 1096 0315 C0123D94 		.ascii	"\300\022=\224\001\017\217\303C0\221\236\272\363\260"
- 1096      010F8FC3 
- 1096      4330919E 
- 1096      BAF3B0
- 1097 0324 35DE404D 		.ascii	"5\336@M\024_\276\335\244E\006W\213\355O[h\317\270T\245"
- 1097      145FBEDD 
- 1097      A4450657 
- 1097      8BED4F5B 
- 1097      68CFB854 
- 1098 0339 BD57BC91 		.ascii	"\275W\274\221p\311\002.\247d.@\215\271\241p\264\335"
- 1098      70C9022E 
- 1098      A7642E40 
- 1098      8DB9A170 
- 1098      B4DD
- 1099 034b 490B6EA1 		.ascii	"I\013n\241\012\337i\311\243g;\036\247\352\350\263o\354"
- 1099      0ADF69C9 
- 1099      A3673B1E 
- 1099      A7EAE8B3 
- 1099      6FEC
- 1100 035d D019449F 		.ascii	"\320\031D\237\025\275zftd\336\022H\347\373+\022m\231"
- 1100      15BD7A66 
- 1100      7464DE12 
- 1100      48E7FB2B 
- 1100      126D99
- 1101 0370 B79C88F3 		.ascii	"\267\234\210\3636\016\307Z\317\330C}\034!:\011\350\333"
- 1101      360EC75A 
- 1101      CFD8437D 
- 1101      1C213A09 
- 1101      E8DB
- 1102 0382 B7D179E0 		.ascii	"\267\321y\340q\016xhP6\202\375\025:\213\264\314\342"
- 1102      710E7868 
- 1102      503682FD 
- 1102      153A8BB4 
- 1102      CCE2
- 1103 0394 AB9A133D 		.ascii	"\253\232\023=\326v[L\375 \365\246\256hP\016\262\343"
- 1103      D6765B4C 
- 1103      FD20F5A6 
- 1103      AE68500E 
- 1103      B2E3
- 1104 03a6 240995C4 		.ascii	"$\011\225\304\361\223:\334\204\250\013~L\214=j\203\354"
- 1104      F1933ADC 
- 1104      84A80B7E 
- 1104      4C8C3D6A 
- 1104      83EC
- 1105 03b8 5C27698A 		.ascii	"\\'i\212.\202\027\344\326\254\377\257\362\\\333\253"
- 1105      2E8217E4 
- 1105      D6ACFFAF 
- 1105      F25CDBAB 
- 1106 03c8 457126CA 		.ascii	"Eq&\312\205\212\013r\377A\217\\\340)X\311\336v-_hC-"
- 1106      858A0B72 
- 1106      FF418F5C 
- 1106      E02958C9 
- 1106      DE762D5F 
- 1107 03df 646B829C 		.ascii	"dk\202\234h\200 \304\376\"*\264\370J\372!D\237\323\255"
- 1107      688020C4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 88
+ 1094      804D6808 
+ 1094      7FA34431 
+ 1094      5C8C8910 
+ 1094      F55E1A
+ 1095 030a 94815C50 		.ascii	"\224\201\\P:r\321\240\343\310\225\300\022=\224\011\017"
+ 1095      3A72D1A0 
+ 1095      E3C895C0 
+ 1095      123D9409 
+ 1095      0F
+ 1096 031b 8FC14330 		.ascii	"\217\301C0\221\221\266\363\2205\336@M\224^\274\335\254"
+ 1096      9191B6F3 
+ 1096      9035DE40 
+ 1096      4D945EBC 
+ 1096      DDAC
+ 1097 032d 4506578B 		.ascii	"E\006W\213\355s-\264g\\\256\247\277W\272\211p\311\001"
+ 1097      ED732DB4 
+ 1097      675CAEA7 
+ 1097      BF57BA89 
+ 1097      70C901
+ 1098 0340 2E27642E 		.ascii	".'d.@\215\271\241h\244\335I\013n\241\012\337i\311\243"
+ 1098      408DB9A1 
+ 1098      68A4DD49 
+ 1098      0B6EA10A 
+ 1098      DF69C9A3 
+ 1099 0354 E73B1EA7 		.ascii	"\347;\036\247\351\350\263o\354\320ID\237\225\214?7:"
+ 1099      E9E8B36F 
+ 1099      ECD04944 
+ 1099      9F958C3F 
+ 1099      373A
+ 1100 0366 326F09A4 		.ascii	"2o\011\244\363\375UI\266\314[N\304y\233\236\305Y\317"
+ 1100      F3FD5549 
+ 1100      B6CC5B4E 
+ 1100      C4799B9E 
+ 1100      C559CF
+ 1101 0379 D84D7D1C 		.ascii	"\330M}\034!:\011\350\333\267\321\031\340q\032xh\320"
+ 1101      213A09E8 
+ 1101      DBB7D119 
+ 1101      E0711A78 
+ 1101      68D0
+ 1102 038b 5904FB2B 		.ascii	"Y\004\373+t\012i\231\305\361\332\343=\326v[M\375 \365"
+ 1102      740A6999 
+ 1102      C5F1DAE3 
+ 1102      3DD6765B 
+ 1102      4DFD20F5 
+ 1103 039f A6AE6850 		.ascii	"\246\256hP\036\262\343$\011\225\244\261l\035nF\324\005"
+ 1103      1EB2E324 
+ 1103      0995A4B1 
+ 1103      6C1D6E46 
+ 1103      D405
+ 1104 03b1 3F26C51D 		.ascii	"?&\305\035\261Av\256\2234E\347\301\013rk\326\377\361"
+ 1104      B14176AE 
+ 1104      933445E7 
+ 1104      C10B726B 
+ 1104      D6FFF1
+ 1105 03c4 02D7F61A 		.ascii	"\002\327\366\032Q\234\211\362\241\342\234\334\177\320"
+ 1105      519C89F2 
+ 1105      A1E29CDC 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 88
 
 
- 1107      FE222AB4 
- 1107      F84AFA21 
- 1107      449FD3AD 
- 1108 03f3 0C5F00A4 		.ascii	"\014_\000\244GHj\301\313\002/\012\034\222\376\343\215"
- 1108      47486AC1 
- 1108      CB022F0A 
- 1108      1C92FEE3 
- 1108      8D
- 1109 0404 91029155 		.ascii	"\221\002\221U3K\322O\303\324\031\023\015Eg\255\221 "
- 1109      334BD24F 
- 1109      C3D41913 
- 1109      0D4567AD 
- 1109      9120
- 1110 0416 1B4048D9 		.ascii	"\033@H\331@\001\310h\363z\023?\215\3349$M\204\201\370"
- 1110      4001C868 
- 1110      F37A133F 
- 1110      8DDC3924 
- 1110      4D8481F8 
- 1111 042a 8AFB8676 		.ascii	"\212\373\206v\324J\236&\375\026\321gu\035\331\276x\277"
- 1111      D44A9E26 
- 1111      FD16D167 
- 1111      751DD9BE 
- 1111      78BF
- 1112 043c 4003FD49 		.ascii	"@\003\375IF\376R\032\015\304\205,B\272\2532\016bS\324"
- 1112      46FE521A 
- 1112      0DC4852C 
- 1112      42BAAB32 
- 1112      0E6253D4 
- 1113 0450 5C6621B2 		.ascii	"\\f!\262\377\322\323r+\026\":(\036\3363v\313\026\237"
- 1113      FFD2D372 
- 1113      2B16223A 
- 1113      281EDE33 
- 1113      76CB169F 
- 1114 0464 6518A736 		.ascii	"e\030\2476\336M\327A\235\013L'\244\230K.l.\2353\016"
- 1114      DE4DD741 
- 1114      9D0B4C27 
- 1114      A4984B2E 
- 1114      6C2E9D33 
- 1115 0479 9DD0E27C 		.ascii	"\235\320\342|\252+d\237\273\273\337\240\230Lo_\020E"
- 1115      AA2B649F 
- 1115      BBBBDFA0 
- 1115      984C6F5F 
- 1115      1045
- 1116 048b 27540C86 		.ascii	"'T\014\206\256\311\343\347b\232K\375\207E<C\203\346"
- 1116      AEC9E3E7 
- 1116      629A4BFD 
- 1116      87453C43 
- 1116      83E6
- 1117 049d B9207788 		.ascii	"\271 w\210\201\"\210\001\027>\023\256B`\024\362\231"
- 1117      81228801 
- 1117      173E13AE 
- 1117      426014F2 
- 1117      99
- 1118 04ae 7428ED9A 		.ascii	"t(\355\232=.a\006\342\343\256\234s0\031\200\031r\226"
- 1118      3D2E6106 
- 1118      E2E3AE9C 
- 1118      73301980 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 89
+ 1105      7FD0
+ 1106 03d2 2317780A 		.ascii	"#\027x\012V\316n+.\024\332P\013\331\232 '\032 \010\261"
+ 1106      56CE6E2B 
+ 1106      2E14DA50 
+ 1106      0BD99A20 
+ 1106      271A2008 
+ 1107 03e7 BF880A2D 		.ascii	"\277\210\012-\216K?\204\350s\272\225\341\013\200\364"
+ 1107      8E4B3F84 
+ 1107      E873BA95 
+ 1107      E10B80F4 
+ 1108 03f7 08492D78 		.ascii	"\010I-xY\340E\201C\322\177\2741R \262jfI\372i\230:c"
+ 1108      59E04581 
+ 1108      43D27FBC 
+ 1108      315220B2 
+ 1108      6A6649FA 
+ 1109 040f A2A1E8AC 		.ascii	"\242\241\350\2545\022d\003\010)\033(\000\031m^o\342"
+ 1109      35126403 
+ 1109      08291B28 
+ 1109      00196D5E 
+ 1109      6FE2
+ 1110 0421 A7913B87 		.ascii	"\247\221;\207\244\2110\260\267\352\276\241\035\265\222"
+ 1110      A48930B0 
+ 1110      B7EABEA1 
+ 1110      1DB592
+ 1111 0430 A7C9BF45 		.ascii	"\247\311\277E\364Y}\307Y_\274O\240\201\376$\263p)\215"
+ 1111      F4597DC7 
+ 1111      595FBC4F 
+ 1111      A081FE24 
+ 1111      B370298D 
+ 1112 0444 06E24216 		.ascii	"\006\342B\026!\335\3273\017`S\324\\d!\262\357\302\323"
+ 1112      21DDD733 
+ 1112      0F6053D4 
+ 1112      5C6421B2 
+ 1112      EFC2D3
+ 1113 0457 4A2B1622 		.ascii	"J+\026\":(\036\332=z\323\026\237b\030'6\335\315\320"
+ 1113      3A281EDA 
+ 1113      3D7AD316 
+ 1113      9F621827 
+ 1113      36DDCDD0 
+ 1114 046b 419D0B4C 		.ascii	"A\235\013L'\244\230K.l.\2356\016\035\327\342B\252+\234"
+ 1114      27A4984B 
+ 1114      2E6C2E9D 
+ 1114      360E1DD7 
+ 1114      E242AA2B 
+ 1115 0480 3D7D779F 		.ascii	"=}w\237A1\231\336>'\212N\250\024\014\025\313\343\347"
+ 1115      413199DE 
+ 1115      3E278A4E 
+ 1115      A8140C15 
+ 1115      CBE3E7
+ 1116 0493 629A4BFD 		.ascii	"b\232K\375\207D<C\203\346\271 w\210\201\022\210\001"
+ 1116      87443C43 
+ 1116      83E6B920 
+ 1116      77888112 
+ 1116      8801
+ 1117 04a5 173E13AE 		.ascii	"\027>\023\256@`\024\361\231t0\275\330\036\2271\003{"
+ 1117      406014F1 
+ 1117      997430BD 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 89
 
 
- 1118      197296
- 1119 04c1 CE9032B0 		.ascii	"\316\2202\260P\"[(F\223\230(\265l\342l\177\334~\003"
- 1119      50225B28 
- 1119      46939828 
- 1119      B56CE26C 
- 1119      7FDC7E03 
- 1120 04d5 AE62FD7D 		.ascii	"\256b\375}\221U\367R\217\033X!:s\373Ul\210&S\343u&."
- 1120      9155F752 
- 1120      8F1B5821 
- 1120      3A73FB55 
- 1120      6C882653 
- 1121 04ed B4481ABF 		.ascii	"\264H\032\277rJ\253\234\"\025\300M\236\"\2254x\211b"
- 1121      724AAB9C 
- 1121      2215C04D 
- 1121      9E229534 
- 1121      788962
- 1122 0500 EEC37B3F 		.ascii	"\356\303{?\340\333\314\2144'\235\331\234\274;^\264\325"
- 1122      E0DBCC8C 
- 1122      34279DD9 
- 1122      9CBC3B5E 
- 1122      B4D5
- 1123 0512 0A77B2BA 		.ascii	"\012w\262\272;y=\007\364\270\233\025v\235kJ\263\301"
- 1123      3B793D07 
- 1123      F4B89B15 
- 1123      769D6B4A 
- 1123      B3C1
- 1124 0524 7DACB037 		.ascii	"}\254\2607?\363\212\001\367\263B\365\305\216{\016x\230"
- 1124      3FF38A01 
- 1124      F7B342F5 
- 1124      C58E7B0E 
- 1124      7898
- 1125 0536 151E47DE 		.ascii	"\025\036G\336\353\340x3\240\230\225\027\371\210/\220"
- 1125      EBE07833 
- 1125      A0989517 
- 1125      F9882F90 
- 1126 0546 463284E1 		.ascii	"F2\204\341}\225=Vx\204\352\352N\037/\012\323\243Y\360"
- 1126      7D953D56 
- 1126      7884EAEA 
- 1126      4E1F2F0A 
- 1126      D3A359F0 
- 1127 055a 9B36CB75 		.ascii	"\2336\313u\326a12B4v\267\377\352I\355]Q\334eG\3517\202"
- 1127      D6613132 
- 1127      423476B7 
- 1127      FFEA49ED 
- 1127      5D51DC65 
- 1128 0572 6B5BD034 		.ascii	"k[\3204\271\357U\264/\351\344\257\206\265\250\015\212"
- 1128      B9EF55B4 
- 1128      2FE9E4AF 
- 1128      86B5A80D 
- 1128      8A
- 1129 0583 178D9198 		.ascii	"\027\215\221\230\252W[V\367\220\265\013\025\332\265"
- 1129      AA575B56 
- 1129      F790B50B 
- 1129      15DAB5
- 1130 0592 6A6DA35A 		.ascii	"jm\243Z{l\235\254]\247\326v\223\231\354$A\021#\212\277"
- 1130      7B6C9DAC 
- 1130      5DA7D676 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 90
+ 1117      D81E9731 
+ 1117      037B
+ 1118 04b7 E32F9F76 		.ascii	"\343/\237v0\031\200\031r\212\316\220\012\260P&[(E\223"
+ 1118      30198019 
+ 1118      728ACE90 
+ 1118      0AB05026 
+ 1118      5B284593 
+ 1119 04cb 9828B76C 		.ascii	"\230(\267l\342T\177\374>\003\276\316\372\3732\247\376"
+ 1119      E2547FFC 
+ 1119      3E03BECE 
+ 1119      FAFB32A7 
+ 1119      FE
+ 1120 04dc 951E37B2 		.ascii	"\225\0367\262BT\326\366+\330\020E\246\306\353L\\h\221"
+ 1120      4254D6F6 
+ 1120      2BD81045 
+ 1120      A6C6EB4C 
+ 1120      5C6891
+ 1121 04ef 3C76F984 		.ascii	"<v\371\204V9E\252\200\233<E\252i\360\022\305\374\207"
+ 1121      563945AA 
+ 1121      809B3C45 
+ 1121      AA69F012 
+ 1121      C5FC87
+ 1122 0502 F77EC0B7 		.ascii	"\367~\300\267\231\031iN:\2639yw\254$\332\012w\262\272"
+ 1122      9919694E 
+ 1122      3AB33979 
+ 1122      77AC24DA 
+ 1122      0A77B2BA 
+ 1123 0516 3B053DFB 		.ascii	";\005=\373\365\270\233\025bO7\247\333\340>VH(\314\272"
+ 1123      F5B89B15 
+ 1123      624F37A7 
+ 1123      DBE03E56 
+ 1123      4828CCBA 
+ 1124 052a 6CC0FDAC 		.ascii	"l\300\375\254Ps\276\343\236\003~\306\012\2177\336\353"
+ 1124      5073BEE3 
+ 1124      9E037EC6 
+ 1124      0A8F37DE 
+ 1124      EB
+ 1125 053b E07833A0 		.ascii	"\340x3\240\230S\260\361\021_ \215d\010\303\373\252{"
+ 1125      9853B0F1 
+ 1125      115F208D 
+ 1125      6408C3FB 
+ 1125      AA7B
+ 1126 054d ACF030D5 		.ascii	"\254\3600\325\325\345\036+\011\323\243Y\360\2336\313"
+ 1126      D5E51E2B 
+ 1126      09D3A359 
+ 1126      F09B36CB 
+ 1127 055d 75D62171 		.ascii	"u\326!qc\204h\354n\377\325\223\272\273\242\030kG\351"
+ 1127      638468EC 
+ 1127      6EFFD593 
+ 1127      BABBA218 
+ 1127      6B47E9
+ 1128 0570 37816B5B 		.ascii	"7\201k[\3204\271\357\327i_2\310_\015kQ\027\264W4n\304"
+ 1128      D034B9EF 
+ 1128      D7695F32 
+ 1128      C85F0D6B 
+ 1128      5117B457 
+ 1129 0587 54BDC6B2 		.ascii	"T\275\306\262\272\207\254]\244\320\256Sk\033\325\332"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 90
 
 
- 1130      9399EC24 
- 1130      4111238A 
- 1131 05a7 D56A5003 		.ascii	"\325jP\003\324\327S \242\015\203\204\332`\274\332\321"
- 1131      D4D75320 
- 1131      A20D8384 
- 1131      DA60BCDA 
- 1131      D1
- 1132 05b8 2C741BA4 		.ascii	",t\033\244\031\244\025\344\026H\023\232E\247\023\263"
- 1132      19A415E4 
- 1132      1648139A 
- 1132      45A713B3 
- 1133 05c8 55AE6056 		.ascii	"U\256`Vc\231\0313\306\"\360\376c\3470QDDM\303\243O\306"
- 1133      63991933 
- 1133      C622F0FE 
- 1133      63E73051 
- 1133      44444DC3 
- 1134 05df FAE9B1F3 		.ascii	"\372\351\261\363\256\010\261\324\235\202\335\264H\234"
- 1134      AE08B1D4 
- 1134      9D82DDB4 
- 1134      489C
- 1135 05ed F692BCEA 		.ascii	"\366\222\274\352\2147n8\342S\230\006\371\323\266\222"
- 1135      8C376E38 
- 1135      E2539806 
- 1135      F9D3B692 
- 1136 05fd 702B34CD 		.ascii	"p+4\315\325R\177P't\343u\273\3049>\261\206\327'\272"
- 1136      D5527F50 
- 1136      2774E375 
- 1136      BBC4393E 
- 1136      B186D727 
- 1137 0612 038D3AE4 		.ascii	"\003\215:\3449B\030S\323\306\254\342C\266\312\200\275"
- 1137      39421853 
- 1137      D3C6ACE2 
- 1137      43B6CA80 
- 1137      BD
- 1138 0623 A360A941 		.ascii	"\243`\251A]\246\200}\336\263\373\026bAEV\336\360K\267"
- 1138      5DA6807D 
- 1138      DEB3FB16 
- 1138      62414556 
- 1138      DEF04BB7 
- 1139 0637 763AB2A0 		.ascii	"v:\262\240\352 \325yMCcz\\H\273`3\332=\020\347\200\246"
- 1139      EA20D579 
- 1139      4D43637A 
- 1139      5C48BB60 
- 1139      33DA3D10 
- 1140 064e 91A89A65 		.ascii	"\221\250\232e\326\217{\000|\227\002w\363N<\202N<\000"
- 1140      D68F7B00 
- 1140      7C970277 
- 1140      F34E3C82 
- 1140      4E3C00
- 1141 0661 D20F41FA 		.ascii	"\322\017A\372@zAzLc\002\254\340E0\263m\260E\0247\331"
- 1141      407A417A 
- 1141      4C6302AC 
- 1141      E04530B3 
- 1141      6DB04514 
- 1142 0677 D1897E1F 		.ascii	"\321\211~\037:A\032\3639\315\006\345<\217E\242\337\326"
- 1142      3A411AF3 
- 1142      39CD06E5 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 91
+ 1129      BA87AC5D 
+ 1129      A4D0AE53 
+ 1129      6B1BD5DA 
+ 1130 0597 A3EB64ED 		.ascii	"\243\353d\355z\265\266\233\314d'\011\212\030Q\374\255"
+ 1130      7AB5B69B 
+ 1130      CC642709 
+ 1130      8A1851FC 
+ 1130      AD
+ 1131 05a8 56831AA1 		.ascii	"V\203\032\241\276\201\002\021m\030$\324\006\343\325"
+ 1131      BE810211 
+ 1131      6D1824D4 
+ 1131      06E3D5
+ 1132 05b7 8E66A1DB 		.ascii	"\216f\241\333 \267@ZAn\2024\243Yt:1[\225\012f\265\226"
+ 1132      20B7405A 
+ 1132      416E8234 
+ 1132      A359743A 
+ 1132      315B950A 
+ 1133 05ce 9931632C 		.ascii	"\2311c,\002\357?v\016\023ED\3244<\372d\254\237\036;"
+ 1133      02EF3F76 
+ 1133      0E134544 
+ 1133      D4343CFA 
+ 1133      64AC9F1E 
+ 1134 05e3 C74688E5 		.ascii	"\307F\210\345\356\024\354\206E\342\264\227\344Ug\274"
+ 1134      EE14EC86 
+ 1134      45E2B497 
+ 1134      E45567BC 
+ 1135 05f3 76CD119F 		.ascii	"v\315\021\237\3004\310\237\266\225\205[\241i\256\226"
+ 1135      C034C89F 
+ 1135      B695855B 
+ 1135      A169AE96 
+ 1136 0603 FA833AA1 		.ascii	"\372\203:\241\033\257\333%\316\361\2115\274>\321\035"
+ 1136      1BAFDB25 
+ 1136      CEF18935 
+ 1136      BC3ED11D 
+ 1137 0613 68D421CF 		.ascii	"h\324!\317\021\302\230\2326\346\224\036\264U\006\354"
+ 1137      11C2989A 
+ 1137      36E6941E 
+ 1137      B45506EC 
+ 1138 0623 1D054B0D 		.ascii	"\035\005K\015\3522\005\354\213\236]7\021\013*\262\362"
+ 1138      EA3205EC 
+ 1138      8B9E5D37 
+ 1138      110B2AB2 
+ 1138      F2
+ 1139 0634 865FB8B9 		.ascii	"\206_\270\271\323\221\005U\007\251.h\036\032\325\343"
+ 1139      D3910555 
+ 1139      07A92E68 
+ 1139      1E1AD5E3 
+ 1140 0644 22DA059B 		.ascii	"\"\332\005\233\221\356\201x\0074\215D\325,\263~\334"
+ 1140      91EE8178 
+ 1140      07348D44 
+ 1140      D52CB37E 
+ 1140      DC
+ 1141 0655 03E0BB14 		.ascii	"\003\340\273\024\270\233w\342\021t\342\001\220~\010"
+ 1141      B89B77E2 
+ 1141      1174E201 
+ 1141      907E08
+ 1142 0664 D207D20B 		.ascii	"\322\007\322\013\322c\032\023`\005/\202\231m\203-\242"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 91
 
 
- 1142      3C8F45A2 
- 1142      DFD6
- 1143 0689 3A3D96FA 		.ascii	":=\226\372\035\270\243\033\\\333\202\337\231v\347\357"
- 1143      1DB8A31B 
- 1143      5CDB82DF 
- 1143      9976E7EF 
- 1144 0699 D988C3CC 		.ascii	"\331\210\303\314D\327-*\247+\260_\266:\017\205\213\373"
- 1144      44D72D2A 
- 1144      A72BB05F 
- 1144      B63A0F85 
- 1144      8BFB
- 1145 06ab DC29932B 		.ascii	"\334)\223+\226\230\314\223\225\037\376~\257h\014\303"
- 1145      9698CC93 
- 1145      951FFE7E 
- 1145      AF680CC3 
- 1146 06bb 54B7DC92 		.ascii	"T\267\334\222\256\207\034I\015\255,\222\272\315#\011"
- 1146      AE871C49 
- 1146      0DAD2C92 
- 1146      BACD2309 
- 1147 06cb 1C7B2FE3 		.ascii	"\034{/\343A\242-.c\261Q\031s\370\244N\025\033\222OQ"
- 1147      41A22D2E 
- 1147      63B15119 
- 1147      73F8A44E 
- 1147      151B924F 
- 1148 06e0 3FB8F275 		.ascii	"?\270\362u\334\312,\336h\243q\361\004\032<\226\343\242"
- 1148      DCCA2CDE 
- 1148      68A371F1 
- 1148      041A3C96 
- 1148      E3A2
- 1149 06f2 5B8A8BF2 		.ascii	"[\212\213\362\3331\201\323\270\231\350\311\314h&\265"
- 1149      DB3181D3 
- 1149      B899E8C9 
- 1149      CC6826B5 
- 1150 0702 0108C987 		.ascii	"\001\010\311\207z\272\315\226\302\001\263\310\0324E"
- 1150      7ABACD96 
- 1150      C201B3C8 
- 1150      1A3445
- 1151 0711 D683E2BB 		.ascii	"\326\203\342\273c\216\364\235\004\317P\001{'U\026\325"
- 1151      638EF49D 
- 1151      04CF5001 
- 1151      7B275516 
- 1151      D5
- 1152 0722 EDB3C12D 		.ascii	"\355\263\301-\264\333\332\236\202A\001\032\222\177z"
- 1152      B4DBDA9E 
- 1152      8241011A 
- 1152      927F7A
- 1153 0731 D7FDC0FA 		.ascii	"\327\375\300\372\031\322k\366\213\321\344\365Bn\243"
- 1153      19D26BF6 
- 1153      8BD1E4F5 
- 1153      426EA3
- 1154 0740 E85A1F1E 		.ascii	"\350Z\037\036\343\204Lk\375\010\260$U\0324\014\315~"
- 1154      E3844C6B 
- 1154      FD08B024 
- 1154      551A340C 
- 1154      CD7E
- 1155 0752 92D22A92 		.ascii	"\222\322*\222JjH\005z\212\260\"\331\014\277\270\243"
- 1155      4A6A4805 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 92
+ 1142      D2631A13 
+ 1142      60052F82 
+ 1142      996D832D 
+ 1142      A2
+ 1143 0675 B8D98E4E 		.ascii	"\270\331\216N\364\373\320\011\322\230\317i6(gx,\022"
+ 1143      F4FBD009 
+ 1143      D298CF69 
+ 1143      36286778 
+ 1143      2C12
+ 1144 0687 FDB6D6E9 		.ascii	"\375\266\326\351q\324\357\300\035]\343\332\026\374\316"
+ 1144      71D4EFC0 
+ 1144      1D5DE3DA 
+ 1144      16FCCE
+ 1145 0696 B43B7FCF 		.ascii	"\264;\177\317F\034f&\272jQ9C\201\375\252\325y(\\\334"
+ 1145      461C6626 
+ 1145      BA6A5139 
+ 1145      4381FDAA 
+ 1145      D579285C 
+ 1146 06ab E34E995C 		.ascii	"\343N\231\\\266\304d\236\254\374\360\367\011\2421\014"
+ 1146      B6C4649E 
+ 1146      ACFCF0F7 
+ 1146      09A2310C 
+ 1147 06bb 53DD4A4B 		.ascii	"S\335JK\272\036r$5\266\262H\3526\217$p\354\275\314\007"
+ 1147      BA1E7224 
+ 1147      35B6B248 
+ 1147      EA368F24 
+ 1147      70ECBDCC 
+ 1148 06d0 49B6B882 		.ascii	"I\266\270\202\305Fu\314\241l\235*6$\237\242~p\345\353"
+ 1148      C54675CC 
+ 1148      A16C9D2A 
+ 1148      36249FA2 
+ 1148      7E70E5EB 
+ 1149 06e4 B89559BC 		.ascii	"\270\225Y\274\326F\343\342\0114x,\307E\267\024\027\225"
+ 1149      D646E3E2 
+ 1149      0934782C 
+ 1149      C745B714 
+ 1149      1795
+ 1150 06f6 B76302A7 		.ascii	"\267c\002\247q3Q\223\231\321Lj\003\020R\016\366t\233"
+ 1150      71335193 
+ 1150      99D14C6A 
+ 1150      0310520E 
+ 1150      F6749B
+ 1151 0709 2D850366 		.ascii	"-\205\003f\2215h\212\254\007\245wG\035\351;\011\236"
+ 1151      9135688A 
+ 1151      AC07A577 
+ 1151      471DE93B 
+ 1151      099E
+ 1152 071b A14BEC9D 		.ascii	"\241K\354\235T]R\277\307\006\267\320nk{.\015\012\320"
+ 1152      545D52BF 
+ 1152      C706B7D0 
+ 1152      6E6B7B2E 
+ 1152      0D0AD0
+ 1153 072e 90FCD3BB 		.ascii	"\220\374\323\273\356\003\326\317\221^\263O\214\"\257"
+ 1153      EE03D6CF 
+ 1153      915EB34F 
+ 1153      8C22AF
+ 1154 073d 17721B49 		.ascii	"\027r\033I\327\372\360\030'dZ\353\207\201%\251\322\240"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 92
 
 
- 1155      7A8AB022 
- 1155      D90CBFB8 
- 1155      A3
- 1156 0763 C4469907 		.ascii	"\304F\231\007\021\0259\021\032\245\211\320\220\224\010"
- 1156      11153911 
- 1156      1AA589D0 
- 1156      909408
- 1157 0772 D56FABA8 		.ascii	"\325o\253\250\260{/I4v\210\306\306\361_?\311\334\024"
- 1157      B07B2F49 
- 1157      347688C6 
- 1157      C6F15F3F 
- 1157      C9DC14
- 1158 0785 0DA98AF8 		.ascii	"\015\251\212\370\037T\021\345\313\356\314'FP\036LSt"
- 1158      1F5411E5 
- 1158      CBEECC27 
- 1158      46501E4C 
- 1158      5374
- 1159 0797 09E6AB06 		.ascii	"\011\346\253\006\215\241\367\310[\342\314\363j[\034"
- 1159      8DA1F7C8 
- 1159      5BE2CCF3 
- 1159      6A5B1C
- 1160 07a6 A7A5ABF5 		.ascii	"\247\245\253\365HX\375\025\303\244)\3308\265\374\035"
- 1160      4858FD15 
- 1160      C3A429D8 
- 1160      38B5FC1D 
- 1161 07b6 37FCBCE5 		.ascii	"7\374\274\345\340^\007n\270\374\217\361I\306ph\204\211"
- 1161      E05E076E 
- 1161      B8FC8FF1 
- 1161      49C67068 
- 1161      8489
- 1162 07c8 127A2E5B 		.ascii	"\022z.[}\256\266\372"
- 1162      7DAEB6FA 
- 1163 07d0 825A6DBC 		.ascii	"\202Zm\274\224\005\221t\342u\254\2762\263\372\244q\353"
- 1163      94059174 
- 1163      E275ACBE 
- 1163      32B3FAA4 
- 1163      71EB
- 1164 07e2 5503584D 		.ascii	"U\003XM\002\253\217\017\0120a\210Y\201h\241\227\262"
- 1164      02AB8F0F 
- 1164      0A306188 
- 1164      598168A1 
- 1164      97B2
- 1165 07f4 D9976AB3 		.ascii	"\331\227j\263\242@\314^\010\257\033\321\343lf\266<9"
- 1165      A240CC5E 
- 1165      08AF1BD1 
- 1165      E36C66B6 
- 1165      3C39
- 1166 0806 B9D78143 		.ascii	"\271\327\201C\215\271\232!\205\011&$\2705G\012\247H"
- 1166      8DB99A21 
- 1166      85092624 
- 1166      B835470A 
- 1166      A748
- 1167 0818 AFB69C6B 		.ascii	"\257\266\234kv\300\005\014)<\352d\020\007*\377\300\014"
- 1167      76C0050C 
- 1167      293CEA64 
- 1167      10072AFF 
- 1167      C00C
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 93
+ 1154      D7FAF018 
+ 1154      27645AEB 
+ 1154      878125A9 
+ 1154      D2A0
+ 1155 074f 67D0EC27 		.ascii	"g\320\354')\255\"\251\244\206T\240\247\010+\222\315"
+ 1155      29AD22A9 
+ 1155      A48654A0 
+ 1155      A7082B92 
+ 1155      CD
+ 1156 0760 F0F33BCA 		.ascii	"\360\363;\312l\224y\020Q\221\023\241\021\232\010\015"
+ 1156      6C947910 
+ 1156      519113A1 
+ 1156      119A080D 
+ 1157 0770 498950C3 		.ascii	"I\211P\303\266\252*\273\367\222Ec\207hl\032\373\365"
+ 1157      B6AA2ABB 
+ 1157      F7924563 
+ 1157      87686C1A 
+ 1157      FBF5
+ 1158 0782 93ACCD51 		.ascii	"\223\254\315Q\220\252\210\377A\025Q\241\354\316Bb\004"
+ 1158      90AA88FF 
+ 1158      411551A1 
+ 1158      ECCE4262 
+ 1158      04
+ 1159 0793 15C03445 		.ascii	"\025\3004E\027`\276j\320(z\217\274%N\276\250\261\305"
+ 1159      1760BE6A 
+ 1159      D0287A8F 
+ 1159      BC254EBE 
+ 1159      A8B1C5
+ 1160 07a6 F15ABA5A 		.ascii	"\361Z\272Z\017\2075\\6L\232\202\215Q\313\337q\303/Z"
+ 1160      0F87355C 
+ 1160      364C9A82 
+ 1160      8D51CBDF 
+ 1160      71C32F5A 
+ 1161 07ba 0E243870 		.ascii	"\016$8p\303\225\177\334\233l\014\207F\230(\241\027\262"
+ 1161      C3957FDC 
+ 1161      9B6C0C87 
+ 1161      469828A1 
+ 1161      17B2
+ 1162 07cc D5176AAB 		.ascii	"\325\027j\253"
+ 1163 07d0 2FA9D5A6 		.ascii	"/\251\325\246\0139\020I\307_\307\352\270\231\325'M\321"
+ 1163      0B391049 
+ 1163      C75FC7EA 
+ 1163      B899D527 
+ 1163      4DD1
+ 1164 07e2 570C6035 		.ascii	"W\014`5\031\254>> \300\204!f\005\242\205^\311f_\251"
+ 1164      19AC3E3E 
+ 1164      20C08421 
+ 1164      6605A285 
+ 1164      5EC9665F 
+ 1165 07f7 CD8A0231 		.ascii	"\315\212\0021{.\274~X\217\3172\263\225))\275\016\034"
+ 1165      7B2EBC7E 
+ 1165      588FCF32 
+ 1165      B3952929 
+ 1165      BD0E1C
+ 1166 080a 6AD4D50C 		.ascii	"j\324\325\014)L0!\301\2559R8E\032\337z\372\226\003\276"
+ 1166      294C3021 
+ 1166      C1AD3952 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 93
 
 
- 1168 082a 2842068A 		.ascii	"(B\006\212P\003ER\240\333\227\313\243\265\270\224{\242"
- 1168      50034552 
- 1168      A0DB97CB 
- 1168      A3B5B894 
- 1168      7BA2
- 1169 083c A2AD57EA 		.ascii	"\242\255W\352]\363\207fH\033e\244\215j\244M\024))\366"
- 1169      5DF38766 
- 1169      481B65A4 
- 1169      8D6AA44D 
- 1169      142929F6 
- 1170 0850 48BA01D7 		.ascii	"H\272\001\3270\244\262\224}\2216\034\351\241\233\031"
- 1170      30A4B294 
- 1170      7D91361C 
- 1170      E9A19B19 
- 1171 0860 52948C14 		.ascii	"R\224\214\024\245F\212fH\275\025uZ\334\314\220Z\223"
- 1171      A5468A66 
- 1171      48BD1575 
- 1171      5ADCCC90 
- 1171      5A93
- 1172 0872 DA93F492 		.ascii	"\332\223\364\222\233>5C\332,#mV#m\241H5Cg\306\035p\027"
- 1172      9B3E3543 
- 1172      DA2C236D 
- 1172      56236DA1 
- 1172      48354367 
- 1173 088a 43CADBB5 		.ascii	"C\312\333\265\377\271\255\344\247_\233!\375(#\375\250"
- 1173      FFB9ADE4 
- 1173      A75F9B21 
- 1173      FD2823FD 
- 1173      A8
- 1174 089b 46DA4A91 		.ascii	"F\332J\221N\274(|\352\200\373\030R\324\235\262\247H"
- 1174      4EBC287C 
- 1174      EA80FB18 
- 1174      52D49DB2 
- 1174      A748
- 1175 08ad F2D33F9A 		.ascii	"\362\323?\232!m\223\221\266\251\221\266S\244]\303\303"
- 1175      216D9391 
- 1175      B6A991B6 
- 1175      53A45DC3 
- 1175      C3
- 1176 08be 171CF130 		.ascii	"\027\034\3610C:\323\025\321\251\225\374\344e\206\264"
- 1176      433AD315 
- 1176      D1A995FC 
- 1176      E46586B4 
- 1177 08ce 4346DAA1 		.ascii	"CF\332\241F\212\241H\315\333w\015\331\340W\014\351\356"
- 1177      468AA148 
- 1177      CDDB770D 
- 1177      D9E0570C 
- 1177      E9EE
- 1178 08e0 E6FADF49 		.ascii	"\346\372\337In\372\235\031\320N\031h\247\032h\027\005"
- 1178      6EFA9D19 
- 1178      D04E1968 
- 1178      A71A6817 
- 1178      05
- 1179 08f1 4A4D8CE8 		.ascii	"JM\214\350\266\301\233\255(P\332\226\221h;\311M\313"
- 1179      B6C19BAD 
- 1179      2850DA96 
- 1179      91683BC9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 94
+ 1166      38451ADF 
+ 1166      7AFA9603 
+ 1167 081f C490C223 		.ascii	"\304\220\302#\263\2038P\345\007f@\0212P\204\032h#\005"
+ 1167      B3833850 
+ 1167      E5076640 
+ 1167      11325084 
+ 1167      1A682305 
+ 1168 0833 BA7DB132 		.ascii	"\272}\2612J\213\313\271'\252\332z\245\336\335\372\320"
+ 1168      4A8BCBB9 
+ 1168      27AADA7A 
+ 1168      A5DEDDFA 
+ 1168      D0
+ 1169 0844 0C69938C 		.ascii	"\014i\223\214\264I\215\264\231\"%\307\035\3160\340Z"
+ 1169      B4498DB4 
+ 1169      992225C7 
+ 1169      1DCE30E0 
+ 1169      5A
+ 1170 0855 865491BA 		.ascii	"\206T\221\272g\243\015Gz\350f\206\024)#E\252\221\242"
+ 1170      67A30D47 
+ 1170      7AE86686 
+ 1170      14292345 
+ 1170      AA91A2
+ 1171 0868 18526F55 		.ascii	"\030RoU\275\026\337bH\255\311\355\311z\311M\237\232"
+ 1171      BD16DF62 
+ 1171      48ADC9ED 
+ 1171      C97AC94D 
+ 1171      9F9A
+ 1172 087a 216D9191 		.ascii	"!m\221\221\266\250\221\266R\244\332\241\223c\016\270"
+ 1172      B6A891B6 
+ 1172      52A4DAA1 
+ 1172      93630EB8 
+ 1173 088a 8B2115C4 		.ascii	"\213!\025\304\356{a+\371\351\327fH?\312H?\252\221\242"
+ 1173      EE7B612B 
+ 1173      F9E9D766 
+ 1173      483FCA48 
+ 1173      3FAA91A2 
+ 1174 089e 29D2F197 		.ascii	")\322\361\227EO\035p\037C\212\274S\361\024I~\372G3\244"
+ 1174      454F1D70 
+ 1174      1F438ABC 
+ 1174      53F11449 
+ 1174      7EFA4733 
+ 1175 08b3 6D32D236 		.ascii	"m2\32265\322v\212\024\373\354\3319G\374\214!\235\354"
+ 1175      35D2768A 
+ 1175      14FBECD9 
+ 1175      3947FC8C 
+ 1175      219DEC
+ 1176 08c6 8AE8D44A 		.ascii	"\212\350\324J~\3622C\332!#\355P#\305P\244[\333c\207"
+ 1176      7EF23243 
+ 1176      DA2123ED 
+ 1176      5023C550 
+ 1176      A45BDB63 
+ 1177 08db 6CF03843 		.ascii	"l\3608C\272\273\245\341w\222\233~g\006\264S\006\332"
+ 1177      BABBA5E1 
+ 1177      77929B7E 
+ 1177      6706B453 
+ 1177      06DA
+ 1178 08ed A9068AA5 		.ascii	"\251\006\212\245@iI\021\3356x\213\025\005J\337:\034"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 94
 
 
- 1179      4DCB
- 1180 0903 CC906265 		.ascii	"\314\220be\244X5\322n\212T\320\276\345\261\025\216e"
- 1180      A45835D2 
- 1180      6E8A54D0 
- 1180      BEE5B115 
- 1180      8E65
- 1181 0915 48B94DA7 		.ascii	"H\271M\247\012M\341\364\225\031R\234\214\024\247F\332"
- 1181      0A4DE1F4 
- 1181      9519529C 
- 1181      8C14A746 
- 1181      DA
- 1182 0926 4391AEB5 		.ascii	"C\221\256\265?ku\304\211\014\251<\277\263H\220\334\364"
- 1182      3F6B75C4 
- 1182      890CA93C 
- 1182      BFB34890 
- 1182      DCF4
- 1183 0938 AF66487B 		.ascii	"\257fH{e\244\275j\244}\014ik\324#G|\214!\235\275\265"
- 1183      65A4BD6A 
- 1183      A47D0C69 
- 1183      6BD42347 
- 1183      7C8C219D 
- 1184 094e F5ACA3E4 		.ascii	"\365\254\243\344\247\1773C\212\227\221\342\325H\373"
- 1184      A77F3343 
- 1184      8A9791E2 
- 1184      D548FB
- 1185 095d 29D2C623 		.ascii	")\322\306#i\333\254\361i\206\364\344Lf\274\304\251\374"
- 1185      69DBACF1 
- 1185      6986F4E4 
- 1185      4C66BCC4 
- 1185      A9FC
- 1186 096f DFCD9012 		.ascii	"\337\315\220\022d\244\0045\322\001\212\224x\272/\032"
- 1186      64A40435 
- 1186      D2018A94 
- 1186      78BA2F1A 
- 1187 097f E34B0CA9 		.ascii	"\343K\014\251\260\241\177\257\311Ok\314\220\022e\244"
- 1187      B0A17FAF 
- 1187      C94F6BCC 
- 1187      901265A4 
- 1188 098f 4435D241 		.ascii	"D5\322A\212T\326]\330\206q\021C\212\331w\272K\012\314"
- 1188      8A54D65D 
- 1188      D8867111 
- 1188      438AD977 
- 1188      BA4B0ACC 
- 1189 09a3 1BBD7666 		.ascii	"\033\275vfP\207d\250Cj\250$\012\325\323\333\376\016"
- 1189      508764A8 
- 1189      436AA824 
- 1189      0AD5D3DB 
- 1189      FE0E
- 1190 09b5 AE644827 		.ascii	"\256dH'3\237g\031\244\3753\3330U\034\277_ge\332D\035"
- 1190      339F6719 
- 1190      A4FD33DB 
- 1190      30551CBF 
- 1190      5F6765DA 
- 1191 09cb 16E8C35D 		.ascii	"\026\350\303]1M\235\362.*\205=\314\217\256\027\221\351"
- 1191      314D9DF2 
- 1191      2E2A853D 
- 1191      CC8FAE17 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 95
+ 1178      40694911 
+ 1178      DD36788B 
+ 1178      15054ADF 
+ 1178      3A1C
+ 1179 08ff 6527B969 		.ascii	"e'\271i\231\031R\234\214\024\247F\332E\221.\265o}l\205"
+ 1179      9919529C 
+ 1179      8C14A746 
+ 1179      DA45912E 
+ 1179      B56F7D6C 
+ 1180 0914 E318527E 		.ascii	"\343\030R~\363\211\"S8}e\206\024/#\305\253\221vS\244"
+ 1180      F3892253 
+ 1180      387D6586 
+ 1180      142F23C5 
+ 1180      AB917653 
+ 1181 0929 E2F6E7AD 		.ascii	"\342\366\347\255\2168\211!U\026v\226\010\222\233\376"
+ 1181      8E388921 
+ 1181      55167696 
+ 1181      08929BFE 
+ 1182 0939 D50C2941 		.ascii	"\325\014)AFJP#\355aH\321\221\217\034\361Q\206t\352f"
+ 1182      464A5023 
+ 1182      ED6148D1 
+ 1182      918F1CF1 
+ 1182      518674EA 
+ 1183 094e F42947C9 		.ascii	"\364)G\311O\377f\206\264WF\332\253F\332G\2216\035N\337"
+ 1183      4FFF6686 
+ 1183      B45746DA 
+ 1183      AB46DA47 
+ 1183      91361D4E 
+ 1184 0963 668D7319 		.ascii	"f\215s\031\322\223\223Y{%N\225\377n\206\224(#%\252\221"
+ 1184      D2939359 
+ 1184      7B254E95 
+ 1184      FF6E8694 
+ 1184      282325AA 
+ 1185 0978 F653A4A4 		.ascii	"\366S\244\244\334\276(\214/0\244\242\306\376\004\223"
+ 1185      DCBE288C 
+ 1185      2F30A4A2 
+ 1185      C6FE0493 
+ 1186 0988 9FD69821 		.ascii	"\237\326\230!%\311HIj\244\003\024\251\242\273\250\015"
+ 1186      25C94849 
+ 1186      6AA40314 
+ 1186      A9A2BBA8 
+ 1186      0D
+ 1187 0999 E3128614 		.ascii	"\343\022\206\024\263'\267K\012\314k\275vfP\007e\250"
+ 1187      B327B74B 
+ 1187      0ACC6BBD 
+ 1187      76665007 
+ 1187      65A8
+ 1188 09ab 836AA864 		.ascii	"\203j\250d\012\325\323\333\376\016\256fH\331Y/r\014"
+ 1188      0AD5D3DB 
+ 1188      FE0EAE66 
+ 1188      48D9592F 
+ 1188      720C
+ 1189 09bd D2FE996D 		.ascii	"\322\376\231m\230\252\216\335\257\2672m\242\016\011"
+ 1189      98AA8EDD 
+ 1189      AFB7326D 
+ 1189      A20E09
+ 1190 09cc F4616C4C 		.ascii	"\364alLs\247\274\213Je\017\013\243\032Ddz\215\245\261"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 95
 
 
- 1191      91E9
- 1192 09dd 3596CA1E 		.ascii	"5\226\312\036\246\356M\2173L\376^9*\220u\366\210\300"
- 1192      A6EE4D8F 
- 1192      334CFE5E 
- 1192      392A9075 
- 1192      F688C0
- 1193 09f0 17DA9D23 		.ascii	"\027\332\235#]\367$\357\216\005\261\216\204\011D\013"
- 1193      5DF724EF 
- 1193      8E05B18E 
- 1193      8409440B 
- 1194 0a00 25CB1D49 		.ascii	"%\313\035IVw\344\030\355H\357\203\226Q\001\267\263\236"
- 1194      5677E418 
- 1194      ED48EF83 
- 1194      965101B7 
- 1194      B39E
- 1195 0a12 181F556D 		.ascii	"\030\037Um\322\232\310\260\256\274\250\332\266\325j"
- 1195      D29AC8B0 
- 1195      AEBCA8DA 
- 1195      B6D56A
- 1196 0a21 D225FF38 		.ascii	"\322%\3778\245\222.Q\271]2\020\243\223\006\372\217&"
- 1196      A5922E51 
- 1196      B95D3210 
- 1196      A39306FA 
- 1196      8F26
- 1197 0a33 2AA085D2 		.ascii	"*\240\205\322d*ij*\031\224J\302\315\316\024\001\367"
- 1197      642A696A 
- 1197      2A19944A 
- 1197      C2CDCE14 
- 1197      01F7
- 1198 0a45 F3819E78 		.ascii	"\363\201\236xN\261\345H\331\230\354\277\023\314U\327"
- 1198      4EB1E548 
- 1198      D998ECBF 
- 1198      13CC55D7 
- 1199 0a55 6B061BED 		.ascii	"k\006\033\355&\245w\212\322;)\321\313\314)m \357\221"
- 1199      26A5778A 
- 1199      D23B29D1 
- 1199      CBCC296D 
- 1199      20EF91
- 1200 0a68 0EB20F2C 		.ascii	"\016\262\017,\305\007#\212\267\212\311\210\252\241L"
- 1200      C507238A 
- 1200      B78AC988 
- 1200      AAA14C
- 1201 0a77 995FA6C0 		.ascii	"\231_\246\300^\362(\213\362j\357\037*\2017\2405\345"
- 1201      5EF2288B 
- 1201      F26AEF1F 
- 1201      2A8137A0 
- 1201      35E5
- 1202 0a89 157BAC39 		.ascii	"\025{\2549J\340\020W\233p\363\251M\306\345\364\315\207"
- 1202      4AE01057 
- 1202      9B70F3A9 
- 1202      4DC6E5F4 
- 1202      CD87
- 1203 0a9b 4ECB00A7 		.ascii	"N\313\000\247%\2003\024\240\276-\277\037\343\307\326"
- 1203      25803314 
- 1203      A0BE2DBF 
- 1203      1FE3C7D6 
- 1204 0aab 9375EC5A 		.ascii	"\223u\354ZV\306\013\207I\373p\236\366\341\234\324\207"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 96
+ 1190      73A7BC8B 
+ 1190      4A650F0B 
+ 1190      A31A4464 
+ 1190      7A8DA5B1 
+ 1191 09e0 87690919 		.ascii	"\207i\011\031\361\206\311\337+G\004\262\316\036\026"
+ 1191      F186C9DF 
+ 1191      2B4704B2 
+ 1191      CE1E16
+ 1192 09ef F842BB73 		.ascii	"\370B\273s\270\353\236\344\335\321 \326\2210\201h\241"
+ 1192      B8EB9EE4 
+ 1192      DDD120D6 
+ 1192      91308168 
+ 1192      A1
+ 1193 0a00 14B92329 		.ascii	"\024\271#)\352\216\034\245\035\351}\3202\"\340v\326"
+ 1193      EA8E1CA5 
+ 1193      1DE97DD0 
+ 1193      3222E076 
+ 1193      D6
+ 1194 0a11 13E3A3EB 		.ascii	"\023\343\243\353\233\265&2\254+/\257o\213\266\232t\311"
+ 1194      9BB52632 
+ 1194      AC2B2FAF 
+ 1194      6F8BB69A 
+ 1194      74C9
+ 1195 0a23 3F46A964 		.ascii	"?F\251dHTn\227\015\304\350\244\201\376\243\211\012h"
+ 1195      48546E97 
+ 1195      0DC4E8A4 
+ 1195      81FEA389 
+ 1195      0A68
+ 1196 0a35 A174994A 		.ascii	"\241t\231J\272\232J&\245\222x\2433U\300\375|\240'\236"
+ 1196      BA9A4A26 
+ 1196      A59278A3 
+ 1196      3355C0FD 
+ 1196      7CA0279E 
+ 1197 0a49 536C3D5C 		.ascii	"Sl=\\1*\373\3578s\325\325\332\301&\273I\351\235\240"
+ 1197      312AFBEF 
+ 1197      3873D5D5 
+ 1197      DAC126BB 
+ 1197      49E99DA0 
+ 1198 0a5d F4B2257A 		.ascii	"\364\262%zYy\345\215\344=\322A\366\201\345\370@Di\264"
+ 1198      5979E58D 
+ 1198      E43DD241 
+ 1198      F681E5F8 
+ 1198      404469B4 
+ 1199 0a71 9882A81A 		.ascii	"\230\202\250\032\312\222\371e\011\354%\217r(\257\366"
+ 1199      CA92F965 
+ 1199      09EC258F 
+ 1199      7228AFF6 
+ 1200 0a81 FEA13278 		.ascii	"\376\2412x\003ZS^qGoE\012\034\342J3\276ub\263q9}\363"
+ 1200      035A535E 
+ 1200      71476F45 
+ 1200      0A1CE24A 
+ 1200      33BE7562 
+ 1201 0a9a A15C1920 		.ascii	"\241\\\031 W\0028I\001\032\332\012\3731~l=Y\307\212"
+ 1201      57023849 
+ 1201      011ADA0A 
+ 1201      FB317E6C 
+ 1201      3D59C78A 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 96
 
 
- 1204      56C60B87 
- 1204      49FB709E 
- 1204      F6E19CD4 
- 1204      87
- 1205 0abc A1D4EE03 		.ascii	"\241\324\356\003\230\023\270^\212\017\245P\002\240\204"
- 1205      9813B85E 
- 1205      8A0FA550 
- 1205      02A084
- 1206 0acb CECA04CE 		.ascii	"\316\312\004\316J\004\262)\201\344\313\015\265\266X"
- 1206      4A04B229 
- 1206      81E4CB0D 
- 1206      B5B658
- 1207 0ada B4A104B2 		.ascii	"\264\241\004\262\357\227\025\033XJ.\222\215\335\213"
- 1207      EF97151B 
- 1207      584A2E92 
- 1207      8DDD8B
- 1208 0ae9 86DE6B88 		.ascii	"\206\336k\210\345\344\"\331\310\237\034|z\322\232\325"
- 1208      E5E422D9 
- 1208      C89F1C7C 
- 1208      7AD29AD5 
- 1209 0af9 9363B0D1 		.ascii	"\223c\260\321!c\226\216\354fE\236\2209+\267\246\227"
- 1209      2163968E 
- 1209      EC66459E 
- 1209      90392BB7 
- 1209      A697
- 1210 0b0b 04D83543 		.ascii	"\004\3305C\306\213.\012t';~\255\352\241\200\2673K9\217"
- 1210      C68B2E0A 
- 1210      74273B7E 
- 1210      ADEAA180 
- 1210      B7334B39 
- 1211 0b20 3372ECF9 		.ascii	"3r\354\371\026\222\224\317o\337\371\302\036\357\245"
- 1211      169294CF 
- 1211      6FDFF9C2 
- 1211      1EEFA5
- 1212 0b2f 95DAD183 		.ascii	"\225\332\321\203Ee:D\366\217,\357m\034wM\030d\333G2"
- 1212      45653A44 
- 1212      F68F2CEF 
- 1212      6D1C774D 
- 1212      1864DB47 
- 1213 0b44 67F2A033 		.ascii	"g\362\2403F\301b\012\256Lc\363\005\027\236\026\023e"
- 1213      46C1620A 
- 1213      AE4C63F3 
- 1213      05179E16 
- 1213      1365
- 1214 0b56 92C3160A 		.ascii	"\222\303\026\012\256\250@\230\205\256\010\312\355@["
- 1214      AEA84098 
- 1214      85AE08CA 
- 1214      ED405B
- 1215 0b65 024FEF61 		.ascii	"\002O\357a\212^\266\010\255\334\241\335H`y5h\251\362"
- 1215      8A5EB608 
- 1215      ADDCA1DD 
- 1215      48607935 
- 1215      68A9F2
- 1216 0b78 EA94BAF3 		.ascii	"\352\224\272\363\24368\231vA(+\275^\204Uy\265D\010\025"
- 1216      A3363899 
- 1216      7641282B 
- 1216      BD5E8455 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 97
+ 1202 0aae 73325F3A 		.ascii	"s2_:L\332\2073\264\017\247\245>\014\245u\357\307\234"
+ 1202      4CDA8733 
+ 1202      B40FA7A5 
+ 1202      3E0CA575 
+ 1202      EFC79C
+ 1203 0ac1 C0D5727C 		.ascii	"\300\325r|0\225\022\000%tJ&pJ\"p\226\022H\271\330Xg"
+ 1203      30951200 
+ 1203      25744A26 
+ 1203      704A2270 
+ 1203      961248B9 
+ 1204 0ad8 8B451B4A 		.ascii	"\213E\033J\340\354\375\212R\003K\311E\262\261{\331\330"
+ 1204      E0ECFD8A 
+ 1204      52034BC9 
+ 1204      45B2B17B 
+ 1204      D9D8
+ 1205 0aea 5B8C584E 		.ascii	"[\214XN.\222\215|\366\340\323lkVO\216\301F\206\2149"
+ 1205      2E928D7C 
+ 1205      F6E0D36C 
+ 1205      6B564F8E 
+ 1205      C146868C 
+ 1206 0aff 3AB29B15 		.ascii	":\262\233\025yB\346\254\334\232^\020`\327\014\031/:"
+ 1206      7942E6AC 
+ 1206      DC9A5E10 
+ 1206      60D70C19 
+ 1206      2F3A
+ 1207 0b11 2FD09DEC 		.ascii	"/\320\235\354X\361\365\207\002\336\316,\345=\316\314"
+ 1207      58F1F587 
+ 1207      02DECE2C 
+ 1207      E53DCECC 
+ 1208 0b21 B3E75B48 		.ascii	"\263\347[HR>\263}\347K{\234@+\265#\007J*t\210\354\037"
+ 1208      523EB37D 
+ 1208      E74B7B9C 
+ 1208      402BB523 
+ 1208      074A2A74 
+ 1209 0b38 59DEDB34 		.ascii	"Y\336\3334\346\2328\310\266\217d\316\024@g\214\202\305"
+ 1209      E69A38C8 
+ 1209      B68F64CE 
+ 1209      1440678C 
+ 1209      82C5
+ 1210 0b4a 145C99C6 		.ascii	"\024\\\231\306\026\012.<-&\312$\207-\022\\\321%a\026"
+ 1210      160A2E3C 
+ 1210      2D26CA24 
+ 1210      872D125C 
+ 1210      D1256116 
+ 1211 0b5e BA2C28B7 		.ascii	"\272,(\267\003m\211<\275\207)z\321\"\264r\207v-\221"
+ 1211      036D893C 
+ 1211      BD87297A 
+ 1211      D122B472 
+ 1211      87762D91 
+ 1212 0b72 E5D5A0A5 		.ascii	"\345\325\240\245\312\253S\353\317\214\330\340\024\332"
+ 1212      CAAB53EB 
+ 1212      CF8CD8E0 
+ 1212      14DA
+ 1213 0b80 05A1A2FC 		.ascii	"\005\241\242\374j\011V\345\325\022!T\002<&\343\304\367"
+ 1213      6A0956E5 
+ 1213      D5122154 
+ 1213      023C26E3 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 97
 
 
- 1216      79B54408 
- 1217 0b8d 018FC938 		.ascii	"\001\217\3118\361=V\002\315\245\257\201\322Uy\350\210"
- 1217      F13D5602 
- 1217      CDA5AF81 
- 1217      D25579E8 
- 1217      88
- 1218 0b9e 4D6AEAE5 		.ascii	"Mj\352\345\246\274N\007\347\030\216=SK\025s\001\376"
- 1218      A6BC4E07 
- 1218      E7188E3D 
- 1218      534B1573 
- 1218      01FE
- 1219 0bb0 8240F816 		.ascii	"\202@\370\026\013\316\222\377\351\022\033\237v\323\376"
- 1219      0BCE92FF 
- 1219      E9121B9F 
- 1219      76D3FE
- 1220 0bbf FD14D168 		.ascii	"\375\024\321h\204=\344\001\247XQ\364\"*(\207!+\032\346"
- 1220      843DE401 
- 1220      A75851F4 
- 1220      222A2887 
- 1220      212B1AE6 
- 1221 0bd3 D0D95722 		.ascii	"\320\331W\"\274O\216*\322J\0379\340\323l\270\356\016"
- 1221      BC4F8E2A 
- 1221      D24A1F39 
- 1221      E0D36CB8 
- 1221      EE0E
- 1222 0be5 ECDF6D0B 		.ascii	"\354\337m\013\020b!x\340\000\331\206z\321 -\345\020"
- 1222      10622178 
- 1222      E000D986 
- 1222      7AD1202D 
- 1222      E510
- 1223 0bf7 F2A89752 		.ascii	"\362\250\227R\2102\012\221\225\3376\252\303\205\014"
- 1223      88320A91 
- 1223      95DF36AA 
- 1223      C3850C
- 1224 0c06 423A3470 		.ascii	"B:4p\346\207\006%}\015e6<\266\310\376\317\370\362~-"
- 1224      E6870625 
- 1224      7D0D6536 
- 1224      3CB6C8FE 
- 1224      CFF8F27E 
- 1225 0c1b 56F6896C 		.ascii	"V\366\211l$*\200\332uJ\255\322\274O\005\273kR\220R{"
- 1225      242A80DA 
- 1225      754AADD2 
- 1225      BC4F05BB 
- 1225      6B529052 
- 1226 0c30 602AEDB0 		.ascii	"`*\355\260{\321\215\216@\277\037<\360\362\230M\230h"
- 1226      7BD18D8E 
- 1226      40BF1F3C 
- 1226      F0F2984D 
- 1226      9868
- 1227 0c42 D4A21BE0 		.ascii	"\324\242\033\340\201rN_nH\236|-hP\025\355@uQ\362&\323"
- 1227      81724E5F 
- 1227      6E489E7C 
- 1227      2D685015 
- 1227      ED407551 
- 1228 0c59 5E367AB2 		.ascii	"^6z\262\275,\252\026H\007r\372\257\356\260W*[<\251A"
- 1228      BD2CAA16 
- 1228      480772FA 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 98
+ 1213      C4F7
+ 1214 0b92 58893497 		.ascii	"X\2114\227.\006\245+\362\320\021\233\324\324\253\315"
+ 1214      2E06A52B 
+ 1214      F2D0119B 
+ 1214      D4D4ABCD 
+ 1215 0ba2 059D0ECE 		.ascii	"\005\235\016\3161\034{\246\226*\346\003\3749\201\360"
+ 1215      311C7BA6 
+ 1215      962AE603 
+ 1215      FC3981F0 
+ 1216 0bb2 2D159C25 		.ascii	"-\025\234%\377\323%vo\372\015\373\367SE\243\021\366"
+ 1216      FFD32576 
+ 1216      6FFA0DFB 
+ 1216      F75345A3 
+ 1216      11F6
+ 1217 0bc4 90FB9DE2 		.ascii	"\220\373\235\342D\321\213\250\240<\206\254h\230Gg_\231"
+ 1217      44D18BA8 
+ 1217      A03C86AC 
+ 1217      68984767 
+ 1217      5F99
+ 1218 0bd6 F03E39AA 		.ascii	"\360>9\252H/\177\344\200s\331p\335\035\330\267\313\026"
+ 1218      482F7FE4 
+ 1218      8073D970 
+ 1218      DD1DD8B7 
+ 1218      CB16
+ 1219 0be8 20C422F0 		.ascii	" \304\"\360\300~\262\015\365\242AZ\316!\344Q/\247\020"
+ 1219      C07EB20D 
+ 1219      F5A2415A 
+ 1219      CE21E451 
+ 1219      2FA710
+ 1220 0bfb 151422A7 		.ascii	"\025\024\"\247\260mD\207\213\030\204th\340\314\017\015"
+ 1220      B06D4487 
+ 1220      8B188474 
+ 1220      68E0CC0F 
+ 1220      0D
+ 1221 0c0c CAFA1A2B 		.ascii	"\312\372\032+lxl\221\375\237\361\325\375:\254\354\023"
+ 1221      6C786C91 
+ 1221      FD9FF1D5 
+ 1221      FD3AACEC 
+ 1221      13
+ 1222 0c1d D9485401 		.ascii	"\331HT\001\265\253\224Z\265y\237.\355\252MEJ\355\201"
+ 1222      B5AB945A 
+ 1222      B5799F2E 
+ 1222      EDAA4D45 
+ 1222      4AED81
+ 1223 0c30 A9B4C3EE 		.ascii	"\251\264\303\356E59\002\375~\360\300\253\2436a\242Q"
+ 1223      45353902 
+ 1223      FD7EF0C0 
+ 1223      ABA33661 
+ 1223      A251
+ 1224 0c42 8BAE8107 		.ascii	"\213\256\201\007*9}\271!y\362\265\240A\327i\007jJR6"
+ 1224      2A397DB9 
+ 1224      2179F2B5 
+ 1224      A041D769 
+ 1224      076A4A52 
+ 1225 0c57 9BF6B251 		.ascii	"\233\366\262Q\223\355eQ\215@:\220\327\177e\207\275R"
+ 1225      93ED6551 
+ 1225      8D403A90 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 98
 
 
- 1228      AFEEB057 
- 1228      2A5B3CA9 
- 1229 0c6e 3554F9D2 		.ascii	"5T\371\322\300\320 2\360#\245\350?q\244\204j\005\003"
- 1229      C0D02032 
- 1229      F023A5E8 
- 1229      3F71A484 
- 1229      6A0503
- 1230 0c81 B4E96B39 		.ascii	"\264\351k9Sf\266\377!k\223l\240N`\006\352\250\201\306"
- 1230      5366B6FF 
- 1230      216B936C 
- 1230      A04E6006 
- 1230      EAA881C6 
- 1231 0c95 7D879F62 		.ascii	"}\207\237b\\\317|\177\272c<O\313|\357L\326\211kiC|\253"
- 1231      5CCF7C7F 
- 1231      BA633C4F 
- 1231      CB7CEF4C 
- 1231      D6896B69 
- 1232 0cac 1D438622 		.ascii	"\035C\206\"\271rh\217\001w1\335\350\222\266z\276-\177"
- 1232      B972688F 
- 1232      017731DD 
- 1232      E892B67A 
- 1232      BE2D7F
- 1233 0cbf 0B8A472F 		.ascii	"\013\212G/\227?3L:\307oIs\274\211\315\361\372\221\374"
- 1233      973F334C 
- 1233      3AC76F49 
- 1233      73BC89CD 
- 1233      F1FA91FC 
- 1234 0cd3 313BDCC7 		.ascii	"1;\334\307\246qG\312`\2575r\205=\226\001D\261[j\025"
- 1234      A67147CA 
- 1234      60AF3572 
- 1234      853D9601 
- 1234      44B15B6A 
- 1235 0ce8 0CA85930 		.ascii	"\014\250Y0\355\226\350\276\253\377\177\310cK\207l\267"
- 1235      ED96E8BE 
- 1235      ABFF7FC8 
- 1235      634B876C 
- 1235      B7
- 1236 0cf9 6186B452 		.ascii	"a\206\264R;m0L-`\210l\330\310\023r*\\\236\230a/\307"
- 1236      3B6D304C 
- 1236      2D60886C 
- 1236      D8C81372 
- 1236      2A5C9E98 
- 1237 0d10 01A2D80D 		.ascii	"\001\242\330\015\240WO\207\263\235\306\301-)\016b*\223"
- 1237      A0574F87 
- 1237      B39DC6C1 
- 1237      2D290E62 
- 1237      2A93
- 1238 0d22 13F496BC 		.ascii	"\023\364\226\274>\321\006\361Z\314\325w\225\320\035"
- 1238      3ED106F1 
- 1238      5ACCD577 
- 1238      95D01D
- 1239 0d31 5341C777 		.ascii	"SA\307w\355\273`\007!V\015!v\177\304:,\311\0306\023"
- 1239      EDBB6007 
- 1239      21560D21 
- 1239      767FC43A 
- 1239      2CC91836 
- 1240 0d46 DD81186B 		.ascii	"\335\201\030k$1&\274\247hy\223\307X'\2151i0\234\371"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 99
+ 1225      D77F6587 
+ 1225      BD52
+ 1226 0c69 D9E2490D 		.ascii	"\331\342I\015\252\245\312\027\006\206\006\221\201\037"
+ 1226      AAA5CA17 
+ 1226      06860691 
+ 1226      811F
+ 1227 0c77 2945FD89 		.ascii	")E\375\211#%T'\030\240M_\313\311\012\263\375\017Y\233"
+ 1227      23255427 
+ 1227      18A04D5F 
+ 1227      CBC90AB3 
+ 1227      FD0F599B 
+ 1228 0c8b 6403F502 		.ascii	"d\003\365\0023PO\015\334O;\270\011\341\006\346\373\334"
+ 1228      33504F0D 
+ 1228      DC4F3BB8 
+ 1228      09E106E6 
+ 1228      FBDC
+ 1229 0c9d 8EB1022D 		.ascii	"\216\261\002-\363\2753Y'\212\323\207\370V;\206\014E"
+ 1229      F3BD3359 
+ 1229      278AD387 
+ 1229      F8563B86 
+ 1229      0C45
+ 1230 0caf 4AF5D06E 		.ascii	"J\365\320n\003\356b\272Qem\015|[\376\026\024\217\\\254"
+ 1230      03EE62BA 
+ 1230      51656D0D 
+ 1230      7C5BFE16 
+ 1230      148F5CAC 
+ 1231 0cc3 7C6E9874 		.ascii	"|n\230t\216\337\224\346x3\233\343\015\303\205\243v\270"
+ 1231      8EDF94E6 
+ 1231      78339BE3 
+ 1231      0DC385A3 
+ 1231      76B8
+ 1232 0cd5 8F4DE38E 		.ascii	"\217M\343\216\324\301^k\344\012{,\003\210b\267\324*"
+ 1232      D4C15E6B 
+ 1232      E40A7B2C 
+ 1232      038862B7 
+ 1232      D42A
+ 1233 0ce7 18D02DC1 		.ascii	"\030\320-\301\264[\242\373\256\376\377!\217-\035\262"
+ 1233      B45BA2FB 
+ 1233      AEFEFF21 
+ 1233      8F2D1DB2 
+ 1234 0cf7 DD8619D2 		.ascii	"\335\206\031\322J\355\264\3010\265\200!\262a#O\310\251"
+ 1234      4AEDB4C1 
+ 1234      30B58021 
+ 1234      B261234F 
+ 1234      C8A9
+ 1235 0d09 706552A6 		.ascii	"peR\246\275\034\007\210b7\202^\003\035\316v\032\007"
+ 1235      BD1C0788 
+ 1235      6237825E 
+ 1235      031DCE76 
+ 1235      1A07
+ 1236 0d1b 37A53888 		.ascii	"7\2458\210\251NI\324[\362\372D\033\304k1W\336UBwL\005"
+ 1236      A94E49D4 
+ 1236      5BF2FA44 
+ 1236      1BC46B31 
+ 1236      57DE5542 
+ 1237 0d32 7DBEF9E1 		.ascii	"}\276\371\341&\001B\254\006B\354\376\260uX\2621l&\272"
+ 1237      260142AC 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 99
 
 
- 1240      243126BC 
- 1240      A7687993 
- 1240      C758278D 
- 1240      3169309C 
- 1241 0d5b 60645696 		.ascii	"`dV\226\264\360\217\021\321\244\\z|w\275\036\017\260"
- 1241      B4F08F11 
- 1241      D1A45C7A 
- 1241      7C77BD1E 
- 1241      0FB0
- 1242 0d6d C149DA57 		.ascii	"\301I\332W\032.\3401VH\275\3201\216\360F\035{?\027o"
- 1242      1A2EE031 
- 1242      5648BDD0 
- 1242      318EF046 
- 1242      1D7B3F17 
- 1243 0d82 7D84700C 		.ascii	"}\204p\014+D\337\211\252\343\353\370\010=g/|\326d\217"
- 1243      2B44DF89 
- 1243      AAE3EBF8 
- 1243      083D672F 
- 1243      7CD6648F 
- 1244 0d96 F7B0CA2D 		.ascii	"\367\260\312-\331um\332IG\264W\032Qw\352\203\270\374"
- 1244      D9756DDA 
- 1244      4947B457 
- 1244      1A5177EA 
- 1244      83B8FC
- 1245 0da9 B8F3662B 		.ascii	"\270\363f+\015\231\365\362\312\332G\235\320+9\341\325"
- 1245      0D99F5F2 
- 1245      CADA479D 
- 1245      D02B39E1 
- 1245      D5
- 1246 0dba 835B297A 		.ascii	"\203[)zf\267\237\236(\346v\366;\340$fw\347\325\341!"
- 1246      66B79F9E 
- 1246      28E676F6 
- 1246      3BE02466 
- 1246      77E7D5E1 
- 1247 0dcf 5B9CCA0A 		.ascii	"[\234\312\012-\207w\037\341\021\331C\312\211\343\343"
- 1247      2D87771F 
- 1247      E111D943 
- 1247      CA89E3E3 
- 1248 0ddf 915A9CCE 		.ascii	"\221Z\234\316*\245\243 g~\024T\033\036\233j\215\317"
- 1248      2AA5A320 
- 1248      677E1454 
- 1248      1B1E9B6A 
- 1248      8DCF
- 1249 0df1 B2CAE78F 		.ascii	"\262\312\347\217\217\365[\343|V\310\271\023W\300\015"
- 1249      8FF55BE3 
- 1249      7C56C8B9 
- 1249      1357C00D 
- 1250 0e01 3691F2D5 		.ascii	"6\221\362\325\241\003\003v\270\204UnL\275\271\325\006"
- 1250      A1030376 
- 1250      B884556E 
- 1250      4CBDB9D5 
- 1250      06
- 1251 0e12 D7B042DD 		.ascii	"\327\260B\335\375\344H;\246YM\337\225\267\267\025\333"
- 1251      FDE4483B 
- 1251      A6594DDF 
- 1251      95B7B715 
- 1251      DB
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 100
+ 1237      0642ECFE 
+ 1237      B07558B2 
+ 1237      316C26BA 
+ 1238 0d46 0331D644 		.ascii	"\0031\326DbLxO\321\362\006\217\261N\032c\322`8\363\301"
+ 1238      624C784F 
+ 1238      D1F2068F 
+ 1238      B14E1A63 
+ 1238      D26038F3 
+ 1239 0d5b C8AA2E6B 		.ascii	"\310\252.k\341\037#\242H\271\374\330\256\006=\036`\203"
+ 1239      E11F23A2 
+ 1239      48B9FCD8 
+ 1239      AE063D1E 
+ 1239      6083
+ 1240 0d6d 93BCA73C 		.ascii	"\223\274\247<\\\300\243\254\220v\256c\014\341M:\366"
+ 1240      5CC0A3AC 
+ 1240      9076AE63 
+ 1240      0CE14D3A 
+ 1240      F6
+ 1241 0d7e 7E2E8D7E 		.ascii	"~.\215~\204p\014+D\335\211\254\347\353\3700=g/z\336"
+ 1241      84700C2B 
+ 1241      44DD89AC 
+ 1241      E7EBF830 
+ 1241      3D672F7A 
+ 1242 0d93 6C8F77B3 		.ascii	"l\217w\263\312\255g\353\333\264\223\216h\2574\242\356"
+ 1242      CAAD67EB 
+ 1242      DBB4938E 
+ 1242      68AF34A2 
+ 1242      EE
+ 1243 0da4 D407F185 		.ascii	"\324\007\361\205\361g\314V\0322\353\345\225\265\217"
+ 1243      F167CC56 
+ 1243      1A32EBE5 
+ 1243      95B58F
+ 1244 0db3 3AA15772 		.ascii	":\241Wr\302\370\203\233\251zf\267\237\236(\346w\366"
+ 1244      C2F8839B 
+ 1244      A97A66B7 
+ 1244      9F9E28E6 
+ 1244      77F6
+ 1245 0dc5 3BE06466 		.ascii	";\340dfw\347\225gC\2668\215\025Z\016\355:\314#\262\207"
+ 1245      77E79567 
+ 1245      43B6388D 
+ 1245      155A0EED 
+ 1245      3ACC23B2 
+ 1246 0dda 9493C6C6 		.ascii	"\224\223\306\3066jq\006\253\224\216\202\234\371QP]x"
+ 1246      366A7106 
+ 1246      AB948E82 
+ 1246      9CF95150 
+ 1246      5D78
+ 1247 0dec 5C9A353E 		.ascii	"\\\2325>\305*_<>\332o\215\013Y!\357N\374%n\260\231\224"
+ 1247      C52A5F3C 
+ 1247      3EDA6F8D 
+ 1247      0B5921EF 
+ 1247      4EFC256E 
+ 1248 0e03 AF0CED1F 		.ascii	"\257\014\355\037\260\303e\254rS\332\215h\033\\\313\012"
+ 1248      B0C365AC 
+ 1248      7253DA8D 
+ 1248      681B5CCB 
+ 1248      0A
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 100
 
 
- 1252 0e23 E1DBACF2 		.ascii	"\341\333\254\362ZiW\235\016\337c\205\037\213\316\027"
- 1252      5A69579D 
- 1252      0EDF6385 
- 1252      1F8BCE17 
- 1253 0e33 F30128A5 		.ascii	"\363\001(\245\213GOV\024\306Otf\357-g\376\336\032\250"
- 1253      8B474F56 
- 1253      14C64F74 
- 1253      66EF2D67 
- 1253      FEDE1AA8 
- 1254 0e47 BEBA458F 		.ascii	"\276\272E\217GYe\345\346]\220\206\207\351\331\006\340"
- 1254      475965E5 
- 1254      E65D9086 
- 1254      87E9D906 
- 1254      E0
- 1255 0e58 FE81EDDC 		.ascii	"\376\201\355\334\340\002\342\232\204\376D;\274\231\325"
- 1255      E002E29A 
- 1255      84FE443B 
- 1255      BC99D5
- 1256 0e67 E5A56C4C 		.ascii	"\345\245lL\327\341XV\270\224\223W\314\017\313\335\241"
- 1256      D7E15856 
- 1256      B8949357 
- 1256      CC0FCBDD 
- 1256      A1
- 1257 0e78 1879635B 		.ascii	"\030yc[\213\035N`u'{\242\21468\205\025\022\206Z\037"
- 1257      8B1D4E60 
- 1257      75277BA2 
- 1257      8C363885 
- 1257      1512865A 
- 1258 0e8d F0CEBA12 		.ascii	"\360\316\272\022\220\312\321L\007\234\301\352\244oV"
- 1258      90CAD14C 
- 1258      079CC1EA 
- 1258      A46F56
- 1259 0e9c CEEC9B55 		.ascii	"\316\354\233U\336\355\363n\370<\253J\356\311\215u\304"
- 1259      DEEDF36E 
- 1259      F83CAB4A 
- 1259      EEC98D75 
- 1259      C4
- 1260 0ead 9759E14E 		.ascii	"\227Y\341Nk\367\026\007\\\302\012\233\012\342\362\365"
- 1260      6BF71607 
- 1260      5CC20A9B 
- 1260      0AE2F2F5 
- 1261 0ebd B88615AE 		.ascii	"\270\206\025\256u\264!\334\314\356{\267\030o\011\270"
- 1261      75B421DC 
- 1261      CCEE7BB7 
- 1261      186F09B8 
- 1262 0ecd 8B15D273 		.ascii	"\213\025\322s\267\335\261\302}\254\320\225\023\371\223"
- 1262      B7DDB1C2 
- 1262      7DACD095 
- 1262      13F993
- 1263 0edc 16F7B342 		.ascii	"\026\367\263B\306\370\301j=\036f\205\207\005\233\356"
- 1263      C6F8C16A 
- 1263      3D1E6685 
- 1263      87059BEE 
- 1264 0eec F241DB4D 		.ascii	"\362A\333M\343\270\276\243\203\347\016IzR\377\343\301"
- 1264      E3B8BEA3 
- 1264      83E70E49 
- 1264      7A52FFE3 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 101
+ 1249 0e14 F5F75336 		.ascii	"\365\367S6\3321\315\032\372\256\274\275\255\324\016"
+ 1249      DA31CD1A 
+ 1249      FAAEBCBD 
+ 1249      ADD40E
+ 1250 0e23 DF6695C5 		.ascii	"\337f\225\305\345]\365:|\217\025~,9S\312\007\240\234"
+ 1250      E55DF53A 
+ 1250      7C8F157E 
+ 1250      2C3953CA 
+ 1250      07A09C
+ 1251 0e36 2E1E3D39 		.ascii	".\036=9\221\030?\321\231\275\267\234\371{k\240\346\312"
+ 1251      91183FD1 
+ 1251      99BDB79C 
+ 1251      F97B6BA0 
+ 1251      E6CA
+ 1252 0e48 563D1E61 		.ascii	"V=\036a\225\325[b!\015\017\323\263\015\300\375\375\333"
+ 1252      95D55B62 
+ 1252      210D0FD3 
+ 1252      B30DC0FD 
+ 1252      FDDB
+ 1253 0e5a B9C105C4 		.ascii	"\271\301\005\3045\211\375Ivx\013\253+H\335\224\241\303"
+ 1253      3589FD49 
+ 1253      76780BAB 
+ 1253      2B48DD94 
+ 1253      A1C3
+ 1254 0e6c 71AC7021 		.ascii	"q\254p!\257\240\224\037\226\273Cq\343\265m-v8\221\325"
+ 1254      AFA0941F 
+ 1254      96BB4371 
+ 1254      E3B56D2D 
+ 1254      763891D5 
+ 1255 0e80 65F7441A 		.ascii	"e\367D\032mp*+$\016\265>\340\235u% \325#Y\0168\223\325"
+ 1255      6D702A2B 
+ 1255      240EB53E 
+ 1255      E09D7525 
+ 1255      20D52359 
+ 1256 0e98 49DFAC9C 		.ascii	"I\337\254\234\3317\253\202\333g\334\360\031V\225\322"
+ 1256      D937AB82 
+ 1256      DB67DCF0 
+ 1256      195695D2 
+ 1257 0ea8 931FE788 		.ascii	"\223\037\347\210/\262\302\235\326\356\255\016\270\214"
+ 1257      2FB2C29D 
+ 1257      D6EEAD0E 
+ 1257      B88C
+ 1258 0eb6 15365F8A 		.ascii	"\0256_\212/\324\343ZV(\356hC\370\026\273\357\335j\274"
+ 1258      2FD4E35A 
+ 1258      5628EE68 
+ 1258      43F816BB 
+ 1258      EFDD6ABC 
+ 1259 0eca 29E02E56 		.ascii	")\340.V\310\310\337v\307\012\367\261BW\336\306\237\264"
+ 1259      C8C8DF76 
+ 1259      C70AF7B1 
+ 1259      4257DEC6 
+ 1259      9FB4
+ 1260 0edc B89F1532 		.ascii	"\270\237\0252\307\016\324\350\3613Vxxi\363]>h\273h\034"
+ 1260      C70ED4E8 
+ 1260      F1335678 
+ 1260      7869F35D 
+ 1260      3E68BB68 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 101
 
 
- 1264      C1
- 1265 0efd 542D7E41 		.ascii	"T-~A\225\377v\350^D\2435=$\346\277i\322\215\353,\263"
- 1265      95FF76E8 
- 1265      5E44A335 
- 1265      3D24E6BF 
- 1265      69D28DEB 
- 1266 0f13 9F747EFC 		.ascii	"\237t~\374\321\365\224\362\255bR!\242\253j\017\314\240"
- 1266      D1F594F2 
- 1266      AD625221 
- 1266      A2AB6A0F 
- 1266      CCA0
- 1267 0f25 24AC784D 		.ascii	"$\254xM\263\327\227\342\214\267\274\002\313\007\257"
- 1267      B3D797E2 
- 1267      8CB7BC02 
- 1267      CB07AF
- 1268 0f34 BBB14ABD 		.ascii	"\273\261J\275k\202z\271B\375\245\032\375\2050\341x\272"
- 1268      6B827AB9 
- 1268      42FDA51A 
- 1268      FD8530E1 
- 1268      78BA
- 1269 0f46 4CA1BF59 		.ascii	"L\241\277Y\015\037\215\325\372c\245\012\375\255j\375"
- 1269      0D1F8DD5 
- 1269      FA63A50A 
- 1269      FDAD6AFD 
- 1270 0f56 FA09E7D9 		.ascii	"\372\011\347\331\327\025\352Cj:\203\023\350\014*\365"
- 1270      D715EA43 
- 1270      6A3A8313 
- 1270      E80C2AF5 
- 1271 0f66 BB2D3BC7 		.ascii	"\273-;\307t\352\010\351E\347u\034F\365a\376\242\207"
- 1271      74EA08E9 
- 1271      45E7751C 
- 1271      46F561FE 
- 1271      A287
- 1272 0f78 5CDF949E 		.ascii	"\\\337\224\236<P{\247Y\311>F\315~\302\371z\255R}\247"
- 1272      3C507BA7 
- 1272      59C93E46 
- 1272      CD7EC2F9 
- 1272      7AAD527D 
- 1273 0f8d 5ADD4D4D 		.ascii	"Z\335MM\276Y\351\37315\371\021\231\2142\227\212\305"
- 1273      BE59E9FB 
- 1273      3135F911 
- 1273      998C3297 
- 1273      8AC5
- 1274 0f9f 2E       		.ascii	"."
- 1275 0fa0 68177533 		.ascii	"h\027u3\321\246)\010vE\347\360,t\020$\021$\015\344\004"
- 1275      D1A62908 
- 1275      7645E7F0 
- 1275      2C741024 
- 1275      11240DE4 
- 1276 0fb5 C8199078 		.ascii	"\310\031\220x\220\363 9 \373@\216\200d\201\244\202\234"
- 1276      90F32039 
- 1276      20FB408E 
- 1276      806481A4 
- 1276      829C
- 1277 0fc7 04390E72 		.ascii	"\0049\016r\014d/\310)\220C \231 ) gAN\203\354\007\311"
- 1277      0C642FC8 
- 1277      29904320 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 102
+ 1261 0ef1 377474F0 		.ascii	"7tt\360\334!YO\352\177<\220\246\305/\251\362\337\016"
+ 1261      DC21594F 
+ 1261      EA7F3C90 
+ 1261      A6C52FA9 
+ 1261      F2DF0E
+ 1262 0f04 DD8B68B2 		.ascii	"\335\213h\262\246\207\304\3747M\272q\235e\366\223\316"
+ 1262      A687C4FC 
+ 1262      374DBA71 
+ 1262      9D65F693 
+ 1262      CE
+ 1263 0f15 8F3FBA9A 		.ascii	"\217?\272\232Z\031-&\027!\272\252\366\300\014J\306\212"
+ 1263      5A192D26 
+ 1263      1721BAAA 
+ 1263      F6C00C4A 
+ 1263      C68A
+ 1264 0f27 D7347B7D 		.ascii	"\3274{})\316x+\253\260|\360\272\013\253\324\273&\250"
+ 1264      29CE782B 
+ 1264      ABB07CF0 
+ 1264      BA0BABD4 
+ 1264      BB26A8
+ 1265 0f3a 572AD45F 		.ascii	"W*\324_\251\321_\012\023\216\247+\024\372[\324\360Q"
+ 1265      A9D15F0A 
+ 1265      138EA72B 
+ 1265      14FA5BD4 
+ 1265      F051
+ 1266 0f4c 58AD3F5A 		.ascii	"X\255?Z\256\320\217V\3537L8\317\276\252P\037R\323\031"
+ 1266      AED08F56 
+ 1266      EB374C38 
+ 1266      CFBEAA50 
+ 1266      1F52D319 
+ 1267 0f60 9C406750 		.ascii	"\234@gP\251\337m\3319\246SGH/:\257\3420\252\017\363"
+ 1267      A9DF6DD9 
+ 1267      39A65347 
+ 1267      482F3AAF 
+ 1267      E230AA0F 
+ 1268 0f75 173DE4FA 		.ascii	"\027=\344\372\246\364\344\201\332;\267\224\354c\324"
+ 1268      A6F4E481 
+ 1268      DA3BB794 
+ 1268      EC63D4
+ 1269 0f84 EC279CAF 		.ascii	"\354'\234\257\327)\325w\252\325\335\324\344o)}?\252"
+ 1269      D729D577 
+ 1269      AAD5DDD4 
+ 1269      E46F297D 
+ 1269      3FAA
+ 1270 0f96 263F2C93 		.ascii	"&?,\223Q\346Rq\330\005"
+ 1270      51E65271 
+ 1270      D805
+ 1271 0fa0 C5523713 		.ascii	"\305R7\023m\232\202`Wt\032\317B\007@\222@\322A\216\203"
+ 1271      6D9A8260 
+ 1271      57741ACF 
+ 1271      42074092 
+ 1271      40D2418E 
+ 1272 0fb5 9C04D90B 		.ascii	"\234\004\331\013r\006$\017d\017\310a\220\034\2204\220"
+ 1272      7206240F 
+ 1272      640FC861 
+ 1272      901C9034 
+ 1272      90
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 102
 
 
- 1277      99202920 
- 1277      67414E83 
- 1278 0fde 06490639 		.ascii	"\006I\0069\012r\000$\016$\001\3440H\006\310\036\254"
- 1278      0A720024 
- 1278      0E2401E4 
- 1278      304806C8 
- 1278      1EAC
- 1279 0ff0 3CFBAF55 		.ascii	"<\373\257U\216\312\023u\307\036\251\275<\246T\277"
- 1279      8ECA1375 
- 1279      C71EA9BD 
- 1279      3CA654BF 
- 1280 1000 AF56BFAB 		.ascii	"\257V\277\253V\177\250t\3333\265\372\360\004ue\304F"
- 1280      567FA874 
- 1280      DB33B5FA 
- 1280      F0047565 
- 1280      C446
- 1281 1012 AA072502 		.ascii	"\252\007%\002\253C\244\271L\021\"QX\025\"\233\260:D"
- 1281      AB43A4B9 
- 1281      4C112251 
- 1281      5815229B 
- 1281      B03A44
- 1282 1025 94E41F5B 		.ascii	"\224\344\037[\356\253r\320\013\225\354_Y\236p\012\370"
- 1282      EEAB72D0 
- 1282      0B95EC5F 
- 1282      599E700A 
- 1282      F8
- 1283 1036 4E6548ED 		.ascii	"NeH\355\260\034\201\312,\375e\001\350\213ND\315\374"
- 1283      B01C81CA 
- 1283      2CFD6501 
- 1283      E88B4E44 
- 1283      CDFC
- 1284 1048 3B0A3D73 		.ascii	";\012=s/\303\351gDq\2635}\231\205\251\321\304\011\263"
- 1284      2FC3E967 
- 1284      4471B335 
- 1284      7D9985A9 
- 1284      D1C409B3 
- 1285 105c B750B998 		.ascii	"\267P\271\230\334\263<2J\375Ne\347F-G\264R\377\241\262"
- 1285      DCB33C32 
- 1285      4AFD4E65 
- 1285      E7462D47 
- 1285      B452FFA1 
- 1286 1071 77DBD57C 		.ascii	"w\333\325|&|\355\032T\016e\270e\372\036\362H\326\226"
- 1286      267CED1A 
- 1286      540E65B8 
- 1286      65FA1EF2 
- 1286      48D696
- 1287 1084 2B46725C 		.ascii	"+Fr\\=\331\237Op\265\022}\243\345@QF\255\262\257O-/"
- 1287      3DD99F4F 
- 1287      70B5127D 
- 1287      A3E54051 
- 1287      46ADB2AF 
- 1288 109b 554AEECA 		.ascii	"UJ\356\312\256n\263\334U\345\367\221A\011\236\014\325"
- 1288      AE6EB3DC 
- 1288      55E5F791 
- 1288      41099E0C 
- 1288      D5
- 1289 10ac 4F96A35C 		.ascii	"O\226\243\\\351\312r%>\371F6q\355Q|\253),S\240\377h"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 103
+ 1273 0fc6 6C906320 		.ascii	"l\220c GA\022@N\200\034\004\311\002I\0059\005\222\013"
+ 1273      47411240 
+ 1273      4E801C04 
+ 1273      C9024905 
+ 1273      3905920B 
+ 1274 0fda B20FE42C 		.ascii	"\262\017\344,H\012\310\021\220\375 \361 \211 \207@2"
+ 1274      480AC811 
+ 1274      90FD20F1 
+ 1274      20892087 
+ 1274      4032
+ 1275 0fec 417663E5 		.ascii	"Avc\345\331\177\235rT\236\250;\366H\355\345Q\245\372"
+ 1275      D97F9D72 
+ 1275      549EA83B 
+ 1275      F648EDE5 
+ 1275      51A5FA
+ 1276 0fff 7D       		.ascii	"}"
+ 1277 1000 B5FA5DB5 		.ascii	"\265\372]\265\372C\245\333\236\253\325\237MPWF\354F"
+ 1277      FA43A5DB 
+ 1277      9EABD59F 
+ 1277      4D505746 
+ 1277      EC46
+ 1278 1012 F5A04460 		.ascii	"\365\240D`u\210\334\252P\204H$V\205\310f\254\016\021"
+ 1278      7588DCAA 
+ 1278      50844824 
+ 1278      5685C866 
+ 1278      AC0E11
+ 1279 1025 25F9C796 		.ascii	"%\371\307\226\373\252\034\364\"%\373q\313\023N\001\337"
+ 1279      FBAA1CF4 
+ 1279      2225FB71 
+ 1279      CB134E01 
+ 1279      DF
+ 1280 1036 A90CA91D 		.ascii	"\251\014\251\035\226#P\231\245\277\272\004\372\242\023"
+ 1280      96235099 
+ 1280      A5BFBA04 
+ 1280      FAA213
+ 1281 1045 5133FF8E 		.ascii	"Q3\377\216B\317\334+p\306IQ\334bM_faj4q\302\354-R.&"
+ 1281      42CFDC2B 
+ 1281      70C64951 
+ 1281      DC624D5F 
+ 1281      66616A34 
+ 1282 1060 F72C8F8C 		.ascii	"\367,\217\214R\277S\331\271\021\313\021\255\324\177"
+ 1282      52BF53D9 
+ 1282      B911CB11 
+ 1282      ADD47F
+ 1283 106f A8ECDD76 		.ascii	"\250\354\335v5\237\011_\273\006\225C\031n\231\276\207"
+ 1283      359F095F 
+ 1283      BB069543 
+ 1283      196E99BE 
+ 1283      87
+ 1284 1080 3C927595 		.ascii	"<\222u\225\212\221\034SO\366\027\023\\\255D\337d9P\224"
+ 1284      8A911C53 
+ 1284      4FF61713 
+ 1284      5CAD44DF 
+ 1284      64395094 
+ 1285 1094 51ABECEB 		.ascii	"Q\253\354\353S\313K\225\222\273\262\253\333,wU\371}"
+ 1285      53CB4B95 
+ 1285      92BBB2AB 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 103
 
 
- 1289      E9CA7225 
- 1289      3EF94636 
- 1289      71ED517C 
- 1289      AB292C53 
- 1290 10c3 7959564E 		.ascii	"yYVN\212r\345\2729\240ve\377\204\267\212\322\225[,\277"
- 1290      8A72E5BA 
- 1290      39A07665 
- 1290      FF84B78A 
- 1290      D2955B2C 
- 1291 10d8 25A42F76 		.ascii	"%\244/v\303\231\231\255\266x\023\375\010.\354M\216\206"
- 1291      C39999AD 
- 1291      B67813FD 
- 1291      082EEC4D 
- 1291      8E86
- 1292 10ea 97B7F9EE 		.ascii	"\227\267\371\356QZ\361\320EX\350\376?.zl\346\265U\340"
- 1292      515AF1D0 
- 1292      4558E8FE 
- 1292      3F2E7A6C 
- 1292      E6B555E0 
- 1293 10fe 08B23FCE 		.ascii	"\010\262?\316\005\206\027\260i\353J&\"\355g\327\221"
- 1293      058617B0 
- 1293      69EB4A26 
- 1293      22ED67D7 
- 1293      91
- 1294 110f BEF30ECA 		.ascii	"\276\363\016\312ML.Vn\251.a\266\211\201+\311\266\342"
- 1294      4D4C2E56 
- 1294      6EA92E61 
- 1294      B689812B 
- 1294      C9B6E2
- 1295 1122 CA8AECF0 		.ascii	"\312\212\354\360.\366?\003\244\304x:O\214O\037}\331"
- 1295      2EF63F03 
- 1295      A4C4783A 
- 1295      4F8C4F1F 
- 1295      7DD9
- 1296 1134 E230691E 		.ascii	"\3420i\036{\031\363<\266\212}G\257=u;F\257\336(\344"
- 1296      7B19F33C 
- 1296      B68A7D47 
- 1296      AF3D753B 
- 1296      46AFDE28 
- 1297 1149 63B673D1 		.ascii	"c\266s\321\240\002\354,5\242\243Q\260}\330Z\235\373"
- 1297      A002EC2C 
- 1297      35A2A351 
- 1297      B07DD85A 
- 1297      9DFB
- 1298 115b 4FAABDEF 		.ascii	"O\252\275\357\305\361\026\201\347\376u\343\277z\031"
- 1298      C5F11681 
- 1298      E7FE75E3 
- 1298      BF7A19
- 1299 116a 6E14237E 		.ascii	"n\024#~\213\214\230%\377\031\220\374\313M\3630K\376"
- 1299      8B8C9825 
- 1299      FF1990FC 
- 1299      CB4DF330 
- 1299      4BFE
- 1300 117c AF609AFC 		.ascii	"\257`\232\374\037\216\337l\217\223X\007\3675d\264\331"
- 1300      1F8EDF6C 
- 1300      8F935807 
- 1300      F73564B4 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 104
+ 1285      DB2C7755 
+ 1285      F97D
+ 1286 10a6 64508227 		.ascii	"dP\202'C\365\223\345(W\272\262R\211O\276\221M\\{\024"
+ 1286      43F593E5 
+ 1286      2857BAB2 
+ 1286      52894FBE 
+ 1286      914D5C7B 
+ 1287 10bb DF6A8A2A 		.ascii	"\337j\212*\024\350?Z^\226\225\223\242R\271n\016\250"
+ 1287      14E83F5A 
+ 1287      5E969593 
+ 1287      A252B96E 
+ 1287      0EA8
+ 1288 10cd 5DD93FE1 		.ascii	"]\331?\341\255\242t\345V\313o\011\351\213\335\263\254"
+ 1288      ADA274E5 
+ 1288      56CB6F09 
+ 1288      E98BDDB3 
+ 1288      AC
+ 1289 10de AC565BBC 		.ascii	"\254V[\274\231~\004\027\022R\242\340\345m\276{\224V"
+ 1289      997E0417 
+ 1289      1252A2E0 
+ 1289      E56DBE7B 
+ 1289      9456
+ 1290 10f0 3C741E16 		.ascii	"<t\036\026\272\377\217\213\036\233ymU8\202\354\217\363"
+ 1290      BAFF8F8B 
+ 1290      1E9B796D 
+ 1290      553882EC 
+ 1290      8FF3
+ 1291 1102 81E1396C 		.ascii	"\201\3419l\332\272\222\211H\373\331u\270\357\214\203"
+ 1291      DABA9289 
+ 1291      48FBD975 
+ 1291      B8EF8C83 
+ 1292 1112 7213938F 		.ascii	"r\023\223\217\225[\252\013\230mb\340\012\312\327b\237"
+ 1292      955BAA0B 
+ 1292      986D62E0 
+ 1292      0ACAD762 
+ 1292      9F
+ 1293 1123 5E16702C 		.ascii	"^\026p,\373\237\001Rb<\235'\306\271G^\2658L\232\307"
+ 1293      FB9F0152 
+ 1293      623C9D27 
+ 1293      C6B9475E 
+ 1293      B5384C9A 
+ 1294 1138 5EC43C8F 		.ascii	"^\304<\217\275\316\276\243\327\235\270\035\243Wo\024"
+ 1294      BDCEBEA3 
+ 1294      D79DB81D 
+ 1294      A3576F14 
+ 1295 1148 0A31DBB9 		.ascii	"\0121\333\271h\320%\354,5\242\243qi\3733ku\356?\251"
+ 1295      68D025EC 
+ 1295      2C35A2A3 
+ 1295      7169FB33 
+ 1295      6B75EE3F 
+ 1296 115d 76F1F6A2 		.ascii	"v\361\366\242\004G\236\373\327\217\375\352U\270Q\214"
+ 1296      04479EFB 
+ 1296      D78FFDEA 
+ 1296      55B8518C 
+ 1297 116d F82D3262 		.ascii	"\370-2b\226\374gB\362/7-\300,\371\277\214i\362\177h"
+ 1297      96FC6742 
+ 1297      F22F372D 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 104
 
 
- 1300      D9
- 1301 118d E0A3ACB0 		.ascii	"\340\243\254\260}\353\356n\003\3160\230\235\313L\227"
- 1301      7DEBEE6E 
- 1301      03CE3098 
- 1301      9DCB4C97 
- 1302 119d CE65CEA6 		.ascii	"\316e\316\246]\322\342,Zi}\261e\360$\242\271\224\353"
- 1302      5DD2E22C 
- 1302      5A697DB1 
- 1302      65F024A2 
- 1302      B994EB
- 1303 11b0 34295D9A 		.ascii	"4)]\2325\242\370\334~\025LVL\371\012.\334 \307\3515"
- 1303      35A2F8DC 
- 1303      7E154C56 
- 1303      4CF90A2E 
- 1303      DC20C7E9 
- 1304 11c5 8BDACAA5 		.ascii	"\213\332\312\245^\241\\\254V6\"5v\255B\275\320\262\272"
- 1304      5EA15CAC 
- 1304      56362235 
- 1304      76AD42BD 
- 1304      D0B2BA
- 1305 11d8 E2B3E54F 		.ascii	"\342\263\345OO\330\361J\205\371\302\255\234\010E\330"
- 1305      4FD8F14A 
- 1305      85F9C2AD 
- 1305      9C0845D8 
- 1306 11e8 852F1415 		.ascii	"\205/\024\025|\026\\\207YP\012\221X\002R\016R\206M\337"
- 1306      7C165C87 
- 1306      59500A91 
- 1306      5802520E 
- 1306      52864DDF 
- 1307 11fc 0CA3B37B 		.ascii	"\014\243\263{v:\342l6\255R\306O\037G\310u\032?c\031"
- 1307      763AE26C 
- 1307      36AD52C6 
- 1307      4F1F47C8 
- 1307      751A3F63 
- 1308 1211 A1672C55 		.ascii	"\241g,U\000R)\007j\005\015TK\366\320\0150\363\032&O"
- 1308      00522907 
- 1308      6A050D54 
- 1308      4BF6D00D 
- 1308      30F31A26 
- 1309 1226 3E7FD064 		.ascii	">\177\320d\366\001\274\312,\302\253y\204W\323\010\277"
- 1309      F601BCCA 
- 1309      2CC2AB79 
- 1309      8457D308 
- 1309      BF
- 1310 1237 5B9978DC 		.ascii	"[\231x\334J\251L\016fd\345\032\256\\C\225\333G\032\333"
- 1310      4AA94C0E 
- 1310      6664E51A 
- 1310      AE5C4395 
- 1310      DB471ADB 
- 1311 124b EC94CAAF 		.ascii	"\354\224\312\257\314\376\273T-W\256\245\312Q-\367.\230"
- 1311      CCFEBB54 
- 1311      2D57AEA5 
- 1311      CA512DF7 
- 1311      2E98
- 1312 125d 2167991D 		.ascii	"!g\231\035G\324q\345:\252<\226t5\302Q\251|\303\214\306"
- 1312      47D471E5 
- 1312      3AAA3C96 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 105
+ 1297      C02CF9BF 
+ 1297      8C69F27F 
+ 1298 1182 EF167B9C 		.ascii	"\357\026{\234\314:\270\2471\263\315\006\037a\205\355"
+ 1298      CC3AB8A7 
+ 1298      31B3CD06 
+ 1298      1F6185ED 
+ 1299 1192 D1BBBA0D 		.ascii	"\321\273\272\0158\323`v.3]:\2279\225~A\213sh\245\365"
+ 1299      38D36076 
+ 1299      2E335D3A 
+ 1299      9739957E 
+ 1299      418B7368 
+ 1300 11a8 F996C16C 		.ascii	"\371\226\301lDs)\327iR\2724kX\361\271\375\012\230\254"
+ 1300      447329D7 
+ 1300      6952BA34 
+ 1300      6B58F1B9 
+ 1300      FD0A98AC 
+ 1301 11bc 9AF2155C 		.ascii	"\232\362\025\\\264A\216\323b\213\332\312\245^\241\\"
+ 1301      B4418ED3 
+ 1301      628BDACA 
+ 1301      A55EA15C 
+ 1302 11cc AA563622 		.ascii	"\252V6\"5v\235B\275\310\262\272\342\263\345OO\330\361"
+ 1302      35769D42 
+ 1302      BDC8B2BA 
+ 1302      E2B3E54F 
+ 1302      4FD8F1
+ 1303 11df 4A95F9C2 		.ascii	"J\225\371\302\255\234\010%\330\205/\024U|\026\\\205"
+ 1303      AD9C0825 
+ 1303      D8852F14 
+ 1303      557C165C 
+ 1303      85
+ 1304 11f0 59500E91 		.ascii	"YP\016\221X\006R\011R\201M\337\014\243\316\366\354t"
+ 1304      58065209 
+ 1304      52814DDF 
+ 1304      0CA3CEF6 
+ 1304      EC74
+ 1305 1202 C467D9B4 		.ascii	"\304g\331\264J\035\313=\206\220\3534~\3062L\317X\256"
+ 1305      4A1DCB3D 
+ 1305      8690EB34 
+ 1305      7EC6324C 
+ 1305      CF58AE
+ 1306 1215 0348B51C 		.ascii	"\003H\265\034\250U4P-\331C\327\300\314k\230\314~\361"
+ 1306      A8553450 
+ 1306      2DD943D7 
+ 1306      C0CC6B98 
+ 1306      CC7EF1
+ 1307 1228 A0D9EC03 		.ascii	"\240\331\354\003\370u\263\010\257\341\021^C#\374nu\322"
+ 1307      F875B308 
+ 1307      AFE1115E 
+ 1307      4323FC6E 
+ 1307      75D2
+ 1308 123a 312BA532 		.ascii	"1+\24529\230\221\225k\271r-Un\037nj\263S*\217\233\375"
+ 1308      39989195 
+ 1308      6BB9722D 
+ 1308      556E1F6E 
+ 1308      6AB3532A 
+ 1309 1251 77A93AAE 		.ascii	"w\251:\256\\G\225#[\356\2353C\3161;\216\250\347\312"
+ 1309      5C479523 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 105
 
 
- 1312      7435C251 
- 1312      A97CC38C 
- 1313 1272 4DAE7C93 		.ascii	"M\256|\223*?\017o\335\204\224\312\243f4\352\271r=U>"
- 1313      2A3F0F6F 
- 1313      DD8494CA 
- 1313      A36634EA 
- 1313      B9723D55 
- 1314 1287 B82BD55E 		.ascii	"\270+\325^\251{\336\354\314\242\201\3536X\356\337\270"
- 1314      A97BDEEC 
- 1314      CCA281EB 
- 1314      3658EEDF 
- 1314      B8
- 1315 1298 19702357 		.ascii	"\031p#W&W\335\027_~3\323\323\303Cc\360\361Y\037\260"
- 1315      2657DD17 
- 1315      5F7E33D3 
- 1315      D3C34363 
- 1315      F0F1591F 
- 1316 12ad 2E74DE5C 		.ascii	".t\336\\\237P_\277\277_\351\033\032\024\030\030\340"
- 1316      9F505FBF 
- 1316      BF5FE91B 
- 1316      1A141818 
- 1316      E0
- 1317 12be B7323478 		.ascii	"\26724x\275\177H\350\372U\001A>\253\203\202}BB\327\202"
- 1317      BD7F48E8 
- 1317      FA550141 
- 1317      3EAB8382 
- 1317      7D4242D7 
- 1318 12d3 C6A773DC 		.ascii	"\306\247s\334\347\270\257\364\015^\033\032\024\024\030"
- 1318      E7B8AFF4 
- 1318      0D5E1B1A 
- 1318      141418
- 1319 12e2 426E3EE4 		.ascii	"Bn>\344\372\037\372\373~\027\2602`\235_\340\372U\376"
- 1319      FA1FFAFB 
- 1319      7E17B032 
- 1319      609D5FE0 
- 1319      FA55FE
- 1320 12f5 2BD7FAFA 		.ascii	"+\327\372\372\255\011X\347\277\322g\225\377j\337\365"
- 1320      AD0958E7 
- 1320      BFD26795 
- 1320      FF6ADFF5 
- 1321 1305 81A13EA1 		.ascii	"\201\241>\241\177\370\336?d\316\032\215N2\365\355\377"
- 1321      7FF8DE3F 
- 1321      64CE1A8D 
- 1321      4E32F5ED 
- 1321      FF
- 1322 1316 95A9903F 		.ascii	"\225\251\220?\204\254\204&\253\000\027\360\035X\343"
- 1322      84AC8426 
- 1322      AB0017F0 
- 1322      1D58E3
- 1323 1325 556B7D03 		.ascii	"Uk}\003B\202}B\347\316\231\343\306\376\005\205\270\255"
- 1323      42827D42 
- 1323      E7CE99E3 
- 1323      C6FE0585 
- 1323      B8AD
- 1324 1337 F10D74FB 		.ascii	"\361\015t\373>(84\304m\305\327\313\346\315u[\272t\221"
- 1324      3E283834 
- 1324      C46DC5D7 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 106
+ 1309      5BEE9D33 
+ 1309      43CE313B 
+ 1309      8EA8E7CA 
+ 1310 1265 F5547934 		.ascii	"\365Ty4\371J\204\243R\371\232\031\215\033\\\371\006"
+ 1310      F94A84A3 
+ 1310      52F99A19 
+ 1310      8D1B5CF9 
+ 1310      06
+ 1311 1276 557E11DE 		.ascii	"U~\021\336\272\031)\225G\314h4p\345\006\252| 6\315^"
+ 1311      BA192995 
+ 1311      47CC6834 
+ 1311      70E506AA 
+ 1311      7C2036CD 
+ 1312 128b A97BC6EC 		.ascii	"\251{\306\354\314\242\221\3536Z\356\337\230\031p\023"
+ 1312      CCA291EB 
+ 1312      365AEEDF 
+ 1312      98197013 
+ 1313 129b 572657DD 		.ascii	"W&W\335\027_~3\323\323\303Cc\360\361Y\037\260.t\336"
+ 1313      175F7E33 
+ 1313      D3D3C343 
+ 1313      63F0F159 
+ 1313      1FB02E74 
+ 1314 12b0 5C9F505F 		.ascii	"\\\237P_\277\277_\351\033\032\024\030\030\340\26724"
+ 1314      BFBF5FE9 
+ 1314      1B1A1418 
+ 1314      18E0B732 
+ 1314      34
+ 1315 12c1 78BD7F48 		.ascii	"x\275\177H\350\372U\001A>\253\203\202}BB\327\202\306"
+ 1315      E8FA5501 
+ 1315      413EAB83 
+ 1315      827D4242 
+ 1315      D782C6
+ 1316 12d4 A773DCE7 		.ascii	"\247s\334\347\270\257\364\015^\033\032\024\024\030B"
+ 1316      B8AFF40D 
+ 1316      5E1B1A14 
+ 1316      141842
+ 1317 12e3 6E3EE4FA 		.ascii	"n>\344\372\037\372\373~\027\2602`\235_\340\372U\376"
+ 1317      1FFAFB7E 
+ 1317      17B03260 
+ 1317      9D5FE0FA 
+ 1317      55FE
+ 1318 12f5 2BD7FAFA 		.ascii	"+\327\372\372\255\011X\347\277\322g\225\377j\337\365"
+ 1318      AD0958E7 
+ 1318      BFD26795 
+ 1318      FF6ADFF5 
+ 1319 1305 81A13EA1 		.ascii	"\201\241>\241\177\370\336?d\316\032\215N2\365\355\377"
+ 1319      7FF8DE3F 
+ 1319      64CE1A8D 
+ 1319      4E32F5ED 
+ 1319      FF
+ 1320 1316 95A9903F 		.ascii	"\225\251\220?\204\254\204&\253\000\027\360\035X\343"
+ 1320      84AC8426 
+ 1320      AB0017F0 
+ 1320      1D58E3
+ 1321 1325 556B7D03 		.ascii	"Uk}\003B\202}B\347\316\231\343\306\376\005\205\270\255"
+ 1321      42827D42 
+ 1321      E7CE99E3 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 106
 
 
- 1324      CBE6CD75 
- 1324      5BBA7491 
- 1325 134b DBA2650B 		.ascii	"\333\242e\013\177\230\353fj\004\0103\340\262\"4\330"
- 1325      7F98EB66 
- 1325      6A040833 
- 1325      E0B22234 
- 1325      D8
- 1326 135c DF77EDC2 		.ascii	"\337w\355\302\300\300 ?\337P\3779\337\373\006\207\316"
- 1326      C0C0203F 
- 1326      DF50FF39 
- 1326      DFFB0687 
- 1326      CE
- 1327 136d 71D787F8 		.ascii	"q\327\207\370\007\256\016X\267\312\177\203\236yl\201"
- 1327      07AE0E58 
- 1327      B7CA7F83 
- 1327      9E796C81 
- 1328 137d 4FA80DBF 		.ascii	"O\250\015\277Z\007\204\254\011X\035\252\015X\355\027"
- 1328      5A0784AC 
- 1328      09581DAA 
- 1328      0D58ED17 
- 1329 138d 6C1D425B 		.ascii	"l\035B[k\227y,\364\326.s_\350\215\227\303\315\227\213"
- 1329      6B97792C 
- 1329      F4D62E73 
- 1329      5FE88D97 
- 1329      C3CD978B 
- 1330 13a1 BEF6163C 		.ascii	"\276\366\026<\275\361bOo3R~Ak\327\006\255s\363\337\020"
- 1330      BDF1624F 
- 1330      6F33527E 
- 1330      416BD706 
- 1330      AD73F3DF 
- 1331 13b6 0AAC18B1 		.ascii	"\012\254\030\261\305\237l\330\300(\255\376\344c\270"
- 1331      C59F6CD8 
- 1331      C028ADFE 
- 1331      E463B8
- 1332 13c5 0752CEC0 		.ascii	"\007R\316\300\323\207\261\362\371\032\\\271\310\177"
- 1332      D387B1F2 
- 1332      F91A5CB9 
- 1332      C87F
- 1333 13d3 B5F50FFE 		.ascii	"\265\365\017\376~\241A\301\316&\356>\314\256O\250\225"
- 1333      7EA141C1 
- 1333      CE26EE3E 
- 1333      CCAE4FA8 
- 1333      95
- 1334 13e4 CF67E0B2 		.ascii	"\317g\340\262\237\335u?\315;\246\256{\373\007\372\373"
- 1334      9FDD753F 
- 1334      CD3BA6AE 
- 1334      7BFB07FA 
- 1334      FB
- 1335 13f5 86F09E7B 		.ascii	"\206\360\236{\350\276\245\246>\366\3447\237\270K7\037"
- 1335      E8BEA5A6 
- 1335      3EF6E437 
- 1335      9FB84B37 
- 1335      1F
- 1336 1406 49370BA4 		.ascii	"I7\013\244\033Ig\201\244\263@\322Y\354\251g7\036s\335"
- 1336      1B496781 
- 1336      A4B340D2 
- 1336      59ECA967 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 107
+ 1321      C6FE0585 
+ 1321      B8AD
+ 1322 1337 F10D74FB 		.ascii	"\361\015t\373>(84\304m\305\327\313\346\315u[\272t\221"
+ 1322      3E283834 
+ 1322      C46DC5D7 
+ 1322      CBE6CD75 
+ 1322      5BBA7491 
+ 1323 134b DBA2650B 		.ascii	"\333\242e\013\177\230\353fj\004\0103\340\262\"4\330"
+ 1323      7F98EB66 
+ 1323      6A040833 
+ 1323      E0B22234 
+ 1323      D8
+ 1324 135c DF77EDC2 		.ascii	"\337w\355\302\300\300 ?\337P\3779\337\373\006\207\316"
+ 1324      C0C0203F 
+ 1324      DF50FF39 
+ 1324      DFFB0687 
+ 1324      CE
+ 1325 136d 71D787F8 		.ascii	"q\327\207\370\007\256\016X\267\312\177\203\236yl\201"
+ 1325      07AE0E58 
+ 1325      B7CA7F83 
+ 1325      9E796C81 
+ 1326 137d 4FA80DBF 		.ascii	"O\250\015\277Z\007\204\254\011X\035\252\015X\355\027"
+ 1326      5A0784AC 
+ 1326      09581DAA 
+ 1326      0D58ED17 
+ 1327 138d 6C1D425B 		.ascii	"l\035B[k\227y,\364\326.s_\350\215\227\303\315\227\213"
+ 1327      6B97792C 
+ 1327      F4D62E73 
+ 1327      5FE88D97 
+ 1327      C3CD978B 
+ 1328 13a1 BEF6163C 		.ascii	"\276\366\026<\275\361bOo3R~Ak\327\006\255s\363\337\020"
+ 1328      BDF1624F 
+ 1328      6F33527E 
+ 1328      416BD706 
+ 1328      AD73F3DF 
+ 1329 13b6 0AAC18B1 		.ascii	"\012\254\030\261\305\237l\330\300(\255\376d>\334\003"
+ 1329      C59F6CD8 
+ 1329      C028ADFE 
+ 1329      643EDC03 
+ 1330 13c6 2967E0E9 		.ascii	")g\340\351\303X\371|\015\256\\\344\277\332\372\007\177"
+ 1330      C358F97C 
+ 1330      0DAE5CE4 
+ 1330      BFDAFA07 
+ 1330      7F
+ 1331 13d7 BFD0A060 		.ascii	"\277\320\240`g\023w\037f\327'\324\312\3473p\331\317"
+ 1331      6713771F 
+ 1331      66D727D4 
+ 1331      CAE73370 
+ 1331      D9CF
+ 1332 13e9 EEBA9FE6 		.ascii	"\356\272\237\346\035S\327\275\375\003\375}Cx\317=t\337"
+ 1332      1D53D7BD 
+ 1332      FD03FD7D 
+ 1332      4378CF3D 
+ 1332      74DF
+ 1333 13fb 5253F33D 		.ascii	"RS\363=\371\315'\356\322\315G\322\315\002\351F\322Y"
+ 1333      F9CD27EE 
+ 1333      D2CD47D2 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 107
 
 
- 1336      371E73DD 
- 1337 141a 4D771F99 		.ascii	"Mw\037\231\356\026\230\356Lz\363Lz\363\345;S\213\371"
- 1337      EE1698EE 
- 1337      4C7AF34C 
- 1337      7AF3E53B 
- 1337      538BF9
- 1338 142d 0B6C80EF 		.ascii	"\013l\200\357\222u\001\241oM\0302'uO\234\326\375\020"
- 1338      927501A1 
- 1338      6F4D1832 
- 1338      27754F9C 
- 1338      D6FD10
- 1339 1440 E0F7F93A 		.ascii	"\340\367\371:\337\357\002\375Y\363\017,\273\207\017"
- 1339      DFEF02FD 
- 1339      59F30F2C 
- 1339      BB870F
- 1340 144f C742EF65 		.ascii	"\307B\357e\236\3136\270\221F\304\373>\244\322' \370"
- 1340      9ECB36B8 
- 1340      9146C4FB 
- 1340      3EA4D227 
- 1340      20F8
- 1341 1461 BF7DFCBF 		.ascii	"\277}\374\277\017\010\014\372\317\365\376\037Z\030C"
- 1341      0F080CFA 
- 1341      CFF5FE1F 
- 1341      5A1843
- 1342 1470 86C09BFA 		.ascii	"\206\300\233\372\255\361\013\012\366\367\371\341\223"
- 1342      ADF10B0A 
- 1342      F6F7F9E1 
- 1342      93
- 1343 147d B500F016 		.ascii	"\265\000\360\026\001Z\024\020\"\233\267'\003FB4\330"
- 1343      015A1410 
- 1343      229BB727 
- 1343      03464234 
- 1343      D8
- 1344 148e 7F5540B0 		.ascii	"\177U@\260\216\224V\257_\347\247'7\340t\337\265\216"
- 1344      8E9456AF 
- 1344      5FE7A727 
- 1344      37E074DF 
- 1344      B58E
- 1345 14a0 660A3EA1 		.ascii	"f\012>\241N\362\010\207\370\254\365\015\371/g\037\365"
- 1345      4EF20887 
- 1345      F8ACF50D 
- 1345      F92F671F 
- 1345      F5
- 1346 14b1 C887D8FB 		.ascii	"\310\207\330\373P\020\037\2379\013>\232\357\241\223"
- 1346      50101F9F 
- 1346      390B3E9A 
- 1346      EFA193
- 1347 14c0 4A5ABF35 		.ascii	"JZ\2775\276\301\272E\236\377\344\271\370\013o\017\303"
- 1347      BEC1BA45 
- 1347      9EFFE4B9 
- 1347      F80B6F0F 
- 1347      C3
- 1348 14d1 F2A54B57 		.ascii	"\362\245KW,\\B\356\311\355\222\271+\310\255\325\212"
- 1348      2C5C42EE 
- 1348      C9ED92B9 
- 1348      2BC8ADD5 
- 1348      8A
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 108
+ 1333      CD02E946 
+ 1333      D259
+ 1334 140d 20E92C90 		.ascii	" \351,\220t\026{\352\331\215\307\\w\323\335G\246\273"
+ 1334      74167BEA 
+ 1334      D98DC75C 
+ 1334      77D3DD47 
+ 1334      A6BB
+ 1335 141f 05A63B93 		.ascii	"\005\246;\223\336<\223\336\307\362\235\251\305\307\013"
+ 1335      DE3C93DE 
+ 1335      C7F29DA9 
+ 1335      C5C70B
+ 1336 142e 6C80EF92 		.ascii	"l\200\357\222u\001\241oM\0302'uO\234\326\375\020\340"
+ 1336      7501A16F 
+ 1336      4D183227 
+ 1336      754F9CD6 
+ 1336      FD10E0
+ 1337 1441 F7F93ADF 		.ascii	"\367\371:\337\357\002\375Y\363\017,\273\207\017\307"
+ 1337      EF02FD59 
+ 1337      F30F2CBB 
+ 1337      870FC7
+ 1338 1450 42EF659E 		.ascii	"B\357e\236\3136\270\221F\304\373>\244\322' \370\277"
+ 1338      CB36B891 
+ 1338      46C4FB3E 
+ 1338      A4D22720 
+ 1338      F8BF
+ 1339 1462 7DFCBF0F 		.ascii	"}\374\277\017\010\014\372\317\365\376\037Z\030C\206"
+ 1339      080CFACF 
+ 1339      F5FE1F5A 
+ 1339      184386
+ 1340 1471 C09BFAAD 		.ascii	"\300\233\372\255\361\013\012\366\367\371\341\223\265"
+ 1340      F10B0AF6 
+ 1340      F7F9E193 
+ 1340      B5
+ 1341 147e 00F01601 		.ascii	"\000\360\026\001Z\024\020\"\233\267'\003FB4\330\177"
+ 1341      5A141022 
+ 1341      9BB72703 
+ 1341      464234D8 
+ 1341      7F
+ 1342 148f 5540B08E 		.ascii	"U@\260\216\224V\257_\347\247'7\340t\337\265\216f\012"
+ 1342      9456AF5F 
+ 1342      E7A72737 
+ 1342      E074DFB5 
+ 1342      8E660A
+ 1343 14a2 3EA14EF2 		.ascii	">\241N\362\010\207\370\254\365\015\371/g\037\365\310"
+ 1343      0887F8AC 
+ 1343      F50DF92F 
+ 1343      671FF5C8 
+ 1344 14b2 87D8FB50 		.ascii	"\207\330\373P\020\037\2379\013\346\317\375T'\225\264"
+ 1344      101F9F39 
+ 1344      0BE6CFFD 
+ 1344      542795B4 
+ 1345 14c2 7E6B7C83 		.ascii	"~k|\203u\213<\377\311s\361\027\336\036\206\345K\227"
+ 1345      758B3CFF 
+ 1345      C973F117 
+ 1345      DE1E86E5 
+ 1345      4B97
+ 1346 14d4 AE58B884 		.ascii	"\256X\270\204\334\223\333%sW\220[\253\025+<\277\360"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 108
 
 
- 1349 14e2 159E5F78 		.ascii	"\025\236_x\353\275?_\361\271\367\267\237/\372\030{\256"
- 1349      EBBD3F5F 
- 1349      F1B9F7B7 
- 1349      9F2FFA18 
- 1349      7BAE
- 1350 14f4 F0D67EB6 		.ascii	"\360\326~\266\310S~4_\277p\371gs\227.\377\374Kor\347"
- 1350      C8537E34 
- 1350      5FBF70F9 
- 1350      6773972E 
- 1350      FFFC4B6F 
- 1351 150a C1EEA4DA 		.ascii	"\301\356\244\332\217\364\013\275>\233\307k\275Lz^j\275"
- 1351      8FF40BBD 
- 1351      3E9BC76B 
- 1351      BD4C7A5E 
- 1351      6ABD
- 1352 151c 79360405 		.ascii	"y6\004\005\236\220\253\207\262f\256\015A\2405^\\\303"
- 1352      9E90AB87 
- 1352      B266AE0D 
- 1352      41A0355E 
- 1352      5CC3
- 1353 152e CB5CC343 		.ascii	"\313\\\303CG\332z\257\370\332\233\334x\220\033S\235"
- 1353      47DA7AAF 
- 1353      F8DA9BDC 
- 1353      78901B53 
- 1353      9D
- 1354 153f BB8EB466 		.ascii	"\273\216\264fu^\222\222\027S\302\236K\274\265\244\223"
- 1354      755E9292 
- 1354      1753C29E 
- 1354      4BBCB5A4 
- 1354      93
- 1355 1550 36D05F72 		.ascii	"6\320_r\225|1\327\326\333\323S\232Of\316[`\265t\011"
- 1355      957C31D7 
- 1355      D6DBD353 
- 1355      9A4F66CE 
- 1355      5B60B574 
- 1356 1565 CC54ADD7 		.ascii	"\314T\255\327\022p\303R\370c\345E\312\266d\032r\375"
- 1356      1270C352 
- 1356      F863E545 
- 1356      CAB6641A 
- 1356      72FD
- 1357 1577 FF05B5C2 		.ascii	"\377\005\265\302)\214"
- 1357      298C
- 1358              		.text
- 1359              		.section	.gnu.lto_.symtab.abe5b0d,"",%progbits
- 1360 0000 56656374 		.ascii	"Vector6C\000"
- 1360      6F723643 
- 1360      00
- 1361 0009 00       		.ascii	"\000"
- 1362 000a 00       		.ascii	"\000"
- 1363 000b 00       		.ascii	"\000"
- 1364 000c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1364      00000000 
- 1365 0014 00010000 		.ascii	"\000\001\000\000"
- 1366 0018 56656374 		.ascii	"Vector70\000"
- 1366      6F723730 
- 1366      00
- 1367 0021 00       		.ascii	"\000"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 109
+ 1346      DC93DB25 
+ 1346      7357905B 
+ 1346      AB152B3C 
+ 1346      BFF0
+ 1347 14e6 D67B7FBE 		.ascii	"\326{\177\276\342s\357o?_4\037{\256\360\326~\266\310"
+ 1347      E273EF6F 
+ 1347      3F5F341F 
+ 1347      7BAEF0D6 
+ 1347      7EB6C8
+ 1348 14f9 537EF4B1 		.ascii	"S~\364\261~\341\362\317\346.]\376\371\227\336\344\316"
+ 1348      7EE1F2CF 
+ 1348      E62E5DFE 
+ 1348      F997DEE4 
+ 1348      CE
+ 1349 150a 83DD49B5 		.ascii	"\203\335I\265\037\351\027z}6\217\327z\231\364\274\324"
+ 1349      1FE9177A 
+ 1349      7D368FD7 
+ 1349      7A99F4BC 
+ 1349      D4
+ 1350 151b 7AF36C08 		.ascii	"z\363l\010\012<!W\017e\315\\\033\202@k\274\270\206\227"
+ 1350      0A3C2157 
+ 1350      0F65CD5C 
+ 1350      1B82406B 
+ 1350      BCB88697 
+ 1351 152f B986878E 		.ascii	"\271\206\207\216\264\365^\361\2657\271\361 7\246:w\035"
+ 1351      B4F55EF1 
+ 1351      B537B9F1 
+ 1351      2037A63A 
+ 1351      771D
+ 1352 1541 69CDEABC 		.ascii	"i\315\352\274$%/\246\204=\227xkI'm\240\277\344*\371"
+ 1352      24252FA6 
+ 1352      843D9778 
+ 1352      6B49276D 
+ 1352      A0BFE42A 
+ 1353 1556 62AEADB7 		.ascii	"b\256\255\267\247\2474\237\224\316\2337\337j\351\022"
+ 1353      A7A7349F 
+ 1353      94CE9B37 
+ 1353      DF6AE912 
+ 1354 1566 98A95AAF 		.ascii	"\230\251Z\257%\340\206\245\360\307\312\213\224m\311"
+ 1354      25E086A5 
+ 1354      F0C7CA8B 
+ 1354      946DC9
+ 1355 1575 34E4FAFF 		.ascii	"4\344\372\377\013\366\226)1"
+ 1355      0BF69629 
+ 1355      31
+ 1356              		.text
+ 1357              		.section	.gnu.lto_.symtab.2e80e39d,"",%progbits
+ 1358 0000 56656374 		.ascii	"Vector6C\000"
+ 1358      6F723643 
+ 1358      00
+ 1359 0009 00       		.ascii	"\000"
+ 1360 000a 00       		.ascii	"\000"
+ 1361 000b 00       		.ascii	"\000"
+ 1362 000c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1362      00000000 
+ 1363 0014 00010000 		.ascii	"\000\001\000\000"
+ 1364 0018 56656374 		.ascii	"Vector70\000"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 109
 
 
- 1368 0022 00       		.ascii	"\000"
- 1369 0023 00       		.ascii	"\000"
- 1370 0024 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1370      00000000 
- 1371 002c 02010000 		.ascii	"\002\001\000\000"
- 1372 0030 56656374 		.ascii	"Vector74\000"
- 1372      6F723734 
- 1372      00
- 1373 0039 00       		.ascii	"\000"
- 1374 003a 00       		.ascii	"\000"
- 1375 003b 00       		.ascii	"\000"
- 1376 003c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1376      00000000 
- 1377 0044 04010000 		.ascii	"\004\001\000\000"
- 1378 0048 56656374 		.ascii	"Vector78\000"
- 1378      6F723738 
- 1378      00
- 1379 0051 00       		.ascii	"\000"
- 1380 0052 00       		.ascii	"\000"
- 1381 0053 00       		.ascii	"\000"
- 1382 0054 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1382      00000000 
- 1383 005c 06010000 		.ascii	"\006\001\000\000"
- 1384 0060 56656374 		.ascii	"Vector7C\000"
- 1384      6F723743 
- 1384      00
- 1385 0069 00       		.ascii	"\000"
- 1386 006a 00       		.ascii	"\000"
- 1387 006b 00       		.ascii	"\000"
- 1388 006c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1388      00000000 
- 1389 0074 08010000 		.ascii	"\010\001\000\000"
- 1390 0078 56656374 		.ascii	"Vector80\000"
- 1390      6F723830 
- 1390      00
- 1391 0081 00       		.ascii	"\000"
- 1392 0082 00       		.ascii	"\000"
- 1393 0083 00       		.ascii	"\000"
- 1394 0084 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1394      00000000 
- 1395 008c 0A010000 		.ascii	"\012\001\000\000"
- 1396 0090 56656374 		.ascii	"Vector84\000"
- 1396      6F723834 
- 1396      00
- 1397 0099 00       		.ascii	"\000"
- 1398 009a 00       		.ascii	"\000"
- 1399 009b 00       		.ascii	"\000"
- 1400 009c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1400      00000000 
- 1401 00a4 0C010000 		.ascii	"\014\001\000\000"
- 1402 00a8 56656374 		.ascii	"VectorFC\000"
- 1402      6F724643 
- 1402      00
- 1403 00b1 00       		.ascii	"\000"
- 1404 00b2 00       		.ascii	"\000"
- 1405 00b3 00       		.ascii	"\000"
- 1406 00b4 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 110
+ 1364      6F723730 
+ 1364      00
+ 1365 0021 00       		.ascii	"\000"
+ 1366 0022 00       		.ascii	"\000"
+ 1367 0023 00       		.ascii	"\000"
+ 1368 0024 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1368      00000000 
+ 1369 002c 02010000 		.ascii	"\002\001\000\000"
+ 1370 0030 56656374 		.ascii	"Vector74\000"
+ 1370      6F723734 
+ 1370      00
+ 1371 0039 00       		.ascii	"\000"
+ 1372 003a 00       		.ascii	"\000"
+ 1373 003b 00       		.ascii	"\000"
+ 1374 003c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1374      00000000 
+ 1375 0044 04010000 		.ascii	"\004\001\000\000"
+ 1376 0048 56656374 		.ascii	"Vector78\000"
+ 1376      6F723738 
+ 1376      00
+ 1377 0051 00       		.ascii	"\000"
+ 1378 0052 00       		.ascii	"\000"
+ 1379 0053 00       		.ascii	"\000"
+ 1380 0054 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1380      00000000 
+ 1381 005c 06010000 		.ascii	"\006\001\000\000"
+ 1382 0060 56656374 		.ascii	"Vector7C\000"
+ 1382      6F723743 
+ 1382      00
+ 1383 0069 00       		.ascii	"\000"
+ 1384 006a 00       		.ascii	"\000"
+ 1385 006b 00       		.ascii	"\000"
+ 1386 006c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1386      00000000 
+ 1387 0074 08010000 		.ascii	"\010\001\000\000"
+ 1388 0078 56656374 		.ascii	"Vector80\000"
+ 1388      6F723830 
+ 1388      00
+ 1389 0081 00       		.ascii	"\000"
+ 1390 0082 00       		.ascii	"\000"
+ 1391 0083 00       		.ascii	"\000"
+ 1392 0084 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1392      00000000 
+ 1393 008c 0A010000 		.ascii	"\012\001\000\000"
+ 1394 0090 56656374 		.ascii	"Vector84\000"
+ 1394      6F723834 
+ 1394      00
+ 1395 0099 00       		.ascii	"\000"
+ 1396 009a 00       		.ascii	"\000"
+ 1397 009b 00       		.ascii	"\000"
+ 1398 009c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1398      00000000 
+ 1399 00a4 0C010000 		.ascii	"\014\001\000\000"
+ 1400 00a8 56656374 		.ascii	"VectorFC\000"
+ 1400      6F724643 
+ 1400      00
+ 1401 00b1 00       		.ascii	"\000"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 110
 
 
- 1406      00000000 
- 1407 00bc 0E010000 		.ascii	"\016\001\000\000"
- 1408 00c0 56656374 		.ascii	"Vector120\000"
- 1408      6F723132 
- 1408      3000
- 1409 00ca 00       		.ascii	"\000"
- 1410 00cb 00       		.ascii	"\000"
- 1411 00cc 00       		.ascii	"\000"
- 1412 00cd 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1412      00000000 
- 1413 00d5 10010000 		.ascii	"\020\001\000\000"
- 1414 00d9 56656374 		.ascii	"Vector124\000"
- 1414      6F723132 
- 1414      3400
- 1415 00e3 00       		.ascii	"\000"
- 1416 00e4 00       		.ascii	"\000"
- 1417 00e5 00       		.ascii	"\000"
- 1418 00e6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1418      00000000 
- 1419 00ee 12010000 		.ascii	"\022\001\000\000"
- 1420 00f2 56656374 		.ascii	"Vector128\000"
- 1420      6F723132 
- 1420      3800
- 1421 00fc 00       		.ascii	"\000"
- 1422 00fd 00       		.ascii	"\000"
- 1423 00fe 00       		.ascii	"\000"
- 1424 00ff 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1424      00000000 
- 1425 0107 14010000 		.ascii	"\024\001\000\000"
- 1426 010b 56656374 		.ascii	"Vector12C\000"
- 1426      6F723132 
- 1426      4300
- 1427 0115 00       		.ascii	"\000"
- 1428 0116 00       		.ascii	"\000"
- 1429 0117 00       		.ascii	"\000"
- 1430 0118 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1430      00000000 
- 1431 0120 16010000 		.ascii	"\026\001\000\000"
- 1432 0124 56656374 		.ascii	"Vector130\000"
- 1432      6F723133 
- 1432      3000
- 1433 012e 00       		.ascii	"\000"
- 1434 012f 00       		.ascii	"\000"
- 1435 0130 00       		.ascii	"\000"
- 1436 0131 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1436      00000000 
- 1437 0139 18010000 		.ascii	"\030\001\000\000"
- 1438 013d 56656374 		.ascii	"Vector150\000"
- 1438      6F723135 
- 1438      3000
- 1439 0147 00       		.ascii	"\000"
- 1440 0148 00       		.ascii	"\000"
- 1441 0149 00       		.ascii	"\000"
- 1442 014a 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1442      00000000 
- 1443 0152 1A010000 		.ascii	"\032\001\000\000"
- 1444 0156 56656374 		.ascii	"Vector154\000"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 111
+ 1402 00b2 00       		.ascii	"\000"
+ 1403 00b3 00       		.ascii	"\000"
+ 1404 00b4 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1404      00000000 
+ 1405 00bc 0E010000 		.ascii	"\016\001\000\000"
+ 1406 00c0 56656374 		.ascii	"Vector120\000"
+ 1406      6F723132 
+ 1406      3000
+ 1407 00ca 00       		.ascii	"\000"
+ 1408 00cb 00       		.ascii	"\000"
+ 1409 00cc 00       		.ascii	"\000"
+ 1410 00cd 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1410      00000000 
+ 1411 00d5 10010000 		.ascii	"\020\001\000\000"
+ 1412 00d9 56656374 		.ascii	"Vector124\000"
+ 1412      6F723132 
+ 1412      3400
+ 1413 00e3 00       		.ascii	"\000"
+ 1414 00e4 00       		.ascii	"\000"
+ 1415 00e5 00       		.ascii	"\000"
+ 1416 00e6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1416      00000000 
+ 1417 00ee 12010000 		.ascii	"\022\001\000\000"
+ 1418 00f2 56656374 		.ascii	"Vector128\000"
+ 1418      6F723132 
+ 1418      3800
+ 1419 00fc 00       		.ascii	"\000"
+ 1420 00fd 00       		.ascii	"\000"
+ 1421 00fe 00       		.ascii	"\000"
+ 1422 00ff 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1422      00000000 
+ 1423 0107 14010000 		.ascii	"\024\001\000\000"
+ 1424 010b 56656374 		.ascii	"Vector12C\000"
+ 1424      6F723132 
+ 1424      4300
+ 1425 0115 00       		.ascii	"\000"
+ 1426 0116 00       		.ascii	"\000"
+ 1427 0117 00       		.ascii	"\000"
+ 1428 0118 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1428      00000000 
+ 1429 0120 16010000 		.ascii	"\026\001\000\000"
+ 1430 0124 56656374 		.ascii	"Vector130\000"
+ 1430      6F723133 
+ 1430      3000
+ 1431 012e 00       		.ascii	"\000"
+ 1432 012f 00       		.ascii	"\000"
+ 1433 0130 00       		.ascii	"\000"
+ 1434 0131 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1434      00000000 
+ 1435 0139 18010000 		.ascii	"\030\001\000\000"
+ 1436 013d 56656374 		.ascii	"Vector150\000"
+ 1436      6F723135 
+ 1436      3000
+ 1437 0147 00       		.ascii	"\000"
+ 1438 0148 00       		.ascii	"\000"
+ 1439 0149 00       		.ascii	"\000"
+ 1440 014a 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 111
 
 
- 1444      6F723135 
- 1444      3400
- 1445 0160 00       		.ascii	"\000"
- 1446 0161 00       		.ascii	"\000"
- 1447 0162 00       		.ascii	"\000"
- 1448 0163 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1448      00000000 
- 1449 016b 1C010000 		.ascii	"\034\001\000\000"
- 1450 016f 56656374 		.ascii	"Vector158\000"
- 1450      6F723135 
- 1450      3800
- 1451 0179 00       		.ascii	"\000"
- 1452 017a 00       		.ascii	"\000"
- 1453 017b 00       		.ascii	"\000"
- 1454 017c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1454      00000000 
- 1455 0184 1E010000 		.ascii	"\036\001\000\000"
- 1456 0188 646D6149 		.ascii	"dmaInit\000"
- 1456      6E697400 
- 1457 0190 00       		.ascii	"\000"
- 1458 0191 00       		.ascii	"\000"
- 1459 0192 00       		.ascii	"\000"
- 1460 0193 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1460      00000000 
- 1461 019b 20010000 		.ascii	" \001\000\000"
- 1462 019f 5F73746D 		.ascii	"_stm32_dma_streams\000"
- 1462      33325F64 
- 1462      6D615F73 
- 1462      74726561 
- 1462      6D7300
- 1463 01b2 00       		.ascii	"\000"
- 1464 01b3 00       		.ascii	"\000"
- 1465 01b4 00       		.ascii	"\000"
- 1466 01b5 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1466      00000000 
- 1467 01bd 4F010000 		.ascii	"O\001\000\000"
- 1468 01c1 646D6153 		.ascii	"dmaStreamAllocate\000"
- 1468      74726561 
- 1468      6D416C6C 
- 1468      6F636174 
- 1468      6500
- 1469 01d3 00       		.ascii	"\000"
- 1470 01d4 00       		.ascii	"\000"
- 1471 01d5 00       		.ascii	"\000"
- 1472 01d6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1472      00000000 
- 1473 01de 27010000 		.ascii	"'\001\000\000"
- 1474 01e2 646D6153 		.ascii	"dmaStreamRelease\000"
- 1474      74726561 
- 1474      6D52656C 
- 1474      65617365 
- 1474      00
- 1475 01f3 00       		.ascii	"\000"
- 1476 01f4 00       		.ascii	"\000"
- 1477 01f5 00       		.ascii	"\000"
- 1478 01f6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1478      00000000 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 112
+ 1440      00000000 
+ 1441 0152 1A010000 		.ascii	"\032\001\000\000"
+ 1442 0156 56656374 		.ascii	"Vector154\000"
+ 1442      6F723135 
+ 1442      3400
+ 1443 0160 00       		.ascii	"\000"
+ 1444 0161 00       		.ascii	"\000"
+ 1445 0162 00       		.ascii	"\000"
+ 1446 0163 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1446      00000000 
+ 1447 016b 1C010000 		.ascii	"\034\001\000\000"
+ 1448 016f 56656374 		.ascii	"Vector158\000"
+ 1448      6F723135 
+ 1448      3800
+ 1449 0179 00       		.ascii	"\000"
+ 1450 017a 00       		.ascii	"\000"
+ 1451 017b 00       		.ascii	"\000"
+ 1452 017c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1452      00000000 
+ 1453 0184 1E010000 		.ascii	"\036\001\000\000"
+ 1454 0188 646D6149 		.ascii	"dmaInit\000"
+ 1454      6E697400 
+ 1455 0190 00       		.ascii	"\000"
+ 1456 0191 00       		.ascii	"\000"
+ 1457 0192 00       		.ascii	"\000"
+ 1458 0193 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1458      00000000 
+ 1459 019b 20010000 		.ascii	" \001\000\000"
+ 1460 019f 5F73746D 		.ascii	"_stm32_dma_streams\000"
+ 1460      33325F64 
+ 1460      6D615F73 
+ 1460      74726561 
+ 1460      6D7300
+ 1461 01b2 00       		.ascii	"\000"
+ 1462 01b3 00       		.ascii	"\000"
+ 1463 01b4 00       		.ascii	"\000"
+ 1464 01b5 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1464      00000000 
+ 1465 01bd 4F010000 		.ascii	"O\001\000\000"
+ 1466 01c1 646D6153 		.ascii	"dmaStreamAllocate\000"
+ 1466      74726561 
+ 1466      6D416C6C 
+ 1466      6F636174 
+ 1466      6500
+ 1467 01d3 00       		.ascii	"\000"
+ 1468 01d4 00       		.ascii	"\000"
+ 1469 01d5 00       		.ascii	"\000"
+ 1470 01d6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1470      00000000 
+ 1471 01de 27010000 		.ascii	"'\001\000\000"
+ 1472 01e2 646D6153 		.ascii	"dmaStreamRelease\000"
+ 1472      74726561 
+ 1472      6D52656C 
+ 1472      65617365 
+ 1472      00
+ 1473 01f3 00       		.ascii	"\000"
+ 1474 01f4 00       		.ascii	"\000"
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 112
 
 
- 1479 01fe 2B010000 		.ascii	"+\001\000\000"
- 1480 0202 6E766963 		.ascii	"nvicEnableVector\000"
- 1480      456E6162 
- 1480      6C655665 
- 1480      63746F72 
- 1480      00
- 1481 0213 00       		.ascii	"\000"
- 1482 0214 02       		.ascii	"\002"
- 1483 0215 00       		.ascii	"\000"
- 1484 0216 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1484      00000000 
- 1485 021e 30010000 		.ascii	"0\001\000\000"
- 1486 0222 5F706F72 		.ascii	"_port_irq_epilogue\000"
- 1486      745F6972 
- 1486      715F6570 
- 1486      696C6F67 
- 1486      756500
- 1487 0235 00       		.ascii	"\000"
- 1488 0236 02       		.ascii	"\002"
- 1489 0237 00       		.ascii	"\000"
- 1490 0238 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1490      00000000 
- 1491 0240 32010000 		.ascii	"2\001\000\000"
- 1492 0244 6E766963 		.ascii	"nvicDisableVector\000"
- 1492      44697361 
- 1492      626C6556 
- 1492      6563746F 
- 1492      7200
- 1493 0256 00       		.ascii	"\000"
- 1494 0257 02       		.ascii	"\002"
- 1495 0258 00       		.ascii	"\000"
- 1496 0259 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
- 1496      00000000 
- 1497 0261 36010000 		.ascii	"6\001\000\000"
- 1498              		.text
- 1499              		.section	.gnu.lto_.opts,"",%progbits
- 1500 0000 272D666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-math' '"
- 1500      6174682D 
- 1500      6572726E 
- 1500      6F272027 
- 1500      2D667369 
- 1501 0033 2D666E6F 		.ascii	"-fno-trapv' '-fno-openmp' '-fno-openacc' '-mcpu=cor"
- 1501      2D747261 
- 1501      70762720 
- 1501      272D666E 
- 1501      6F2D6F70 
- 1502 0066 7465782D 		.ascii	"tex-m7' '-mno-thumb-interwork' '-mthumb' '-ggdb' '-"
- 1502      6D372720 
- 1502      272D6D6E 
- 1502      6F2D7468 
- 1502      756D622D 
- 1503 0099 4F322720 		.ascii	"O2' '-fomit-frame-pointer' '-falign-functions=16' '"
- 1503      272D666F 
- 1503      6D69742D 
- 1503      6672616D 
- 1503      652D706F 
- 1504 00cc 2D666675 		.ascii	"-ffunction-sections' '-fdata-sections' '-fno-common"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 113
+ 1475 01f5 00       		.ascii	"\000"
+ 1476 01f6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1476      00000000 
+ 1477 01fe 2B010000 		.ascii	"+\001\000\000"
+ 1478 0202 6E766963 		.ascii	"nvicEnableVector\000"
+ 1478      456E6162 
+ 1478      6C655665 
+ 1478      63746F72 
+ 1478      00
+ 1479 0213 00       		.ascii	"\000"
+ 1480 0214 02       		.ascii	"\002"
+ 1481 0215 00       		.ascii	"\000"
+ 1482 0216 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1482      00000000 
+ 1483 021e 30010000 		.ascii	"0\001\000\000"
+ 1484 0222 5F706F72 		.ascii	"_port_irq_epilogue\000"
+ 1484      745F6972 
+ 1484      715F6570 
+ 1484      696C6F67 
+ 1484      756500
+ 1485 0235 00       		.ascii	"\000"
+ 1486 0236 02       		.ascii	"\002"
+ 1487 0237 00       		.ascii	"\000"
+ 1488 0238 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1488      00000000 
+ 1489 0240 32010000 		.ascii	"2\001\000\000"
+ 1490 0244 6E766963 		.ascii	"nvicDisableVector\000"
+ 1490      44697361 
+ 1490      626C6556 
+ 1490      6563746F 
+ 1490      7200
+ 1491 0256 00       		.ascii	"\000"
+ 1492 0257 02       		.ascii	"\002"
+ 1493 0258 00       		.ascii	"\000"
+ 1494 0259 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1494      00000000 
+ 1495 0261 36010000 		.ascii	"6\001\000\000"
+ 1496              		.text
+ 1497              		.section	.gnu.lto_.opts,"",%progbits
+ 1498 0000 272D666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-math' '"
+ 1498      6174682D 
+ 1498      6572726E 
+ 1498      6F272027 
+ 1498      2D667369 
+ 1499 0033 2D666E6F 		.ascii	"-fno-trapv' '-fno-openmp' '-fno-openacc' '-mcpu=cor"
+ 1499      2D747261 
+ 1499      70762720 
+ 1499      272D666E 
+ 1499      6F2D6F70 
+ 1500 0066 7465782D 		.ascii	"tex-m7' '-mno-thumb-interwork' '-mthumb' '-ggdb' '-"
+ 1500      6D372720 
+ 1500      272D6D6E 
+ 1500      6F2D7468 
+ 1500      756D622D 
+ 1501 0099 4F322720 		.ascii	"O2' '-fomit-frame-pointer' '-falign-functions=16' '"
+ 1501      272D666F 
+ 1501      6D69742D 
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 113
 
 
- 1504      6E637469 
- 1504      6F6E2D73 
- 1504      65637469 
- 1504      6F6E7327 
- 1505 00ff 2720272D 		.ascii	"' '-flto'\000"
- 1505      666C746F 
- 1505      2700
- 1506              		.text
- 1507              		.comm	__gnu_lto_v1,1,1
- 1508              		.comm	__gnu_lto_slim,1,1
- 1509              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccxqyt71.s 			page 114
+ 1501      6672616D 
+ 1501      652D706F 
+ 1502 00cc 2D666675 		.ascii	"-ffunction-sections' '-fdata-sections' '-fno-common"
+ 1502      6E637469 
+ 1502      6F6E2D73 
+ 1502      65637469 
+ 1502      6F6E7327 
+ 1503 00ff 2720272D 		.ascii	"' '-flto'\000"
+ 1503      666C746F 
+ 1503      2700
+ 1504              		.text
+ 1505              		.comm	__gnu_lto_v1,1,1
+ 1506              		.comm	__gnu_lto_slim,1,1
+ 1507              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccdi7Sud.s 			page 114
 
 
 DEFINED SYMBOLS

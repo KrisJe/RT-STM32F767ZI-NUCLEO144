@@ -1,0 +1,408 @@
+/*
+
+*/
+
+#include "ch.h"
+#include "hal.h"
+#include "rt_test_root.h"
+#include "oslib_test_root.h"
+
+#include "chprintf.h"
+#include "usbcfg.h"
+
+/* Virtual serial port over USB.*/
+//SerialUSBDriver SDU1;
+//BaseSequentialStream *chp = (BaseSequentialStream *)&SDU1;
+
+#include "adc_multi.h"
+
+/* Number of ADCs used in multi ADC mode (2 or 3) */
+#define ADC_N_ADCS 3
+
+/* Total number of channels to be sampled by a single ADC operation.*/
+#define ADC_GRP1_NUM_CHANNELS_PER_ADC   2
+
+/* Depth of the conversion buffer, channels are sampled one time each.*/
+#define ADC_GRP1_BUF_DEPTH      (4*ADC_N_ADCS) // must be 1 or even
+
+static adcsample_t samples[ADC_GRP1_NUM_CHANNELS_PER_ADC * ADC_N_ADCS * ADC_GRP1_BUF_DEPTH];
+
+
+adcsample_t avg_PC1, avg_PC2, avg_PC3, avg_PC4;
+adcsample_t PC1_mV, PC2_mV, PC3_mV, PC4_mV;
+
+/*
+ * ADC streaming callback.
+ */
+size_t mysample = 0;
+size_t nx = 0, ny = 0 , nz = 0;
+static void adccallback(ADCDriver *adcp, adcsample_t *buffer, size_t n) {
+	/*ADC notification callback type.
+	Parameters:
+    [in]	adcp	pointer to the ADCDriver object triggering the callback
+    [in]	buffer	pointer to the most recent samples data
+    [in]	n	number of buffer rows available starting from buffer
+
+    Giovanni:
+    The callback is called twice for circular conversions! One at half of the buffer and one at the end of the conversion.
+    */
+
+
+  (void)adcp;
+  //ny = n;
+  //nx = buffer-samples; //6 integer values in buffer
+
+  nz++;
+
+  if (samples == buffer) { //compare pointers
+    nx += n; //n = ADC_GRP1_BUF_DEPTH / 2
+    //avg_PC1 = (samples[0] + samples[3] + samples[6]  + samples[9]) / 4;
+
+    avg_PC1 = 0;
+    for (n = 0; n < ADC_GRP1_BUF_DEPTH; n++) avg_PC1 += samples[n];
+
+    avg_PC1 /= ADC_GRP1_BUF_DEPTH;
+
+
+
+
+  }
+  else {
+    ny += n;
+  }
+
+  if ((nz % 10000) == 0) {
+    	  palToggleLine(LINE_LED2);
+      }
+
+/*
+
+	  palClearLine(LINE_LED3);
+
+      // Calculates the average values from the ADC samples
+	  avg_PC1 = (samples[0] + samples[4] + samples[8]  + samples[12]) / 4;      // temp sensor
+	  avg_PC2 = (samples[1] + samples[5] + samples[9]  + samples[13]) / 4;
+	  avg_PC3 = (samples[2] + samples[6] + samples[10] + samples[14]) / 4;
+	  avg_PC4 = (samples[3] + samples[7] + samples[11] + samples[15]) / 4;
+
+	  // Conversion in volt
+	  PC1_mV = (avg_PC1/4095) * 3300;
+	  PC2_mV = (avg_PC2/4095) * 3300;
+	  PC3_mV = (avg_PC3/4095) * 3300;
+	  PC4_mV = (avg_PC4/4095) * 3300;
+*/
+
+}
+
+static void adcerrorcallback(ADCDriver *adcp, adcerror_t err) {
+
+  (void)adcp;
+  (void)err;
+}
+
+#define ADC_SAMPLE_DEF ADC_SAMPLE_3
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_15
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_28
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_56
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_84
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_112
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_144
+//#define ADC_SAMPLE_DEF ADC_SAMPLE_480
+/*
+ * ADC conversion group for ADC0 as multi ADC mode master.
+ * Mode:        Circular buffer, triple ADC mode master, SW triggered.
+ * Channels:    PA0, PA3
+ */
+static const ADCConversionGroup adcgrpcfg1 = {
+  TRUE, // Circular conversion
+  ADC_GRP1_NUM_CHANNELS_PER_ADC,
+  adccallback, /* end of conversion callback */
+  adcerrorcallback, /* error callback */
+  /* HW dependent part.*/
+  0, // CR1
+  ADC_CR2_SWSTART, // CR2
+  0, // SMPR1
+  ADC_SMPR2_SMP_AN0(ADC_SAMPLE_DEF)
+   | ADC_SMPR2_SMP_AN3(ADC_SAMPLE_DEF), // SMPR2
+  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
+  0, // SQR2
+  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN0)
+   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN3) // SQR3
+};
+
+/*
+ * ADC conversion group for ADC2.
+ * Mode:        triple ADC mode slave.
+ * Channels:    PA1, PC0
+ */
+static const ADCConversionGroup adcgrpcfg2 = {
+  TRUE,
+  0,
+  NULL, /* end of conversion callback */
+  NULL, /* error callback */
+  /* HW dependent part.*/
+  0, // CR1
+  0, // CR2
+  ADC_SMPR1_SMP_AN10(ADC_SAMPLE_DEF), // SMPR1
+  ADC_SMPR2_SMP_AN1(ADC_SAMPLE_DEF), // SMPR2
+  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
+  0, // SQR2
+  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN1)
+   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN10) // SQR3
+};
+
+/*
+ * ADC conversion group for ADC3.
+ * Mode:        triple ADC mode slave.
+ * Channels:    PA2, PC1
+ */
+static const ADCConversionGroup adcgrpcfg3 = {
+  TRUE,
+  0,
+  NULL, /* end of conversion callback */
+  NULL, /* error callback */
+  /* HW dependent part.*/
+  0, // CR1
+  0, // CR2
+  ADC_SMPR1_SMP_AN11(ADC_SAMPLE_DEF), // SMPR1
+  ADC_SMPR2_SMP_AN2(ADC_SAMPLE_DEF), // SMPR2
+  ADC_SQR1_NUM_CH(ADC_GRP1_NUM_CHANNELS_PER_ADC), // SQR1
+  0, // SQR2
+  ADC_SQR3_SQ1_N(ADC_CHANNEL_IN2)
+   | ADC_SQR3_SQ2_N(ADC_CHANNEL_IN11) // SQR3
+};
+
+
+
+
+
+
+/*
+ * This is a periodic thread that does absolutely nothing except flashing
+ * a LED.
+ */
+static THD_WORKING_AREA(waThread1, 128);
+static THD_FUNCTION(Thread1, arg) {
+
+  (void)arg;
+  chRegSetThreadName("blinker");
+  while (true) {
+	  	palToggleLine(LINE_LED1);
+	    chThdSleepMilliseconds(200);
+
+  }
+}
+
+
+
+
+#define DAC_BUFFER_SIZE 360
+
+
+/*
+ * DAC test buffer (sine wave).
+ */
+static const dacsample_t dac_buffer[DAC_BUFFER_SIZE] = {
+  2047, 2082, 2118, 2154, 2189, 2225, 2260, 2296, 2331, 2367, 2402, 2437,
+  2472, 2507, 2542, 2576, 2611, 2645, 2679, 2713, 2747, 2780, 2813, 2846,
+  2879, 2912, 2944, 2976, 3008, 3039, 3070, 3101, 3131, 3161, 3191, 3221,
+  3250, 3278, 3307, 3335, 3362, 3389, 3416, 3443, 3468, 3494, 3519, 3544,
+  3568, 3591, 3615, 3637, 3660, 3681, 3703, 3723, 3744, 3763, 3782, 3801,
+  3819, 3837, 3854, 3870, 3886, 3902, 3917, 3931, 3944, 3958, 3970, 3982,
+  3993, 4004, 4014, 4024, 4033, 4041, 4049, 4056, 4062, 4068, 4074, 4078,
+  4082, 4086, 4089, 4091, 4092, 4093, 4094, 4093, 4092, 4091, 4089, 4086,
+  4082, 4078, 4074, 4068, 4062, 4056, 4049, 4041, 4033, 4024, 4014, 4004,
+  3993, 3982, 3970, 3958, 3944, 3931, 3917, 3902, 3886, 3870, 3854, 3837,
+  3819, 3801, 3782, 3763, 3744, 3723, 3703, 3681, 3660, 3637, 3615, 3591,
+  3568, 3544, 3519, 3494, 3468, 3443, 3416, 3389, 3362, 3335, 3307, 3278,
+  3250, 3221, 3191, 3161, 3131, 3101, 3070, 3039, 3008, 2976, 2944, 2912,
+  2879, 2846, 2813, 2780, 2747, 2713, 2679, 2645, 2611, 2576, 2542, 2507,
+  2472, 2437, 2402, 2367, 2331, 2296, 2260, 2225, 2189, 2154, 2118, 2082,
+  2047, 2012, 1976, 1940, 1905, 1869, 1834, 1798, 1763, 1727, 1692, 1657,
+  1622, 1587, 1552, 1518, 1483, 1449, 1415, 1381, 1347, 1314, 1281, 1248,
+  1215, 1182, 1150, 1118, 1086, 1055, 1024,  993,  963,  933,  903,  873,
+   844,  816,  787,  759,  732,  705,  678,  651,  626,  600,  575,  550,
+   526,  503,  479,  457,  434,  413,  391,  371,  350,  331,  312,  293,
+   275,  257,  240,  224,  208,  192,  177,  163,  150,  136,  124,  112,
+   101,   90,   80,   70,   61,   53,   45,   38,   32,   26,   20,   16,
+    12,    8,    5,    3,    2,    1,    0,    1,    2,    3,    5,    8,
+    12,   16,   20,   26,   32,   38,   45,   53,   61,   70,   80,   90,
+   101,  112,  124,  136,  150,  163,  177,  192,  208,  224,  240,  257,
+   275,  293,  312,  331,  350,  371,  391,  413,  434,  457,  479,  503,
+   526,  550,  575,  600,  626,  651,  678,  705,  732,  759,  787,  816,
+   844,  873,  903,  933,  963,  993, 1024, 1055, 1086, 1118, 1150, 1182,
+  1215, 1248, 1281, 1314, 1347, 1381, 1415, 1449, 1483, 1518, 1552, 1587,
+  1622, 1657, 1692, 1727, 1763, 1798, 1834, 1869, 1905, 1940, 1976, 2012
+};
+
+
+
+/*
+ * DAC streaming callback.
+ */
+size_t nx2 = 0, ny2 = 0, nz2 = 0;
+static void end_cb1(DACDriver *dacp, dacsample_t *buffer, size_t n) {
+
+  (void)dacp;
+
+  nz2++;
+  if (dac_buffer == buffer) {
+    nx2 += n;
+  }
+  else {
+    ny2 += n;
+  }
+
+  if ((nz2 % 1000) == 0) {
+	  palToggleLine(LINE_LED3);
+  }
+}
+
+/*
+ * DAC error callback.
+ */
+static void error_cb1(DACDriver *dacp, dacerror_t err) {
+
+  (void)dacp;
+  (void)err;
+
+  chSysHalt("DAC failure");
+}
+
+static const DACConfig dac1cfg1 = {
+  .init         = 2047U,
+  .datamode     = DAC_DHRM_12BIT_RIGHT,
+  .cr           = 0
+};
+
+static const DACConversionGroup dacgrpcfg1 = {
+  .num_channels = 1U,
+  .end_cb       = end_cb1,
+  .error_cb     = error_cb1,
+  .trigger      = DAC_TRG(0)
+};
+
+/*
+ * GPT6 configuration.
+ */
+static const GPTConfig gpt6cfg1 = {
+  .frequency    = 1000000U,
+  .callback     = NULL,
+  .cr2          = TIM_CR2_MMS_1,    /* MMS = 010 = TRGO on Update Event.    */
+  .dier         = 0U
+};
+
+
+
+
+
+
+
+/*
+ * Application entry point.
+ */
+int main(void) {
+	int n;
+
+
+
+  /*
+   * System initializations.
+   * - HAL initialization, this also initializes the configured device drivers
+   *   and performs the board-specific initializations.
+   * - Kernel initialization, the main() function becomes a thread and the
+   *   RTOS is active.
+   */
+  halInit();
+  chSysInit();
+
+  /*
+     * Initializes a serial-over-USB CDC driver.
+     */
+    sduObjectInit(&SDU1);
+    sduStart(&SDU1, &serusbcfg);
+
+    /*
+     * Activates the USB driver and then the USB bus pull-up on D+.
+     * Note, a delay is inserted in order to not have to disconnect the cable
+     * after a reset.
+     */
+    usbDisconnectBus(serusbcfg.usbp);
+    chThdSleepMilliseconds(1000);
+    usbStart(serusbcfg.usbp, &usbcfg);
+    usbConnectBus(serusbcfg.usbp);
+
+
+
+      /*
+      * Setting up analog inputs used by the demo.
+      */
+     //settings from F4 ipv F7!!!!   ->					memory layout
+     //palSetPadMode(GPIOA, 0, PAL_MODE_INPUT_ANALOG); //samples[0+i*3]
+     //palSetPadMode(GPIOA, 1, PAL_MODE_INPUT_ANALOG); //samples[1+i*3]
+     //palSetPadMode(GPIOA, 2, PAL_MODE_INPUT_ANALOG); //samples[2+i*3]
+     //palSetPadMode(GPIOA, 3, PAL_MODE_INPUT_ANALOG); // samples[1+i*3] !!!!
+     palSetPadMode(GPIOC, 0, PAL_MODE_INPUT_ANALOG); //samples[1+i*3] IN11
+     //palSetPadMode(GPIOC, 1, PAL_MODE_INPUT_ANALOG); //samples[2+i*3] IN12
+
+
+     /*
+      * Starting DAC1 driver, setting up the output pin as analog as suggested
+      * by the Reference Manual.
+      */
+     palSetPadMode(GPIOA, 4, PAL_MODE_INPUT_ANALOG);
+     dacStart(&DACD1, &dac1cfg1);
+
+
+     /*
+     * Starting GPT6 driver, it is used for triggering the DAC.
+     */
+     gptStart(&GPTD6, &gpt6cfg1);
+
+     /*
+      * Starting a continuous conversion.
+      */
+      dacStartConversion(&DACD1, &dacgrpcfg1,
+                            (dacsample_t *)dac_buffer, DAC_BUFFER_SIZE);
+      gptStartContinuous(&GPTD6, 2U);
+
+
+
+
+
+     /*
+      * Creates the blinker thread.
+      */
+     chThdCreateStatic(waThread1, sizeof(waThread1), NORMALPRIO, Thread1, NULL);
+
+
+  /*
+     * Activates the ADC drivers.
+     */
+    adcMultiStart();
+
+
+    /*
+     * Starts an ADC continuous conversion.
+     */
+    adcMultiStartConversion(&adcgrpcfg1, &adcgrpcfg2, &adcgrpcfg3, samples, ADC_GRP1_BUF_DEPTH);
+
+  /*
+   * Normal main() thread activity, in this demo it does nothing except
+   * sleeping in a loop and check the button state.
+   */
+
+  //int u=0;
+  while (true) {
+	  chThdSleepMilliseconds(100);
+	    //chprintf(chp, "\r\n(%8u,%8u): [%4u,%4u,%4u,%4u]\r\n", nx, ny, samples[0],samples[3],samples[6],samples[9]);
+	  	chprintf(chp, "\r\n(%8u,%4u): ", nx, avg_PC1);
+
+	    for (n = 0; n < ADC_GRP1_NUM_CHANNELS_PER_ADC * ADC_N_ADCS * ADC_GRP1_BUF_DEPTH; n++) {
+	       chprintf(chp, "%4u,", samples[n]);
+	    }
+
+
+  }
+}
+

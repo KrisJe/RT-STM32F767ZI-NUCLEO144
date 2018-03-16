@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 1
 
 
    1              		.cpu cortex-m7
@@ -14,13 +14,13 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   11              		.file	"oslib_test_root.c"
   12              		.text
   13              	.Ltext0:
-  14              		.section	.gnu.lto_.profile.abe5381,"",%progbits
+  14              		.section	.gnu.lto_.profile.2e80f0d5,"",%progbits
   15 0000 789C6365 		.ascii	"x\234ce`b`d\000\002\000\000I\000\011"
   15      60626064 
   15      00020000 
   15      490009
   16              		.text
-  17              		.section	.gnu.lto_.icf.abe5381,"",%progbits
+  17              		.section	.gnu.lto_.icf.2e80f0d5,"",%progbits
   18 0000 789C6365 		.ascii	"x\234ce`b\340c@\000&\206W;f\036\340cl{\377\341\037\033"
   18      6062E063 
   18      40002686 
@@ -29,25 +29,25 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   19 0018 0300311A 		.ascii	"\003\0001\032\006\213"
   19      068B
   20              		.text
-  21              		.section	.gnu.lto_.jmpfuncs.abe5381,"",%progbits
+  21              		.section	.gnu.lto_.jmpfuncs.2e80f0d5,"",%progbits
   22 0000 789C6365 		.ascii	"x\234ce`\002Bd\000\000\000\250\000\012"
   22      60024264 
   22      000000A8 
   22      000A
   23              		.text
-  24              		.section	.gnu.lto_.inline.abe5381,"",%progbits
+  24              		.section	.gnu.lto_.inline.2e80f0d5,"",%progbits
   25 0000 789C6365 		.ascii	"x\234ce`\002Bd\000\000\000\250\000\012"
   25      60024264 
   25      000000A8 
   25      000A
   26              		.text
-  27              		.section	.gnu.lto_.pureconst.abe5381,"",%progbits
+  27              		.section	.gnu.lto_.pureconst.2e80f0d5,"",%progbits
   28 0000 789C6365 		.ascii	"x\234ce`b`d\000\002\000\000I\000\011"
   28      60626064 
   28      00020000 
   28      490009
   29              		.text
-  30              		.section	.gnu.lto_oslib_test_suite.abe5381,"",%progbits
+  30              		.section	.gnu.lto_oslib_test_suite.2e80f0d5,"",%progbits
   31 0000 789C6365 		.ascii	"x\234ce`b\310a``\010f\200\200\351\314\214\315\277\366"
   31      6062C861 
   31      60600866 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   32      E141772F 
   32      33F37C66 
   32      86C5
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 2
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 2
 
 
   33 0026 CC10A999 		.ascii	"\314\020\251\231\357g\337fQ4\235\3370Ca>3#H\344\353"
@@ -98,7 +98,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   40      00A83143 
   40      78
   41              		.text
-  42              		.section	.gnu.lto_oslib_test_suite_array.abe5381,"",%progbits
+  42              		.section	.gnu.lto_oslib_test_suite_array.2e80f0d5,"",%progbits
   43 0000 789C6365 		.ascii	"x\234ce`b\270\307\300\300`\302\000\001\323\231\031\247"
   43      6062B8C7 
   43      C0C060C2 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   46      163343
   47 003f F41DFAB4 		.ascii	"\364\035\372\264a9\017D!3\252\302\005\017\231\301\352"
   47      61390F44 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 3
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 3
 
 
   47      2133AAC2 
@@ -156,7 +156,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   54 00c3 92190074 		.ascii	"\222\031\000t\321`1"
   54      D16031
   55              		.text
-  56              		.section	.gnu.lto_.symbol_nodes.abe5381,"",%progbits
+  56              		.section	.gnu.lto_.symbol_nodes.2e80f0d5,"",%progbits
   57 0000 789C6365 		.ascii	"x\234ce`b0a\000\002\326\243L\014\215J \306\021&F\010"
   57      60623061 
   57      0002D6A3 
@@ -170,7 +170,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   59      209A0100 
   59      D55F06E2 
   60              		.text
-  61              		.section	.gnu.lto_.refs.abe5381,"",%progbits
+  61              		.section	.gnu.lto_.refs.2e80f0d5,"",%progbits
   62 0000 789C05C1 		.ascii	"x\234\005\301\261\001\000\000\010\303\2404\326\331\377"
   62      B1010000 
   62      08C3A034 
@@ -178,12 +178,12 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   63 000f BF151639 		.ascii	"\277\025\0269 \230F\035\353\362\002\250\0006"
   63      2098461D 
   63      EBF202A8 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 4
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 4
 
 
   63      0036
   64              		.text
-  65              		.section	.gnu.lto_.decls.abe5381,"",%progbits
+  65              		.section	.gnu.lto_.decls.2e80f0d5,"",%progbits
   66 0000 789C9D56 		.ascii	"x\234\235VmLSW\030>o\357\245\224\026\320\024\342X\322"
   66      6D4C5357 
   66      183E6FEF 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   76      6767E3BD 
   76      F3513B04 
   76      D0
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 5
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 5
 
 
   77 00d0 6B4183C3 		.ascii	"kA\203\303\206\251\352\2068\034&j\301E\227\275\377T"
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
   88      1C5EF65D 
   88      28D5F11A 
   88      ADC4E103 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 6
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 6
 
 
   89 01a2 5B4FB336 		.ascii	"[O\2636\251\230\245\234/\255T\301\007\253\3408z:\306"
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  100      41F89856 
  100      4A75E8C0 
  100      F5
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 7
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 7
 
 
  101 027d 1F454848 		.ascii	"\037EHH\016G\006\347\220\343\277\370xB\027\035jlt8\213"
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  111      884E3D01 
  112 0350 9D0A669B 		.ascii	"\235\012f\233\247\005\245\240\221\200\305\273\332\017"
  112      A705A5A0 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 8
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 8
 
 
  112      9180C5BB 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  124      FF7EA97C 
  124      88E89DDE 
  124      A22E8DDE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 9
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 9
 
 
  124      2E97
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  136      CFE1F0BC 
  136      6D8B2B2A 
  136      6223CCFA 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 10
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 10
 
 
  137 0507 1B618637 		.ascii	"\033a\2067\302\211\374\352\3328\276y5\016\267\024\015"
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  148 05dc 0FCA7D98 		.ascii	"\017\312}\230B\004\312uOI\271.2\345\372\247\244\\\037"
  148      4204CA75 
  148      4F49B92E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 11
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 11
 
 
  148      32E5FAA7 
@@ -608,7 +608,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  149      7F0169B6 
  149      D30F
  150              		.text
- 151              		.section	.gnu.lto_.symtab.abe5381,"",%progbits
+ 151              		.section	.gnu.lto_.symtab.2e80f0d5,"",%progbits
  152 0000 6F736C69 		.ascii	"oslib_test_suite\000"
  152      625F7465 
  152      73745F73 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  176      73745F73 
  176      65717565 
  176      6E63655F 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 12
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 12
 
 
  177 00ac 00       		.ascii	"\000"
@@ -712,7 +712,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 1
  197              		.comm	__gnu_lto_v1,1,1
  198              		.comm	__gnu_lto_slim,1,1
  199              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccX7S2kJ.s 			page 13
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccuwEnGi.s 			page 13
 
 
 DEFINED SYMBOLS

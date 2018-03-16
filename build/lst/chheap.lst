@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 1
 
 
    1              		.cpu cortex-m7
@@ -14,14 +14,14 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   11              		.file	"chheap.c"
   12              		.text
   13              	.Ltext0:
-  14              		.section	.gnu.lto_.profile.abe7b9d,"",%progbits
+  14              		.section	.gnu.lto_.profile.2e8081b0,"",%progbits
   15 0000 789C6365 		.ascii	"x\234ce`b`c```d\350gZ\313\010\000\004K\001N"
   15      60626063 
   15      60606064 
   15      E8675ACB 
   15      0800044B 
   16              		.text
-  17              		.section	.gnu.lto_.icf.abe7b9d,"",%progbits
+  17              		.section	.gnu.lto_.icf.2e8081b0,"",%progbits
   18 0000 789C6365 		.ascii	"x\234ce`bPe@\0006\206\207G\376\3051\276\371\263e-\017"
   18      60625065 
   18      40003686 
@@ -37,7 +37,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   20      0000770F 
   20      128D
   21              		.text
-  22              		.section	.gnu.lto_.jmpfuncs.abe7b9d,"",%progbits
+  22              		.section	.gnu.lto_.jmpfuncs.2e8081b0,"",%progbits
   23 0000 789C6D4F 		.ascii	"x\234mO+\016\302P\020\334y\333\327\326\301\001z\005"
   23      2B0EC250 
   23      10DC79DB 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   26      7DC63A18 
   26      0C1945A7 
   27 0044 B8226EA5 		.ascii	"\270\"n\245Ls\246\021+\347\256\323\376\"i\3103\011S"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 2
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 2
 
 
   27      4C73A611 
@@ -87,7 +87,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   31      03
   32 00a9 55B247AD 		.ascii	"U\262G\255"
   33              		.text
-  34              		.section	.gnu.lto_.inline.abe7b9d,"",%progbits
+  34              		.section	.gnu.lto_.inline.2e8081b0,"",%progbits
   35 0000 789C6D4F 		.ascii	"x\234mO\273J\003A\024=\367\336\331\235\254\012\016$"
   35      BB4A0341 
   35      143DF7DE 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   40      1EC30D28 
   40      0F6B69A2 
   40      A914
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 3
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 3
 
 
   41 0073 DEF0C8A4 		.ascii	"\336\360\310\244a\007WB\227\243\351\263\276\220\033"
@@ -162,7 +162,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   49 0101 7F62610E 		.ascii	"\177ba\016V\"D\316"
   49      562244CE 
   50              		.text
-  51              		.section	.gnu.lto_.pureconst.abe7b9d,"",%progbits
+  51              		.section	.gnu.lto_.pureconst.2e8081b0,"",%progbits
   52 0000 789C6365 		.ascii	"x\234ce`b\340f```e\220`\226b\221b\225b\223\002\000\004"
   52      6062E066 
   52      60606065 
@@ -170,7 +170,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   52      91629562 
   53 0018 3800AA   		.ascii	"8\000\252"
   54              		.text
-  55              		.section	.gnu.lto__heap_init.abe7b9d,"",%progbits
+  55              		.section	.gnu.lto__heap_init.2e8081b0,"",%progbits
   56 0000 789C8D92 		.ascii	"x\234\215\222KK[A\024\307\317\177&\311\275jUpUh\027"
   56      4B4B5B41 
   56      14C7CF7F 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   56      55705568 
   57 0015 AEA46E72 		.ascii	"\256\244nr\241_\302\317\321\006!\005mJ\335\367^m5\276"
   57      A15FC2CF 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 4
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 4
 
 
   57      D1062105 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   68      2DB693D4 
   68      A489
   69 00ed 374A4A7C 		.ascii	"7JJ|\202B\267\341\304g87\3025\363\2153\366\367\305%"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 5
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 5
 
 
   69      8242B7E1 
@@ -298,10 +298,10 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   80      D115CB45 
   80      01E1
   81              		.text
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 6
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 6
 
 
-  82              		.section	.gnu.lto_chHeapObjectInit.abe7b9d,"",%progbits
+  82              		.section	.gnu.lto_chHeapObjectInit.2e8081b0,"",%progbits
   83 0000 789C9D54 		.ascii	"x\234\235T[OTW\024\336\337\331\3472\3030\243\021I\233"
   83      5B4F5457 
   83      14DEDFD9 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
   94 00d2 921CA21B 		.ascii	"\222\034\242\033\353\320\205u\202L\002\275(%xonn\304"
   94      EBD08575 
   94      824C02BD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 7
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 7
 
 
   94      2825786F 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  105      07BA1261 
  105      5ECE634C 
  106 01b8 E66A43C7 		.ascii	"\346jC\307\255\260\306<\317\347\363\253pJ\341\310\177"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 8
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 8
 
 
  106      ADB0C63C 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  117      5B568585 
  117      DFF9CC64 
  117      15D9C5
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 9
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 9
 
 
  118 028c B9B12837 		.ascii	"\271\261(7gunr3=\303\316\322J\330\357V\202D\026\322"
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  129      2BABB76F 
  129      AFFE8A76 
  129      5F6EAB70 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 10
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 10
 
 
  129      6BBFAE
@@ -552,7 +552,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  131      0388DBFB 
  131      98
  132              		.text
- 133              		.section	.gnu.lto_chHeapAllocAligned.abe7b9d,"",%progbits
+ 133              		.section	.gnu.lto_chHeapAllocAligned.2e8081b0,"",%progbits
  134 0000 789C9D57 		.ascii	"x\234\235WkLUW\026\336k\357\373~\301\345\241\026-j+"
  134      6B4C5557 
  134      16DE6BEF 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  142      07CF27F2 
  142      BC43
  143 00a7 3AAB15BD 		.ascii	":\253\025\275\235\256\243U\234\322\305\223\036\236t"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 11
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 11
 
 
  143      9DAEA355 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  154      D80699
  155 0178 28FEF7F9 		.ascii	"(\376\367\371\027NzU\200U\213\312\0175\371\014\325\347"
  155      174E7A55 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 12
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 12
 
 
  155      80558BCA 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  167 0248 7BC3AD7E 		.ascii	"{\303\255~\313\234\253\033\277:\35448k\017\244t\373"
  167      CB9CAB1B 
  167      BF3AEC34 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 13
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 13
 
 
  167      386B0FA4 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  178      0BB1
  179 031d 84926A15 		.ascii	"\204\222j\025K\251K\255\352\026\024^\251i\334\356\241"
  179      4BA94BAD 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 14
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 14
 
 
  179      EA16145E 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  190      7102460D 
  190      12C8
  191 03f7 3084D7C7 		.ascii	"0\204\327\307\022C\024\205\012:\212\226\267\030\216"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 15
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 15
 
 
  191      12431485 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  202      F027014E 
  202      EAC52E99 
  202      72FD
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 16
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 16
 
 
  203 04ce 8DA43F37 		.ascii	"\215\244?7\201\001\254\333_/\3664A\203o \216\253\235"
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  214      19D8DB7A 
  214      F233E30B 
  214      D5F0BE
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 17
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 17
 
 
  215 05ae F185B240 		.ascii	"\361\205\262@C\334\017\3519\334i\271\025\005\234\307"
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  226      BF624B5F 
  226      8FCD6583 
  226      46E2B210 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 18
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 18
 
 
  227 0685 D70FDCD2 		.ascii	"\327\017\334\322\350Q\366ky\364c<\226\237\",7\310\243"
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  238      2FBFC4DB 
  238      41DA223B 
  238      C823F265 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 19
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 19
 
 
  238      82
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  250      21654B44 
  250      A7FDB68E 
  251 083b A3D1C424 		.ascii	"\243\321\304$Q\255\024\305\351f\231\212\035\250\005"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 20
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 20
 
 
  251      51AD14C5 
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  262      4C9A2DB1 
  262      5C724B30 
  262      F9B608F9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 21
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 21
 
 
  262      2B31AD88 
@@ -1240,7 +1240,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  270 099d 7F853790 		.ascii	"\177\2057\220\036"
  270      1E
  271              		.text
- 272              		.section	.gnu.lto_chHeapFree.abe7b9d,"",%progbits
+ 272              		.section	.gnu.lto_chHeapFree.2e8081b0,"",%progbits
  273 0000 789C9556 		.ascii	"x\234\225V\353S\024G\020\237\336\271\275\335\333\275"
  273      EB531447 
  273      109FDEB9 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  276 0033 18AB8280 		.ascii	"\030\253\202\200^\035Ub\0315\210\030\214\001\0379\300"
  276      5E1D5562 
  276      19358818 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 22
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 22
 
 
  276      8C011F39 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  288      2F0586F3 
  288      EBB1B65E 
  288      DF
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 23
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 23
 
 
  289 0111 FC5D9615 		.ascii	"\374]\226\025\266\342\257\266r\2538\3069\354\005\216"
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  300      CCA4A180 
  300      06
  301 01e1 4AB15A44 		.ascii	"J\261ZD\263Y\244\027\244a6\311\346\220l.\015\3054\224"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 24
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 24
 
 
  301      B359A417 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  313      DAAC5F42 
  313      E1B52102 
  313      064760B5 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 25
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 25
 
 
  313      C0512070 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  325 038c FB507F2B 		.ascii	"\373P\177+8\006\252\2700\"\370\367\371\002.\010\360"
  325      3806AAB8 
  325      3022F8F7 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 26
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 26
 
 
  325      F9022E08 
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  337 0468 8BF4F7C4 		.ascii	"\213\364\367\304E2\341\242\223\270K\311\304]T\245\237"
  337      4532E1A2 
  337      93B84BC9 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 27
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 27
 
 
  337      C45D54A5 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  348      4BA618EE 
  348      4337
  349 053d 9AFCE7D0 		.ascii	"\232\374\347\320\344Q*\031\307]\3126\031'\346\305c7"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 28
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 28
 
 
  349      E4512A19 
@@ -1659,7 +1659,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  356      BE2AFF1F 
  356      3F9144BB 
  357              		.text
- 358              		.section	.gnu.lto_chHeapStatus.abe7b9d,"",%progbits
+ 358              		.section	.gnu.lto_chHeapStatus.2e8081b0,"",%progbits
  359 0000 789C7D55 		.ascii	"x\234}U]LTG\024\2363s\357\335\273w\357]\024\265R\252"
  359      5D4C5447 
  359      149E3373 
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  362 0042 106CC162 		.ascii	"\020l\301b\221\265(\212((i\"\210\177\030\253\210II\321"
  362      91B5288A 
  362      28286922 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 29
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 29
 
 
  362      887F18AB 
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  374 0119 F558502C 		.ascii	"\365XP,\001\206\353\330\226[\0113o\017\001\207\267\013"
  374      0186EBD8 
  374      965B0933 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 30
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 30
 
 
  374      6F0F0187 
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  385      0B183367 
  385      9E22
  386 01f6 6E6C68DF 		.ascii	"nlh\337\201\240\370\230(\317\374\220j\234\242\034\032"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 31
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 31
 
 
  386      81A0F898 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  397      1670CA4B 
  397      1CF9EF40 
  397      3455
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 32
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 32
 
 
  398 02d2 79E598A7 		.ascii	"y\345\230\247\243s\320\305\303Sg6\270\350{\235\2242"
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  409      8D49D3F1 
  410 039f 8C9E4640 		.ascii	"\214\236F@An\\\204\241kVA\036\234!A\\\013\272\270UV"
  410      416E5C84 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 33
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 33
 
 
  410      A16B5641 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  421      03C96EF0 
  421      79B447D5 
  421      613C2E4C 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 34
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 34
 
 
  421      1B757846 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  433      2F64A67A 
  433      9658A5C5 
  433      A5054525 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 35
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 35
 
 
  433      7651C19A 
@@ -2050,7 +2050,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  435 057e 0342A9E0 		.ascii	"\003B\251\340\333"
  435      DB
  436              		.text
- 437              		.section	.gnu.lto_.symbol_nodes.abe7b9d,"",%progbits
+ 437              		.section	.gnu.lto_.symbol_nodes.2e8081b0,"",%progbits
  438 0000 789C558C 		.ascii	"x\234U\214=\012\0021\020F\277\314$\373s\212\005O\242"
  438      3D0A0231 
  438      1046BFCC 
@@ -2098,10 +2098,10 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  447      C217CBDA 
  447      41DE
  448              		.text
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 36
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 36
 
 
- 449              		.section	.gnu.lto_.refs.abe7b9d,"",%progbits
+ 449              		.section	.gnu.lto_.refs.2e8081b0,"",%progbits
  450 0000 789C15C4 		.ascii	"x\234\025\304\301\001\000 \010\304\260\366\000\247`"
  450      C1010020 
  450      08C4B0F6 
@@ -2113,7 +2113,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  451      5C076B00 
  452 0023 59       		.ascii	"Y"
  453              		.text
- 454              		.section	.gnu.lto_.decls.abe7b9d,"",%progbits
+ 454              		.section	.gnu.lto_.decls.2e8081b0,"",%progbits
  455 0000 789CB55A 		.ascii	"x\234\265ZyPT\347\226\357\357~M\3234\335`\320\312XS"
  455      795054E7 
  455      96EFEF7E 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  463      40F0A74A 
  463      832F2FF8 
  464 00a4 00BF9781 		.ascii	"\000\277\227\201\212\200\312\200*\201\356\000\325\001"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 37
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 37
 
 
  464      8A80CA80 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  476 0174 85F892EA 		.ascii	"\205\370\222\352R\312\027\301\344.W\036n\362C|\337q"
  476      52CA17C1 
  476      E42E571E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 38
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 38
 
 
  476      6EF2437C 
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  488 0243 511F95D7 		.ascii	"Q\037\225\327\332Z\324H\027\340\322\300e\027\006\030"
  488      DA5AD448 
  488      17E0D2C0 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 39
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 39
 
 
  488      65170618 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  500      AFA7FDE6 
  500      791F9CCE 
  500      98C2E7
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 40
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 40
 
 
  501 0326 2985BE38 		.ascii	")\205\2768\22315\017g\307u\370<c\256$\317\224\252\361"
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  512      4CB67947 
  512      439B068F 
  513 03fc A85343B7 		.ascii	"\250SC\267\262\275\355P\253h\235\366\002\316\356\267"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 41
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 41
 
 
  513      B2BDED50 
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  524      7806
  525 04cb 2EC66517 		.ascii	".\306e\027O\335\271\230p\355\342@r\377B\\\3162\272}"
  525      4FDDB998 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 42
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 42
 
 
  525      70EDE240 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  537 05a1 DEA18451 		.ascii	"\336\241\204Q\017\273\227\3476\334Q\276M\024\325h+\270"
  537      0FBB97E7 
  537      36DC51BE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 43
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 43
 
 
  537      4D14D568 
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  548      9E725300 
  548      F92A3DEF 
  548      3AD6
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 44
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 44
 
 
  549 0680 B123A97F 		.ascii	"\261#\251\177\033#\212\010%\013z\224$w\353*=C\333\035"
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  560      8570BA4B 
  560      616590D3 
  560      0AE93467 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 45
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 45
 
 
  560      691B92C5 
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  572      07
  573 0827 26279B34 		.ascii	"&'\2334\3706\023\2764\233\231\00011\346\325\311\273"
  573      F83613BE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 46
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 46
 
 
  573      349B9900 
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  584      A062C05B 
  584      C913
  585 0900 330D8999 		.ascii	"3\015\211\231\202\340\252\200n:\004\3300\210g.\212\342"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 47
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 47
 
 
  585      82E0AA80 
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  596      440FE0BA 
  596      D9315BC7 
  596      14D922E1 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 48
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 48
 
 
  597 09da B4FC86F9 		.ascii	"\264\374\206\371\373\026\227w6\315\302\353?\306boq\023"
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  608      394F032C 
  608      4F6E664D 
  609 0ab4 E991274E 		.ascii	"\351\221'N{IN\265\220'I\304R\237\\\222\325\324\224}"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 49
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 49
 
 
  609      7B494EB5 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  620      DFE4B076 
  620      33269552 
  620      E9CA
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 50
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 50
 
 
  621 0b91 5FFF414F 		.ascii	"_\377AOr\217ljJdo\225\324\033iU\274\032Y9\367\325\310"
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  632      1BF03863 
  632      BA5E76E6 
  632      61FC9C31 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 51
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 51
 
 
  632      F91362AE 
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  644      9D8A1D36 
  644      51297C72 
  644      2115
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 52
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 52
 
 
  645 0d44 B71D331F 		.ascii	"\267\0353\037\356\2377\364\247\360y\361(\344z\207Kq"
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  656      EEA03C02 
  656      89ACFD68 
  656      9342
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 53
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 53
 
 
  657 0e16 51A638AA 		.ascii	"Q\2468\252\223H`\314\227>\357\016SN\231$\215r\2649,"
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  668      51D4A989 
  668      10CA95F3 
  668      9F4BF28F 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 54
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 54
 
 
  668      2EE1
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  680      2D6A7C84 
  680      41A93BB6 
  680      2781F524 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 55
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 55
 
 
  680      8C6C8E25 
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  693 109d 3481CEFC 		.ascii	"4\201\316\374\215\314\202}\335W\221\026\370n\302\357"
  693      8DCC827D 
  693      DD579116 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 56
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 56
 
 
  693      F86EC2EF 
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  705 1177 C11F6C6A 		.ascii	"\301\037lj\335-8\007\337\013\250z(\252G4\234>)\234\373"
  705      DD2D3807 
  705      DF0BA87A 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 57
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 57
 
 
  705      28AA4734 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  717      48E3DA48 
  717      B3D1620D 
  717      0789CF
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 58
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 58
 
 
  718 1258 972C5BB2 		.ascii	"\227,[\262lu\2409\334\032\031\031f!\027\037r\371\017"
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  729      A2688D69 
  729      3DF1A259 
  729      6F050851 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 59
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 59
 
 
  729      F0633185 
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  741      F9
  742 13fe 636F6299 		.ascii	"cob\231\244\016\224>|;\307\306\237>\015\007\347z\252"
  742      A40E943E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 60
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 60
 
 
  742      7C3BC7C6 
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  754 14cd 0BCB4401 		.ascii	"\013\313D\001\314\372\007\205|\005\016\276\014\013\213"
  754      CCFA0785 
  754      7C050EBE 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 61
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 61
 
 
  754      0C0B8B
@@ -3633,7 +3633,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  761 154f 2F3165CA 		.ascii	"/1e\312\241"
  761      A1
  762              		.text
- 763              		.section	.gnu.lto_.symtab.abe7b9d,"",%progbits
+ 763              		.section	.gnu.lto_.symtab.2e8081b0,"",%progbits
  764 0000 5F686561 		.ascii	"_heap_init\000"
  764      705F696E 
  764      697400
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  776      6170416C 
  776      6C6F6341 
  776      6C69676E 
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 62
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 62
 
 
  776      656400
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  810      00000000 
  811 00f4 D2010000 		.ascii	"\322\001\000\000"
  812 00f8 63684D74 		.ascii	"chMtxLock\000"
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 63
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 63
 
 
  812      784C6F63 
@@ -3763,7 +3763,7 @@ ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 1
  827              		.comm	__gnu_lto_v1,1,1
  828              		.comm	__gnu_lto_slim,1,1
  829              		.ident	"GCC: (GNU Tools for ARM Embedded Processors (Build 17.03)) 6.3.1 20170215 (release) [ARM/e
-ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccGynWVb.s 			page 64
+ARM GAS  C:\Users\kiekensk\AppData\Local\Temp\ccSMF0xa.s 			page 64
 
 
 DEFINED SYMBOLS
